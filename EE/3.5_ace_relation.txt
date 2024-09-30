@@ -1,0 +1,38 @@
+nohup: 忽略输入
+ace_relation
+ner_tag: set() 
+ 0
+relation_tag: {'Ownership', 'Located', 'Membership', 'Subsidiary', 'Employment', 'Business', 'Lasting-Personal', 'Citizen-Resident-Religion-Ethnicity', 'Student-Alum', 'Founder', 'Artifact', 'User-Owner-Inventor-Manufacturer', 'Investor-Shareholder', 'Sports-Affiliation', 'Org-Location', 'Geographical', 'Near', 'Family'} 
+ 4664
+event_tags: set() 
+ 0
+role_tags: set() 
+ 0
+all_tags: {'Ownership', 'Located', 'Membership', 'Subsidiary', 'Employment', 'Business', 'Lasting-Personal', 'Citizen-Resident-Religion-Ethnicity', 'Student-Alum', 'Founder', 'Artifact', 'User-Owner-Inventor-Manufacturer', 'Investor-Shareholder', 'Sports-Affiliation', 'Org-Location', 'Geographical', 'Near', 'Family'} 
+ 4664
+18
+0 set()
+ner_tag: set() 
+ 0
+relation_tag: {'Investor-Shareholder', 'Located', 'Membership', 'Subsidiary', 'Employment', 'Business', 'Lasting-Personal', 'Citizen-Resident-Religion-Ethnicity', 'Student-Alum', 'Founder', 'Artifact', 'User-Owner-Inventor-Manufacturer', 'Org-Location', 'Geographical', 'Near', 'Family'} 
+ 560
+event_tags: set() 
+ 0
+role_tags: set() 
+ 0
+all_tags: {'Investor-Shareholder', 'Located', 'Membership', 'Subsidiary', 'Employment', 'Business', 'Lasting-Personal', 'Citizen-Resident-Religion-Ethnicity', 'Student-Alum', 'Founder', 'Artifact', 'User-Owner-Inventor-Manufacturer', 'Org-Location', 'Geographical', 'Near', 'Family'} 
+ 560
+16
+0 set()
+ner_tag: set() 
+ 0
+relation_tag: {'Investor-Shareholder', 'Located', 'Membership', 'Subsidiary', 'Employment', 'Business', 'Lasting-Personal', 'Citizen-Resident-Religion-Ethnicity', 'Student-Alum', 'Founder', 'Artifact', 'User-Owner-Inventor-Manufacturer', 'Ownership', 'Org-Location', 'Geographical', 'Near', 'Family'} 
+ 636
+event_tags: set() 
+ 0
+role_tags: set() 
+ 0
+all_tags: {'Investor-Shareholder', 'Located', 'Membership', 'Subsidiary', 'Employment', 'Business', 'Lasting-Personal', 'Citizen-Resident-Religion-Ethnicity', 'Student-Alum', 'Founder', 'Artifact', 'User-Owner-Inventor-Manufacturer', 'Ownership', 'Org-Location', 'Geographical', 'Near', 'Family'} 
+ 636
+17
+0 set()

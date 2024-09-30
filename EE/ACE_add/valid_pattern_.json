@@ -1,0 +1,721 @@
+{
+    "ner": [
+        "Region-International",
+        "Projectile",
+        "Individual",
+        "Sports",
+        "Religious",
+        "Government",
+        "Population-Center",
+        "Underspecified",
+        "Region-General",
+        "Continent",
+        "Exploding",
+        "Sharp",
+        "Building-Grounds",
+        "Educational",
+        "Indeterminate",
+        "Address",
+        "Path",
+        "Land",
+        "Medical-Science",
+        "Subarea-Facility",
+        "Entertainment",
+        "Boundary",
+        "Shooting",
+        "Group",
+        "Water",
+        "Biological",
+        "Airport",
+        "County-or-District",
+        "State-or-Province",
+        "Land-Region-Natural",
+        "Blunt",
+        "Plant",
+        "Media",
+        "GPE-Cluster",
+        "Air",
+        "Water-Body",
+        "Non-Governmental",
+        "Subarea-Vehicle",
+        "Nuclear",
+        "Nation",
+        "Special",
+        "Chemical",
+        "Celestial",
+        "Commercial"
+    ],
+    "event": [
+        "Transaction:Transfer-Ownership",
+        "Justice:Charge-Indict",
+        "Justice:Pardon",
+        "Business:Merge-Org",
+        "Business:Declare-Bankruptcy",
+        "Movement:Transport",
+        "Justice:Execute",
+        "Justice:Release-Parole",
+        "Contact:Phone-Write",
+        "Life:Marry",
+        "Justice:Sue",
+        "Justice:Extradite",
+        "Justice:Convict",
+        "Justice:Appeal",
+        "Personnel:Elect",
+        "Life:Injure",
+        "Personnel:Nominate",
+        "Personnel:Start-Position",
+        "Justice:Acquit",
+        "Transaction:Transfer-Money",
+        "Business:End-Org",
+        "Life:Die",
+        "Conflict:Demonstrate",
+        "Life:Divorce",
+        "Business:Start-Org",
+        "Life:Be-Born",
+        "Personnel:End-Position",
+        "Justice:Sentence",
+        "Conflict:Attack",
+        "Justice:Trial-Hearing",
+        "Contact:Meet",
+        "Justice:Arrest-Jail",
+        "Justice:Fine"
+    ],
+    "relation": [
+        "PART-WHOLE:Subsidiary",
+        "PHYS:Located",
+        "PART-WHOLE:Geographical",
+        "ART:User-Owner-Inventor-Manufacturer",
+        "ORG-AFF:Founder",
+        "ORG-AFF:Membership",
+        "PER-SOC:Family",
+        "GEN-AFF:Citizen-Resident-Religion-Ethnicity",
+        "GEN-AFF:Org-Location",
+        "ORG-AFF:Student-Alum",
+        "ORG-AFF:Ownership",
+        "ORG-AFF:Employment",
+        "ORG-AFF:Investor-Shareholder",
+        "PART-WHOLE:Artifact",
+        "PER-SOC:Lasting-Personal",
+        "PHYS:Near",
+        "PER-SOC:Business",
+        "ORG-AFF:Sports-Affiliation"
+    ],
+    "role": [
+        "Adjudicator",
+        "Plaintiff",
+        "Defendant",
+        "Buyer",
+        "Entity",
+        "Vehicle",
+        "Agent",
+        "Attacker",
+        "Beneficiary",
+        "Org",
+        "Victim",
+        "Recipient",
+        "Place",
+        "Giver",
+        "Target",
+        "Prosecutor",
+        "Artifact",
+        "Seller",
+        "Origin",
+        "Instrument",
+        "Person",
+        "Destination"
+    ],
+    "role_entity": {
+        "Attacker": [
+            "GPE-Cluster",
+            "Individual",
+            "Non-Governmental",
+            "Indeterminate",
+            "Special",
+            "Nation",
+            "Government",
+            "Group"
+        ],
+        "Place": [
+            "Region-International",
+            "Population-Center",
+            "Boundary",
+            "Region-General",
+            "Airport",
+            "GPE-Cluster",
+            "Continent",
+            "Water-Body",
+            "Building-Grounds",
+            "County-or-District",
+            "State-or-Province",
+            "Land-Region-Natural",
+            "Address",
+            "Nation",
+            "Special",
+            "Celestial",
+            "Path",
+            "Subarea-Facility"
+        ],
+        "Instrument": [
+            "Water",
+            "Biological",
+            "Underspecified",
+            "Air",
+            "Exploding",
+            "Sharp",
+            "Projectile",
+            "Nuclear",
+            "Blunt",
+            "Chemical",
+            "Land",
+            "Shooting"
+        ],
+        "Victim": [
+            "Indeterminate",
+            "Individual",
+            "Group"
+        ],
+        "Artifact": [
+            "Water",
+            "Biological",
+            "Underspecified",
+            "Air",
+            "Airport",
+            "Projectile",
+            "Exploding",
+            "Individual",
+            "Building-Grounds",
+            "Sports",
+            "Indeterminate",
+            "Nuclear",
+            "Group",
+            "Path",
+            "Land",
+            "Plant",
+            "Commercial",
+            "Shooting"
+        ],
+        "Destination": [
+            "Region-International",
+            "Population-Center",
+            "Boundary",
+            "Region-General",
+            "Airport",
+            "GPE-Cluster",
+            "Continent",
+            "Water-Body",
+            "Building-Grounds",
+            "County-or-District",
+            "State-or-Province",
+            "Land-Region-Natural",
+            "Nation",
+            "Special",
+            "Celestial",
+            "Path",
+            "Subarea-Facility"
+        ],
+        "Person": [
+            "Indeterminate",
+            "Individual",
+            "Group"
+        ],
+        "Target": [
+            "Water",
+            "Land",
+            "Underspecified",
+            "Region-General",
+            "Airport",
+            "Air",
+            "Projectile",
+            "Individual",
+            "Building-Grounds",
+            "Non-Governmental",
+            "Indeterminate",
+            "Land-Region-Natural",
+            "Subarea-Vehicle",
+            "Path",
+            "Subarea-Facility",
+            "Government",
+            "Group"
+        ],
+        "Entity": [
+            "Media",
+            "Individual",
+            "Non-Governmental",
+            "Government",
+            "Sports",
+            "Educational",
+            "State-or-Province",
+            "Religious",
+            "Indeterminate",
+            "Nation",
+            "Special",
+            "County-or-District",
+            "Entertainment",
+            "Medical-Science",
+            "Commercial",
+            "Group"
+        ],
+        "Seller": [
+            "Individual",
+            "Indeterminate",
+            "Nation",
+            "Commercial",
+            "Group"
+        ],
+        "Buyer": [
+            "Individual",
+            "Indeterminate",
+            "Nation",
+            "Government",
+            "Commercial",
+            "Group"
+        ],
+        "Vehicle": [
+            "Air",
+            "Water",
+            "Land",
+            "Underspecified"
+        ],
+        "Agent": [
+            "Media",
+            "Individual",
+            "Non-Governmental",
+            "Government",
+            "Sports",
+            "State-or-Province",
+            "Educational",
+            "Indeterminate",
+            "Nation",
+            "Special",
+            "Medical-Science",
+            "Commercial",
+            "Group"
+        ],
+        "Origin": [
+            "Region-International",
+            "Population-Center",
+            "GPE-Cluster",
+            "Airport",
+            "Region-General",
+            "Water-Body",
+            "Building-Grounds",
+            "State-or-Province",
+            "Land-Region-Natural",
+            "Nation",
+            "Celestial",
+            "Subarea-Facility",
+            "Boundary"
+        ],
+        "Defendant": [
+            "Media",
+            "Individual",
+            "Government",
+            "Educational",
+            "Indeterminate",
+            "Nation",
+            "Medical-Science",
+            "Commercial",
+            "Group"
+        ],
+        "Plaintiff": [
+            "Media",
+            "Individual",
+            "Nation",
+            "Commercial",
+            "Group"
+        ],
+        "Org": [
+            "Individual",
+            "Non-Governmental",
+            "Government",
+            "Medical-Science",
+            "Commercial"
+        ],
+        "Giver": [
+            "Medical-Science",
+            "Individual",
+            "Non-Governmental",
+            "Sports",
+            "Educational",
+            "Indeterminate",
+            "Nation",
+            "Special",
+            "Government",
+            "Commercial",
+            "Group"
+        ],
+        "Recipient": [
+            "Individual",
+            "Non-Governmental",
+            "Sports",
+            "State-or-Province",
+            "Indeterminate",
+            "Educational",
+            "Nation",
+            "Special",
+            "Government",
+            "Commercial",
+            "Group"
+        ],
+        "Prosecutor": [
+            "Individual",
+            "State-or-Province",
+            "Indeterminate",
+            "Nation",
+            "Government",
+            "Group"
+        ],
+        "Adjudicator": [
+            "Individual",
+            "Non-Governmental",
+            "State-or-Province",
+            "Nation",
+            "Government",
+            "Group"
+        ],
+        "Beneficiary": [
+            "GPE-Cluster",
+            "Individual",
+            "Non-Governmental",
+            "Special",
+            "Nation",
+            "Group"
+        ]
+    },
+    "relation_entity": {
+        "PHYS:Located": [
+            "Individual",
+            "Non-Governmental",
+            "Indeterminate",
+            "Entertainment",
+            "Government",
+            "Group"
+        ],
+        "ORG-AFF:Employment": [
+            "Indeterminate",
+            "Government",
+            "Individual",
+            "Group"
+        ],
+        "ORG-AFF:Membership": [
+            "GPE-Cluster",
+            "Individual",
+            "Sports",
+            "State-or-Province",
+            "Indeterminate",
+            "Nation",
+            "Government",
+            "Group"
+        ],
+        "ORG-AFF:Founder": [
+            "Medical-Science",
+            "Individual",
+            "Group"
+        ],
+        "ART:User-Owner-Inventor-Manufacturer": [
+            "Population-Center",
+            "Media",
+            "GPE-Cluster",
+            "Individual",
+            "Non-Governmental",
+            "Government",
+            "Sports",
+            "Educational",
+            "Indeterminate",
+            "State-or-Province",
+            "Nation",
+            "Special",
+            "Medical-Science",
+            "Commercial",
+            "Group"
+        ],
+        "GEN-AFF:Citizen-Resident-Religion-Ethnicity": [
+            "Individual",
+            "Non-Governmental",
+            "Indeterminate",
+            "Nation",
+            "Government",
+            "Group"
+        ],
+        "PART-WHOLE:Subsidiary": [
+            "Medical-Science",
+            "Media",
+            "Non-Governmental",
+            "Building-Grounds",
+            "Sports",
+            "Educational",
+            "Religious",
+            "Nation",
+            "Government",
+            "Commercial",
+            "Group"
+        ],
+        "PART-WHOLE:Geographical": [
+            "Region-International",
+            "Population-Center",
+            "Region-General",
+            "Building-Grounds",
+            "Address",
+            "Path",
+            "Subarea-Facility",
+            "Boundary",
+            "Medical-Science",
+            "Airport",
+            "County-or-District",
+            "State-or-Province",
+            "Land-Region-Natural",
+            "Plant",
+            "Media",
+            "Water-Body",
+            "Nation",
+            "Special",
+            "Celestial",
+            "Commercial"
+        ],
+        "PHYS:Near": [
+            "Region-International",
+            "Population-Center",
+            "Medical-Science",
+            "Region-General",
+            "Airport",
+            "Water-Body",
+            "Individual",
+            "Building-Grounds",
+            "Government",
+            "State-or-Province",
+            "Land-Region-Natural",
+            "Nation",
+            "Special",
+            "Celestial",
+            "Path",
+            "Boundary",
+            "Plant",
+            "Group"
+        ],
+        "PART-WHOLE:Artifact": [
+            "Water",
+            "Air",
+            "Projectile",
+            "Subarea-Vehicle",
+            "Nuclear",
+            "Land",
+            "Shooting"
+        ],
+        "PER-SOC:Family": [
+            "Indeterminate",
+            "Individual",
+            "Group"
+        ],
+        "PER-SOC:Business": [
+            "Indeterminate",
+            "Individual",
+            "Group"
+        ],
+        "GEN-AFF:Org-Location": [
+            "Medical-Science",
+            "Media",
+            "Non-Governmental",
+            "Building-Grounds",
+            "Sports",
+            "Educational",
+            "Religious",
+            "Government",
+            "Commercial",
+            "Group"
+        ],
+        "PER-SOC:Lasting-Personal": [
+            "Indeterminate",
+            "Individual",
+            "Group"
+        ],
+        "ORG-AFF:Student-Alum": [
+            "Indeterminate",
+            "Individual",
+            "Group"
+        ],
+        "ORG-AFF:Ownership": [
+            "Individual",
+            "Group"
+        ],
+        "ORG-AFF:Investor-Shareholder": [
+            "Indeterminate",
+            "Commercial",
+            "Individual",
+            "Group"
+        ],
+        "ORG-AFF:Sports-Affiliation": [
+            "Individual",
+            "Group"
+        ]
+    },
+    "event_role": {
+        "Conflict:Attack": [
+            "Victim",
+            "Target",
+            "Instrument",
+            "Place",
+            "Attacker"
+        ],
+        "Life:Die": [
+            "Victim",
+            "Agent",
+            "Person",
+            "Instrument",
+            "Place"
+        ],
+        "Movement:Transport": [
+            "Victim",
+            "Vehicle",
+            "Agent",
+            "Destination",
+            "Artifact",
+            "Origin",
+            "Place"
+        ],
+        "Personnel:End-Position": [
+            "Place",
+            "Entity",
+            "Person"
+        ],
+        "Contact:Meet": [
+            "Place",
+            "Entity"
+        ],
+        "Transaction:Transfer-Ownership": [
+            "Artifact",
+            "Seller",
+            "Buyer",
+            "Place",
+            "Beneficiary"
+        ],
+        "Justice:Charge-Indict": [
+            "Defendant",
+            "Adjudicator",
+            "Place",
+            "Prosecutor"
+        ],
+        "Contact:Phone-Write": [
+            "Place",
+            "Entity"
+        ],
+        "Life:Injure": [
+            "Place",
+            "Victim",
+            "Instrument",
+            "Agent"
+        ],
+        "Justice:Arrest-Jail": [
+            "Place",
+            "Person",
+            "Agent"
+        ],
+        "Justice:Appeal": [
+            "Place",
+            "Adjudicator",
+            "Plaintiff"
+        ],
+        "Life:Be-Born": [
+            "Place",
+            "Person"
+        ],
+        "Business:Start-Org": [
+            "Place",
+            "Org",
+            "Agent"
+        ],
+        "Justice:Sentence": [
+            "Defendant",
+            "Adjudicator",
+            "Place"
+        ],
+        "Personnel:Start-Position": [
+            "Place",
+            "Entity",
+            "Person"
+        ],
+        "Business:Declare-Bankruptcy": [
+            "Place",
+            "Org"
+        ],
+        "Transaction:Transfer-Money": [
+            "Place",
+            "Giver",
+            "Recipient",
+            "Beneficiary"
+        ],
+        "Justice:Sue": [
+            "Defendant",
+            "Adjudicator",
+            "Place",
+            "Plaintiff"
+        ],
+        "Justice:Fine": [
+            "Place",
+            "Adjudicator",
+            "Entity"
+        ],
+        "Life:Marry": [
+            "Place",
+            "Person"
+        ],
+        "Justice:Release-Parole": [
+            "Place",
+            "Person",
+            "Entity"
+        ],
+        "Life:Divorce": [
+            "Person"
+        ],
+        "Personnel:Elect": [
+            "Place",
+            "Entity",
+            "Person"
+        ],
+        "Conflict:Demonstrate": [
+            "Place",
+            "Entity"
+        ],
+        "Justice:Trial-Hearing": [
+            "Defendant",
+            "Adjudicator",
+            "Place",
+            "Prosecutor"
+        ],
+        "Justice:Convict": [
+            "Defendant",
+            "Adjudicator",
+            "Place"
+        ],
+        "Justice:Pardon": [
+            "Defendant",
+            "Adjudicator",
+            "Place"
+        ],
+        "Business:End-Org": [
+            "Place",
+            "Org"
+        ],
+        "Justice:Execute": [
+            "Place",
+            "Person",
+            "Agent"
+        ],
+        "Justice:Extradite": [
+            "Destination",
+            "Origin",
+            "Person",
+            "Agent"
+        ],
+        "Personnel:Nominate": [
+            "Person",
+            "Agent"
+        ],
+        "Business:Merge-Org": [
+            "Org"
+        ],
+        "Justice:Acquit": [
+            "Defendant",
+            "Adjudicator"
+        ]
+    }
+}

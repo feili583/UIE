@@ -1,0 +1,96 @@
+AFP_ENG_20030401.0476
+
+
+
+NEWS STORY
+
+
+
+20030401
+
+
+
+Energy regulator named new head of Britain 's FSA finance watchdog
+
+
+
+LONDON , April 1 ( AFP )
+0,1 GPE|5,6 ORG
+0,1 GPE|5,6 ORG
+
+British Chancellor of the Exchequer Gordon Brown on Tuesday named the current head of the country 's energy regulator as the new chairman of finance watchdog the Financial Services Authority ( FSA ) .
+0,1 GPE|1,2 PER|4,5 ORG|5,7 PER|12,13 PER|15,16 GPE|18,19 ORG|22,23 PER|25,26 ORG|27,30 ORG|1,5 ORG-AFF.Employment|12,19 ORG-AFF.Employment|22,28 ORG-AFF.Membership|22,29 ORG-AFF.Membership|22,30 ORG-AFF.Membership|9,10 Personnel.Nominate|9,13 Person
+0,1 GPE|1,2 PER|4,5 ORG|5,7 PER|12,13 PER|15,16 GPE|18,19 ORG|22,23 PER|25,26 ORG|27,30 ORG|1,5 ORG-AFF.Employment|12,19 ORG-AFF.Employment|22,30 ORG-AFF.Membership|9,10 Personnel.Nominate|9,13 Person
+
+Former senior banker Callum McCarthy begins what is one of the most important jobs in London 's financial world in September , when incumbent Howard Davies steps down .
+2,3 PER|3,5 PER|15,16 GPE|23,24 PER|24,26 PER|0,1 Personnel.End-Position|0,4 Person|0,5 Person|5,6 Personnel.Start-Position|3,6 r_Person|4,6 r_Person
+2,3 PER|3,5 PER|15,16 GPE|23,24 PER|24,26 PER|0,1 Personnel.End-Position|0,5 Person|5,6 Personnel.Start-Position|3,6 r_Person
+
+Davies is leaving to become chairman of the London School of Economics , one of the best - known parts of the University of London .
+0,1 PER|5,6 PER|8,12 ORG|22,25 ORG|5,9 ORG-AFF.Employment|5,10 ORG-AFF.Employment|5,11 ORG-AFF.Employment|5,12 ORG-AFF.Employment|2,3 Personnel.End-Position|0,3 r_Person|4,5 Personnel.Start-Position|0,5 r_Person|4,9 Entity|4,10 Entity|4,11 Entity|4,12 Entity
+0,1 PER|5,6 PER|8,12 ORG|22,25 ORG|5,12 ORG-AFF.Employment|2,3 Personnel.End-Position|0,3 r_Person|4,5 Personnel.Start-Position|0,5 r_Person|4,12 Entity
+
+Brown said McCarthy would bring to the FSA " an unrivalled combination of experience of the public sector , experience as a senior practitioner in the financial services industry , and chairman of a highly successful regulator . "
+0,1 PER|2,3 PER|7,8 ORG|23,24 PER|28,29 ORG|31,32 PER|36,37 ORG|31,37 ORG-AFF.Membership
+0,1 PER|2,3 PER|7,8 ORG|23,24 PER|28,29 ORG|31,32 PER|36,37 ORG|31,37 ORG-AFF.Membership
+
+McCarthy currently heads the Office of Gas and Electricity Markets , or Ofgem , which regulates Britain 's privatised energy industry .
+0,1 PER|4,10 ORG|12,13 ORG|16,17 GPE|20,21 ORG|0,5 ORG-AFF.Employment|0,6 ORG-AFF.Employment|0,7 ORG-AFF.Employment|0,8 ORG-AFF.Employment|0,9 ORG-AFF.Employment|0,10 ORG-AFF.Employment
+0,1 PER|4,10 ORG|12,13 ORG|16,17 GPE|20,21 ORG|0,10 ORG-AFF.Employment
+
+As well as previously holding senior positions at Barclays Bank , BZW and Kleinwort Benson , McCarthy was formerly a top civil servant at the Department of Trade and Industry .
+8,10 ORG|11,12 ORG|13,15 ORG|16,17 PER|22,23 PER|25,30 ORG|8,17 r_ORG-AFF.Employment|9,17 r_ORG-AFF.Employment|11,17 r_ORG-AFF.Employment|13,17 r_ORG-AFF.Employment|14,17 r_ORG-AFF.Employment|22,26 ORG-AFF.Employment|22,27 ORG-AFF.Employment|22,28 ORG-AFF.Employment|22,29 ORG-AFF.Employment|22,30 ORG-AFF.Employment|3,4 Personnel.End-Position|3,9 Entity|3,10 Entity|3,12 Entity|3,14 Entity|3,15 Entity|3,17 Person|18,19 Personnel.End-Position|16,19 r_Person|18,26 Entity|18,27 Entity|18,28 Entity|18,29 Entity|18,30 Entity
+8,10 ORG|11,12 ORG|13,15 ORG|16,17 PER|22,23 PER|25,30 ORG|8,17 r_ORG-AFF.Employment|11,17 r_ORG-AFF.Employment|13,17 r_ORG-AFF.Employment|22,30 ORG-AFF.Employment|3,4 Personnel.End-Position|3,10 Entity|3,12 Entity|3,15 Entity|3,17 Person|18,19 Personnel.End-Position|16,19 r_Person|18,30 Entity
+
+Under Davies 's watch , the FSA became Britain 's sole regulatory body for financial services in November 2001 , taking on the various functions of nine separate agencies .
+1,2 PER|6,7 ORG|8,9 GPE|12,13 ORG|28,29 ORG|8,13 r_PART-WHOLE.Subsidiary
+1,2 PER|6,7 ORG|8,9 GPE|12,13 ORG|28,29 ORG|8,13 r_PART-WHOLE.Subsidiary
+
+AFP_ENG_20030401.0476
+
+
+
+NEWS STORY
+
+
+
+20030401
+
+
+
+Energy regulator named new head of Britain 's FSA finance watchdog
+
+
+
+LONDON , April 1 ( AFP )
+0,1 GPE|5,6 ORG
+0,1 GPE|5,6 ORG
+
+British Chancellor of the Exchequer Gordon Brown on Tuesday named the current head of the country 's energy regulator as the new chairman of finance watchdog the Financial Services Authority ( FSA ) .
+0,1 GPE|1,2 PER|4,5 ORG|5,7 PER|12,13 PER|15,16 GPE|18,19 ORG|22,23 PER|25,26 ORG|27,30 ORG|1,5 ORG-AFF.Employment|12,19 ORG-AFF.Employment|22,28 ORG-AFF.Membership|22,29 ORG-AFF.Membership|22,30 ORG-AFF.Membership|9,10 Personnel.Nominate|9,13 Person
+0,1 GPE|1,2 PER|4,5 ORG|5,7 PER|12,13 PER|15,16 GPE|18,19 ORG|22,23 PER|25,26 ORG|27,30 ORG|1,5 ORG-AFF.Employment|12,19 ORG-AFF.Employment|22,30 ORG-AFF.Membership|9,10 Personnel.Nominate|9,13 Person
+
+Former senior banker Callum McCarthy begins what is one of the most important jobs in London 's financial world in September , when incumbent Howard Davies steps down .
+2,3 PER|3,5 PER|15,16 GPE|23,24 PER|24,26 PER|0,1 Personnel.End-Position|0,4 Person|0,5 Person|5,6 Personnel.Start-Position|3,6 r_Person|4,6 r_Person
+2,3 PER|3,5 PER|15,16 GPE|23,24 PER|24,26 PER|0,1 Personnel.End-Position|0,5 Person|5,6 Personnel.Start-Position|3,6 r_Person
+
+Davies is leaving to become chairman of the London School of Economics , one of the best - known parts of the University of London .
+0,1 PER|5,6 PER|8,12 ORG|22,25 ORG|5,9 ORG-AFF.Employment|5,10 ORG-AFF.Employment|5,11 ORG-AFF.Employment|5,12 ORG-AFF.Employment|2,3 Personnel.End-Position|0,3 r_Person|4,5 Personnel.Start-Position|0,5 r_Person|4,9 Entity|4,10 Entity|4,11 Entity|4,12 Entity
+0,1 PER|5,6 PER|8,12 ORG|22,25 ORG|5,12 ORG-AFF.Employment|2,3 Personnel.End-Position|0,3 r_Person|4,5 Personnel.Start-Position|0,5 r_Person|4,12 Entity
+
+Brown said McCarthy would bring to the FSA " an unrivalled combination of experience of the public sector , experience as a senior practitioner in the financial services industry , and chairman of a highly successful regulator . "
+0,1 PER|2,3 PER|7,8 ORG|23,24 PER|28,29 ORG|31,32 PER|36,37 ORG|31,37 ORG-AFF.Membership
+0,1 PER|2,3 PER|7,8 ORG|23,24 PER|28,29 ORG|31,32 PER|36,37 ORG|31,37 ORG-AFF.Membership
+
+McCarthy currently heads the Office of Gas and Electricity Markets , or Ofgem , which regulates Britain 's privatised energy industry .
+0,1 PER|4,10 ORG|12,13 ORG|16,17 GPE|20,21 ORG|0,5 ORG-AFF.Employment|0,6 ORG-AFF.Employment|0,7 ORG-AFF.Employment|0,8 ORG-AFF.Employment|0,9 ORG-AFF.Employment|0,10 ORG-AFF.Employment
+0,1 PER|4,10 ORG|12,13 ORG|16,17 GPE|20,21 ORG|0,10 ORG-AFF.Employment
+
+As well as previously holding senior positions at Barclays Bank , BZW and Kleinwort Benson , McCarthy was formerly a top civil servant at the Department of Trade and Industry .
+8,10 ORG|11,12 ORG|13,15 ORG|16,17 PER|22,23 PER|25,30 ORG|8,17 r_ORG-AFF.Employment|9,17 r_ORG-AFF.Employment|11,17 r_ORG-AFF.Employment|13,17 r_ORG-AFF.Employment|14,17 r_ORG-AFF.Employment|22,26 ORG-AFF.Employment|22,27 ORG-AFF.Employment|22,28 ORG-AFF.Employment|22,29 ORG-AFF.Employment|22,30 ORG-AFF.Employment|3,4 Personnel.End-Position|3,9 Entity|3,10 Entity|3,12 Entity|3,14 Entity|3,15 Entity|3,17 Person|18,19 Personnel.End-Position|16,19 r_Person|18,26 Entity|18,27 Entity|18,28 Entity|18,29 Entity|18,30 Entity
+8,10 ORG|11,12 ORG|13,15 ORG|16,17 PER|22,23 PER|25,30 ORG|8,17 r_ORG-AFF.Employment|11,17 r_ORG-AFF.Employment|13,17 r_ORG-AFF.Employment|22,30 ORG-AFF.Employment|3,4 Personnel.End-Position|3,10 Entity|3,12 Entity|3,15 Entity|3,17 Person|18,19 Personnel.End-Position|16,19 r_Person|18,30 Entity
+
+Under Davies 's watch , the FSA became Britain 's sole regulatory body for financial services in November 2001 , taking on the various functions of nine separate agencies .
+1,2 PER|6,7 ORG|8,9 GPE|12,13 ORG|28,29 ORG|8,13 r_PART-WHOLE.Subsidiary
+1,2 PER|6,7 ORG|8,9 GPE|12,13 ORG|28,29 ORG|8,13 r_PART-WHOLE.Subsidiary
+

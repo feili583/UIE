@@ -1,0 +1,117 @@
+{
+    "relation_entity": {
+        "ORG-AFF.Employment": [
+            "ORG",
+            "GPE",
+            "PER"
+        ],
+        "ORG-AFF.Membership": [
+            "ORG",
+            "GPE",
+            "PER"
+        ],
+        "PART-WHOLE.Subsidiary": [
+            "ORG",
+            "FAC",
+            "GPE"
+        ],
+        "PHYS.Located": [
+            "ORG",
+            "FAC",
+            "LOC",
+            "PER",
+            "GPE"
+        ],
+        "PART-WHOLE.Geographical": [
+            "LOC",
+            "FAC",
+            "GPE"
+        ],
+        "GEN-AFF.Org-Location": [
+            "ORG",
+            "FAC",
+            "LOC",
+            "GPE"
+        ],
+        "PER-SOC.Business": [
+            "PER"
+        ],
+        "PHYS.Near": [
+            "FAC",
+            "LOC",
+            "GPE",
+            "PER"
+        ],
+        "PER-SOC.Family": [
+            "PER"
+        ],
+        "GEN-AFF.Citizen-Resident-Religion-Ethnicity": [
+            "LOC",
+            "GPE",
+            "PER"
+        ],
+        "ART.User-Owner-Inventor-Manufacturer": [
+            "ORG",
+            "FAC",
+            "VEH",
+            "PER",
+            "WEA",
+            "GPE"
+        ],
+        "ORG-AFF.Investor-Shareholder": [
+            "ORG",
+            "PER"
+        ],
+        "ORG-AFF.Student-Alum": [
+            "ORG",
+            "PER"
+        ],
+        "ORG-AFF.Founder": [
+            "ORG",
+            "GPE",
+            "PER"
+        ],
+        "PART-WHOLE.Artifact": [
+            "VEH"
+        ],
+        "PER-SOC.Lasting-Personal": [
+            "PER"
+        ],
+        "ORG-AFF.Ownership": [
+            "ORG",
+            "PER"
+        ]
+    },
+    "event_role": {},
+    "role_entity": {},
+    "ner": [
+        "ORG",
+        "FAC",
+        "VEH",
+        "LOC",
+        "PER",
+        "WEA",
+        "GPE"
+    ],
+    "relation": [
+        "PHYS.Near",
+        "ORG-AFF.Investor-Shareholder",
+        "ORG-AFF.Founder",
+        "PER-SOC.Family",
+        "ORG-AFF.Ownership",
+        "PART-WHOLE.Subsidiary",
+        "PHYS.Located",
+        "PER-SOC.Lasting-Personal",
+        "ORG-AFF.Student-Alum",
+        "ART.User-Owner-Inventor-Manufacturer",
+        "PART-WHOLE.Artifact",
+        "PER-SOC.Business",
+        "GEN-AFF.Org-Location",
+        "PART-WHOLE.Geographical",
+        "GEN-AFF.Citizen-Resident-Religion-Ethnicity",
+        "ORG-AFF.Membership",
+        "ORG-AFF.Employment"
+    ],
+    "event": [],
+    "role": []
+}
