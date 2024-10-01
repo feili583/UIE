@@ -2,7 +2,7 @@ import torch
 import torch.nn.functional as F
 import torch_model_utils as tmu
 
-from transformers import BertPreTrainedModel, BertModel, RobertaPreTrainedModel, RobertaModel, BertForMaskedLM, BertTokenizer
+from transformers import BertPreTrainedModel, BertModel, RobertaPreTrainedModel, RobertaModel, BertForMaskedLM, BertTokenizer, RobertaForMaskedLM, RobertaTokenizer
 from torch import nn
 
 from tree_crf_layer import TreeCRFLayer
@@ -22,8 +22,8 @@ def partial_mask_to_targets(mask):
     return trees
 
 
-class PartialPCFG(BertPreTrainedModel):
-# class PartialPCFG(RobertaPreTrainedModel):
+# class PartialPCFG(BertPreTrainedModel):
+class PartialPCFG(RobertaPreTrainedModel):
 
     def __init__(self, config):
         super(PartialPCFG, self).__init__(config)
@@ -36,9 +36,11 @@ class PartialPCFG(BertPreTrainedModel):
         if (self.use_crf is False): assert (config.latent_label_size == 1)
 
         self.bert = BertModel(config)
-        self.tokenizer=BertTokenizer.from_pretrained('./bert-base-cased')
-        self.mlm = BertForMaskedLM.from_pretrained('./bert-base-cased')
+        # self.tokenizer=BertTokenizer.from_pretrained('./bert-base-cased')
+        # self.mlm = BertForMaskedLM.from_pretrained('./bert-base-cased')
         # self.bert = RobertaModel(config)
+        self.tokenizer = RobertaTokenizer.from_pretrained('./roberta-large')
+        self.mlm = RobertaForMaskedLM.from_pretrained('./roberta-large')
         self.dropout = nn.Dropout(config.hidden_dropout_prob)
 
         if (config.parser_type == 'bilinear'):

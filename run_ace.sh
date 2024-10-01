@@ -14,12 +14,12 @@
 # --latent_size 1 --seed 12345 --save_predict_path predict_file/EE/ee_1224 --valid_pattern_path ./data/EE/ACE/valid_pattern.json
 
 python -m torch.distributed.launch --nproc_per_node=6 --nnodes=1 --node_rank=0 --master_addr="10.126.62.79" --master_port=12345 train.py \
---output_dir outputs_ace_2 --model_type bert --config_name ./bert-base-cased \
---model_name_or_path ./bert-base-cased --train_file data/EE/ACE/pot_train_1224.txt --predict_file data/EE/ACE/pot_dev_1224.txt \
---test_file data/EE/ACE/pot_test_1224.txt --max_seq_length 64 --per_gpu_train_batch_size 3 --per_gpu_eval_batch_size 3 \
+--output_dir outputs_ace_2 --model_type roberta --config_name ./roberta-large \
+--model_name_or_path ./roberta-large --train_file data/EE/ACE/pot_test.txt --predict_file data/EE/ACE/pot_test.txt \
+--test_file data/EE/ACE/pot_test.txt --max_seq_length 64 --per_gpu_train_batch_size 3 --per_gpu_eval_batch_size 3 \
 --do_train --learning_rate 3e-5 --num_train_epochs 50 --overwrite_output_dir --save_steps 1000 \
 --dataset ACE --potential_normalization True --structure_smoothing_p 0.98 --parser_type deepbiaffine \
---latent_size 1 --seed 12345 --save_predict_path predict_file/EE/pot_train_1224 --valid_pattern_path ./data/EE/ACE/valid_pattern.json
+--latent_size 1 --seed 12345 --save_predict_path predict_file/EE/pot_test --valid_pattern_path ./data/EE/ACE/valid_pattern.json
 
 python train.py --output_dir outputs_ace_2 --model_type bert --config_name ./bert-base-cased \
 --model_name_or_path ./bert-base-cased --train_file data/EE/ACE/pot_dev_1224.txt --predict_file data/EE/ACE/pot_dev_1224.txt \
