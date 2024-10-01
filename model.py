@@ -412,7 +412,8 @@ class PartialPCFG(RobertaPreTrainedModel):
         masked_probs = mlm_probs[mask_positions].view(batch_size, seq_len, -1)
 
         # Get word embeddings and form new sentence representations
-        word_embeddings = self.mlm.bert.embeddings.word_embeddings.weight
+        # word_embeddings = self.mlm.bert.embeddings.word_embeddings.weight
+        word_embeddings = self.mlm.get_input_embeddings().weight
         sequence_output_mlm = torch.matmul(masked_probs.to(input_ids.device), word_embeddings)
 
         # outputs = self.mlm(input_ids, attention_mask=attention_mask, token_type_ids=token_type_ids)
@@ -878,7 +879,8 @@ class PartialPCFG(RobertaPreTrainedModel):
         masked_probs = mlm_probs[mask_positions].view(batch_size, seq_len, -1)
 
         # Get word embeddings and form new sentence representations
-        word_embeddings = self.mlm.bert.embeddings.word_embeddings.weight
+        # word_embeddings = self.mlm.bert.embeddings.word_embeddings.weight
+        word_embeddings = self.mlm.get_input_embeddings().weight
         sequence_output = torch.matmul(masked_probs.to(input_ids.device), word_embeddings) * 0.5+ sequence_output_bert
 
         # outputs = self.mlm(input_ids, attention_mask=attention_mask, token_type_ids=token_type_ids)
