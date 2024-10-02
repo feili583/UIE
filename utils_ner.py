@@ -136,13 +136,13 @@ class Processor(DataProcessor):
         if dataset == "CONLL":
             self.true_mask='CONLL'
             print('加载模型')
-            sys.path.append("..")
-            from bert_en.model import Net
-            self.trained_model=Net(False,10,'cuda',False).cuda()
-            self.trained_model=nn.DataParallel(self.trained_model)
-            self.trained_model.load_state_dict(torch.load(self.trained_model_path))
-            self.trained_model.eval()
-            self.trained_tokenizer=BertTokenizer.from_pretrained('./bert-base-cased')
+            # sys.path.append("..")
+            # from bert_en.model import Net
+            # self.trained_model=Net(False,10,'cuda',False).cuda()
+            # self.trained_model=nn.DataParallel(self.trained_model)
+            # self.trained_model.load_state_dict(torch.load(self.trained_model_path))
+            # self.trained_model.eval()
+            # self.trained_tokenizer=BertTokenizer.from_pretrained('./bert-base-cased')
         elif dataset=='WEIBO_++':
             self.true_mask='WEIBO_++'
             print('加载模型')

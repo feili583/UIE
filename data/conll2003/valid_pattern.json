@@ -1,0 +1,11 @@
+{
+    "ner": [
+        "MISC",
+        "LOC",
+        "PER",
+        "ORG"
+    ],
+    "relation": [],
+    "event": [],
+    "role": []
+}
