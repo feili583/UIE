@@ -1,116 +1,108 @@
 {
     "relation_entity": {
-        "ORG-AFF.Employment": [
-            "ORG",
+        "ORG-AFF": [
             "GPE",
-            "PER"
-        ],
-        "ORG-AFF.Membership": [
-            "ORG",
-            "GPE",
-            "PER"
-        ],
-        "PART-WHOLE.Subsidiary": [
-            "ORG",
-            "FAC",
-            "GPE"
-        ],
-        "PHYS.Located": [
-            "ORG",
-            "FAC",
-            "LOC",
             "PER",
-            "GPE"
+            "ORG"
         ],
-        "PART-WHOLE.Geographical": [
-            "LOC",
-            "FAC",
-            "GPE"
-        ],
-        "GEN-AFF.Org-Location": [
-            "ORG",
-            "FAC",
-            "LOC",
-            "GPE"
-        ],
-        "PER-SOC.Business": [
-            "PER"
-        ],
-        "PHYS.Near": [
-            "FAC",
-            "LOC",
-            "GPE",
-            "PER"
-        ],
-        "PER-SOC.Family": [
-            "PER"
-        ],
-        "GEN-AFF.Citizen-Resident-Religion-Ethnicity": [
-            "LOC",
-            "GPE",
-            "PER"
-        ],
-        "ART.User-Owner-Inventor-Manufacturer": [
-            "ORG",
+        "ART": [
             "FAC",
             "VEH",
-            "PER",
             "WEA",
+            "PER",
+            "ORG",
             "GPE"
         ],
-        "ORG-AFF.Investor-Shareholder": [
+        "r_ART": [
+            "FAC",
+            "VEH",
+            "WEA",
+            "PER",
             "ORG",
-            "PER"
+            "GPE"
         ],
-        "ORG-AFF.Student-Alum": [
+        "r_PART-WHOLE": [
+            "FAC",
+            "VEH",
+            "WEA",
+            "LOC",
+            "PER",
             "ORG",
-            "PER"
+            "GPE"
         ],
-        "ORG-AFF.Founder": [
-            "ORG",
+        "r_ORG-AFF": [
             "GPE",
-            "PER"
+            "PER",
+            "ORG"
         ],
-        "PART-WHOLE.Artifact": [
-            "VEH"
-        ],
-        "PER-SOC.Lasting-Personal": [
-            "PER"
-        ],
-        "ORG-AFF.Ownership": [
+        "PHYS": [
+            "FAC",
+            "VEH",
+            "LOC",
+            "PER",
             "ORG",
+            "GPE"
+        ],
+        "GEN-AFF": [
+            "GPE",
+            "PER",
+            "LOC",
+            "ORG"
+        ],
+        "PER-SOC": [
+            "PER",
+            "ORG"
+        ],
+        "PART-WHOLE": [
+            "FAC",
+            "VEH",
+            "WEA",
+            "LOC",
+            "PER",
+            "ORG",
+            "GPE"
+        ],
+        "r_PHYS": [
+            "LOC",
+            "PER",
+            "GPE",
+            "FAC"
+        ],
+        "r_GEN-AFF": [
+            "FAC",
+            "PER",
+            "LOC",
+            "ORG",
+            "GPE"
+        ],
+        "r_PER-SOC": [
             "PER"
         ]
     },
     "event_role": {},
     "role_entity": {},
     "ner": [
-        "ORG",
         "FAC",
         "VEH",
+        "WEA",
         "LOC",
         "PER",
-        "WEA",
+        "ORG",
         "GPE"
     ],
     "relation": [
-        "PHYS.Near",
-        "ORG-AFF.Investor-Shareholder",
-        "ORG-AFF.Founder",
-        "PER-SOC.Family",
-        "ORG-AFF.Ownership",
-        "PART-WHOLE.Subsidiary",
-        "PHYS.Located",
-        "PER-SOC.Lasting-Personal",
-        "ORG-AFF.Student-Alum",
-        "ART.User-Owner-Inventor-Manufacturer",
-        "PART-WHOLE.Artifact",
-        "PER-SOC.Business",
-        "GEN-AFF.Org-Location",
-        "PART-WHOLE.Geographical",
-        "GEN-AFF.Citizen-Resident-Religion-Ethnicity",
-        "ORG-AFF.Membership",
-        "ORG-AFF.Employment"
+        "r_PHYS",
+        "ORG-AFF",
+        "r_GEN-AFF",
+        "PART-WHOLE",
+        "GEN-AFF",
+        "r_PER-SOC",
+        "ART",
+        "r_PART-WHOLE",
+        "PHYS",
+        "PER-SOC",
+        "r_ART",
+        "r_ORG-AFF"
     ],
     "event": [],
     "role": []

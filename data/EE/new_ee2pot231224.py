@@ -4,7 +4,8 @@
 23.10.25将第二行修改为关系和论元所有可能的span
 23.10.26将关系和事件分开
 23.10.31只留下关系,只留下事件
-23.12.24加入反向关系'''
+23.12.24加入反向关系
+24.10.13将实体从子类型改成类型'''
 
 import json
 
@@ -66,23 +67,23 @@ def ace2pot(sentences,ner,relations,events,sentence_start):
             ner_dict[str(ner_[0])+','+str(ner_[-2])]=ner_[-1]
         for relation in relations[id]:
             # print(relation)
-            relation_tag.append(relation[-1])
+            relation_tag.append(relation[-1].split('.')[0])
             relation_index.append(relation[0:-1])
             
             if relation[0] > relation[2]:
-                relation_tags.append('r_'+relation[-1])
-                if 'r_'+relation[-1] not in tags_dict['relation_entity'].keys():
-                    tags_dict['relation_entity']['r_'+relation[-1]]=[]
-                tags_dict['relation_entity']['r_'+relation[-1]].append(ner_dict[str(relation[0])+','+str(relation[1])])
-                tags_dict['relation_entity']['r_'+relation[-1]].append(ner_dict[str(relation[2])+','+str(relation[3])])
-                tags_dict['relation_entity']['r_'+relation[-1]]=list(set(tags_dict['relation_entity']['r_'+relation[-1]]))
+                relation_tags.append('r_'+relation[-1].split('.')[0])
+                if 'r_'+relation[-1].split('.')[0] not in tags_dict['relation_entity'].keys():
+                    tags_dict['relation_entity']['r_'+relation[-1].split('.')[0]]=[]
+                tags_dict['relation_entity']['r_'+relation[-1].split('.')[0]].append(ner_dict[str(relation[0])+','+str(relation[1])])
+                tags_dict['relation_entity']['r_'+relation[-1].split('.')[0]].append(ner_dict[str(relation[2])+','+str(relation[3])])
+                tags_dict['relation_entity']['r_'+relation[-1].split('.')[0]]=list(set(tags_dict['relation_entity']['r_'+relation[-1].split('.')[0]]))
             else:
-                relation_tags.append(relation[-1])
-                if relation[-1] not in tags_dict['relation_entity'].keys():
-                    tags_dict['relation_entity'][relation[-1]]=[]
-                tags_dict['relation_entity'][relation[-1]].append(ner_dict[str(relation[0])+','+str(relation[1])])
-                tags_dict['relation_entity'][relation[-1]].append(ner_dict[str(relation[2])+','+str(relation[3])])
-                tags_dict['relation_entity'][relation[-1]]=list(set(tags_dict['relation_entity'][relation[-1]]))
+                relation_tags.append(relation[-1].split('.')[0])
+                if relation[-1].split('.')[0] not in tags_dict['relation_entity'].keys():
+                    tags_dict['relation_entity'][relation[-1].split('.')[0]]=[]
+                tags_dict['relation_entity'][relation[-1].split('.')[0]].append(ner_dict[str(relation[0])+','+str(relation[1])])
+                tags_dict['relation_entity'][relation[-1].split('.')[0]].append(ner_dict[str(relation[2])+','+str(relation[3])])
+                tags_dict['relation_entity'][relation[-1].split('.')[0]]=list(set(tags_dict['relation_entity'][relation[-1].split('.')[0]]))
         for event in events[id]:
             event_tag.append(event[0][-1])
             event_index.append([event[0][0],event[0][0]])
@@ -111,17 +112,17 @@ def ace2pot(sentences,ner,relations,events,sentence_start):
                     tags_dict['role_entity'][event[id][-1]].append(ner_dict[str(event[id][0])+','+str(event[id][1])])
                     tags_dict['role_entity'][event[id][-1]]=list(set(tags_dict['role_entity'][event[id][-1]]))
 
-        # tag.append(ner_tag+relation_tag + event_tag)
-        tag.append(ner_tag + event_tag)
-        # index.append(ner_index+relation_index + event_index)
-        index.append(ner_index + event_index)
+        tag.append(ner_tag+relation_tag + event_tag)
+        # tag.append(ner_tag)
+        index.append(ner_index+relation_index + event_index)
+        # index.append(ner_index)
 
     tags_dict['ner']=list(set(ner_tags))
     tags_dict['relation']=list(set(relation_tags))
     tags_dict['event']=list(set(event_tags))
     tags_dict['role']=list(set(role_tags))
 
-    with open('./ACE_event/valid_pattern.json','w',encoding='utf-8') as f:
+    with open('./ACE/valid_pattern.json','w',encoding='utf-8') as f:
         f.write(json.dumps(tags_dict,ensure_ascii=False,indent=4))
 
     print('ner_tag:',len(ner_tags),len(set(ner_tags)), set(ner_tags))
@@ -178,20 +179,20 @@ def ace():
     pot2file('./ACE/pot_train_1224.txt',sen,tag,index,sentence_start)
     print(len(sentences)) 
 
-    ace_data=get_data('./ACE/dev.json')
-    doc_key,sentences,ner,relations,events,sentence_start=get_ace(ace_data)
-    dic_to_file('./ACE/doc_dev.json',doc_key)
-    sen,tag,index,sentence_start=ace2pot(sentences,ner,relations,events,sentence_start)
-    pot2file('./ACE/pot_dev_1224.txt',sen,tag,index,sentence_start)
-    print(len(sentences))
+    # ace_data=get_data('./ACE/dev.json')
+    # doc_key,sentences,ner,relations,events,sentence_start=get_ace(ace_data)
+    # dic_to_file('./ACE/doc_dev.json',doc_key)
+    # sen,tag,index,sentence_start=ace2pot(sentences,ner,relations,events,sentence_start)
+    # pot2file('./ACE/pot_dev_1224.txt',sen,tag,index,sentence_start)
+    # print(len(sentences))
 
-    ace_data=get_data('./ACE/test.json')
-    doc_key,sentences,ner,relations,events,sentence_start=get_ace(ace_data)
-    dic_to_file('./ACE/doc_test.json',doc_key)
-    sen,tag,index,sentence_start=ace2pot(sentences,ner,relations,events,sentence_start)
-    pot2file('./ACE/pot_test_1224.txt',sen,tag,index,sentence_start)
+    # ace_data=get_data('./ACE/test.json')
+    # doc_key,sentences,ner,relations,events,sentence_start=get_ace(ace_data)
+    # dic_to_file('./ACE/doc_test.json',doc_key)
+    # sen,tag,index,sentence_start=ace2pot(sentences,ner,relations,events,sentence_start)
+    # pot2file('./ACE/pot_test_1224.txt',sen,tag,index,sentence_start)
 
-    print(len(sentences))
+    # print(len(sentences))
 
 def ace_event():
     ace_data=get_data('./ACE/train.json')
@@ -223,19 +224,41 @@ def ace_relation():
     for i in range(len(sentences)):
         temp_list.append([])
     sen,tag,index,sentence_start=ace2pot(sentences,ner,relations,temp_list,sentence_start)
-    pot2file('./ACE_relation/pot_train_1027.txt',sen,tag,index,sentence_start)
+    pot2file('./ACE_relation/pot_train_1224.txt',sen,tag,index,sentence_start)
 
-    ace_data=get_data('./ACE/dev.json')
-    doc_key,sentences,ner,relations,events,sentence_start=get_ace(ace_data)
-    dic_to_file('./ACE/doc_dev.json',doc_key)
-    sen,tag,index,sentence_start=ace2pot(sentences,ner,relations,temp_list,sentence_start)
-    pot2file('./ACE_relation/pot_dev_1027.txt',sen,tag,index,sentence_start)
+    # ace_data=get_data('./ACE/dev.json')
+    # doc_key,sentences,ner,relations,events,sentence_start=get_ace(ace_data)
+    # dic_to_file('./ACE/doc_dev.json',doc_key)
+    # sen,tag,index,sentence_start=ace2pot(sentences,ner,relations,temp_list,sentence_start)
+    # pot2file('./ACE_relation/pot_dev_1224.txt',sen,tag,index,sentence_start)
 
-    ace_data=get_data('./ACE/test.json')
+    # ace_data=get_data('./ACE/test.json')
+    # doc_key,sentences,ner,relations,events,sentence_start=get_ace(ace_data)
+    # dic_to_file('./ACE/doc_test.json',doc_key)
+    # sen,tag,index,sentence_start=ace2pot(sentences,ner,relations,temp_list,sentence_start)
+    # pot2file('./ACE_relation/pot_test_1224.txt',sen,tag,index,sentence_start)
+
+def ace_entity():
+    ace_data=get_data('./ACE/train.json')
     doc_key,sentences,ner,relations,events,sentence_start=get_ace(ace_data)
-    dic_to_file('./ACE/doc_test.json',doc_key)
+    dic_to_file('./ACE/doc_train.json',doc_key)
+    temp_list=[]
+    for i in range(len(sentences)):
+        temp_list.append([])
     sen,tag,index,sentence_start=ace2pot(sentences,ner,relations,temp_list,sentence_start)
-    pot2file('./ACE_relation/pot_test_1027.txt',sen,tag,index,sentence_start)
+    pot2file('./ACE_entity/pot_train_1224.txt',sen,tag,index,sentence_start)
+
+    # ace_data=get_data('./ACE/dev.json')
+    # doc_key,sentences,ner,relations,events,sentence_start=get_ace(ace_data)
+    # dic_to_file('./ACE/doc_dev.json',doc_key)
+    # sen,tag,index,sentence_start=ace2pot(sentences,ner,relations,temp_list,sentence_start)
+    # pot2file('./ACE_entity/pot_dev_1224.txt',sen,tag,index,sentence_start)
+
+    # ace_data=get_data('./ACE/test.json')
+    # doc_key,sentences,ner,relations,events,sentence_start=get_ace(ace_data)
+    # dic_to_file('./ACE/doc_test.json',doc_key)
+    # sen,tag,index,sentence_start=ace2pot(sentences,ner,relations,temp_list,sentence_start)
+    # pot2file('./ACE_entity/pot_test_1224.txt',sen,tag,index,sentence_start)
 
 def ace_only_relation():
     ace_data=get_data('./ACE/train.json')
@@ -353,31 +376,31 @@ def ace_add_pot(data):
         for ner in data_['entity_mentions']:
             ner_ids[ner['id']]=ner['start']
             ner_end_ids[ner['id']]=ner['end']-1
-            ner_types[ner['id']]=ner['entity_subtype']
-            ners.append([ner['start'],ner['end']-1,ner['entity_subtype']])
-            ner_tags.append(ner['entity_subtype'])
+            ner_types[ner['id']]=ner['entity_type']
+            ners.append([ner['start'],ner['end']-1,ner['entity_type']])
+            ner_tags.append(ner['entity_type'])
         for relation in data_['relation_mentions']:
             argument1=ner_ids[relation['arguments'][0]['entity_id']]
             argument1_end=ner_end_ids[relation['arguments'][0]['entity_id']]
             argument2=ner_ids[relation['arguments'][1]['entity_id']]
             argument2_end=ner_end_ids[relation['arguments'][1]['entity_id']]
             if argument1 > argument2:
-                relations.append([min(argument1,argument2),max(argument1_end,argument2_end),'r_'+relation['relation_subtype']])
+                relations.append([min(argument1,argument2),max(argument1_end,argument2_end),'r_'+relation['relation_type']])
             else:
-                relations.append([min(argument1,argument2),max(argument1_end,argument2_end),relation['relation_subtype']])
+                relations.append([min(argument1,argument2),max(argument1_end,argument2_end),relation['relation_type']])
             for id_start in range(argument1,argument1_end+1):
                 for id_end in range(argument2,argument2_end+1):
                     if id_start > id_end:
-                        all_relaitons.append([min(id_start,id_end),max(id_start,id_end),'r_'+relation['relation_subtype']])
-                        relation_tags.append('r_'+relation['relation_subtype'])
+                        all_relaitons.append([min(id_start,id_end),max(id_start,id_end),'r_'+relation['relation_type']])
+                        relation_tags.append('r_'+relation['relation_type'])
                     else:
-                        all_relaitons.append([min(id_start,id_end),max(id_start,id_end),relation['relation_subtype']])
-                        relation_tags.append(relation['relation_subtype'])
+                        all_relaitons.append([min(id_start,id_end),max(id_start,id_end),relation['relation_type']])
+                        relation_tags.append(relation['relation_type'])
             
-            if relation['relation_subtype'] not in tags_dict['relation_entity'].keys():
-                tags_dict['relation_entity'][relation['relation_subtype']]=[]
-            tags_dict['relation_entity'][relation['relation_subtype']].append(ner_types[relation['arguments'][0]['entity_id']])
-            tags_dict['relation_entity'][relation['relation_subtype']]=list(set(tags_dict['relation_entity'][relation['relation_subtype']]))
+            if relation['relation_type'] not in tags_dict['relation_entity'].keys():
+                tags_dict['relation_entity'][relation['relation_type']]=[]
+            tags_dict['relation_entity'][relation['relation_type']].append(ner_types[relation['arguments'][0]['entity_id']])
+            tags_dict['relation_entity'][relation['relation_type']]=list(set(tags_dict['relation_entity'][relation['relation_type']]))
         for event in data_['event_mentions']:
             events.append([event['trigger']['start'],event['trigger']['end']-1,event['event_type']])
             all_events.append([event['trigger']['start'],event['trigger']['end']-1,event['event_type']])
@@ -408,15 +431,15 @@ def ace_add_pot(data):
                 tags_dict['role_entity'][argu['role']]=list(set(tags_dict['role_entity'][argu['role']]))
         # tags.append(ners+relations+events)
         # all_tags.append(ners+all_relaitons+all_events)
-        tags.append(ners + events)
-        all_tags.append(ners + all_events)
+        tags.append(ners)
+        all_tags.append(ners)
 
     tags_dict['ner']=list(set((ner_tags)))
     tags_dict['event']=list(set(event_tags))
     tags_dict['relation']=list(set(relation_tags))
     tags_dict['role']=list(set(role_tags))
 
-    with open('./ACE_add_event/valid_pattern.json','w',encoding='utf-8') as f:
+    with open('./ACE_add_entity/valid_pattern.json','w',encoding='utf-8') as f:
         f.write(json.dumps(tags_dict,ensure_ascii=False,indent=4))
 
     print('ner_tag:',len(ner_tags),len(set(ner_tags)))
@@ -453,13 +476,13 @@ def ace_add():
     dev_doc=get_split('./ACE/doc_dev.json')
     train_data,test_data,dev_data=get_ace_add('./ACE_add/english.oneie.json',train_doc,test_doc,dev_doc)
     train_sentences,train_tags, train_all_tags=ace_add_pot(train_data)
-    ace_add_file('./ACE_add/pot_train_1224_.txt',train_sentences,train_tags, train_all_tags)
+    ace_add_file('./ACE_add/pot_train_1224.txt',train_sentences,train_tags, train_all_tags)
 
     # test_sentences,test_tags, test_all_tags=ace_add_pot(test_data)
-    # ace_add_file('./ACE_add/pot_test_1224_.txt',test_sentences,test_tags, test_all_tags)
+    # ace_add_file('./ACE_add/pot_test_1224.txt',test_sentences,test_tags, test_all_tags)
 
     # dev_sentences,dev_tags, dev_all_tags=ace_add_pot(dev_data)
-    # ace_add_file('./ACE_add/pot_dev_1224_.txt',dev_sentences,dev_tags, dev_all_tags)
+    # ace_add_file('./ACE_add/pot_dev_1224.txt',dev_sentences,dev_tags, dev_all_tags)
 
 def ace_add_relation():
     train_doc=get_split('./ACE/doc_train.json')
@@ -467,13 +490,13 @@ def ace_add_relation():
     dev_doc=get_split('./ACE/doc_dev.json')
     train_data,test_data,dev_data=get_ace_add('./ACE_add/english.oneie.json',train_doc,test_doc,dev_doc)
     train_sentences,train_tags, train_all_tags=ace_add_pot(train_data)
-    ace_add_file('./ACE_add_relation/pot_train_1027.txt',train_sentences,train_tags, train_all_tags)
+    ace_add_file('./ACE_add_relation/pot_train_1224.txt',train_sentences,train_tags, train_all_tags)
 
-    test_sentences,test_tags, test_all_tags=ace_add_pot(test_data)
-    ace_add_file('./ACE_add_relation/pot_test_1027.txt',test_sentences,test_tags, test_all_tags)
+    # test_sentences,test_tags, test_all_tags=ace_add_pot(test_data)
+    # ace_add_file('./ACE_add_relation/pot_test_1224.txt',test_sentences,test_tags, test_all_tags)
 
-    dev_sentences,dev_tags, dev_all_tags=ace_add_pot(dev_data)
-    ace_add_file('./ACE_add_relation/pot_dev_1027.txt',dev_sentences,dev_tags, dev_all_tags)
+    # dev_sentences,dev_tags, dev_all_tags=ace_add_pot(dev_data)
+    # ace_add_file('./ACE_add_relation/pot_dev_1224.txt',dev_sentences,dev_tags, dev_all_tags)
 
 def ace_add_event():
     train_doc=get_split('./ACE/doc_train.json')
@@ -483,15 +506,29 @@ def ace_add_event():
     train_sentences,train_tags, train_all_tags=ace_add_pot(train_data)
     ace_add_file('./ACE_add_event/pot_train_1224.txt',train_sentences,train_tags, train_all_tags)
 
+    # test_sentences,test_tags, test_all_tags=ace_add_pot(test_data)
+    # ace_add_file('./ACE_add_event/pot_test_1224.txt',test_sentences,test_tags, test_all_tags)
+
+    # dev_sentences,dev_tags, dev_all_tags=ace_add_pot(dev_data)
+    # ace_add_file('./ACE_add_event/pot_dev_1224.txt',dev_sentences,dev_tags, dev_all_tags)
+
+def ace_add_entity():
+    train_doc=get_split('./ACE/doc_train.json')
+    test_doc=get_split('./ACE/doc_test.json')
+    dev_doc=get_split('./ACE/doc_dev.json')
+    train_data,test_data,dev_data=get_ace_add('./ACE_add/english.oneie.json',train_doc,test_doc,dev_doc)
+    train_sentences,train_tags, train_all_tags=ace_add_pot(train_data)
+    ace_add_file('./ACE_add_entity/pot_train_1224.txt',train_sentences,train_tags, train_all_tags)
+
     test_sentences,test_tags, test_all_tags=ace_add_pot(test_data)
-    ace_add_file('./ACE_add_event/pot_test_1224.txt',test_sentences,test_tags, test_all_tags)
+    ace_add_file('./ACE_add_entity/pot_test_1224.txt',test_sentences,test_tags, test_all_tags)
 
     dev_sentences,dev_tags, dev_all_tags=ace_add_pot(dev_data)
-    ace_add_file('./ACE_add_event/pot_dev_1224.txt',dev_sentences,dev_tags, dev_all_tags)
+    ace_add_file('./ACE_add_entity/pot_dev_1224.txt',dev_sentences,dev_tags, dev_all_tags)
 
 if __name__=='__main__':
-    # print('ace')
-    # ace()
+    print('ace')
+    ace()
     # print()
     # print('ace+')
     # ace_add()
@@ -501,9 +538,13 @@ if __name__=='__main__':
     # ace_add_relation()
     # print('ace_event')
     # ace_event()
-    print('ace_add_event')
-    ace_add_event()
+    # print('ace_add_event')
+    # ace_add_event()
     # print('ace_only_event')
     # ace_only_event()
     # print('ace_only_relation')
     # ace_only_relation()
+    # print('ace_add_entity')
+    # ace_add_entity()
+    # print('ace_entity')
+    # ace_entity()
