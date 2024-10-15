@@ -1,0 +1,2672 @@
+LONDON AFP
+0,1 GPE|1,2 ORG
+0,1 GPE|1,2 ORG
+
+British Chancellor Gordon Brown head country regulator chairman watchdog Financial Services Authority FSA
+0,1 GPE|1,2 PER|2,4 PER|4,5 PER|5,6 GPE|6,7 ORG|7,8 PER|8,9 ORG|9,12 ORG|4,7 ORG-AFF.Employment|7,12 ORG-AFF.Membership
+0,1 GPE|1,2 PER|2,4 PER|4,5 PER|5,6 GPE|6,7 ORG|7,8 PER|8,9 ORG|9,12 ORG|4,7 ORG-AFF.Employment|7,12 ORG-AFF.Membership
+
+banker Callum McCarthy London incumbent Howard Davies
+0,1 PER|1,3 PER|3,4 GPE|4,5 PER|5,7 PER|1,3 r_Person
+0,1 PER|1,3 PER|3,4 GPE|4,5 PER|5,7 PER|1,3 r_Person
+
+Davies leaving become chairman London School of Economics parts University of London
+0,1 PER|3,4 PER|4,8 ORG|9,12 ORG|1,2 Personnel.End-Position|2,3 Personnel.Start-Position|3,8 ORG-AFF.Employment|0,2 r_Person|0,3 r_Person|2,8 Entity
+0,1 PER|3,4 PER|4,8 ORG|9,12 ORG|1,2 Personnel.End-Position|2,3 Personnel.Start-Position|3,8 ORG-AFF.Employment|0,2 r_Person|0,3 r_Person|2,8 Entity
+
+Brown McCarthy FSA practitioner industry chairman regulator
+0,1 PER|1,2 PER|2,3 ORG|3,4 PER|4,5 ORG|5,6 PER|6,7 ORG|5,7 ORG-AFF.Membership
+0,1 PER|1,2 PER|2,3 ORG|3,4 PER|4,5 ORG|5,6 PER|6,7 ORG|5,7 ORG-AFF.Membership
+
+McCarthy heads Office of Gas and Electricity Markets Ofgem Britain industry
+0,1 PER|2,8 ORG|8,9 ORG|9,10 GPE|10,11 ORG|0,8 ORG-AFF.Employment
+0,1 PER|2,8 ORG|8,9 ORG|9,10 GPE|10,11 ORG|0,8 ORG-AFF.Employment
+
+Barclays Bank BZW Kleinwort Benson McCarthy servant Department of Trade and Industry
+0,2 ORG|2,3 ORG|3,5 ORG|5,6 PER|6,7 PER|7,12 ORG|0,6 r_ORG-AFF.Employment|2,6 r_ORG-AFF.Employment|3,6 r_ORG-AFF.Employment|6,12 ORG-AFF.Employment
+0,2 ORG|2,3 ORG|3,5 ORG|5,6 PER|6,7 PER|7,12 ORG|0,6 r_ORG-AFF.Employment|2,6 r_ORG-AFF.Employment|3,6 r_ORG-AFF.Employment|6,12 ORG-AFF.Employment
+
+Davies FSA Britain body agencies
+0,1 PER|1,2 ORG|2,3 GPE|3,4 ORG|4,5 ORG|2,4 r_PART-WHOLE.Subsidiary
+0,1 PER|1,2 ORG|2,3 GPE|3,4 ORG|4,5 ORG|2,4 r_PART-WHOLE.Subsidiary
+
+MOSCOW AFP
+0,1 GPE|1,2 ORG
+0,1 GPE|1,2 ORG
+
+Russian President Vladimir Putin summit leaders Germany France war Iraq government sources
+0,1 GPE|1,2 PER|2,4 PER|5,6 PER|6,7 GPE|7,8 GPE|9,10 GPE|10,11 GPE|11,12 PER|4,5 Contact.Meet|8,9 Conflict.Attack|0,2 r_ORG-AFF.Employment|5,7 ORG-AFF.Employment|5,8 ORG-AFF.Employment|10,12 r_ORG-AFF.Employment|2,5 r_Entity|4,6 Entity|8,10 Place
+0,1 GPE|1,2 PER|2,4 PER|5,6 PER|6,7 GPE|7,8 GPE|9,10 GPE|10,11 GPE|11,12 PER|4,5 Contact.Meet|8,9 Conflict.Attack|0,2 r_ORG-AFF.Employment|5,7 ORG-AFF.Employment|5,8 ORG-AFF.Employment|10,12 r_ORG-AFF.Employment|2,5 r_Entity|4,6 Entity|8,10 Place
+
+government officials corridors Moscow Russian German French Izvestia daily
+0,1 GPE|1,2 PER|2,3 FAC|3,4 GPE|4,5 GPE|5,6 GPE|6,7 GPE|8,9 ORG|0,2 r_ORG-AFF.Employment|1,3 PHYS.Located|2,4 PART-WHOLE.Geographical
+0,1 GPE|1,2 PER|2,3 FAC|3,4 GPE|4,5 GPE|5,6 GPE|6,7 GPE|8,9 ORG|0,2 r_ORG-AFF.Employment|1,3 PHYS.Located|2,4 PART-WHOLE.Geographical
+
+Iraq Russia United Sates Moscow official Putin paper
+0,1 GPE|1,2 GPE|2,4 GPE|4,5 GPE|5,6 PER|6,7 PER|7,8 ORG|4,6 r_ORG-AFF.Employment
+0,1 GPE|1,2 GPE|2,4 GPE|4,5 GPE|5,6 PER|6,7 PER|7,8 ORG|4,6 r_ORG-AFF.Employment
+
+Iraq United States
+0,1 GPE|1,3 GPE
+0,1 GPE|1,3 GPE
+
+Russia war Iraq Putin US President George W. Bush Russian media Kremlin officials
+0,1 GPE|2,3 GPE|3,4 PER|4,5 GPE|5,6 PER|6,9 PER|9,10 GPE|10,11 ORG|11,12 GPE|12,13 PER|1,2 Conflict.Attack|4,6 r_ORG-AFF.Employment|9,11 r_GEN-AFF.Org-Location|11,13 r_ORG-AFF.Employment|1,3 Place
+0,1 GPE|2,3 GPE|3,4 PER|4,5 GPE|5,6 PER|6,9 PER|9,10 GPE|10,11 ORG|11,12 GPE|12,13 PER|1,2 Conflict.Attack|4,6 r_ORG-AFF.Employment|9,11 r_GEN-AFF.Org-Location|11,13 r_ORG-AFF.Employment|1,3 Place
+
+Analysts Putin United States European Russian media ministries
+0,1 PER|1,2 PER|2,4 GPE|4,5 GPE|5,6 GPE|6,7 ORG|7,8 ORG|5,7 r_GEN-AFF.Org-Location
+0,1 PER|1,2 PER|2,4 GPE|4,5 GPE|5,6 GPE|6,7 ORG|7,8 ORG|5,7 r_GEN-AFF.Org-Location
+
+Russia minister Washington official Moscow Soviet Baghdad
+0,1 GPE|1,2 PER|2,3 GPE|3,4 PER|4,5 GPE|5,6 GPE|6,7 GPE|0,2 r_ORG-AFF.Employment|2,4 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|2,3 GPE|3,4 PER|4,5 GPE|5,6 GPE|6,7 GPE|0,2 r_ORG-AFF.Employment|2,4 r_ORG-AFF.Employment
+
+Kommersant business daily United States Russia France Germany Iraqi war
+0,3 ORG|3,5 GPE|5,6 GPE|6,7 GPE|7,8 GPE|8,9 GPE|9,10 Conflict.Attack|8,10 r_Place
+0,3 ORG|3,5 GPE|5,6 GPE|6,7 GPE|7,8 GPE|8,9 GPE|9,10 Conflict.Attack|8,10 r_Place
+
+Gazeta.ru
+0,1 ORG
+0,1 ORG
+
+US Iraq
+0,1 GPE|1,2 GPE
+0,1 GPE|1,2 GPE
+
+Putin
+0,1 PER
+0,1 PER
+
+minister Moscow Iraqi Russia US
+0,1 PER|1,2 GPE|2,3 GPE|3,4 GPE|4,5 GPE
+0,1 PER|1,2 GPE|2,3 GPE|3,4 GPE|4,5 GPE
+
+Putin
+0,1 PER
+0,1 PER
+
+Russia
+0,1 GPE
+0,1 GPE
+
+Putin talks Saint Petersburg Jacques Chirac France German Chancellor Gerhard Schroeder United Nations war Iraq
+0,1 PER|2,4 GPE|4,6 PER|6,7 GPE|7,8 GPE|8,9 PER|9,11 PER|11,13 ORG|14,15 GPE|13,14 Conflict.Attack|4,7 ORG-AFF.Employment|7,9 r_ORG-AFF.Employment
+0,1 PER|2,4 GPE|4,6 PER|6,7 GPE|7,8 GPE|8,9 PER|9,11 PER|11,13 ORG|14,15 GPE|13,14 Conflict.Attack|4,7 ORG-AFF.Employment|7,9 r_ORG-AFF.Employment
+
+leaders US British invasion Iraq UN Iraqi President Saddam Hussein
+0,1 PER|1,2 GPE|2,3 GPE|4,5 GPE|5,6 ORG|6,7 GPE|7,8 PER|8,10 PER|3,4 Conflict.Attack|6,8 r_ORG-AFF.Employment|1,4 r_Attacker|2,4 r_Attacker
+0,1 PER|1,2 GPE|2,3 GPE|4,5 GPE|5,6 ORG|6,7 GPE|7,8 PER|8,10 PER|3,4 Conflict.Attack|6,8 r_ORG-AFF.Employment|1,4 r_Attacker|2,4 r_Attacker
+
+Saint Petersburg summit Iraq
+0,2 GPE|3,4 GPE|2,3 Contact.Meet|0,3 r_Place
+0,2 GPE|3,4 GPE|2,3 Contact.Meet|0,3 r_Place
+
+diplomats Putin Washington Schroeder Chirac Bush
+0,1 PER|1,2 PER|2,3 GPE|3,4 PER|4,5 PER|5,6 PER
+0,1 PER|1,2 PER|2,3 GPE|3,4 PER|4,5 PER|5,6 PER
+
+Putin British Minister Tony Blair Bush backer war Iraq Saint Petersburg Grand Hotel Europe diplomats Blair
+0,1 PER|1,2 GPE|2,3 PER|3,5 PER|5,6 PER|6,7 PER|8,9 GPE|9,11 GPE|11,14 FAC|14,15 PER|15,16 PER|7,8 Conflict.Attack|1,3 r_ORG-AFF.Employment|9,14 r_PART-WHOLE.Geographical|7,9 Place|3,5 r_Artifact
+0,1 PER|1,2 GPE|2,3 PER|3,5 PER|5,6 PER|6,7 PER|8,9 GPE|9,11 GPE|11,14 FAC|14,15 PER|15,16 PER|7,8 Conflict.Attack|1,3 r_ORG-AFF.Employment|9,14 r_PART-WHOLE.Geographical|7,9 Place|3,5 r_Artifact
+
+Putin Washington US war
+0,1 PER|1,2 GPE|2,3 GPE|3,4 Conflict.Attack|2,4 r_Attacker
+0,1 PER|1,2 GPE|2,3 GPE|3,4 Conflict.Attack|2,4 r_Attacker
+
+lawmaker Kremlin United States weapons Iraq
+0,1 PER|1,2 GPE|2,4 GPE|4,5 WEA|5,6 GPE
+0,1 PER|1,2 GPE|2,4 GPE|4,5 WEA|5,6 GPE
+
+America Dmitry Rogozin head lower house parliament committee Rossia television
+0,1 GPE|1,3 PER|3,4 PER|5,6 ORG|6,7 ORG|7,8 ORG|8,10 ORG|3,8 ORG-AFF.Membership|5,7 PART-WHOLE.Subsidiary|5,8 r_PART-WHOLE.Subsidiary
+0,1 GPE|1,3 PER|3,4 PER|5,6 ORG|6,7 ORG|7,8 ORG|8,10 ORG|3,8 ORG-AFF.Membership|5,7 PART-WHOLE.Subsidiary|5,8 r_PART-WHOLE.Subsidiary
+
+weapons
+0,1 WEA
+0,1 WEA
+
+Putin media aide Sergei Yastrzhembsky Kommersant Russia Iraqi
+0,1 PER|1,2 ORG|2,3 PER|3,5 PER|5,6 ORG|6,7 GPE|7,8 GPE|0,3 PER-SOC.Business
+0,1 PER|1,2 ORG|2,3 PER|3,5 PER|5,6 ORG|6,7 GPE|7,8 GPE|0,3 PER-SOC.Business
+
+Washington people
+0,1 GPE|1,2 PER
+0,1 GPE|1,2 PER
+
+Lebanese Minister Hariri
+
+
+
+BEIRUT AFP
+0,1 GPE|1,2 ORG
+0,1 GPE|1,2 ORG
+
+Lebanese Minister Rafiq Hariri resignation President Emile Lahoud
+0,1 GPE|2,4 PER|5,6 PER|6,8 PER|0,2 r_ORG-AFF.Employment
+0,1 GPE|2,4 PER|5,6 PER|6,8 PER|0,2 r_ORG-AFF.Employment
+
+Hariri resignation meeting head state Baabda palace capital
+0,1 PER|3,4 PER|4,5 GPE|5,6 GPE|6,7 FAC|7,8 GPE|2,3 Contact.Meet|6,8 PHYS.Near|0,3 r_Entity|2,4 Entity|2,7 Place
+0,1 PER|3,4 PER|4,5 GPE|5,6 GPE|6,7 FAC|7,8 GPE|2,3 Contact.Meet|6,8 PHYS.Near|0,3 r_Entity|2,4 Entity|2,7 Place
+
+Lahoud government
+0,1 PER|1,2 ORG
+0,1 PER|1,2 ORG
+
+Hariri country government sources
+0,1 PER|1,2 GPE|2,3 GPE|3,4 PER
+0,1 PER|1,2 GPE|2,3 GPE|3,4 PER
+
+government formed
+0,1 ORG|1,2 Business.Start-Org|0,2 r_Org
+0,1 ORG|1,2 Business.Start-Org|0,2 r_Org
+
+Lebanon war Muslim Maronite Christian
+0,1 GPE|2,3 PER|4,5 PER|1,2 Conflict.Attack|0,2 r_Place
+0,1 GPE|2,3 PER|4,5 PER|1,2 Conflict.Attack|0,2 r_Place
+
+Married Hariri children
+1,2 PER|2,3 PER|0,1 Life.Marry|1,3 PER-SOC.Family|0,2 Person
+1,2 PER|2,3 PER|0,1 Life.Marry|1,3 PER-SOC.Family|0,2 Person
+
+businessman
+0,1 PER
+0,1 PER
+
+station newspaper
+0,1 ORG|1,2 ORG
+0,1 ORG|1,2 ORG
+
+India
+
+
+
+GUWAHATI India AFP
+0,1 GPE|1,2 GPE|2,3 ORG|0,2 PART-WHOLE.Geographical
+0,1 GPE|1,2 GPE|2,3 ORG|0,2 PART-WHOLE.Geographical
+
+members family Indias state Tripura hacked death mob police
+0,1 PER|1,2 PER|2,3 GPE|3,4 GPE|4,5 GPE|7,8 PER|8,9 PER|5,6 Conflict.Attack|6,7 Life.Die|0,2 PER-SOC.Family|1,4 GEN-AFF.Citizen-Resident-Religion-Ethnicity|2,4 r_PART-WHOLE.Geographical|0,6 r_Target|3,6 r_Place|5,8 Attacker|0,7 r_Victim|4,7 r_Place|6,8 Agent
+0,1 PER|1,2 PER|2,3 GPE|3,4 GPE|4,5 GPE|7,8 PER|8,9 PER|5,6 Conflict.Attack|6,7 Life.Die|0,2 PER-SOC.Family|1,4 GEN-AFF.Citizen-Resident-Religion-Ethnicity|2,4 r_PART-WHOLE.Geographical|0,6 r_Target|3,6 r_Place|5,8 Attacker|0,7 r_Victim|4,7 r_Place|6,8 Agent
+
+spokesman group men attacked house village doctor Tultuli Tripuras state capital Agartala
+0,1 PER|2,3 PER|4,5 FAC|5,6 GPE|6,7 PER|7,8 GPE|8,9 GPE|9,10 GPE|10,11 GPE|11,12 GPE|3,4 Conflict.Attack|4,7 r_ART.User-Owner-Inventor-Manufacturer|5,7 r_ORG-AFF.Employment|7,12 PHYS.Near|8,11 r_PART-WHOLE.Geographical|2,4 r_Attacker|3,5 Target|3,8 Place
+0,1 PER|2,3 PER|4,5 FAC|5,6 GPE|6,7 PER|7,8 GPE|8,9 GPE|9,10 GPE|10,11 GPE|11,12 GPE|3,4 Conflict.Attack|4,7 r_ART.User-Owner-Inventor-Manufacturer|5,7 r_ORG-AFF.Employment|7,12 PHYS.Near|8,11 r_PART-WHOLE.Geographical|2,4 r_Attacker|3,5 Target|3,8 Place
+
+mob members family killed machetes spears fleeing area spokesman telephone Agartala
+0,1 PER|1,2 PER|2,3 PER|4,5 WEA|5,6 WEA|7,8 LOC|8,9 PER|10,11 GPE|3,4 Conflict.Attack|6,7 Movement.Transport|9,10 Contact.Phone-Write|0,5 ART.User-Owner-Inventor-Manufacturer|0,6 ART.User-Owner-Inventor-Manufacturer|1,3 PER-SOC.Family|8,11 PHYS.Located|0,4 r_Attacker|3,5 Instrument|3,6 Instrument|3,8 Place|0,7 r_Artifact|8,10 r_Entity|9,11 Place
+0,1 PER|1,2 PER|2,3 PER|4,5 WEA|5,6 WEA|7,8 LOC|8,9 PER|10,11 GPE|3,4 Conflict.Attack|6,7 Movement.Transport|9,10 Contact.Phone-Write|0,5 ART.User-Owner-Inventor-Manufacturer|0,6 ART.User-Owner-Inventor-Manufacturer|1,3 PER-SOC.Family|8,11 PHYS.Located|0,4 r_Attacker|3,5 Instrument|3,6 Instrument|3,8 Place|0,7 r_Artifact|8,10 r_Entity|9,11 Place
+
+dead doctor Nityalila Naotia son member family
+1,2 PER|2,4 PER|4,5 PER|5,6 PER|6,7 PER|5,7 PER-SOC.Family
+1,2 PER|2,4 PER|4,5 PER|5,6 PER|6,7 PER|5,7 PER-SOC.Family
+
+Naotia sorcerer villagers group village eliminate spokesman
+0,1 PER|1,2 PER|2,3 PER|3,4 PER|4,5 GPE|6,7 PER|5,6 Life.Die|3,5 GEN-AFF.Citizen-Resident-Religion-Ethnicity|3,6 r_Agent|4,6 r_Place
+0,1 PER|1,2 PER|2,3 PER|3,4 PER|4,5 GPE|6,7 PER|5,6 Life.Die|3,5 GEN-AFF.Citizen-Resident-Religion-Ethnicity|3,6 r_Agent|4,6 r_Place
+
+Police arrested people killings
+0,1 PER|2,3 PER|1,2 Justice.Arrest-Jail|3,4 Life.Die|0,2 r_Agent|1,3 Person
+0,1 PER|2,3 PER|1,2 Justice.Arrest-Jail|3,4 Life.Die|0,2 r_Agent|1,3 Person
+
+parts Tripura Indian states
+1,2 GPE|2,3 GPE|3,4 GPE|2,4 r_PART-WHOLE.Geographical
+1,2 GPE|2,3 GPE|3,4 GPE|2,4 r_PART-WHOLE.Geographical
+
+tribes
+0,1 PER
+0,1 PER
+
+US analysts Dmitry Zaks
+
+
+
+MOSCOW AFP
+0,1 GPE|1,2 ORG
+0,1 GPE|1,2 ORG
+
+Moscow analysts Russia US campaign Iraq
+0,1 GPE|1,2 PER|2,3 GPE|3,4 GPE|5,6 GPE|4,5 Conflict.Attack|0,2 r_ORG-AFF.Employment|3,5 r_Attacker|4,6 Place
+0,1 GPE|1,2 PER|2,3 GPE|3,4 GPE|5,6 GPE|4,5 Conflict.Attack|0,2 r_ORG-AFF.Employment|3,5 r_Attacker|4,6 Place
+
+experts Kremlin countries China India conflict
+0,1 PER|1,2 GPE|2,3 GPE|3,4 GPE|4,5 GPE|5,6 Conflict.Attack
+0,1 PER|1,2 GPE|2,3 GPE|3,4 GPE|4,5 GPE|5,6 Conflict.Attack
+
+Russian President Vladimir Putin US President George W. Bush aides
+0,1 GPE|1,2 PER|2,4 PER|4,5 GPE|5,6 PER|6,9 PER|9,10 PER|0,2 r_ORG-AFF.Employment|2,9 PER-SOC.Business|4,6 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|2,4 PER|4,5 GPE|5,6 PER|6,9 PER|9,10 PER|0,2 r_ORG-AFF.Employment|2,9 PER-SOC.Business|4,6 r_ORG-AFF.Employment
+
+analyst China Russia France UN Security Council war mediator United States North Korea powers Russia Iraqi
+0,1 PER|1,2 GPE|2,3 GPE|3,4 GPE|4,5 ORG|5,7 ORG|8,9 GPE|9,11 GPE|11,13 GPE|13,14 GPE|14,15 GPE|15,16 GPE|7,8 Conflict.Attack|2,7 ORG-AFF.Membership|3,7 ORG-AFF.Membership|4,7 r_PART-WHOLE.Subsidiary
+0,1 PER|1,2 GPE|2,3 GPE|3,4 GPE|4,5 ORG|5,7 ORG|8,9 GPE|9,11 GPE|11,13 GPE|13,14 GPE|14,15 GPE|15,16 GPE|7,8 Conflict.Attack|2,7 ORG-AFF.Membership|3,7 ORG-AFF.Membership|4,7 r_PART-WHOLE.Subsidiary
+
+Asia Minister Igor ) Ivanov Germany France Andrei Piontkovsky Moscow Center of Strategic Studies
+0,1 GPE|1,2 PER|2,5 PER|5,6 GPE|6,7 GPE|7,9 PER|9,10 GPE|10,14 ORG|7,14 ORG-AFF.Membership|9,14 r_GEN-AFF.Org-Location
+0,1 GPE|1,2 PER|2,5 PER|5,6 GPE|6,7 GPE|7,9 PER|9,10 GPE|10,14 ORG|7,14 ORG-AFF.Membership|9,14 r_GEN-AFF.Org-Location
+
+Washington Pyongyang nuclear Bejing Moscow region meeting
+0,1 GPE|1,2 GPE|3,4 GPE|4,5 GPE|5,6 LOC|6,7 Contact.Meet|0,7 r_Entity|1,7 r_Entity|3,7 r_Place
+0,1 GPE|1,2 GPE|3,4 GPE|4,5 GPE|5,6 LOC|6,7 Contact.Meet|0,7 r_Entity|1,7 r_Entity|3,7 r_Place
+
+European troika Washington
+0,1 GPE|1,2 GPE|2,3 GPE|0,2 r_PART-WHOLE.Geographical
+0,1 GPE|1,2 GPE|2,3 GPE|0,2 r_PART-WHOLE.Geographical
+
+French President Jacques Chirac call Bush
+0,1 GPE|1,2 PER|2,4 PER|5,6 PER|4,5 Contact.Phone-Write|0,2 r_ORG-AFF.Employment|4,6 Entity
+0,1 GPE|1,2 PER|2,4 PER|5,6 PER|4,5 Contact.Phone-Write|0,2 r_ORG-AFF.Employment|4,6 Entity
+
+German Chancellor Gerhard Schroeder Bush war
+0,1 GPE|1,2 PER|2,4 PER|4,5 PER|5,6 Conflict.Attack|0,2 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|2,4 PER|4,5 PER|5,6 Conflict.Attack|0,2 r_ORG-AFF.Employment
+
+Moscow Washington
+0,1 GPE|1,2 GPE
+0,1 GPE|1,2 GPE
+
+Russian Putin advisers
+0,1 GPE|1,2 PER|2,3 PER
+0,1 GPE|1,2 PER|2,3 PER
+
+minister Anatoly Adamishin
+0,1 PER|1,3 PER
+0,1 PER|1,3 PER
+
+France Germany nations blocs Moscow war
+0,1 GPE|1,2 GPE|2,3 GPE|4,5 GPE|5,6 Conflict.Attack
+0,1 GPE|1,2 GPE|2,3 GPE|4,5 GPE|5,6 Conflict.Attack
+
+United States
+0,2 GPE
+0,2 GPE
+
+US diplomats Washington European Paris Berlin Moscow
+0,1 GPE|1,2 PER|2,3 GPE|3,4 GPE|4,5 GPE|5,6 GPE|6,7 GPE|0,2 r_ORG-AFF.Employment|3,5 r_PART-WHOLE.Geographical|3,6 r_PART-WHOLE.Geographical|3,7 r_PART-WHOLE.Geographical
+0,1 GPE|1,2 PER|2,3 GPE|3,4 GPE|4,5 GPE|5,6 GPE|6,7 GPE|0,2 r_ORG-AFF.Employment|3,5 r_PART-WHOLE.Geographical|3,6 r_PART-WHOLE.Geographical|3,7 r_PART-WHOLE.Geographical
+
+Putin Bush US president
+0,1 PER|1,2 PER|2,3 GPE|3,4 PER|2,4 r_ORG-AFF.Employment
+0,1 PER|1,2 PER|2,3 GPE|3,4 PER|2,4 r_ORG-AFF.Employment
+
+meet Russian leader city Saint Petersburg
+1,2 GPE|2,3 PER|3,4 GPE|4,6 GPE|0,1 Contact.Meet|1,3 r_ORG-AFF.Employment|2,4 GEN-AFF.Citizen-Resident-Religion-Ethnicity|0,4 Place
+1,2 GPE|2,3 PER|3,4 GPE|4,6 GPE|0,1 Contact.Meet|1,3 r_ORG-AFF.Employment|2,4 GEN-AFF.Citizen-Resident-Religion-Ethnicity|0,4 Place
+
+war lawmaker Irina Khakamada Union of Rightist Forces
+1,2 PER|2,4 PER|4,8 ORG|0,1 Conflict.Attack|2,8 ORG-AFF.Membership
+1,2 PER|2,4 PER|4,8 ORG|0,1 Conflict.Attack|2,8 ORG-AFF.Membership
+
+Americans Iraq
+0,1 GPE|1,2 GPE
+0,1 GPE|1,2 GPE
+
+Khakamada United States Russia Iraqi government
+0,1 PER|1,3 GPE|3,4 GPE|4,5 GPE|5,6 GPE
+0,1 PER|1,3 GPE|3,4 GPE|4,5 GPE|5,6 GPE
+
+analysts Russia war Iraq regime Saddam Hussein
+0,1 PER|1,2 GPE|3,4 GPE|4,5 GPE|5,7 PER|2,3 Conflict.Attack|2,4 Place
+0,1 PER|1,2 GPE|3,4 GPE|4,5 GPE|5,7 PER|2,3 Conflict.Attack|2,4 Place
+
+Iraqi world Russia
+0,1 GPE|1,2 LOC|2,3 GPE
+0,1 GPE|1,2 LOC|2,3 GPE
+
+Kremlin forum Putin voters Russia
+0,1 GPE|2,3 PER|3,4 PER|4,5 GPE
+0,1 GPE|2,3 PER|3,4 PER|4,5 GPE
+
+Putin election analysts war Russians Kremlin
+0,1 PER|2,3 PER|4,5 PER|5,6 GPE|3,4 Conflict.Attack
+0,1 PER|2,3 PER|4,5 PER|5,6 GPE|3,4 Conflict.Attack
+
+elections Russia Iraq Viktor Kuvaldin center Soviet president Mikhail Gorbachev
+1,2 GPE|2,3 GPE|3,5 PER|5,6 ORG|6,7 GPE|7,8 PER|8,10 PER|0,1 Personnel.Elect|3,6 ORG-AFF.Employment|6,8 r_ORG-AFF.Employment|5,10 r_ORG-AFF.Investor-Shareholder
+1,2 GPE|2,3 GPE|3,5 PER|5,6 ORG|6,7 GPE|7,8 PER|8,10 PER|0,1 Personnel.Elect|3,6 ORG-AFF.Employment|6,8 r_ORG-AFF.Employment|5,10 r_ORG-AFF.Investor-Shareholder
+
+KUALA LUMPUR AFP
+0,2 GPE|2,3 ORG
+0,2 GPE|2,3 ORG
+
+Malaysia Court conviction jail sentence minister Anwar Ibrahim
+0,1 GPE|1,2 ORG|3,4 FAC|5,6 PER|6,8 PER|2,3 Justice.Convict|4,5 Justice.Sentence|0,2 r_PART-WHOLE.Subsidiary|2,8 Defendant|4,8 Defendant
+0,1 GPE|1,2 ORG|3,4 FAC|5,6 PER|6,8 PER|2,3 Justice.Convict|4,5 Justice.Sentence|0,2 r_PART-WHOLE.Subsidiary|2,8 Defendant|4,8 Defendant
+
+Anwar prison release sentence
+0,1 PER|1,2 FAC|2,3 Justice.Release-Parole|3,4 Justice.Sentence|0,3 r_Person
+0,1 PER|1,2 FAC|2,3 Justice.Release-Parole|3,4 Justice.Sentence|0,3 r_Person
+
+heir - apparent Minister Mahathir Mohamad reporters appeal judges junior court
+0,1 PER|3,4 PER|4,6 PER|6,7 PER|8,9 PER|10,11 ORG|7,8 Justice.Appeal
+0,1 PER|3,4 PER|4,6 PER|6,7 PER|8,9 PER|10,11 ORG|7,8 Justice.Appeal
+
+Mahathir sacking Anwar Malaysian people streets
+0,1 PER|2,3 PER|3,4 GPE|4,5 PER|5,6 FAC|1,2 Personnel.End-Position|1,3 Person
+0,1 PER|2,3 PER|3,4 GPE|4,5 PER|5,6 FAC|1,2 Personnel.End-Position|1,3 Person
+
+arrested charged driver
+2,3 PER|0,1 Justice.Arrest-Jail|1,2 Justice.Charge-Indict
+2,3 PER|0,1 Justice.Arrest-Jail|1,2 Justice.Charge-Indict
+
+trials United States Anwar prisoner
+1,3 GPE|3,4 PER|4,5 PER|0,1 Justice.Trial-Hearing
+1,3 GPE|3,4 PER|4,5 PER|0,1 Justice.Trial-Hearing
+
+Anwar sentence sentence
+0,1 PER|1,2 Justice.Sentence|2,3 Justice.Sentence
+0,1 PER|1,2 Justice.Sentence|2,3 Justice.Sentence
+
+Jurassic Park creator Crichton pay wife
+
+
+
+LOS ANGELES AFP
+0,2 GPE|2,3 ORG
+0,2 GPE|2,3 ORG
+
+novelist Jurassic Park creator Michael Crichton pay wife divorce court
+0,1 PER|3,4 PER|4,6 PER|7,8 PER|9,10 ORG|6,7 Transaction.Transfer-Money|8,9 Life.Divorce|4,7 r_Giver|6,8 Recipient
+0,1 PER|3,4 PER|4,6 PER|7,8 PER|9,10 ORG|6,7 Transaction.Transfer-Money|8,9 Life.Divorce|4,7 r_Giver|6,8 Recipient
+
+Crichton world authors Hollywood
+0,1 PER|1,2 LOC|2,3 PER|3,4 GPE|1,3 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity
+0,1 PER|1,2 LOC|2,3 PER|3,4 GPE|1,3 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity
+
+writer Anne Marie wife Los Angeles Superior Court
+0,1 PER|1,3 PER|3,4 PER|4,8 ORG
+0,1 PER|1,3 PER|3,4 PER|4,8 ORG
+
+Anne - Marie get couple 19-room home New York state
+0,3 PER|4,5 PER|5,6 FAC|6,7 FAC|7,9 GPE|9,10 GPE|0,7 ART.User-Owner-Inventor-Manufacturer|4,7 ART.User-Owner-Inventor-Manufacturer|6,10 PART-WHOLE.Geographical
+0,3 PER|4,5 PER|5,6 FAC|6,7 FAC|7,9 GPE|9,10 GPE|0,7 ART.User-Owner-Inventor-Manufacturer|4,7 ART.User-Owner-Inventor-Manufacturer|6,10 PART-WHOLE.Geographical
+
+Crichton Harvard Medical School graduate home Hawaii cars couple homes Los Angeles daughter Taylor
+0,1 PER|1,4 ORG|4,5 PER|5,6 FAC|6,7 GPE|7,8 VEH|8,9 PER|9,10 FAC|10,12 GPE|12,13 PER|13,14 PER|0,6 ART.User-Owner-Inventor-Manufacturer|0,8 ART.User-Owner-Inventor-Manufacturer|1,5 r_ORG-AFF.Student-Alum|9,12 PART-WHOLE.Geographical
+0,1 PER|1,4 ORG|4,5 PER|5,6 FAC|6,7 GPE|7,8 VEH|8,9 PER|9,10 FAC|10,12 GPE|12,13 PER|13,14 PER|0,6 ART.User-Owner-Inventor-Manufacturer|0,8 ART.User-Owner-Inventor-Manufacturer|1,5 r_ORG-AFF.Student-Alum|9,12 PART-WHOLE.Geographical
+
+divorce Crichton
+1,2 PER|0,1 Life.Divorce|0,2 Person
+1,2 PER|0,1 Life.Divorce|0,2 Person
+
+received publishers Harper Collins
+1,2 ORG|2,4 ORG
+1,2 ORG|2,4 ORG
+
+Anne - Marie sued Crichton divorce marriage
+0,3 PER|4,5 PER|3,4 Justice.Sue|5,6 Life.Divorce|6,7 Life.Marry|0,4 r_Plaintiff|3,5 Defendant|0,6 r_Person|4,6 r_Person
+0,3 PER|4,5 PER|3,4 Justice.Sue|5,6 Life.Divorce|6,7 Life.Marry|0,4 r_Plaintiff|3,5 Defendant|0,6 r_Person|4,6 r_Person
+
+Chinese archaeologists Jurassic Park author
+0,1 GPE|1,2 PER|4,5 PER|0,2 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity
+0,1 GPE|1,2 PER|4,5 PER|0,2 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity
+
+Charles Whelan
+
+
+
+SEOUL AFP
+0,1 GPE|1,2 ORG
+0,1 GPE|1,2 ORG
+
+US North Korea weapons Asia world capitals
+0,1 GPE|1,3 GPE|3,4 WEA|4,5 GPE|5,6 LOC|6,7 GPE|1,4 ART.User-Owner-Inventor-Manufacturer|5,7 r_PART-WHOLE.Geographical
+0,1 GPE|1,3 GPE|3,4 WEA|4,5 GPE|5,6 LOC|6,7 GPE|1,4 ART.User-Owner-Inventor-Manufacturer|5,7 r_PART-WHOLE.Geographical
+
+US sources talks Beijing meeting US North Korean officials nuclear
+0,1 GPE|1,2 PER|3,4 GPE|5,6 GPE|6,8 GPE|8,9 PER|9,10 WEA|0,2 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|5,9 r_ORG-AFF.Employment|6,9 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|3,4 GPE|5,6 GPE|6,8 GPE|8,9 PER|9,10 WEA|0,2 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|5,9 r_ORG-AFF.Employment|6,9 r_ORG-AFF.Employment
+
+China sides officials Moscow London
+0,1 GPE|1,2 GPE|2,3 PER|3,4 GPE|4,5 GPE|2,4 ORG-AFF.Employment|2,5 ORG-AFF.Employment
+0,1 GPE|1,2 GPE|2,3 PER|3,4 GPE|4,5 GPE|2,4 ORG-AFF.Employment|2,5 ORG-AFF.Employment
+
+South Korea Japan Seoul Minister Yoon Young - Kwan North Koreans Asia
+0,2 GPE|2,3 GPE|3,4 GPE|4,5 PER|5,9 PER|9,11 GPE|11,12 LOC|3,5 r_ORG-AFF.Employment
+0,2 GPE|2,3 GPE|3,4 GPE|4,5 PER|5,9 PER|9,11 GPE|11,12 LOC|3,5 r_ORG-AFF.Employment
+
+US sources Beijing meetings head North Korean delegation Li Gun US envoy James Kelly state weapons US
+0,1 GPE|1,2 PER|2,3 GPE|4,5 PER|5,7 GPE|7,8 ORG|8,10 PER|10,11 GPE|11,12 PER|12,14 PER|14,15 GPE|15,16 WEA|16,17 GPE|0,2 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|4,8 ORG-AFF.Membership|5,8 r_PART-WHOLE.Subsidiary|10,12 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|2,3 GPE|4,5 PER|5,7 GPE|7,8 ORG|8,10 PER|10,11 GPE|11,12 PER|12,14 PER|14,15 GPE|15,16 WEA|16,17 GPE|0,2 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|4,8 ORG-AFF.Membership|5,8 r_PART-WHOLE.Subsidiary|10,12 r_ORG-AFF.Employment
+
+weapons US source
+0,1 WEA|1,2 GPE|2,3 PER|1,3 r_ORG-AFF.Employment
+0,1 WEA|1,2 GPE|2,3 PER|1,3 r_ORG-AFF.Employment
+
+Li Kelly North Korea Yongbyon plant weapons bombs sources
+0,1 PER|1,2 PER|2,4 GPE|4,5 GPE|5,6 FAC|6,7 WEA|7,8 WEA|8,9 PER|4,6 r_PART-WHOLE.Geographical
+0,1 PER|1,2 PER|2,4 GPE|4,5 GPE|5,6 FAC|6,7 WEA|7,8 WEA|8,9 PER|4,6 r_PART-WHOLE.Geographical
+
+US President George W. Bush Pyongyang North Korea Washington
+0,1 GPE|1,2 PER|2,5 PER|5,6 GPE|6,8 GPE|8,9 GPE|0,2 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|2,5 PER|5,6 GPE|6,8 GPE|8,9 GPE|0,2 r_ORG-AFF.Employment
+
+talks Seoul analysts
+1,2 GPE|2,3 PER
+1,2 GPE|2,3 PER
+
+meetings US officials North Korea US State Department spokesman Richard Boucher North Koreans
+1,2 GPE|2,3 PER|3,5 GPE|5,6 GPE|6,8 ORG|8,9 PER|9,11 PER|11,13 GPE|1,3 r_ORG-AFF.Employment|5,8 r_PART-WHOLE.Subsidiary|6,9 r_ORG-AFF.Employment
+1,2 GPE|2,3 PER|3,5 GPE|5,6 GPE|6,8 ORG|8,9 PER|9,11 PER|11,13 GPE|1,3 r_ORG-AFF.Employment|5,8 r_PART-WHOLE.Subsidiary|6,9 r_ORG-AFF.Employment
+
+China talks talks Minister Li Zhaoxing
+0,1 GPE|3,4 PER|4,6 PER
+0,1 GPE|3,4 PER|4,6 PER
+
+sides Korean nuclear Li Xinhua agency
+0,1 GPE|1,2 GPE|2,3 WEA|3,4 PER|4,6 ORG
+0,1 GPE|1,2 GPE|2,3 WEA|3,4 PER|4,6 ORG
+
+Korean nuclear side
+0,1 GPE|1,2 WEA|2,3 GPE
+0,1 GPE|1,2 WEA|2,3 GPE
+
+Russian ministry official Britain Secretary Jack Straw BBC
+0,1 GPE|1,2 ORG|2,3 PER|3,4 GPE|4,5 PER|5,7 PER|7,8 ORG|0,2 r_PART-WHOLE.Subsidiary|1,3 r_ORG-AFF.Employment|3,5 r_ORG-AFF.Employment
+0,1 GPE|1,2 ORG|2,3 PER|3,4 GPE|4,5 PER|5,7 PER|7,8 ORG|0,2 r_PART-WHOLE.Subsidiary|1,3 r_ORG-AFF.Employment|3,5 r_ORG-AFF.Employment
+
+Kelly US secretary East Asia and Pacific Affairs arrived Seoul Beijing Yoon minister
+0,1 PER|1,2 GPE|2,3 PER|4,5 LOC|6,7 LOC|9,10 GPE|10,11 GPE|11,12 PER|12,13 PER|8,9 Movement.Transport|1,3 r_ORG-AFF.Employment|0,9 r_Artifact|8,10 Destination|8,11 Origin
+0,1 PER|1,2 GPE|2,3 PER|4,5 LOC|6,7 LOC|9,10 GPE|10,11 GPE|11,12 PER|12,13 PER|8,9 Movement.Transport|1,3 r_ORG-AFF.Employment|0,9 r_Artifact|8,10 Destination|8,11 Origin
+
+North Korea weapons Korean peninsula Asia Yoon
+0,2 GPE|2,3 WEA|3,5 LOC|5,6 LOC|6,7 PER|0,3 ART.User-Owner-Inventor-Manufacturer
+0,2 GPE|2,3 WEA|3,5 LOC|5,6 LOC|6,7 PER|0,3 ART.User-Owner-Inventor-Manufacturer
+
+Kelly talks reporters travels Tokyo talks Japanese officials
+0,1 PER|2,3 PER|4,5 GPE|6,7 GPE|7,8 PER|3,4 Movement.Transport|6,8 r_ORG-AFF.Employment|0,4 r_Artifact|3,5 Destination
+0,1 PER|2,3 PER|4,5 GPE|6,7 GPE|7,8 PER|3,4 Movement.Transport|6,8 r_ORG-AFF.Employment|0,4 r_Artifact|3,5 Destination
+
+Beijing talks
+0,1 GPE
+0,1 GPE
+
+US Secretary State Colin Powell talks sides United States
+0,1 GPE|1,2 PER|2,3 ORG|3,5 PER|6,7 GPE|7,9 GPE|0,2 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|2,3 ORG|3,5 PER|6,7 GPE|7,9 GPE|0,2 r_ORG-AFF.Employment
+
+North Korea talks Washington Pyongyang
+0,2 GPE|3,4 GPE|4,5 GPE
+0,2 GPE|3,4 GPE|4,5 GPE
+
+North Korean ministry spokesman Korean Central News Agency North Korea weapons
+0,2 GPE|2,3 ORG|3,4 PER|4,8 ORG|8,10 GPE|10,11 WEA|0,3 r_PART-WHOLE.Subsidiary|2,4 r_ORG-AFF.Employment|8,11 ART.User-Owner-Inventor-Manufacturer
+0,2 GPE|2,3 ORG|3,4 PER|4,8 ORG|8,10 GPE|10,11 WEA|0,3 r_PART-WHOLE.Subsidiary|2,4 r_ORG-AFF.Employment|8,11 ART.User-Owner-Inventor-Manufacturer
+
+talks DPRK North Korea DPRK US parties nuclear Korean peninsula official
+1,2 GPE|2,4 GPE|4,5 GPE|5,6 GPE|6,7 GPE|7,8 WEA|8,10 LOC|10,11 PER
+1,2 GPE|2,4 GPE|4,5 GPE|5,6 GPE|6,7 GPE|7,8 WEA|8,10 LOC|10,11 PER
+
+US DPRK nuclear talks
+0,1 GPE|1,2 GPE|2,3 WEA
+0,1 GPE|1,2 GPE|2,3 WEA
+
+official North Korea
+0,1 PER|1,3 GPE
+0,1 PER|1,3 GPE
+
+MULTAN Pakistan AFP
+0,1 GPE|1,2 GPE|2,3 ORG|0,2 PART-WHOLE.Geographical
+0,1 GPE|1,2 GPE|2,3 ORG|0,2 PART-WHOLE.Geographical
+
+Pakistani court Punjab province sentenced Christian man conviction police
+0,1 GPE|1,2 ORG|3,4 LOC|5,6 PER|6,7 PER|8,9 PER|4,5 Justice.Sentence|7,8 Justice.Convict|0,2 r_PART-WHOLE.Subsidiary|1,4 GEN-AFF.Org-Location|5,7 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|1,5 r_Adjudicator|3,5 r_Place|4,7 Defendant|6,8 r_Defendant
+0,1 GPE|1,2 ORG|3,4 LOC|5,6 PER|6,7 PER|8,9 PER|4,5 Justice.Sentence|7,8 Justice.Convict|0,2 r_PART-WHOLE.Subsidiary|1,4 GEN-AFF.Org-Location|5,7 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|1,5 r_Adjudicator|3,5 r_Place|4,7 Defendant|6,8 r_Defendant
+
+Judge Shahid Rafiq district court city Faisalabad Ranjha Masih protest rally Christian community
+0,1 PER|1,3 PER|3,4 GPE|4,5 ORG|5,6 GPE|6,7 GPE|7,9 PER|11,12 PER|12,13 PER|10,11 Conflict.Demonstrate|1,5 ORG-AFF.Employment|3,5 r_PART-WHOLE.Subsidiary|4,6 GEN-AFF.Org-Location|11,13 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|1,3 r_Adjudicator|7,9 r_Defendant|10,13 Entity
+0,1 PER|1,3 PER|3,4 GPE|4,5 ORG|5,6 GPE|6,7 GPE|7,9 PER|11,12 PER|12,13 PER|10,11 Conflict.Demonstrate|1,5 ORG-AFF.Employment|3,5 r_PART-WHOLE.Subsidiary|4,6 GEN-AFF.Org-Location|11,13 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|1,3 r_Adjudicator|7,9 r_Defendant|10,13 Entity
+
+judge Ranjha fine
+0,1 PER|1,2 PER|2,3 Justice.Fine|0,3 r_Adjudicator|1,3 r_Entity
+0,1 PER|1,2 PER|2,3 Justice.Fine|0,3 r_Adjudicator|1,3 r_Entity
+
+Ranjha Faisalabad demonstration city bishop suicide
+0,1 PER|1,2 GPE|3,4 GPE|4,5 PER|2,3 Conflict.Demonstrate|5,6 Life.Die|0,2 PHYS.Located|3,5 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|1,3 r_Place|4,6 r_Agent|4,6 r_Victim
+0,1 PER|1,2 GPE|3,4 GPE|4,5 PER|2,3 Conflict.Demonstrate|5,6 Life.Die|0,2 PHYS.Located|3,5 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|1,3 r_Place|4,6 r_Agent|4,6 r_Victim
+
+Faisalabad Catholic Bishop John Joseph shot court Sahiwal district judge convicted Christian Ayub Masih
+0,1 GPE|2,3 PER|3,5 PER|6,7 FAC|7,9 GPE|9,10 PER|11,12 PER|12,14 PER|5,6 Life.Die|10,11 Justice.Convict|0,3 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|6,9 PART-WHOLE.Geographical|3,6 r_Agent|5,7 Place|6,11 r_Place|9,11 r_Adjudicator|10,14 Defendant
+0,1 GPE|2,3 PER|3,5 PER|6,7 FAC|7,9 GPE|9,10 PER|11,12 PER|12,14 PER|5,6 Life.Die|10,11 Justice.Convict|0,3 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|6,9 PART-WHOLE.Geographical|3,6 r_Agent|5,7 Place|6,11 r_Place|9,11 r_Adjudicator|10,14 Defendant
+
+Ayub Masih charged British author Salman Rushdie Mulsim clerics author
+0,2 PER|3,4 GPE|4,5 PER|5,7 PER|7,8 PER|8,9 PER|9,10 PER|2,3 Justice.Charge-Indict|3,5 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|7,9 GEN-AFF.Citizen-Resident-Religion-Ethnicity|0,3 r_Defendant
+0,2 PER|3,4 GPE|4,5 PER|5,7 PER|7,8 PER|8,9 PER|9,10 PER|2,3 Justice.Charge-Indict|3,5 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|7,9 GEN-AFF.Citizen-Resident-Religion-Ethnicity|0,3 r_Defendant
+
+Pakistani supreme court Ayub Masih Prophet Mohammad
+0,1 GPE|2,3 ORG|3,5 PER|5,6 PER|6,7 PER|0,3 r_PART-WHOLE.Subsidiary
+0,1 GPE|2,3 ORG|3,5 PER|5,6 PER|6,7 PER|0,3 r_PART-WHOLE.Subsidiary
+
+Pakistan convict executed country
+0,1 GPE|1,2 PER|3,4 GPE|2,3 Justice.Execute|1,3 r_Person|2,4 Place
+0,1 GPE|1,2 PER|3,4 GPE|2,3 Justice.Execute|1,3 r_Person|2,4 Place
+
+Christian activists military dictator General Zia - ul Haq Christians land
+0,1 PER|1,2 PER|2,3 ORG|3,4 PER|4,5 PER|5,9 PER|9,10 PER|2,4 r_ORG-AFF.Membership
+0,1 PER|1,2 PER|2,3 ORG|3,4 PER|4,5 PER|5,9 PER|9,10 PER|2,4 r_ORG-AFF.Membership
+
+NKorea nuke missile US
+0,1 GPE|1,2 WEA|2,3 WEA|3,4 GPE
+0,1 GPE|1,2 WEA|2,3 WEA|3,4 GPE
+
+Matthew Lee
+0,2 PER
+0,2 PER
+
+WASHINGTON AFP North Korea weapons missile United States
+0,1 GPE|1,2 ORG|2,4 GPE|4,5 WEA|5,6 WEA|6,8 GPE
+0,1 GPE|1,2 ORG|2,4 GPE|4,5 WEA|5,6 WEA|6,8 GPE
+
+Secretary State Colin Powell talks US North Korean Chinese diplomats Beijing
+0,1 PER|1,2 ORG|2,4 PER|5,6 GPE|6,8 GPE|8,9 GPE|9,10 PER|10,11 GPE|4,5 Contact.Meet|0,2 ORG-AFF.Employment|5,10 r_ORG-AFF.Employment|6,10 r_ORG-AFF.Employment|8,10 r_ORG-AFF.Employment|4,10 Entity|4,11 Place
+0,1 PER|1,2 ORG|2,4 PER|5,6 GPE|6,8 GPE|8,9 GPE|9,10 PER|10,11 GPE|4,5 Contact.Meet|0,2 ORG-AFF.Employment|5,10 r_ORG-AFF.Employment|6,10 r_ORG-AFF.Employment|8,10 r_ORG-AFF.Employment|4,10 Entity|4,11 Place
+
+meeting Pyongyang weapons
+1,2 GPE|2,3 WEA|0,1 Contact.Meet|0,2 Entity
+1,2 GPE|2,3 WEA|0,1 Contact.Meet|0,2 Entity
+
+North Koreans reporters State Department
+0,2 GPE|2,3 PER|3,5 ORG
+0,2 GPE|2,3 PER|3,5 ORG
+
+missile Powell
+0,1 WEA|1,2 PER
+0,1 WEA|1,2 PER
+
+friends allies Powell talks South Korean Japanese Russian Australian governments
+0,1 GPE|1,2 GPE|2,3 PER|4,6 GPE|6,7 GPE|7,8 GPE|8,9 GPE|9,10 GPE|3,4 Contact.Meet|3,10 Entity
+0,1 GPE|1,2 GPE|2,3 PER|4,6 GPE|6,7 GPE|7,8 GPE|8,9 GPE|9,10 GPE|3,4 Contact.Meet|3,10 Entity
+
+discussions Beijing
+1,2 GPE|0,1 Contact.Meet|0,2 Place
+1,2 GPE|0,1 Contact.Meet|0,2 Place
+
+Powell Washington Pyongyang
+0,1 PER|1,2 GPE|2,3 GPE
+0,1 PER|1,2 GPE|2,3 GPE
+
+US officials North Koreans
+0,1 GPE|1,2 PER|2,4 GPE|0,2 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|2,4 GPE|0,2 r_ORG-AFF.Employment
+
+United States assistance
+0,2 GPE
+0,2 GPE
+
+State Department spokesman Richard Boucher reporters
+0,2 ORG|2,3 PER|3,5 PER|5,6 PER|0,3 r_ORG-AFF.Employment
+0,2 ORG|2,3 PER|3,5 PER|5,6 PER|0,3 r_ORG-AFF.Employment
+
+Boucher
+0,1 PER
+0,1 PER
+
+State Department official
+0,2 ORG|2,3 PER|0,3 r_ORG-AFF.Employment
+0,2 ORG|2,3 PER|0,3 r_ORG-AFF.Employment
+
+official reporters
+0,1 PER|1,2 PER
+0,1 PER|1,2 PER
+
+North Korean Boucher US Washington Pyongyang
+0,2 GPE|2,3 PER|3,4 GPE|4,5 GPE|5,6 GPE
+0,2 GPE|2,3 PER|3,4 GPE|4,5 GPE|5,6 GPE
+
+weapons
+0,1 WEA
+0,1 WEA
+
+Powell North Korea weapons Beijing talks North Koreans
+0,1 PER|1,3 GPE|3,4 WEA|4,5 GPE|6,8 GPE
+0,1 PER|1,3 GPE|3,4 WEA|4,5 GPE|6,8 GPE
+
+Pyongyang nuclear Korean peninsula North Korea Beijing officials
+0,1 GPE|2,4 GPE|4,6 GPE|6,7 GPE|7,8 PER
+0,1 GPE|2,4 GPE|4,6 GPE|6,7 GPE|7,8 PER
+
+South Korean newspapers North Pyongyang Washington nuclear
+0,2 GPE|2,3 ORG|3,4 GPE|4,5 GPE|5,6 GPE|0,3 r_GEN-AFF.Org-Location
+0,2 GPE|2,3 ORG|3,4 GPE|4,5 GPE|5,6 GPE|0,3 r_GEN-AFF.Org-Location
+
+Boucher sides Washington north nuclear
+0,1 PER|1,2 GPE|2,3 GPE|3,4 GPE
+0,1 PER|1,2 GPE|2,3 GPE|3,4 GPE
+
+North Korea US North Korea
+0,2 GPE|2,3 GPE|3,5 GPE
+0,2 GPE|2,3 GPE|3,5 GPE
+
+South Korea Munhwa Ilbo newspapers South Korean government sources Pyongyang Washington Seoul Tokyo
+0,2 GPE|2,4 ORG|4,5 ORG|5,7 GPE|7,8 GPE|8,9 PER|9,10 GPE|10,11 GPE|11,12 GPE|12,13 GPE|0,5 r_GEN-AFF.Org-Location|7,9 r_ORG-AFF.Employment
+0,2 GPE|2,4 ORG|4,5 ORG|5,7 GPE|7,8 GPE|8,9 PER|9,10 GPE|10,11 GPE|11,12 GPE|12,13 GPE|0,5 r_GEN-AFF.Org-Location|7,9 r_ORG-AFF.Employment
+
+North Workers Party newspaper Rodong Sinmun North Korea United States nuclear
+0,1 GPE|1,3 ORG|3,4 ORG|4,6 ORG|6,8 GPE|8,10 GPE|0,3 r_PART-WHOLE.Subsidiary|1,4 r_PART-WHOLE.Subsidiary
+0,1 GPE|1,3 ORG|3,4 ORG|4,6 ORG|6,8 GPE|8,10 GPE|0,3 r_PART-WHOLE.Subsidiary|1,4 r_PART-WHOLE.Subsidiary
+
+Rodong talks United States Washington Pyongyang nuclear
+0,1 ORG|2,4 GPE|4,5 GPE|5,6 GPE|1,2 Contact.Meet|1,5 Entity|1,6 Entity
+0,1 ORG|2,4 GPE|4,5 GPE|5,6 GPE|1,2 Contact.Meet|1,5 Entity|1,6 Entity
+
+North Korea United States arms nukes
+0,2 GPE|2,4 GPE|4,5 WEA|5,6 WEA|2,5 ART.User-Owner-Inventor-Manufacturer
+0,2 GPE|2,4 GPE|4,5 WEA|5,6 WEA|2,5 ART.User-Owner-Inventor-Manufacturer
+
+SEOUL AFP
+0,1 GPE|1,2 ORG
+0,1 GPE|1,2 ORG
+
+South Korea party dissolving create group elections party officials
+0,2 GPE|2,3 ORG|5,6 ORG|7,8 ORG|8,9 PER|3,4 Business.End-Org|0,3 r_GEN-AFF.Org-Location|7,9 r_ORG-AFF.Employment|2,4 r_Org
+0,2 GPE|2,3 ORG|5,6 ORG|7,8 ORG|8,9 PER|3,4 Business.End-Org|0,3 r_GEN-AFF.Org-Location|7,9 r_ORG-AFF.Employment|2,4 r_Org
+
+Millennium Democratic Party MDP founded president Kim Dae - Jung President Roh Moo - Hyun took
+0,3 ORG|3,4 ORG|5,6 PER|6,10 PER|10,11 PER|11,15 PER|4,5 Business.Start-Org|0,10 r_ORG-AFF.Founder|0,5 r_Org|4,10 Agent
+0,3 ORG|3,4 ORG|5,6 PER|6,10 PER|10,11 PER|11,15 PER|4,5 Business.Start-Org|0,10 r_ORG-AFF.Founder|0,5 r_Org|4,10 Agent
+
+group MDP lawmakers Roh confidants party dissolved grouping MDP officials
+1,2 ORG|2,3 PER|3,4 PER|4,5 PER|5,6 ORG|7,8 ORG|8,9 ORG|9,10 PER|6,7 Business.End-Org|1,3 r_ORG-AFF.Membership|3,5 PER-SOC.Business|8,10 r_ORG-AFF.Employment|5,7 r_Org
+1,2 ORG|2,3 PER|3,4 PER|4,5 PER|5,6 ORG|7,8 ORG|8,9 ORG|9,10 PER|6,7 Business.End-Org|1,3 r_ORG-AFF.Membership|3,5 PER-SOC.Business|8,10 r_ORG-AFF.Employment|5,7 r_Org
+
+MDP leadership
+0,1 ORG|1,2 PER
+0,1 ORG|1,2 PER
+
+MDP members committee party
+0,1 ORG|1,2 PER|2,3 ORG|3,4 ORG|0,2 r_ORG-AFF.Employment
+0,1 ORG|1,2 PER|2,3 ORG|3,4 ORG|0,2 r_ORG-AFF.Employment
+
+MDP elections
+0,1 ORG
+0,1 ORG
+
+Grand National Party GNP National Assembly party
+0,3 ORG|3,4 ORG|4,6 ORG|6,7 ORG
+0,3 ORG|3,4 ORG|4,6 ORG|6,7 ORG
+
+GNP National Assembly MDP
+0,1 ORG|1,3 ORG|3,4 ORG
+0,1 ORG|1,3 ORG|3,4 ORG
+
+elections
+0,1 Personnel.Elect
+0,1 Personnel.Elect
+
+SYDNEY AFP
+0,1 GPE|1,2 ORG
+0,1 GPE|1,2 ORG
+
+Daily Planet Ltd brothel Australian Stock Exchange Disneyland Melbourne bordello
+0,3 ORG|3,4 ORG|4,7 ORG|7,8 ORG|8,9 GPE|9,10 ORG|8,10 r_GEN-AFF.Org-Location|0,3 r_Org|0,3 r_Agent
+0,3 ORG|3,4 ORG|4,7 ORG|7,8 ORG|8,9 GPE|9,10 ORG|8,10 r_GEN-AFF.Org-Location|0,3 r_Org|0,3 r_Agent
+
+executive Andrew Harris company acquire hotel Sydney Kings Cross red light district acquire property location
+0,1 PER|1,3 PER|3,4 ORG|5,6 FAC|6,7 GPE|7,9 LOC|11,12 LOC|13,14 FAC|14,15 LOC|4,5 Transaction.Transfer-Ownership|12,13 Transaction.Transfer-Ownership|5,12 PART-WHOLE.Geographical|6,12 r_PART-WHOLE.Geographical|13,15 PART-WHOLE.Geographical|1,5 r_Buyer|4,6 Artifact|1,13 r_Buyer|12,14 Artifact
+0,1 PER|1,3 PER|3,4 ORG|5,6 FAC|6,7 GPE|7,9 LOC|11,12 LOC|13,14 FAC|14,15 LOC|4,5 Transaction.Transfer-Ownership|12,13 Transaction.Transfer-Ownership|5,12 PART-WHOLE.Geographical|6,12 r_PART-WHOLE.Geographical|13,15 PART-WHOLE.Geographical|1,5 r_Buyer|4,6 Artifact|1,13 r_Buyer|12,14 Artifact
+
+Daily Planet US shareholders acquiring
+0,2 ORG|2,3 GPE|3,4 PER|4,5 Transaction.Transfer-Money|0,5 r_Beneficiary
+0,2 ORG|2,3 GPE|3,4 PER|4,5 Transaction.Transfer-Money|0,5 r_Beneficiary
+
+Hollywood madam Heidi Fleiss flown Melbourne guest Harris media
+0,1 GPE|1,2 PER|2,4 PER|5,6 GPE|6,7 PER|7,8 PER|8,9 ORG|4,5 Movement.Transport|0,2 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|2,6 PHYS.Located|2,5 r_Artifact|4,6 Destination
+0,1 GPE|1,2 PER|2,4 PER|5,6 GPE|6,7 PER|7,8 PER|8,9 ORG|4,5 Movement.Transport|0,2 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|2,6 PHYS.Located|2,5 r_Artifact|4,6 Destination
+
+Heidi
+0,1 PER
+0,1 PER
+
+Heidi
+0,1 PER
+0,1 PER
+
+Australian Stock Exchange
+0,3 ORG
+0,3 ORG
+
+establishment brothel exchange Harris
+0,1 ORG|1,2 ORG|2,3 ORG|3,4 PER
+0,1 ORG|1,2 ORG|2,3 ORG|3,4 PER
+
+fought institution firm
+1,2 ORG|2,3 ORG
+1,2 ORG|2,3 ORG
+
+Harris Sydney Disneyland Melbourne
+0,1 PER|1,2 GPE|2,3 ORG|3,4 GPE
+0,1 PER|1,2 GPE|2,3 ORG|3,4 GPE
+
+Sydney
+0,1 GPE
+0,1 GPE
+
+adult venue adult venue adult cinemas adult shops premises location Disneyland
+0,1 PER|1,2 FAC|3,4 FAC|4,5 PER|5,6 FAC|6,7 PER|7,8 FAC|8,9 FAC|9,10 LOC|10,11 ORG|3,6 r_PART-WHOLE.Geographical|3,8 r_PART-WHOLE.Geographical|8,10 PART-WHOLE.Geographical
+0,1 PER|1,2 FAC|3,4 FAC|4,5 PER|5,6 FAC|6,7 PER|7,8 FAC|8,9 FAC|9,10 LOC|10,11 ORG|3,6 r_PART-WHOLE.Geographical|3,8 r_PART-WHOLE.Geographical|8,10 PART-WHOLE.Geographical
+
+company Daily Planet Australia venues Perth Brisbane Sydney suburbs venue Melbourne
+0,1 ORG|1,3 ORG|3,4 GPE|4,5 FAC|5,6 GPE|6,7 GPE|7,8 GPE|8,9 LOC|9,10 FAC|10,11 GPE|4,6 GEN-AFF.Org-Location|4,7 GEN-AFF.Org-Location|4,9 GEN-AFF.Org-Location|7,9 PHYS.Near|9,11 GEN-AFF.Org-Location
+0,1 ORG|1,3 ORG|3,4 GPE|4,5 FAC|5,6 GPE|6,7 GPE|7,8 GPE|8,9 LOC|9,10 FAC|10,11 GPE|4,6 GEN-AFF.Org-Location|4,7 GEN-AFF.Org-Location|4,9 GEN-AFF.Org-Location|7,9 PHYS.Near|9,11 GEN-AFF.Org-Location
+
+Daily Planet United States US personalities board
+0,2 ORG|2,4 GPE|4,5 GPE|5,6 PER|6,7 PER|4,6 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity
+0,2 ORG|2,4 GPE|4,5 GPE|5,6 PER|6,7 PER|4,6 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity
+
+United States
+0,2 GPE
+0,2 GPE
+
+city Metropolis room hotel Nevada
+0,1 GPE|2,3 FAC|3,4 FAC|4,5 GPE|2,4 PART-WHOLE.Geographical|0,4 r_PART-WHOLE.Geographical|3,5 PART-WHOLE.Geographical
+0,1 GPE|2,3 FAC|3,4 FAC|4,5 GPE|2,4 PART-WHOLE.Geographical|0,4 r_PART-WHOLE.Geographical|3,5 PART-WHOLE.Geographical
+
+French media group Vivendi parks
+
+
+
+LOS ANGELES AFP
+0,2 GPE|2,3 ORG
+0,2 GPE|2,3 ORG
+
+French media group Vivendi Universal sell park business US firm Los Angeles Times
+0,1 GPE|2,3 ORG|3,5 ORG|6,7 FAC|7,8 ORG|8,9 GPE|9,10 ORG|10,13 ORG|5,6 Transaction.Transfer-Ownership|0,3 r_GEN-AFF.Org-Location|8,10 r_GEN-AFF.Org-Location|3,6 r_Seller|5,8 Artifact|5,10 Buyer
+0,1 GPE|2,3 ORG|3,5 ORG|6,7 FAC|7,8 ORG|8,9 GPE|9,10 ORG|10,13 ORG|5,6 Transaction.Transfer-Ownership|0,3 r_GEN-AFF.Org-Location|8,10 r_GEN-AFF.Org-Location|3,6 r_Seller|5,8 Artifact|5,10 Buyer
+
+group US unit Vivendi Universal Entertainment French business
+0,1 ORG|1,2 GPE|2,3 ORG|3,6 ORG|6,7 GPE|7,8 ORG|1,3 r_GEN-AFF.Org-Location
+0,1 ORG|1,2 GPE|2,3 ORG|3,6 ORG|6,7 GPE|7,8 ORG|1,3 r_GEN-AFF.Org-Location
+
+Times Vivendi Universal sell parks New York firm Blackstone Group dismantling empire
+0,1 ORG|1,3 ORG|4,5 FAC|5,7 GPE|7,8 ORG|8,10 ORG|11,12 ORG|3,4 Transaction.Transfer-Ownership|10,11 Business.End-Org|5,8 r_GEN-AFF.Org-Location|1,4 r_Seller|3,5 Artifact|3,10 Buyer|10,12 Org
+0,1 ORG|1,3 ORG|4,5 FAC|5,7 GPE|7,8 ORG|8,10 ORG|11,12 ORG|3,4 Transaction.Transfer-Ownership|10,11 Business.End-Org|5,8 r_GEN-AFF.Org-Location|1,4 r_Seller|3,5 Artifact|3,10 Buyer|10,12 Org
+
+Vivendi Universal officials United States
+0,2 ORG|2,3 PER|3,5 GPE|0,3 r_ORG-AFF.Employment|2,5 PHYS.Located
+0,2 ORG|2,3 PER|3,5 GPE|0,3 r_ORG-AFF.Employment|2,5 PHYS.Located
+
+Blackstone Group buy Vivendi park division Universal Studios Hollywood Universal Orlando Florida Universal parks Spain Japan paper
+0,2 ORG|3,4 ORG|4,5 FAC|5,6 ORG|6,9 ORG|9,11 ORG|11,12 GPE|12,13 ORG|13,14 ORG|14,15 GPE|15,16 GPE|16,17 ORG|2,3 Transaction.Transfer-Ownership|4,6 PART-WHOLE.Subsidiary|3,6 r_PART-WHOLE.Subsidiary|9,12 GEN-AFF.Org-Location|12,14 ORG-AFF.Investor-Shareholder|13,15 GEN-AFF.Org-Location|13,16 GEN-AFF.Org-Location|0,3 r_Buyer|2,4 Seller|2,6 Artifact
+0,2 ORG|3,4 ORG|4,5 FAC|5,6 ORG|6,9 ORG|9,11 ORG|11,12 GPE|12,13 ORG|13,14 ORG|14,15 GPE|15,16 GPE|16,17 ORG|2,3 Transaction.Transfer-Ownership|4,6 PART-WHOLE.Subsidiary|3,6 r_PART-WHOLE.Subsidiary|9,12 GEN-AFF.Org-Location|12,14 ORG-AFF.Investor-Shareholder|13,15 GEN-AFF.Org-Location|13,16 GEN-AFF.Org-Location|0,3 r_Buyer|2,4 Seller|2,6 Artifact
+
+Blackstone parks Universal Orlando
+0,1 ORG|1,2 ORG|2,4 ORG|0,2 ORG-AFF.Investor-Shareholder
+0,1 ORG|1,2 ORG|2,4 ORG|0,2 ORG-AFF.Investor-Shareholder
+
+Vivendi Universal studio assets
+0,1 ORG|1,2 ORG|2,3 ORG
+0,1 ORG|1,2 ORG|2,3 ORG
+
+executive Jean - Rene Fourtou shareholders group meeting sale Vivendi Universal Entertainment
+0,1 PER|1,5 PER|5,6 PER|6,7 ORG|9,12 ORG|7,8 Contact.Meet|8,9 Transaction.Transfer-Ownership|5,7 ORG-AFF.Investor-Shareholder|1,8 r_Entity|5,8 r_Entity|6,9 r_Seller|8,12 Artifact
+0,1 PER|1,5 PER|5,6 PER|6,7 ORG|9,12 ORG|7,8 Contact.Meet|8,9 Transaction.Transfer-Ownership|5,7 ORG-AFF.Investor-Shareholder|1,8 r_Entity|5,8 r_Entity|6,9 r_Seller|8,12 Artifact
+
+Fourtou US business Universal Music Group
+0,1 PER|1,2 GPE|2,3 ORG|3,6 ORG|1,3 r_GEN-AFF.Org-Location
+0,1 PER|1,2 GPE|2,3 ORG|3,6 ORG|1,3 r_GEN-AFF.Org-Location
+
+group French company
+0,1 ORG|1,2 GPE|2,3 ORG|1,3 r_GEN-AFF.Org-Location
+0,1 ORG|1,2 GPE|2,3 ORG|1,3 r_GEN-AFF.Org-Location
+
+group France
+0,1 ORG|1,2 GPE
+0,1 ORG|1,2 GPE
+
+Iran daily
+
+
+
+TEHRAN AFP
+0,1 GPE|1,2 ORG
+0,1 GPE|1,2 ORG
+
+director Iran newspaper organ Tehran municipality appointment conservative city mayor press
+0,1 PER|1,2 GPE|2,3 ORG|3,4 PER|4,5 GPE|7,8 PER|8,9 GPE|9,10 PER|6,7 Personnel.Start-Position|0,3 ORG-AFF.Employment|1,3 r_GEN-AFF.Org-Location|8,10 r_ORG-AFF.Employment|6,8 Person|6,9 Entity
+0,1 PER|1,2 GPE|2,3 ORG|3,4 PER|4,5 GPE|7,8 PER|8,9 GPE|9,10 PER|6,7 Personnel.Start-Position|0,3 ORG-AFF.Employment|1,3 r_GEN-AFF.Org-Location|8,10 r_ORG-AFF.Employment|6,8 Person|6,9 Entity
+
+Mohammad Atrianfar headed Hamshahri ( Fellow Citizen founded backer President Mohammed Khatami mayor director paper
+0,2 PER|3,4 ORG|5,7 ORG|8,9 PER|9,10 PER|10,12 PER|12,13 PER|13,14 PER|14,15 ORG|7,8 Business.Start-Org|0,4 ORG-AFF.Employment|13,15 ORG-AFF.Employment
+0,2 PER|3,4 ORG|5,7 ORG|8,9 PER|9,10 PER|10,12 PER|12,13 PER|13,14 PER|14,15 ORG|7,8 Business.Start-Org|0,4 ORG-AFF.Employment|13,15 ORG-AFF.Employment
+
+Tehran reformists city council elected
+0,1 GPE|1,2 PER|2,3 GPE|3,4 PER|4,5 Personnel.Elect|2,4 r_ORG-AFF.Employment|0,5 r_Place|3,5 r_Person
+0,1 GPE|1,2 PER|2,3 GPE|3,4 PER|4,5 Personnel.Elect|2,4 r_ORG-AFF.Employment|0,5 r_Place|3,5 r_Person
+
+Mahmud Ahmadi - Nejad hardliner conservatives appointed mayor Hamshahri election
+0,4 PER|4,5 PER|5,6 PER|7,8 PER|8,9 ORG|6,7 Personnel.Start-Position|9,10 Personnel.Elect|0,7 r_Person
+0,4 PER|4,5 PER|5,6 PER|7,8 PER|8,9 ORG|6,7 Personnel.Start-Position|9,10 Personnel.Elect|0,7 r_Person
+
+Founded mayor Gholamhossein Karbaschi Hamshahri Iran daily
+1,2 PER|2,4 PER|4,5 ORG|5,6 GPE|6,7 ORG|0,1 Business.Start-Org|2,5 ORG-AFF.Founder|5,7 r_GEN-AFF.Org-Location|0,4 Agent|0,5 Org|0,6 Place
+1,2 PER|2,4 PER|4,5 ORG|5,6 GPE|6,7 ORG|0,1 Business.Start-Org|2,5 ORG-AFF.Founder|5,7 r_GEN-AFF.Org-Location|0,4 Agent|0,5 Org|0,6 Place
+
+British bank Barclays Spanish
+
+
+
+LONDON AFP
+0,1 GPE|1,2 ORG
+0,1 GPE|1,2 ORG
+
+British bank Barclays buy Spanish rival Banco Zaragozano
+0,1 GPE|1,2 ORG|2,3 ORG|4,5 GPE|5,6 ORG|6,8 ORG|3,4 Transaction.Transfer-Ownership|0,2 r_GEN-AFF.Org-Location|4,6 r_GEN-AFF.Org-Location|2,4 r_Buyer|3,8 Artifact
+0,1 GPE|1,2 ORG|2,3 ORG|4,5 GPE|5,6 ORG|6,8 ORG|3,4 Transaction.Transfer-Ownership|0,2 r_GEN-AFF.Org-Location|4,6 r_GEN-AFF.Org-Location|2,4 r_Buyer|3,8 Artifact
+
+Barclays Spain Zaragozano businesses Barclays customer base Barclays
+0,2 ORG|2,3 ORG|3,4 ORG|4,5 ORG|5,6 PER|6,7 PER|7,8 ORG
+0,2 ORG|2,3 ORG|3,4 ORG|4,5 ORG|5,6 PER|6,7 PER|7,8 ORG
+
+acquisition Banco Zaragozano group Spain Jacobo Gonzalez - Robatto executive Barclays Spain
+1,3 ORG|3,4 ORG|4,5 GPE|5,9 PER|9,10 PER|10,12 ORG|0,1 Transaction.Transfer-Ownership|3,5 GEN-AFF.Org-Location|9,12 ORG-AFF.Employment|0,3 Artifact
+1,3 ORG|3,4 ORG|4,5 GPE|5,9 PER|9,10 PER|10,12 ORG|0,1 Transaction.Transfer-Ownership|3,5 GEN-AFF.Org-Location|9,12 ORG-AFF.Employment|0,3 Artifact
+
+Spanish customers employees shareholders
+0,1 GPE|1,2 PER|2,3 PER|3,4 PER
+0,1 GPE|1,2 PER|2,3 PER|3,4 PER
+
+members board Zaragozano Barclays
+0,1 PER|1,2 ORG|2,3 ORG|3,4 ORG|0,2 ORG-AFF.Employment|1,3 PART-WHOLE.Subsidiary
+0,1 PER|1,2 ORG|2,3 ORG|3,4 ORG|0,2 ORG-AFF.Employment|1,3 PART-WHOLE.Subsidiary
+
+Shareholders board members Zaragozano
+0,1 PER|1,2 ORG|2,3 PER|3,4 ORG|0,4 ORG-AFF.Investor-Shareholder|1,3 r_ORG-AFF.Employment
+0,1 PER|1,2 ORG|2,3 PER|3,4 ORG|0,4 ORG-AFF.Investor-Shareholder|1,3 r_ORG-AFF.Employment
+
+takeover Zaragozano shareholders
+1,2 ORG|2,3 PER|0,1 Transaction.Transfer-Ownership|1,3 r_ORG-AFF.Investor-Shareholder
+1,2 ORG|2,3 PER|0,1 Transaction.Transfer-Ownership|1,3 r_ORG-AFF.Investor-Shareholder
+
+KUALA LUMPUR AFP
+0,2 GPE|2,3 ORG
+0,2 GPE|2,3 ORG
+
+Malaysia prison department politician Anwar Ibrahim daughter wedding hearing lawyer
+0,1 GPE|1,2 ORG|2,3 ORG|3,4 PER|4,6 PER|6,7 PER|9,10 PER|7,8 Life.Marry|8,9 Justice.Trial-Hearing|0,3 r_PART-WHOLE.Subsidiary|6,8 r_Person|4,9 r_Defendant
+0,1 GPE|1,2 ORG|2,3 ORG|3,4 PER|4,6 PER|6,7 PER|9,10 PER|7,8 Life.Marry|8,9 Justice.Trial-Hearing|0,3 r_PART-WHOLE.Subsidiary|6,8 r_Person|4,9 r_Defendant
+
+Anwar taken appeal court appeal country Federal Court conviction counsel Sankara Nair
+0,1 PER|3,4 ORG|5,6 GPE|6,8 ORG|9,10 PER|10,12 PER|2,3 Justice.Appeal|4,5 Justice.Appeal|8,9 Justice.Convict|5,8 r_PART-WHOLE.Subsidiary|0,3 r_Plaintiff|2,4 Adjudicator|4,8 Adjudicator
+0,1 PER|3,4 ORG|5,6 GPE|6,8 ORG|9,10 PER|10,12 PER|2,3 Justice.Appeal|4,5 Justice.Appeal|8,9 Justice.Convict|5,8 r_PART-WHOLE.Subsidiary|0,3 r_Plaintiff|2,4 Adjudicator|4,8 Adjudicator
+
+Prison authorities Anwar taken home marry daughter Nurul Izzah engineer Raja Ahmad Sharir Iskandar Malay
+0,1 ORG|1,2 PER|2,3 PER|4,5 FAC|6,7 PER|7,9 PER|9,10 PER|10,14 PER|14,15 GPE|3,4 Movement.Transport|5,6 Life.Marry|0,2 r_ORG-AFF.Employment|1,4 r_Agent|2,4 r_Artifact|3,5 Destination|4,6 r_Place|5,7 Person|5,14 Person
+0,1 ORG|1,2 PER|2,3 PER|4,5 FAC|6,7 PER|7,9 PER|9,10 PER|10,14 PER|14,15 GPE|3,4 Movement.Transport|5,6 Life.Marry|0,2 r_ORG-AFF.Employment|1,4 r_Agent|2,4 r_Artifact|3,5 Destination|4,6 r_Place|5,7 Person|5,14 Person
+
+police
+0,1 ORG
+0,1 ORG
+
+police
+0,1 ORG
+0,1 ORG
+
+crowd house guests comprise family members
+0,1 PER|1,2 FAC|2,3 PER|4,5 PER|5,6 PER|4,6 PER-SOC.Family
+0,1 PER|1,2 FAC|2,3 PER|4,5 PER|5,6 PER|4,6 PER-SOC.Family
+
+premier sacked Minister Mahathir Mohamad sentenced jail convicted
+0,1 PER|2,3 PER|3,5 PER|1,2 Personnel.End-Position|5,6 Justice.Sentence|7,8 Justice.Convict|0,2 r_Person|0,6 r_Defendant|0,8 r_Defendant
+0,1 PER|2,3 PER|3,5 PER|1,2 Personnel.End-Position|5,6 Justice.Sentence|7,8 Justice.Convict|0,2 r_Person|0,6 r_Defendant|0,8 r_Defendant
+
+prison charge sentence
+1,2 Justice.Sentence|2,3 Justice.Sentence
+1,2 Justice.Sentence|2,3 Justice.Sentence
+
+appeal sentence
+0,1 Justice.Appeal|1,2 Justice.Sentence
+0,1 Justice.Appeal|1,2 Justice.Sentence
+
+appeal Federal Court
+1,3 ORG|0,1 Justice.Appeal|0,3 Adjudicator
+1,3 ORG|0,1 Justice.Appeal|0,3 Adjudicator
+
+Anwar threat Mahathir government
+0,1 PER|2,3 PER|3,4 GPE
+0,1 PER|2,3 PER|3,4 GPE
+
+founder
+
+
+
+LONDON AFP
+0,1 GPE|1,2 ORG
+0,1 GPE|1,2 ORG
+
+British cinema chain founder airline easyJet acquired
+0,1 GPE|1,2 FAC|2,3 ORG|3,4 PER|4,5 ORG|5,6 ORG|0,3 r_GEN-AFF.Org-Location|1,4 r_ART.User-Owner-Inventor-Manufacturer|2,4 r_ORG-AFF.Founder|3,6 ORG-AFF.Founder
+0,1 GPE|1,2 FAC|2,3 ORG|3,4 PER|4,5 ORG|5,6 ORG|0,3 r_GEN-AFF.Org-Location|1,4 r_ART.User-Owner-Inventor-Manufacturer|2,4 r_ORG-AFF.Founder|3,6 ORG-AFF.Founder
+
+EasyCinema cinemas distributors
+0,1 ORG|1,2 ORG|2,3 ORG
+0,1 ORG|1,2 ORG|2,3 ORG
+
+distributors easyCinema majors
+0,1 ORG|1,2 ORG|2,3 ORG
+0,1 ORG|1,2 ORG|2,3 ORG
+
+EasyCinema founder Stelios Haji - Ioannou set easyJet Europe airline firms
+0,1 ORG|1,2 PER|2,6 PER|7,8 ORG|8,9 GPE|9,10 ORG|10,11 ORG|0,2 r_ORG-AFF.Founder|2,6 r_Plaintiff
+0,1 ORG|1,2 PER|2,6 PER|7,8 ORG|8,9 GPE|9,10 ORG|10,11 ORG|0,2 r_ORG-AFF.Founder|2,6 r_Plaintiff
+
+easyCinema outlet Milton Keynes London
+0,1 ORG|1,2 ORG|2,4 GPE|4,5 GPE|0,2 r_PART-WHOLE.Subsidiary|1,4 GEN-AFF.Org-Location|2,5 PHYS.Near|2,4 r_Place
+0,1 ORG|1,2 ORG|2,4 GPE|4,5 GPE|0,2 r_PART-WHOLE.Subsidiary|1,4 GEN-AFF.Org-Location|2,5 PHYS.Near|2,4 r_Place
+
+firm British arm French distributors Pathe
+0,1 ORG|1,2 GPE|2,3 ORG|3,4 GPE|4,5 ORG|5,6 ORG|1,3 r_GEN-AFF.Org-Location|2,6 PART-WHOLE.Subsidiary|3,5 r_GEN-AFF.Org-Location
+0,1 ORG|1,2 GPE|2,3 ORG|3,4 GPE|4,5 ORG|5,6 ORG|1,3 r_GEN-AFF.Org-Location|2,6 PART-WHOLE.Subsidiary|3,5 r_GEN-AFF.Org-Location
+
+Hollywood US British
+0,1 ORG|1,2 GPE|2,3 GPE
+0,1 ORG|1,2 GPE|2,3 GPE
+
+Haji - Ioannou distributors
+0,3 PER|3,4 ORG
+0,3 PER|3,4 ORG
+
+UK distributors
+0,1 GPE|1,2 ORG|0,2 r_GEN-AFF.Org-Location
+0,1 GPE|1,2 ORG|0,2 r_GEN-AFF.Org-Location
+
+lawyers Office of Fair Trading
+0,1 PER|1,5 ORG
+0,1 PER|1,5 ORG
+
+EasyCinema public cinemas
+0,1 ORG|1,2 PER|2,3 FAC
+0,1 ORG|1,2 PER|2,3 FAC
+
+cinemas stalls staff
+0,1 ORG|2,3 PER|0,3 r_ORG-AFF.Employment
+0,1 ORG|2,3 PER|0,3 r_ORG-AFF.Employment
+
+PARIS AFP
+0,1 GPE|1,2 ORG
+0,1 GPE|1,2 ORG
+
+Israeli Minister Silvan Shalom Qatar Middle East talks Qatari counterpart Sheikh Hamad bin Jassem bin Jabr al - Thani Paris
+0,1 GPE|1,2 PER|2,4 PER|4,5 GPE|5,7 GPE|8,9 GPE|9,10 PER|10,11 PER|11,19 PER|19,20 GPE|7,8 Contact.Meet|0,2 r_ORG-AFF.Employment|8,10 r_ORG-AFF.Employment|7,20 Place
+0,1 GPE|1,2 PER|2,4 PER|4,5 GPE|5,7 GPE|8,9 GPE|9,10 PER|10,11 PER|11,19 PER|19,20 GPE|7,8 Contact.Meet|0,2 r_ORG-AFF.Employment|8,10 r_ORG-AFF.Employment|7,20 Place
+
+Shalom press Gulf state appointed Palestinian minister Mahmud Abbas
+0,1 PER|2,3 LOC|3,4 GPE|5,6 GPE|6,7 PER|7,9 PER|4,5 Personnel.Start-Position|2,4 r_PART-WHOLE.Geographical|4,6 Entity|4,7 Person
+0,1 PER|2,3 LOC|3,4 GPE|5,6 GPE|6,7 PER|7,9 PER|4,5 Personnel.Start-Position|2,4 r_PART-WHOLE.Geographical|4,6 Entity|4,7 Person
+
+Middle East
+0,2 GPE
+0,2 GPE
+
+talks parties Israel Arab world Shalom
+1,2 GPE|2,3 GPE|3,4 PER|4,5 LOC|5,6 PER|0,1 Contact.Meet|3,5 GEN-AFF.Citizen-Resident-Religion-Ethnicity
+1,2 GPE|2,3 GPE|3,4 PER|4,5 LOC|5,6 PER|0,1 Contact.Meet|3,5 GEN-AFF.Citizen-Resident-Religion-Ethnicity
+
+Qatar country
+0,1 GPE|1,2 GPE
+0,1 GPE|1,2 GPE
+
+Qatari minister Abu Mazen Abbas
+0,1 GPE|1,2 PER|2,4 PER|4,5 PER|0,2 r_ORG-AFF.Employment|1,4 PER-SOC.Business
+0,1 GPE|1,2 PER|2,4 PER|4,5 PER|0,2 r_ORG-AFF.Employment|1,4 PER-SOC.Business
+
+meeting Shalom Arab counterpart Israel minister
+1,2 PER|2,3 PER|3,4 PER|4,5 GPE|5,6 PER|0,1 Contact.Meet|2,4 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|4,6 r_ORG-AFF.Employment|0,2 Entity|0,4 Entity
+1,2 PER|2,3 PER|3,4 PER|4,5 GPE|5,6 PER|0,1 Contact.Meet|2,4 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|4,6 r_ORG-AFF.Employment|0,2 Entity|0,4 Entity
+
+Qatar Israel Arab countries
+0,1 GPE|1,2 GPE|2,3 PER|3,4 GPE|2,4 GEN-AFF.Citizen-Resident-Religion-Ethnicity
+0,1 GPE|1,2 GPE|2,3 PER|3,4 GPE|2,4 GEN-AFF.Citizen-Resident-Religion-Ethnicity
+
+Shalom fly London talks British Prime Minister Tony Blair Secretary Jack Straw
+0,1 PER|2,3 GPE|4,5 GPE|6,7 PER|7,9 PER|9,10 PER|10,12 PER|1,2 Movement.Transport|3,4 Contact.Meet|0,3 PHYS.Located|4,7 r_ORG-AFF.Employment|2,9 r_PHYS.Located|2,12 r_PHYS.Located|0,2 r_Artifact|1,3 Destination|0,4 r_Entity|2,4 r_Place|3,9 Entity|3,12 Entity
+0,1 PER|2,3 GPE|4,5 GPE|6,7 PER|7,9 PER|9,10 PER|10,12 PER|1,2 Movement.Transport|3,4 Contact.Meet|0,3 PHYS.Located|4,7 r_ORG-AFF.Employment|2,9 r_PHYS.Located|2,12 r_PHYS.Located|0,2 r_Artifact|1,3 Destination|0,4 r_Entity|2,4 r_Place|3,9 Entity|3,12 Entity
+
+fine SEC
+
+
+
+WASHINGTON AFP
+0,1 GPE|1,2 ORG
+0,1 GPE|1,2 ORG
+
+MCI WorldCom Securities and Exchange Commission giant Wall Street Journal
+0,1 ORG|1,2 ORG|2,6 ORG|6,7 ORG|7,10 ORG
+0,1 ORG|1,2 ORG|2,6 ORG|6,7 ORG|7,10 ORG
+
+judge MCI fine SEC company broker - dealer Journal sources
+0,1 PER|1,2 ORG|3,4 ORG|4,5 ORG|7,8 ORG|8,9 ORG|9,10 PER|2,3 Justice.Fine|0,3 r_Adjudicator|1,3 r_Entity|2,4 Adjudicator
+0,1 PER|1,2 ORG|3,4 ORG|4,5 ORG|7,8 ORG|8,9 ORG|9,10 PER|2,3 Justice.Fine|0,3 r_Adjudicator|1,3 r_Entity|2,4 Adjudicator
+
+fine Xerox paid SEC
+1,2 ORG|3,4 ORG|0,1 Justice.Fine|2,3 Transaction.Transfer-Money|0,4 Entity|1,3 r_Giver|2,4 Recipient
+1,2 ORG|3,4 ORG|0,1 Justice.Fine|2,3 Transaction.Transfer-Money|0,4 Entity|1,3 r_Giver|2,4 Recipient
+
+SEC fines Wall Street brokerages charges analysts investors
+0,1 ORG|2,4 LOC|4,5 ORG|6,7 PER|7,8 PER|1,2 Justice.Fine|5,6 Justice.Charge-Indict|2,5 r_GEN-AFF.Org-Location|0,2 r_Adjudicator|1,5 Entity|4,6 r_Defendant
+0,1 ORG|2,4 LOC|4,5 ORG|6,7 PER|7,8 PER|1,2 Justice.Fine|5,6 Justice.Charge-Indict|2,5 r_GEN-AFF.Org-Location|0,2 r_Adjudicator|1,5 Entity|4,6 r_Defendant
+
+MCI SEC MCI WorldCom investors Journal
+0,1 ORG|1,2 ORG|2,3 ORG|3,4 ORG|4,5 PER|5,6 ORG
+0,1 ORG|1,2 ORG|2,3 ORG|3,4 ORG|4,5 PER|5,6 ORG
+
+former WorldCom CEO Bernard Ebbers loan MCI Journal SEC
+1,2 ORG|2,3 PER|3,5 PER|6,7 ORG|7,8 ORG|8,9 ORG|5,6 Transaction.Transfer-Money|1,3 r_ORG-AFF.Employment|3,6 r_Recipient|5,7 Giver
+1,2 ORG|2,3 PER|3,5 PER|6,7 ORG|7,8 ORG|8,9 ORG|5,6 Transaction.Transfer-Money|1,3 r_ORG-AFF.Employment|3,6 r_Recipient|5,7 Giver
+
+MCI seize Ebbers loan
+0,1 ORG|2,3 PER|3,4 Transaction.Transfer-Money|0,4 r_Giver|2,4 r_Recipient
+0,1 ORG|2,3 PER|3,4 Transaction.Transfer-Money|0,4 r_Giver|2,4 r_Recipient
+
+company Georgia yacht business selling ranch British Colombia Journal
+0,1 ORG|1,2 GPE|2,3 VEH|3,4 ORG|5,6 FAC|6,8 GPE|8,9 ORG|4,5 Transaction.Transfer-Ownership|1,4 r_GEN-AFF.Org-Location|5,8 PART-WHOLE.Geographical|0,5 r_Seller|4,6 Artifact
+0,1 ORG|1,2 GPE|2,3 VEH|3,4 ORG|5,6 FAC|6,8 GPE|8,9 ORG|4,5 Transaction.Transfer-Ownership|1,4 r_GEN-AFF.Org-Location|5,8 PART-WHOLE.Geographical|0,5 r_Seller|4,6 Artifact
+
+Shiites Mohammed Iraq
+
+
+
+BAGHDAD AFP
+0,1 GPE|1,2 ORG
+0,1 GPE|1,2 ORG
+
+Muslims Iraq Prophet Mohammed US war country
+0,1 PER|1,2 GPE|2,3 PER|3,4 PER|4,5 GPE|6,7 GPE|0,2 PHYS.Located
+0,1 PER|1,2 GPE|2,3 PER|3,4 PER|4,5 GPE|6,7 GPE|0,2 PHYS.Located
+
+coalition officials Iraq Iraqi government Russia UN Iraq
+0,1 ORG|1,2 PER|2,3 GPE|3,4 GPE|4,5 GPE|5,6 GPE|6,7 ORG|7,8 GPE|0,2 r_ORG-AFF.Employment|1,3 PHYS.Located
+0,1 ORG|1,2 PER|2,3 GPE|3,4 GPE|4,5 GPE|5,6 GPE|6,7 ORG|7,8 GPE|0,2 r_ORG-AFF.Employment|1,3 PHYS.Located
+
+Iraq Shiite Muslims marched mosque Baghdad Islam founder Prophet Mohammed
+0,1 GPE|1,2 PER|2,3 PER|4,5 FAC|5,6 GPE|7,8 PER|8,9 PER|9,10 PER|3,4 Conflict.Demonstrate|0,3 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|1,3 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|4,6 PART-WHOLE.Geographical|2,4 r_Entity|3,6 Place
+0,1 GPE|1,2 PER|2,3 PER|4,5 FAC|5,6 GPE|7,8 PER|8,9 PER|9,10 PER|3,4 Conflict.Demonstrate|0,3 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|1,3 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|4,6 PART-WHOLE.Geographical|2,4 r_Entity|3,6 Place
+
+Shiites Muslims regime Saddam Hussein Sunni regime
+0,1 PER|1,2 PER|2,3 ORG|3,5 PER|5,6 PER|6,7 ORG|3,7 ORG-AFF.Founder
+0,1 PER|1,2 PER|2,3 ORG|3,5 PER|5,6 PER|6,7 ORG|3,7 ORG-AFF.Founder
+
+crowd street Kazimiya mosque northeast Baghdad government
+0,1 PER|1,2 FAC|2,3 FAC|3,4 FAC|4,5 LOC|5,6 GPE|6,7 ORG|0,2 PHYS.Located|1,4 PHYS.Near|3,5 PART-WHOLE.Geographical|4,6 PART-WHOLE.Geographical
+0,1 PER|1,2 FAC|2,3 FAC|3,4 FAC|4,5 LOC|5,6 GPE|6,7 ORG|0,2 PHYS.Located|1,4 PHYS.Near|3,5 PART-WHOLE.Geographical|4,6 PART-WHOLE.Geographical
+
+Israel demonstrators speeches
+0,1 GPE|1,2 PER
+0,1 GPE|1,2 PER
+
+Imam Mohammad al - Fartussi violence women vendors cinemas fall Saddam Iraq land imams land
+0,1 PER|1,5 PER|6,7 PER|7,8 PER|8,9 FAC|10,11 PER|11,12 GPE|12,13 GPE|13,14 PER|14,15 GPE|12,14 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity
+0,1 PER|1,5 PER|6,7 PER|7,8 PER|8,9 FAC|10,11 PER|11,12 GPE|12,13 GPE|13,14 PER|14,15 GPE|12,14 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity
+
+demonstration Iraq US overseer Paul Bremer country
+1,2 GPE|2,3 GPE|3,4 PER|4,6 PER|6,7 GPE|0,1 Conflict.Demonstrate|2,4 r_ORG-AFF.Employment
+1,2 GPE|2,3 GPE|3,4 PER|4,6 PER|6,7 GPE|0,1 Conflict.Demonstrate|2,4 r_ORG-AFF.Employment
+
+Bremer Saddam Hussein regime
+0,1 PER|1,3 PER|3,4 ORG|1,4 ORG-AFF.Employment
+0,1 PER|1,3 PER|3,4 ORG|1,4 ORG-AFF.Employment
+
+Bremer street country
+0,1 PER|1,2 FAC|2,3 GPE
+0,1 PER|1,2 FAC|2,3 GPE
+
+Baghdad policemen war Iraqis street gunfire police
+0,1 GPE|1,2 PER|3,4 PER|4,5 FAC|6,7 PER|2,3 Conflict.Attack
+0,1 GPE|1,2 PER|3,4 PER|4,5 FAC|6,7 PER|2,3 Conflict.Attack
+
+Baghdad police stations US troops capital
+0,1 GPE|1,2 ORG|2,3 FAC|3,4 GPE|4,5 PER|5,6 GPE|1,3 ART.User-Owner-Inventor-Manufacturer|0,3 r_PART-WHOLE.Geographical|3,5 r_ORG-AFF.Employment
+0,1 GPE|1,2 ORG|2,3 FAC|3,4 GPE|4,5 PER|5,6 GPE|1,3 ART.User-Owner-Inventor-Manufacturer|0,3 r_PART-WHOLE.Geographical|3,5 r_ORG-AFF.Employment
+
+Baghdad police
+0,1 GPE|1,2 ORG
+0,1 GPE|1,2 ORG
+
+trip Baghdad looter market criminals roost Saddam
+1,2 GPE|2,3 PER|4,5 PER|6,7 PER
+1,2 GPE|2,3 PER|4,5 PER|6,7 PER
+
+collapse Saddam regime traders weapons
+1,2 PER|2,3 ORG|3,4 PER|4,5 WEA|1,3 ORG-AFF.Employment
+1,2 PER|2,3 ORG|3,4 PER|4,5 WEA|1,3 ORG-AFF.Employment
+
+Jalal Jamil store owner Americans people
+0,2 PER|2,3 ORG|3,4 PER|4,5 PER|5,6 PER|2,4 r_ART.User-Owner-Inventor-Manufacturer
+0,2 PER|2,3 ORG|3,4 PER|4,5 PER|5,6 PER|2,4 r_ART.User-Owner-Inventor-Manufacturer
+
+Bremer US forming government Iraq US coalition officials government
+0,1 PER|1,2 GPE|3,4 GPE|4,5 GPE|5,6 GPE|6,7 ORG|7,8 PER|8,9 GPE|6,8 r_ORG-AFF.Employment
+0,1 PER|1,2 GPE|3,4 GPE|4,5 GPE|5,6 GPE|6,7 ORG|7,8 PER|8,9 GPE|6,8 r_ORG-AFF.Employment
+
+Iraqi source Organisation of Reconstruction and Humanitarian Assistance ORHA war Iraq
+0,1 GPE|1,2 PER|2,8 ORG|8,9 ORG|10,11 GPE|9,10 Conflict.Attack|1,8 ORG-AFF.Employment
+0,1 GPE|1,2 PER|2,8 ORG|8,9 ORG|10,11 GPE|9,10 Conflict.Attack|1,8 ORG-AFF.Employment
+
+Officials Iraqi groups met Bremer forming government
+0,1 PER|1,2 GPE|2,3 ORG|4,5 PER|6,7 ORG|3,4 Contact.Meet|0,3 ORG-AFF.Employment|1,3 r_GEN-AFF.Org-Location|3,5 Entity
+0,1 PER|1,2 GPE|2,3 ORG|4,5 PER|6,7 ORG|3,4 Contact.Meet|0,3 ORG-AFF.Employment|1,3 r_GEN-AFF.Org-Location|3,5 Entity
+
+elected government source
+1,2 GPE|2,3 PER|0,1 Personnel.Elect
+1,2 GPE|2,3 PER|0,1 Personnel.Elect
+
+government elected source
+0,1 GPE|2,3 PER|1,2 Personnel.Elect
+0,1 GPE|2,3 PER|1,2 Personnel.Elect
+
+bunch oligarchs source
+1,2 PER|2,3 PER
+1,2 PER|2,3 PER
+
+Iraqi elections Iraq
+0,1 PER|2,3 GPE|1,2 Personnel.Elect|1,3 Place
+0,1 PER|2,3 GPE|1,2 Personnel.Elect|1,3 Place
+
+Adnan Pachachi minister returned Iraq Az - Zaman daily elections
+0,2 PER|2,3 PER|4,5 GPE|5,8 ORG|8,9 ORG|3,4 Movement.Transport|9,10 Personnel.Elect|3,5 Destination
+0,2 PER|2,3 PER|4,5 GPE|5,8 ORG|8,9 ORG|3,4 Movement.Transport|9,10 Personnel.Elect|3,5 Destination
+
+government election elections constituent assembly Pachachi
+0,1 ORG|4,5 ORG|5,6 PER|2,3 Personnel.Elect|2,5 Entity
+0,1 ORG|4,5 ORG|5,6 PER|2,3 Personnel.Elect|2,5 Entity
+
+elections government Pachachi daily
+1,2 GPE|2,3 PER|3,4 ORG|0,1 Personnel.Elect|0,2 Entity
+1,2 GPE|2,3 PER|3,4 ORG|0,1 Personnel.Elect|0,2 Entity
+
+Russian official UN Security Council US British Iraq invasion Kuwait coalition
+0,1 GPE|1,2 PER|2,3 ORG|3,5 ORG|5,6 GPE|6,7 GPE|7,8 GPE|9,10 GPE|10,11 ORG|0,2 r_ORG-AFF.Employment|2,5 r_PART-WHOLE.Subsidiary
+0,1 GPE|1,2 PER|2,3 ORG|3,5 ORG|5,6 GPE|6,7 GPE|7,8 GPE|9,10 GPE|10,11 ORG|0,2 r_ORG-AFF.Employment|2,5 r_PART-WHOLE.Subsidiary
+
+Minister Yury Fedotov ITAR - TASS agency
+0,1 PER|1,3 PER|3,6 ORG|6,7 ORG
+0,1 PER|1,3 PER|3,6 ORG|6,7 ORG
+
+Fedotov Russia diplomats United States Britain Spain
+0,1 PER|1,2 GPE|2,3 PER|3,5 GPE|5,6 GPE|6,7 GPE
+0,1 PER|1,2 GPE|2,3 PER|3,5 GPE|5,6 GPE|6,7 GPE
+
+Russia
+0,1 GPE
+0,1 GPE
+
+Iraq Russia UN
+0,1 GPE|1,2 GPE|2,3 ORG
+0,1 GPE|1,2 GPE|2,3 ORG
+
+Australia panel Iraq Interpol
+0,1 GPE|1,2 PER|2,3 GPE|3,4 ORG
+0,1 GPE|1,2 PER|2,3 GPE|3,4 ORG
+
+MOSCOW AFP
+0,1 GPE|1,2 ORG
+0,1 GPE|1,2 ORG
+
+Moscow Beijing Chinese President Hu Jintao Russia destination leader pipeline
+0,1 GPE|1,2 GPE|2,3 GPE|3,4 PER|4,6 PER|6,7 GPE|8,9 PER|9,10 FAC|2,4 r_ORG-AFF.Employment|4,6 r_Person|4,6 r_Artifact
+0,1 GPE|1,2 GPE|2,3 GPE|3,4 PER|4,6 PER|6,7 GPE|8,9 PER|9,10 FAC|2,4 r_ORG-AFF.Employment|4,6 r_Person|4,6 r_Artifact
+
+Hu appointed meet Russian counterpart Vladimir Putin state
+0,1 PER|3,4 GPE|4,5 PER|5,7 PER|2,3 Contact.Meet|3,5 r_ORG-AFF.Employment|0,3 r_Entity|2,5 Entity
+0,1 PER|3,4 GPE|4,5 PER|5,7 PER|2,3 Contact.Meet|3,5 r_ORG-AFF.Employment|0,3 r_Entity|2,5 Entity
+
+summit heading Saint Petersburg city
+2,4 GPE|4,5 GPE|0,1 Contact.Meet|1,2 Movement.Transport|1,4 Destination
+2,4 GPE|4,5 GPE|0,1 Contact.Meet|1,2 Movement.Transport|1,4 Destination
+
+visit Russia president China
+1,2 GPE|2,3 PER|3,4 GPE|0,1 Movement.Transport|2,4 ORG-AFF.Employment|0,2 Destination
+1,2 GPE|2,3 PER|3,4 GPE|0,1 Movement.Transport|2,4 ORG-AFF.Employment|0,2 Destination
+
+President Vladimir Putin Hu Russia Interfax agency
+0,1 PER|1,3 PER|3,4 PER|4,5 GPE|5,7 ORG|4,7 r_GEN-AFF.Org-Location
+0,1 PER|1,3 PER|3,4 PER|4,5 GPE|5,7 ORG|4,7 r_GEN-AFF.Org-Location
+
+sides Russian Chinese
+0,1 GPE|1,2 GPE|2,3 GPE
+0,1 GPE|1,2 GPE|2,3 GPE
+
+Putin Chinese president Jiang Zeming Hu world leader go Beijing meet president - in -
+0,1 PER|1,2 GPE|2,3 PER|3,5 PER|5,6 PER|7,8 PER|9,10 GPE|11,12 PER|8,9 Movement.Transport|0,5 PER-SOC.Business|1,3 r_ORG-AFF.Employment|0,6 r_PER-SOC.Business|0,9 r_Artifact|8,10 Destination
+0,1 PER|1,2 GPE|2,3 PER|3,5 PER|5,6 PER|7,8 PER|9,10 GPE|11,12 PER|8,9 Movement.Transport|0,5 PER-SOC.Business|1,3 r_ORG-AFF.Employment|0,6 r_PER-SOC.Business|0,9 r_Artifact|8,10 Destination
+
+Presidents Vladimir Putin Hu Jintao Russian Russia ambassador China Igor Rogachyov Interfax
+0,1 PER|1,3 PER|3,5 PER|5,6 GPE|6,7 GPE|7,8 PER|8,9 GPE|9,11 PER|11,12 ORG|1,5 r_PER-SOC.Business|6,8 r_ORG-AFF.Employment
+0,1 PER|1,3 PER|3,5 PER|5,6 GPE|6,7 GPE|7,8 PER|8,9 GPE|9,11 PER|11,12 ORG|1,5 r_PER-SOC.Business|6,8 r_ORG-AFF.Employment
+
+Russia United States US Saddam Hussein Iraq
+0,1 GPE|1,3 GPE|3,4 GPE|4,6 PER|6,7 GPE|4,7 PHYS.Located
+0,1 GPE|1,3 GPE|3,4 GPE|4,6 PER|6,7 GPE|4,7 PHYS.Located
+
+China Russian ally Hu leader US President George W. Bush summit Putin Saint Petersburg
+0,1 GPE|1,2 GPE|2,3 GPE|3,4 PER|4,5 PER|5,6 GPE|6,7 PER|7,10 PER|11,12 PER|12,14 GPE|10,11 Contact.Meet|5,7 r_ORG-AFF.Employment|3,11 r_Entity|7,11 r_Entity|10,12 Entity
+0,1 GPE|1,2 GPE|2,3 GPE|3,4 PER|4,5 PER|5,6 GPE|6,7 PER|7,10 PER|11,12 PER|12,14 GPE|10,11 Contact.Meet|5,7 r_ORG-AFF.Employment|3,11 r_Entity|7,11 r_Entity|10,12 Entity
+
+Leaders Asian giants UFG brokerage pipeline Siberia Chinese city Daqing Russian China
+0,1 PER|1,2 GPE|2,3 GPE|3,5 ORG|5,6 FAC|6,7 LOC|7,8 GPE|8,9 GPE|9,10 GPE|10,11 GPE|11,12 GPE|0,3 ORG-AFF.Employment|7,10 r_PART-WHOLE.Geographical
+0,1 PER|1,2 GPE|2,3 GPE|3,5 ORG|5,6 FAC|6,7 LOC|7,8 GPE|8,9 GPE|9,10 GPE|10,11 GPE|11,12 GPE|0,3 ORG-AFF.Employment|7,10 r_PART-WHOLE.Geographical
+
+Russian government pipeline Japan Russian port Nakhodka experts
+0,1 GPE|1,2 GPE|2,3 FAC|3,4 GPE|4,5 GPE|5,6 GPE|6,7 GPE|7,8 PER|4,6 r_PART-WHOLE.Geographical
+0,1 GPE|1,2 GPE|2,3 FAC|3,4 GPE|4,5 GPE|5,6 GPE|6,7 GPE|7,8 PER|4,6 r_PART-WHOLE.Geographical
+
+Russian giant Yukos pipeline Chinese state pipeline monopoly Transneft Russian buyer
+0,1 GPE|1,2 ORG|2,3 ORG|3,4 FAC|4,5 GPE|5,6 GPE|6,7 FAC|7,8 ORG|8,9 ORG|9,10 GPE|10,11 GPE|0,2 r_GEN-AFF.Org-Location
+0,1 GPE|1,2 ORG|2,3 ORG|3,4 FAC|4,5 GPE|5,6 GPE|6,7 FAC|7,8 ORG|8,9 ORG|9,10 GPE|10,11 GPE|0,2 r_GEN-AFF.Org-Location
+
+customers
+0,1 GPE
+0,1 GPE
+
+Asia expert Dmitry Trenin director Moscow Carnegie Center Washington think tank
+0,1 GPE|1,2 PER|2,4 PER|4,5 PER|5,6 GPE|6,8 ORG|8,9 GPE|10,11 ORG|4,8 ORG-AFF.Employment|8,11 r_GEN-AFF.Org-Location
+0,1 GPE|1,2 PER|2,4 PER|4,5 PER|5,6 GPE|6,8 ORG|8,9 GPE|10,11 ORG|4,8 ORG-AFF.Employment|8,11 r_GEN-AFF.Org-Location
+
+Chinese Japanese pipeline
+0,1 GPE|1,2 GPE|2,3 FAC
+0,1 GPE|1,2 GPE|2,3 FAC
+
+China country partner Russia regions purchaser Russian weapons
+0,1 GPE|1,2 GPE|2,3 GPE|3,4 GPE|4,5 LOC|5,6 GPE|6,7 GPE|7,8 WEA|6,8 ART.User-Owner-Inventor-Manufacturer
+0,1 GPE|1,2 GPE|2,3 GPE|3,4 GPE|4,5 LOC|5,6 GPE|6,7 GPE|7,8 WEA|6,8 ART.User-Owner-Inventor-Manufacturer
+
+China neighbour world power
+0,1 GPE|1,2 GPE|2,3 LOC|3,4 GPE
+0,1 GPE|1,2 GPE|2,3 LOC|3,4 GPE
+
+Russia Trenin
+0,1 GPE|1,2 PER
+0,1 GPE|1,2 PER
+
+Chinese president
+0,1 GPE|1,2 PER|0,2 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|0,2 r_ORG-AFF.Employment
+
+Analysts sides war Iraq
+0,1 PER|1,2 GPE|3,4 GPE|2,3 Conflict.Attack|2,4 Place
+0,1 PER|1,2 GPE|3,4 GPE|2,3 Conflict.Attack|2,4 Place
+
+Chinese Hu Putin Russia
+0,1 GPE|1,2 PER|2,3 PER|3,4 GPE
+0,1 GPE|1,2 PER|2,3 PER|3,4 GPE
+
+American world Trenin
+0,1 GPE|1,2 LOC|2,3 PER
+0,1 GPE|1,2 LOC|2,3 PER
+
+Moscow Beijing
+0,1 GPE|1,2 GPE
+0,1 GPE|1,2 GPE
+
+Bush
+
+
+
+WASHINGTON AFP
+0,1 GPE|1,2 ORG
+0,1 GPE|1,2 ORG
+
+US President George W. Bush told Canadian Minister Jean Chretien telephone summit nations Russia White House
+0,1 GPE|1,2 PER|2,5 PER|6,7 GPE|8,10 PER|12,13 GPE|13,14 GPE|14,16 ORG|5,6 Contact.Phone-Write|11,12 Contact.Meet|0,2 r_ORG-AFF.Employment|6,8 r_ORG-AFF.Employment|2,6 r_Entity|5,10 Entity|11,13 Entity|11,14 Entity
+0,1 GPE|1,2 PER|2,5 PER|6,7 GPE|8,10 PER|12,13 GPE|13,14 GPE|14,16 ORG|5,6 Contact.Phone-Write|11,12 Contact.Meet|0,2 r_ORG-AFF.Employment|6,8 r_ORG-AFF.Employment|2,6 r_Entity|5,10 Entity|11,13 Entity|11,14 Entity
+
+leaders discussed G-8 meeting US Canada Bush spokesman Ari Fleischer summit France
+0,1 PER|2,3 GPE|4,5 GPE|5,6 GPE|6,7 PER|7,8 PER|8,10 PER|11,12 GPE|1,2 Contact.Phone-Write|3,4 Contact.Meet|10,11 Contact.Meet|0,2 r_Entity|2,4 r_Entity|3,12 Place|2,11 r_Entity|10,12 Place
+0,1 PER|2,3 GPE|4,5 GPE|5,6 GPE|6,7 PER|7,8 PER|8,10 PER|11,12 GPE|1,2 Contact.Phone-Write|3,4 Contact.Meet|10,11 Contact.Meet|0,2 r_Entity|2,4 r_Entity|3,12 Place|2,11 r_Entity|10,12 Place
+
+Evian
+0,1 GPE
+0,1 GPE
+
+Afghanistan Democratic Republic of Congo global Fleischer
+0,1 GPE|1,5 GPE|6,7 PER
+0,1 GPE|1,5 GPE|6,7 PER
+
+war Iraq Canada Bush visit Canada Australian Prime Minster John Howard military
+1,2 GPE|2,3 GPE|3,4 PER|5,6 GPE|6,7 GPE|7,9 PER|9,11 PER|11,12 ORG|0,1 Conflict.Attack|4,5 Movement.Transport|6,9 r_ORG-AFF.Employment|0,2 Place|3,5 r_Artifact|4,6 Destination
+1,2 GPE|2,3 GPE|3,4 PER|5,6 GPE|6,7 GPE|7,9 PER|9,11 PER|11,12 ORG|0,1 Conflict.Attack|4,5 Movement.Transport|6,9 r_ORG-AFF.Employment|0,2 Place|3,5 r_Artifact|4,6 Destination
+
+Chretien reporters Bush discussed Iraq summit Group of Eight industrial powers Africa
+0,1 PER|1,2 PER|2,3 PER|4,5 GPE|6,11 GPE|11,12 GPE|3,4 Contact.Phone-Write|5,6 Contact.Meet|2,4 r_Entity|5,11 Entity
+0,1 PER|1,2 PER|2,3 PER|4,5 GPE|6,11 GPE|11,12 GPE|3,4 Contact.Phone-Write|5,6 Contact.Meet|2,4 r_Entity|5,11 Entity
+
+Canadian leader
+0,1 GPE|1,2 PER|0,2 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|0,2 r_ORG-AFF.Employment
+
+Enron suing banks
+
+
+
+NEW YORK AFP
+0,2 GPE|2,3 ORG
+0,2 GPE|2,3 ORG
+
+giant Enron Corp bankers Wall Street Journal
+0,1 ORG|1,3 ORG|3,4 ORG|4,7 ORG|1,3 r_Plaintiff
+0,1 ORG|1,3 ORG|3,4 ORG|4,7 ORG|1,3 r_Plaintiff
+
+Houston company target bankruptcy court Manhattan daily
+0,1 GPE|1,2 ORG|2,3 ORG|4,5 FAC|5,6 GPE|6,7 ORG|3,4 Business.Declare-Bankruptcy|0,2 r_GEN-AFF.Org-Location
+0,1 GPE|1,2 ORG|2,3 ORG|4,5 FAC|5,6 GPE|6,7 ORG|3,4 Business.Declare-Bankruptcy|0,2 r_GEN-AFF.Org-Location
+
+executive officer Stephen Cooper Enron bankers shareholders creditors
+1,2 PER|2,4 PER|4,5 ORG|5,6 ORG|6,7 PER|7,8 ORG
+1,2 PER|2,4 PER|4,5 ORG|5,6 ORG|6,7 PER|7,8 ORG
+
+Enron bankers JP Morgan Chase Citigroup Enron advisers sued company shareholders company regulators
+0,1 ORG|1,2 ORG|2,5 ORG|5,6 ORG|6,7 ORG|7,8 ORG|9,10 ORG|10,11 PER|11,12 ORG|12,13 ORG|8,9 Justice.Sue|9,11 r_ORG-AFF.Investor-Shareholder|1,9 r_Defendant|8,11 Plaintiff
+0,1 ORG|1,2 ORG|2,5 ORG|5,6 ORG|6,7 ORG|7,8 ORG|9,10 ORG|10,11 PER|11,12 ORG|12,13 ORG|8,9 Justice.Sue|9,11 r_ORG-AFF.Investor-Shareholder|1,9 r_Defendant|8,11 Plaintiff
+
+JP Morgan Citigroup Enron advisers Bank of America CSFB Merrill Lynch UBS Deutsche Bank Goldman Sachs Lehman Brothers Holdings ABN Amro Barclays PLC Canadian Imperial Bank of Commerce WestLB AG National Westminster Bank Royal Bank of Scotland PLC
+0,2 ORG|2,3 ORG|4,5 ORG|5,8 ORG|8,9 ORG|9,11 ORG|11,12 ORG|12,14 ORG|14,16 ORG|16,19 ORG|19,21 ORG|21,23 ORG|23,28 ORG|28,30 ORG|30,33 ORG|33,38 ORG
+0,2 ORG|2,3 ORG|4,5 ORG|5,8 ORG|8,9 ORG|9,11 ORG|11,12 ORG|12,14 ORG|14,16 ORG|16,19 ORG|19,21 ORG|21,23 ORG|23,28 ORG|28,30 ORG|30,33 ORG|33,38 ORG
+
+SINGAPORE AFP
+0,1 GPE|1,2 ORG
+0,1 GPE|1,2 ORG
+
+Singapore doctors Iranian twins hospital official
+0,1 GPE|1,2 PER|2,3 GPE|3,4 PER|4,5 ORG|5,6 PER|0,2 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|2,4 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|4,6 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|2,3 GPE|3,4 PER|4,5 ORG|5,6 PER|0,2 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|2,4 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|4,6 r_ORG-AFF.Employment
+
+official media doctors executives Raffles Hospital
+0,1 PER|1,2 ORG|2,3 PER|3,4 PER|4,6 ORG|2,6 ORG-AFF.Employment|3,6 ORG-AFF.Employment
+0,1 PER|1,2 ORG|2,3 PER|3,4 PER|4,6 ORG|2,6 ORG-AFF.Employment|3,6 ORG-AFF.Employment
+
+team specialists twins Laleh Ladan Bijani
+0,1 PER|1,2 PER|2,3 PER|3,4 PER|4,6 PER|3,6 PER-SOC.Family
+0,1 PER|1,2 PER|2,3 PER|3,4 PER|4,6 PER|3,6 PER-SOC.Family
+
+twins lawyers neurosurgeon Keith Goh
+0,1 PER|1,2 PER|2,3 PER|3,5 PER
+0,1 PER|1,2 PER|2,3 PER|3,5 PER
+
+pair flew Singapore Nepalese babies Ganga Jamuna Shrestha hospital
+2,3 GPE|3,4 GPE|4,5 PER|5,6 PER|6,8 PER|8,9 FAC|1,2 Movement.Transport|3,5 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|4,9 PHYS.Located|1,3 Destination
+2,3 GPE|3,4 GPE|4,5 PER|5,6 PER|6,8 PER|8,9 FAC|1,2 Movement.Transport|3,5 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|4,9 PHYS.Located|1,3 Destination
+
+Laleh Ladan world doctors Germany die
+0,1 PER|1,2 PER|2,3 LOC|3,4 PER|4,5 GPE|5,6 Life.Die|3,5 PHYS.Located|0,6 r_Victim|1,6 r_Victim
+0,1 PER|1,2 PER|2,3 LOC|3,4 PER|4,5 GPE|5,6 Life.Die|3,5 PHYS.Located|0,6 r_Victim|1,6 r_Victim
+
+Iran
+0,1 GPE
+0,1 GPE
+
+Stephen Collinson
+0,2 PER
+0,2 PER
+
+Russian minister US
+0,1 GPE|1,2 PER|2,3 GPE|0,2 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|2,3 GPE|0,2 r_ORG-AFF.Employment
+
+SAINT PETERSBURG AFP US President George W. Bush Russian President Vladimir Putin Iraq war Iran nuclear
+0,2 GPE|2,3 ORG|3,4 GPE|4,5 PER|5,8 PER|8,9 GPE|9,10 PER|10,12 PER|12,13 GPE|14,15 GPE|13,14 Conflict.Attack|3,5 r_ORG-AFF.Employment|8,10 r_ORG-AFF.Employment|12,14 r_Place
+0,2 GPE|2,3 ORG|3,4 GPE|4,5 PER|5,8 PER|8,9 GPE|9,10 PER|10,12 PER|12,13 GPE|14,15 GPE|13,14 Conflict.Attack|3,5 r_ORG-AFF.Employment|8,10 r_ORG-AFF.Employment|12,14 r_Place
+
+talks Saint Petersburg Konstantinovsky Palace North Korea nuclear Moscow weapons
+1,3 GPE|3,5 FAC|5,7 GPE|8,9 GPE|9,10 WEA|0,1 Contact.Meet|1,5 r_PART-WHOLE.Geographical|0,5 Place
+1,3 GPE|3,5 FAC|5,7 GPE|8,9 GPE|9,10 WEA|0,1 Contact.Meet|1,5 r_PART-WHOLE.Geographical|0,5 Place
+
+press talks Saint Petersburg Bush Putin encounters
+2,4 GPE|4,5 PER|5,6 PER|1,2 Contact.Meet|1,5 Entity|1,6 Entity
+2,4 GPE|4,5 PER|5,6 PER|1,2 Contact.Meet|1,5 Entity|1,6 Entity
+
+Putin Iraq Russia United States
+0,1 PER|1,2 GPE|2,3 GPE|3,5 GPE
+0,1 PER|1,2 GPE|2,3 GPE|3,5 GPE
+
+President Bush friend counterpart president nation Bush
+0,1 PER|1,2 PER|2,3 PER|3,4 PER|4,5 PER|5,6 GPE|6,7 PER|4,6 ORG-AFF.Employment
+0,1 PER|1,2 PER|2,3 PER|3,4 PER|4,5 PER|5,6 GPE|6,7 PER|4,6 ORG-AFF.Employment
+
+men US Russian nuclear Iran Bush axis of evil Iraq North Korea
+0,1 PER|1,2 GPE|2,3 GPE|4,5 GPE|5,6 PER|6,9 GPE|9,10 GPE|10,12 GPE
+0,1 PER|1,2 GPE|2,3 GPE|4,5 GPE|5,6 PER|6,9 GPE|9,10 GPE|10,12 GPE
+
+Iran nuclear Iran Bush
+0,1 GPE|2,3 GPE|3,4 PER
+0,1 GPE|2,3 GPE|3,4 PER
+
+US diplomat Bushehr Russia US
+0,1 GPE|1,2 PER|2,3 FAC|3,4 GPE|4,5 GPE|0,2 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|2,3 FAC|3,4 GPE|4,5 GPE|0,2 r_ORG-AFF.Employment
+
+Russia Bushehr Iranian nuclear US diplomat summit talks
+0,1 GPE|1,2 FAC|2,3 GPE|4,5 GPE|5,6 PER|7,8 Contact.Meet|4,6 r_ORG-AFF.Employment
+0,1 GPE|1,2 FAC|2,3 GPE|4,5 GPE|5,6 PER|7,8 Contact.Meet|4,6 r_ORG-AFF.Employment
+
+United States Iran civilian nuclear weapons
+0,2 GPE|2,3 GPE|5,6 WEA
+0,2 GPE|2,3 GPE|5,6 WEA
+
+Washington Russia plant Bushehr Iran
+0,1 GPE|1,2 GPE|2,3 FAC|3,4 GPE|4,5 LOC|2,4 PART-WHOLE.Geographical|3,5 PART-WHOLE.Geographical
+0,1 GPE|1,2 GPE|2,3 FAC|3,4 GPE|4,5 LOC|2,4 PART-WHOLE.Geographical|3,5 PART-WHOLE.Geographical
+
+Vladimir Putin Bush
+0,2 PER|2,3 PER
+0,2 PER|2,3 PER
+
+Putin sides
+0,1 PER|1,2 GPE
+0,1 PER|1,2 GPE
+
+weapons
+0,1 WEA
+0,1 WEA
+
+bonhomie Putin Russia nuclear Iran
+1,2 PER|2,3 GPE|4,5 GPE
+1,2 PER|2,3 GPE|4,5 GPE
+
+weapons Iran
+0,1 WEA|1,2 GPE
+0,1 WEA|1,2 GPE
+
+Bush Russia France Germany US war Iraq friend Putin Camp David Washington
+0,1 PER|1,2 GPE|2,3 GPE|3,4 GPE|4,5 GPE|6,7 GPE|7,8 PER|8,9 PER|9,11 GPE|11,12 GPE|5,6 Conflict.Attack|9,12 PHYS.Near|5,7 Place
+0,1 PER|1,2 GPE|2,3 GPE|3,4 GPE|4,5 GPE|6,7 GPE|7,8 PER|8,9 PER|9,11 GPE|11,12 GPE|5,6 Conflict.Attack|9,12 PHYS.Near|5,7 Place
+
+Putin visited Bush Texas ranch
+0,1 PER|2,3 PER|3,4 GPE|4,5 FAC|1,2 Contact.Meet|3,5 r_PART-WHOLE.Geographical|0,2 r_Entity|1,3 Entity|1,5 Place
+0,1 PER|2,3 PER|3,4 GPE|4,5 FAC|1,2 Contact.Meet|3,5 r_PART-WHOLE.Geographical|0,2 r_Entity|1,3 Entity|1,5 Place
+
+Russian Iraq industry administration United States Britain UN Russia
+0,1 GPE|1,2 GPE|2,3 ORG|4,6 GPE|6,7 GPE|7,8 ORG|8,9 GPE|2,6 PART-WHOLE.Subsidiary|2,7 PART-WHOLE.Subsidiary
+0,1 GPE|1,2 GPE|2,3 ORG|4,6 GPE|6,7 GPE|7,8 ORG|8,9 GPE|2,6 PART-WHOLE.Subsidiary|2,7 PART-WHOLE.Subsidiary
+
+Putin Russian companies Iraq area Iraq Iraq
+0,1 PER|1,2 GPE|2,3 ORG|3,4 GPE|4,5 LOC|5,6 GPE|6,7 GPE|1,3 r_GEN-AFF.Org-Location
+0,1 PER|1,2 GPE|2,3 ORG|3,4 GPE|4,5 LOC|5,6 GPE|6,7 GPE|1,3 r_GEN-AFF.Org-Location
+
+president Putin Russian companies Iran Minister Igor Ivanov United States summit
+0,1 PER|1,2 PER|2,3 GPE|3,4 ORG|4,5 GPE|5,6 PER|6,8 PER|8,10 GPE|10,11 Contact.Meet|2,4 r_GEN-AFF.Org-Location
+0,1 PER|1,2 PER|2,3 GPE|3,4 ORG|4,5 GPE|5,6 PER|6,8 PER|8,10 GPE|10,11 Contact.Meet|2,4 r_GEN-AFF.Org-Location
+
+Bush Putin arms sides weapons warheads
+0,1 PER|1,2 PER|2,3 WEA|3,4 GPE|4,5 WEA|5,6 WEA|3,5 ART.User-Owner-Inventor-Manufacturer
+0,1 PER|1,2 PER|2,3 WEA|3,4 GPE|4,5 WEA|5,6 WEA|3,5 ART.User-Owner-Inventor-Manufacturer
+
+Bush arrived Saint Petersburg met German Chancellor Gerhard Schroeder Iraq war Washington Putin
+0,1 PER|2,4 GPE|5,6 GPE|6,7 PER|7,9 PER|9,10 GPE|11,12 GPE|12,13 PER|1,2 Movement.Transport|4,5 Contact.Meet|10,11 Conflict.Attack|5,7 r_ORG-AFF.Employment|0,2 r_Artifact|1,4 Destination|0,5 r_Entity|2,5 r_Place|4,9 Entity|9,11 r_Place
+0,1 PER|2,4 GPE|5,6 GPE|6,7 PER|7,9 PER|9,10 GPE|11,12 GPE|12,13 PER|1,2 Movement.Transport|4,5 Contact.Meet|10,11 Conflict.Attack|5,7 r_ORG-AFF.Employment|0,2 r_Artifact|1,4 Destination|0,5 r_Entity|2,5 r_Place|4,9 Entity|9,11 r_Place
+
+Bush Putin leave talks Group of Eight summit nations Evian France
+0,1 PER|1,2 PER|4,7 GPE|8,9 GPE|9,10 GPE|10,11 GPE|2,3 Movement.Transport|3,4 Contact.Meet|7,8 Contact.Meet|0,10 PHYS.Located|1,10 PHYS.Located|9,11 PART-WHOLE.Geographical|0,3 r_Artifact|1,3 r_Artifact|2,10 Destination|0,8 r_Entity|1,8 r_Entity|7,9 Entity|7,10 Place
+0,1 PER|1,2 PER|4,7 GPE|8,9 GPE|9,10 GPE|10,11 GPE|2,3 Movement.Transport|3,4 Contact.Meet|7,8 Contact.Meet|0,10 PHYS.Located|1,10 PHYS.Located|9,11 PART-WHOLE.Geographical|0,3 r_Artifact|1,3 r_Artifact|2,10 Destination|0,8 r_Entity|1,8 r_Entity|7,9 Entity|7,10 Place
+
+India bachelor PM president country
+
+
+
+NEW DELHI AFP
+0,2 GPE|2,3 ORG
+0,2 GPE|2,3 ORG
+
+chief India Congress party election rally India president minister bachelors
+0,1 PER|1,2 GPE|2,3 ORG|3,4 ORG|6,7 GPE|7,8 PER|9,10 PER|0,4 ORG-AFF.Membership|1,4 r_GEN-AFF.Org-Location
+0,1 PER|1,2 GPE|2,3 ORG|3,4 ORG|6,7 GPE|7,8 PER|9,10 PER|0,4 ORG-AFF.Membership|1,4 r_GEN-AFF.Org-Location
+
+Times of India newspaper Digvijay Singh minister Indian state Madhya Pradesh Minister Atal Behari Vajpayee President Abdul Kalam Hindu God Varuna bachelors
+0,4 ORG|4,6 PER|6,7 PER|8,9 GPE|9,11 GPE|12,15 PER|15,16 PER|16,18 PER|18,19 ORG|19,20 PER|20,21 PER|21,22 PER|6,9 ORG-AFF.Employment
+0,4 ORG|4,6 PER|6,7 PER|8,9 GPE|9,11 GPE|12,15 PER|15,16 PER|16,18 PER|18,19 ORG|19,20 PER|20,21 PER|21,22 PER|6,9 ORG-AFF.Employment
+
+country bachelor president minister
+0,1 GPE|1,2 PER|2,3 PER
+0,1 GPE|1,2 PER|2,3 PER
+
+Hindu Singh
+0,1 ORG|1,2 PER
+0,1 ORG|1,2 PER
+
+Minister Vajpayee President Kalam bachelor country
+1,2 PER|2,3 PER|3,4 PER|4,5 PER|5,6 GPE
+1,2 PER|2,3 PER|3,4 PER|4,5 PER|5,6 GPE
+
+secretary Vajpayee Bharatiya Janata Party Pramod Mahajan Singh
+0,1 PER|1,2 PER|2,5 ORG|5,7 PER|7,8 PER|0,5 ORG-AFF.Membership|1,5 ORG-AFF.Membership
+0,1 PER|1,2 PER|2,5 ORG|5,7 PER|7,8 PER|0,5 ORG-AFF.Membership|1,5 ORG-AFF.Membership
+
+India killed people
+0,1 GPE|2,3 PER|1,2 Life.Die|0,2 r_Place|1,3 Victim
+0,1 GPE|2,3 PER|1,2 Life.Die|0,2 r_Place|1,3 Victim
+
+country desert state Rajasthan
+0,1 GPE|2,3 GPE|3,4 GPE|0,3 r_PART-WHOLE.Geographical
+0,1 GPE|2,3 GPE|3,4 GPE|0,3 r_PART-WHOLE.Geographical
+
+Mother baby dead Wisconsin
+
+
+
+MADISON Wisconsin AFP
+0,1 GPE|1,2 GPE|2,3 ORG|0,2 PART-WHOLE.Geographical
+0,1 GPE|1,2 GPE|2,3 ORG|0,2 PART-WHOLE.Geographical
+
+skeleton baby Wisconsin home woman dead infant officials
+0,1 PER|1,2 PER|2,3 GPE|3,4 FAC|4,5 PER|6,7 PER|7,8 PER|5,6 Life.Die|2,4 r_PART-WHOLE.Geographical|4,7 PER-SOC.Family|5,7 Victim
+0,1 PER|1,2 PER|2,3 GPE|3,4 FAC|4,5 PER|6,7 PER|7,8 PER|5,6 Life.Die|2,4 r_PART-WHOLE.Geographical|4,7 PER-SOC.Family|5,7 Victim
+
+Kristin Scott mother police birth babies parents home Byrds Creek Richland County girl
+0,2 PER|2,3 PER|3,4 PER|5,6 PER|6,7 PER|7,8 FAC|8,10 GPE|10,12 GPE|12,13 PER|4,5 Life.Be-Born|5,8 PHYS.Located|6,8 ART.User-Owner-Inventor-Manufacturer|7,10 PART-WHOLE.Geographical|8,12 PART-WHOLE.Geographical|4,6 Person|4,8 Place
+0,2 PER|2,3 PER|3,4 PER|5,6 PER|6,7 PER|7,8 FAC|8,10 GPE|10,12 GPE|12,13 PER|4,5 Life.Be-Born|5,8 PHYS.Located|6,8 ART.User-Owner-Inventor-Manufacturer|7,10 PART-WHOLE.Geographical|8,12 PART-WHOLE.Geographical|4,6 Person|4,8 Place
+
+Police arrested Abilene Texas friend
+0,1 PER|2,3 GPE|3,4 GPE|4,5 PER|1,2 Justice.Arrest-Jail|0,2 r_Agent|1,3 Place
+0,1 PER|2,3 GPE|3,4 GPE|4,5 PER|1,2 Justice.Arrest-Jail|0,2 r_Agent|1,3 Place
+
+charge homicide corpse death infant born
+2,3 PER|4,5 PER|0,1 Justice.Charge-Indict|1,2 Life.Die|3,4 Life.Die|5,6 Life.Be-Born|3,5 Victim|4,6 r_Person
+2,3 PER|4,5 PER|0,1 Justice.Charge-Indict|1,2 Life.Die|3,4 Life.Die|5,6 Life.Be-Born|3,5 Victim|4,6 r_Person
+
+Scott police baby died
+0,1 PER|1,2 PER|2,3 PER|3,4 Life.Die
+0,1 PER|1,2 PER|2,3 PER|3,4 Life.Die
+
+baby die
+0,1 PER|1,2 Life.Die|0,2 r_Victim
+0,1 PER|1,2 Life.Die|0,2 r_Victim
+
+woman parents William Nancy Scott body baby closet house
+0,1 PER|1,2 PER|2,3 PER|3,4 PER|5,6 PER|6,7 PER|7,8 FAC|8,9 FAC|0,2 PER-SOC.Family|5,8 PHYS.Located
+0,1 PER|1,2 PER|2,3 PER|3,4 PER|5,6 PER|6,7 PER|7,8 FAC|8,9 FAC|0,2 PER-SOC.Family|5,8 PHYS.Located
+
+Scott investigators body moved Texas closet Byrds Creek house car closet apartment Richland Center
+0,1 PER|1,2 PER|2,3 PER|4,5 GPE|5,6 FAC|6,8 GPE|8,9 FAC|9,10 VEH|10,11 FAC|11,12 FAC|12,14 GPE|3,4 Movement.Transport|2,6 PHYS.Located|2,11 PHYS.Located|5,9 PART-WHOLE.Geographical|6,9 r_PART-WHOLE.Geographical|10,12 PART-WHOLE.Geographical|11,14 PART-WHOLE.Geographical|3,5 Destination
+0,1 PER|1,2 PER|2,3 PER|4,5 GPE|5,6 FAC|6,8 GPE|8,9 FAC|9,10 VEH|10,11 FAC|11,12 FAC|12,14 GPE|3,4 Movement.Transport|2,6 PHYS.Located|2,11 PHYS.Located|5,9 PART-WHOLE.Geographical|6,9 r_PART-WHOLE.Geographical|10,12 PART-WHOLE.Geographical|11,14 PART-WHOLE.Geographical|3,5 Destination
+
+sheriff baby
+0,1 PER|1,2 PER
+0,1 PER|1,2 PER
+
+Rachel Hunter divorce icon Rod Sewart
+
+
+
+LOS ANGELES AFP
+0,2 GPE|2,3 ORG
+0,2 GPE|2,3 ORG
+
+Supermodel Rachel Hunter divorce husband Rod Stewart couple court
+0,1 PER|1,3 PER|4,5 PER|5,7 PER|7,8 PER|8,9 ORG|3,4 Life.Divorce|1,4 r_Person|3,5 Person
+0,1 PER|1,3 PER|4,5 PER|5,7 PER|7,8 PER|8,9 ORG|3,4 Life.Divorce|1,4 r_Person|3,5 Person
+
+Hunter divorce Los Angeles Superior Court star married
+0,1 PER|2,4 GPE|4,6 ORG|6,7 PER|1,2 Life.Divorce|7,8 Life.Marry|0,2 r_Person|1,4 Place|1,7 Person
+0,1 PER|2,4 GPE|4,6 ORG|6,7 PER|1,2 Life.Divorce|7,8 Life.Marry|0,2 r_Person|1,4 Place|1,7 Person
+
+couple daughter Renee son Liam
+0,1 PER|1,2 PER|2,3 PER|3,4 PER|4,5 PER
+0,1 PER|1,2 PER|2,3 PER|3,4 PER|4,5 PER
+
+couple
+0,1 PER
+0,1 PER
+
+New Zealand Hunter British star Robbie Williams British star Stewart girlfriend photographer Penny Lancaster
+0,2 GPE|2,3 PER|3,4 GPE|4,5 PER|5,7 PER|7,8 GPE|8,9 PER|9,10 PER|10,11 PER|11,12 PER|12,14 PER|0,3 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|2,7 PER-SOC.Lasting-Personal|3,5 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|7,9 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|0,2 r_Place
+0,2 GPE|2,3 PER|3,4 GPE|4,5 PER|5,7 PER|7,8 GPE|8,9 PER|9,10 PER|10,11 PER|11,12 PER|12,14 PER|0,3 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|2,7 PER-SOC.Lasting-Personal|3,5 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|7,9 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|0,2 r_Place
+
+Stewart marriages couples wedding
+0,1 PER|2,3 PER|1,2 Life.Marry|3,4 Life.Marry|0,2 r_Person
+0,1 PER|2,3 PER|1,2 Life.Marry|3,4 Life.Marry|0,2 r_Person
+
+Stewart marriage Alana Hamilton children
+0,1 PER|2,4 PER|4,5 PER|1,2 Life.Marry|0,5 PER-SOC.Family|2,5 PER-SOC.Family|0,2 r_Person|1,4 Person
+0,1 PER|2,4 PER|4,5 PER|1,2 Life.Marry|0,5 PER-SOC.Family|2,5 PER-SOC.Family|0,2 r_Person|1,4 Person
+
+singer Britt Ekland Maggie May
+0,1 PER|1,3 PER
+0,1 PER|1,3 PER
+
+US AIG GE Japan
+
+
+
+TOKYO AFP
+0,1 GPE|1,2 ORG
+0,1 GPE|1,2 ORG
+
+US group AIG talks General Electric Japanese arm Japan insurer
+0,1 GPE|1,2 ORG|2,3 ORG|4,6 ORG|6,7 GPE|7,8 ORG|8,9 GPE|9,10 ORG|0,2 r_GEN-AFF.Org-Location|4,8 r_PART-WHOLE.Subsidiary|6,8 r_GEN-AFF.Org-Location|8,10 r_GEN-AFF.Org-Location
+0,1 GPE|1,2 ORG|2,3 ORG|4,6 ORG|6,7 GPE|7,8 ORG|8,9 GPE|9,10 ORG|0,2 r_GEN-AFF.Org-Location|4,8 r_PART-WHOLE.Subsidiary|6,8 r_GEN-AFF.Org-Location|8,10 r_GEN-AFF.Org-Location
+
+American International Group Inc. acquire GE Edison Life Insurance GE US car
+0,4 ORG|5,9 ORG|9,10 ORG|10,11 GPE|11,12 VEH
+0,4 ORG|5,9 ORG|9,10 ORG|10,11 GPE|11,12 VEH
+
+daily Nihon Keizai agency Jiji Press
+0,1 ORG|1,3 ORG|3,4 ORG|4,6 ORG
+0,1 ORG|1,3 ORG|3,4 ORG|4,6 ORG
+
+GE Edison Life Insurance Co. Ltd. Japanese unit US conglomerate General Electric
+0,6 ORG|6,7 GPE|7,8 ORG|8,9 GPE|9,10 ORG|10,12 ORG|6,8 r_GEN-AFF.Org-Location|7,12 PART-WHOLE.Subsidiary|8,10 r_GEN-AFF.Org-Location
+0,6 ORG|6,7 GPE|7,8 ORG|8,9 GPE|9,10 ORG|10,12 ORG|6,8 r_GEN-AFF.Org-Location|7,12 PART-WHOLE.Subsidiary|8,10 r_GEN-AFF.Org-Location
+
+officials AIG Tokyo office GE Edison
+0,1 PER|1,2 ORG|2,3 GPE|3,4 FAC|4,6 ORG|0,4 PHYS.Located|1,4 ART.User-Owner-Inventor-Manufacturer
+0,1 PER|1,2 ORG|2,3 GPE|3,4 FAC|4,6 ORG|0,4 PHYS.Located|1,4 ART.User-Owner-Inventor-Manufacturer
+
+GE Edison AIG unit Japan Alico Japan AIG Star life Insurance
+0,2 ORG|2,3 ORG|3,4 ORG|4,5 GPE|5,7 ORG|7,11 ORG|2,4 r_PART-WHOLE.Subsidiary|3,5 GEN-AFF.Org-Location|2,7 r_PART-WHOLE.Subsidiary|4,7 r_GEN-AFF.Org-Location|2,11 r_PART-WHOLE.Subsidiary|4,11 r_GEN-AFF.Org-Location
+0,2 ORG|2,3 ORG|3,4 ORG|4,5 GPE|5,7 ORG|7,11 ORG|2,4 r_PART-WHOLE.Subsidiary|3,5 GEN-AFF.Org-Location|2,7 r_PART-WHOLE.Subsidiary|4,7 r_GEN-AFF.Org-Location|2,11 r_PART-WHOLE.Subsidiary|4,11 r_GEN-AFF.Org-Location
+
+acquisition GE Edison AIG Japan Japanese business
+1,3 ORG|3,4 ORG|4,5 GPE|5,6 GPE|6,7 ORG|0,1 Transaction.Transfer-Ownership|5,7 r_GEN-AFF.Org-Location|0,3 Artifact|0,4 Buyer
+1,3 ORG|3,4 ORG|4,5 GPE|5,6 GPE|6,7 ORG|0,1 Transaction.Transfer-Ownership|5,7 r_GEN-AFF.Org-Location|0,3 Artifact|0,4 Buyer
+
+Rafah
+
+
+
+GAZA CITY AFP
+0,2 GPE|2,3 ORG
+0,2 GPE|2,3 ORG
+
+Palestinian forces Gaza Strip Palestinian Israel checkpoints coastal territory Palestinian source
+0,1 GPE|1,2 PER|2,4 LOC|4,5 GPE|5,6 GPE|6,7 FAC|8,9 LOC|9,10 GPE|10,11 PER|0,2 r_ORG-AFF.Employment|1,4 PHYS.Located|6,9 PART-WHOLE.Geographical|9,11 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|2,4 LOC|4,5 GPE|5,6 GPE|6,7 FAC|8,9 LOC|9,10 GPE|10,11 PER|0,2 r_ORG-AFF.Employment|1,4 PHYS.Located|6,9 PART-WHOLE.Geographical|9,11 r_ORG-AFF.Employment
+
+Police officers Gaza Strip source
+0,1 ORG|1,2 PER|2,4 LOC|4,5 PER|0,2 r_ORG-AFF.Employment|1,4 PHYS.Located
+0,1 ORG|1,2 PER|2,4 LOC|4,5 PER|0,2 r_ORG-AFF.Employment|1,4 PHYS.Located
+
+Palestinian police
+0,1 GPE|1,2 PER|0,2 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|0,2 r_ORG-AFF.Employment
+
+cars weapons source
+0,1 VEH|1,2 WEA|2,3 PER
+0,1 VEH|1,2 WEA|2,3 PER
+
+US Middle East bloodshed Israel Palestinians
+0,1 GPE|1,3 GPE|4,5 GPE|5,6 GPE|3,4 Conflict.Attack|3,5 Attacker|3,6 Attacker
+0,1 GPE|1,3 GPE|4,5 GPE|5,6 GPE|3,4 Conflict.Attack|3,5 Attacker|3,6 Attacker
+
+withdrawal Israeli troops town Beit Hanoun police town Beit Lahiya
+1,2 GPE|2,3 PER|3,4 GPE|4,6 GPE|6,7 PER|7,8 GPE|8,10 GPE|0,1 Movement.Transport|1,3 r_ORG-AFF.Employment|6,8 PHYS.Located|0,3 Artifact|0,4 Origin
+1,2 GPE|2,3 PER|3,4 GPE|4,6 GPE|6,7 PER|7,8 GPE|8,10 GPE|0,1 Movement.Transport|1,3 r_ORG-AFF.Employment|6,8 PHYS.Located|0,3 Artifact|0,4 Origin
+
+deployed border Israel
+1,2 LOC|2,3 GPE|0,1 Movement.Transport|1,3 PART-WHOLE.Geographical|0,2 Destination
+1,2 LOC|2,3 GPE|0,1 Movement.Transport|1,3 PART-WHOLE.Geographical|0,2 Destination
+
+Palestinian Authority groups attacks Jewish state
+0,2 GPE|2,3 ORG|4,5 PER|5,6 GPE|3,4 Conflict.Attack|4,6 GEN-AFF.Citizen-Resident-Religion-Ethnicity|2,4 r_Attacker
+0,2 GPE|2,3 ORG|4,5 PER|5,6 GPE|3,4 Conflict.Attack|4,6 GEN-AFF.Citizen-Resident-Religion-Ethnicity|2,4 r_Attacker
+
+Israeli army Palestinians Gaza highway troops abandoned checkpoints coastal territory
+0,1 GPE|1,2 ORG|2,3 GPE|3,4 LOC|4,5 FAC|5,6 PER|7,8 FAC|9,10 LOC|6,7 Movement.Transport|0,2 r_PART-WHOLE.Subsidiary|2,5 PHYS.Near|3,5 r_PART-WHOLE.Geographical|5,8 PHYS.Located|7,10 PART-WHOLE.Geographical|5,7 r_Artifact|6,8 Origin
+0,1 GPE|1,2 ORG|2,3 GPE|3,4 LOC|4,5 FAC|5,6 PER|7,8 FAC|9,10 LOC|6,7 Movement.Transport|0,2 r_PART-WHOLE.Subsidiary|2,5 PHYS.Near|3,5 r_PART-WHOLE.Geographical|5,8 PHYS.Located|7,10 PART-WHOLE.Geographical|5,7 r_Artifact|6,8 Origin
+
+Netzarim junction Gaza City Kissufim junction Deir al - Balah Gaza Strip Guest House junction Deir al - Balah army
+0,1 FAC|1,2 FAC|2,4 GPE|4,5 FAC|5,6 FAC|6,10 GPE|10,12 LOC|12,14 FAC|14,15 FAC|15,19 GPE|19,20 ORG|1,4 PHYS.Near|5,10 PHYS.Near|6,12 PART-WHOLE.Geographical|14,19 PHYS.Near
+0,1 FAC|1,2 FAC|2,4 GPE|4,5 FAC|5,6 FAC|6,10 GPE|10,12 LOC|12,14 FAC|14,15 FAC|15,19 GPE|19,20 ORG|1,4 PHYS.Near|5,10 PHYS.Near|6,12 PART-WHOLE.Geographical|14,19 PHYS.Near
+
+military checkpoints highway Gaza Strip
+0,1 ORG|1,2 FAC|2,3 FAC|3,5 LOC|1,3 PART-WHOLE.Geographical
+0,1 ORG|1,2 FAC|2,3 FAC|3,5 LOC|1,3 PART-WHOLE.Geographical
+
+Israel source Israel military posts Kissufim junction Guest House junction
+0,1 GPE|1,2 PER|2,3 GPE|4,5 FAC|5,6 FAC|6,7 FAC|7,9 FAC|9,10 FAC|4,7 PART-WHOLE.Geographical|4,10 PART-WHOLE.Geographical
+0,1 GPE|1,2 PER|2,3 GPE|4,5 FAC|5,6 FAC|6,7 FAC|7,9 FAC|9,10 FAC|4,7 PART-WHOLE.Geographical|4,10 PART-WHOLE.Geographical
+
+Gaza highway roads
+0,1 LOC|1,2 FAC|2,3 FAC|0,2 r_PART-WHOLE.Geographical
+0,1 LOC|1,2 FAC|2,3 FAC|0,2 r_PART-WHOLE.Geographical
+
+Karni Netzarim road route highway Kfar Darom settlement Guest House junction
+0,2 FAC|2,3 FAC|3,4 FAC|4,5 FAC|5,7 GPE|7,8 GPE|8,10 FAC|10,11 FAC|5,11 PHYS.Near|7,11 PHYS.Near
+0,2 FAC|2,3 FAC|3,4 FAC|4,5 FAC|5,7 GPE|7,8 GPE|8,10 FAC|10,11 FAC|5,11 PHYS.Near|7,11 PHYS.Near
+
+road border town Rafah Khan Yunis
+0,1 FAC|1,2 LOC|2,3 GPE|3,4 GPE|4,6 GPE|0,3 PHYS.Near|0,6 PHYS.Near|1,3 r_PHYS.Near
+0,1 FAC|1,2 LOC|2,3 GPE|3,4 GPE|4,6 GPE|0,3 PHYS.Near|0,6 PHYS.Near|1,3 r_PHYS.Near
+
+Palestinian Israeli military source troops Netzarim crossing Guest House junction Jewish settlers road
+0,1 GPE|1,2 GPE|2,3 ORG|3,4 PER|4,5 PER|5,6 FAC|6,7 FAC|7,9 FAC|9,10 FAC|10,11 PER|11,12 PER|12,13 FAC|1,3 r_PART-WHOLE.Subsidiary|2,4 r_ORG-AFF.Employment|10,12 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|11,13 PHYS.Located
+0,1 GPE|1,2 GPE|2,3 ORG|3,4 PER|4,5 PER|5,6 FAC|6,7 FAC|7,9 FAC|9,10 FAC|10,11 PER|11,12 PER|12,13 FAC|1,3 r_PART-WHOLE.Subsidiary|2,4 r_ORG-AFF.Employment|10,12 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|11,13 PHYS.Located
+
+Palestinian men
+0,1 GPE|1,2 PER|0,2 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity
+0,1 GPE|1,2 PER|0,2 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity
+
+army Rafah border crossing Gaza Strip Egypt Palestinians sources
+0,1 ORG|1,2 GPE|2,3 LOC|4,6 LOC|6,7 GPE|7,8 GPE|8,9 PER|1,3 PART-WHOLE.Geographical|2,6 PART-WHOLE.Geographical|2,7 PART-WHOLE.Geographical|4,7 PHYS.Near
+0,1 ORG|1,2 GPE|2,3 LOC|4,6 LOC|6,7 GPE|7,8 GPE|8,9 PER|1,3 PART-WHOLE.Geographical|2,6 PART-WHOLE.Geographical|2,7 PART-WHOLE.Geographical|4,7 PHYS.Near
+
+Palestinian police officers return Palestinian section border crossing Israeli troops uprising
+0,1 GPE|1,2 ORG|2,3 PER|4,5 GPE|5,6 FAC|6,7 LOC|7,8 FAC|8,9 GPE|9,10 PER|3,4 Movement.Transport|10,11 Conflict.Attack|0,2 r_PART-WHOLE.Subsidiary|1,3 r_ORG-AFF.Employment|2,6 PHYS.Located|5,8 PART-WHOLE.Geographical|6,8 r_PART-WHOLE.Geographical|8,10 r_ORG-AFF.Employment|2,4 r_Artifact|3,6 Destination|8,11 r_Place|9,11 r_Attacker
+0,1 GPE|1,2 ORG|2,3 PER|4,5 GPE|5,6 FAC|6,7 LOC|7,8 FAC|8,9 GPE|9,10 PER|3,4 Movement.Transport|10,11 Conflict.Attack|0,2 r_PART-WHOLE.Subsidiary|1,3 r_ORG-AFF.Employment|2,6 PHYS.Located|5,8 PART-WHOLE.Geographical|6,8 r_PART-WHOLE.Geographical|8,10 r_ORG-AFF.Employment|2,4 r_Artifact|3,6 Destination|8,11 r_Place|9,11 r_Attacker
+
+Oslo Palestinians Rafah border crossing Egypt Israel Palestinians Israel zone
+0,1 GPE|1,2 GPE|2,3 GPE|3,4 LOC|5,6 GPE|6,7 GPE|7,8 GPE|8,9 GPE|9,10 FAC|2,4 r_PART-WHOLE.Geographical|3,6 PART-WHOLE.Geographical|8,10 ART.User-Owner-Inventor-Manufacturer
+0,1 GPE|1,2 GPE|2,3 GPE|3,4 LOC|5,6 GPE|6,7 GPE|7,8 GPE|8,9 GPE|9,10 FAC|2,4 r_PART-WHOLE.Geographical|3,6 PART-WHOLE.Geographical|8,10 ART.User-Owner-Inventor-Manufacturer
+
+crossing territories Israeli Palestinian section Israel
+0,1 FAC|1,2 GPE|2,3 GPE|3,4 GPE|4,5 FAC|5,6 GPE|0,3 r_ART.User-Owner-Inventor-Manufacturer|3,5 ART.User-Owner-Inventor-Manufacturer
+0,1 FAC|1,2 GPE|2,3 GPE|3,4 GPE|4,5 FAC|5,6 GPE|0,3 r_ART.User-Owner-Inventor-Manufacturer|3,5 ART.User-Owner-Inventor-Manufacturer
+
+US Iraq
+
+
+
+WASHINGTON AP
+0,1 GPE|1,2 ORG
+0,1 GPE|1,2 ORG
+
+White House United Nations war
+0,2 GPE|2,4 ORG|4,5 Conflict.Attack|0,5 r_Attacker
+0,2 GPE|2,4 ORG|4,5 Conflict.Attack|0,5 r_Attacker
+
+spokesman Ari Fleischer
+0,1 PER|1,3 PER
+0,1 PER|1,3 PER
+
+President George W. Bush advisers war
+0,1 PER|1,4 PER|4,5 PER|5,6 Conflict.Attack|1,6 r_Attacker
+0,1 PER|1,4 PER|4,5 PER|5,6 Conflict.Attack|1,6 r_Attacker
+
+Bush Iraqi leader Saddam Hussein White House officials
+0,1 PER|1,2 GPE|2,3 PER|3,5 PER|5,7 GPE|7,8 PER|1,3 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|5,8 r_ORG-AFF.Employment
+0,1 PER|1,2 GPE|2,3 PER|3,5 PER|5,7 GPE|7,8 PER|1,3 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|5,8 r_ORG-AFF.Employment
+
+officials U.N. Security Council U.S war
+0,1 PER|1,4 ORG|4,5 GPE|5,6 Contact.Meet|1,6 r_Entity
+0,1 PER|1,4 ORG|4,5 GPE|5,6 Contact.Meet|1,6 r_Entity
+
+United States supporters opponents council members
+0,2 GPE|2,3 PER|3,4 PER|4,5 ORG|5,6 PER|4,6 r_ORG-AFF.Membership
+0,2 GPE|2,3 PER|3,4 PER|4,5 ORG|5,6 PER|4,6 r_ORG-AFF.Membership
+
+Bush Russia France China
+0,1 PER|1,2 GPE|2,3 GPE|3,4 GPE
+0,1 PER|1,2 GPE|2,3 GPE|3,4 GPE
+
+Bush war officials Saddam
+0,1 PER|2,3 PER|3,4 PER|1,2 Conflict.Attack|0,2 r_Attacker
+0,1 PER|2,3 PER|3,4 PER|1,2 Conflict.Attack|0,2 r_Attacker
+
+Cabinet meeting Bush nation
+2,3 PER|3,4 GPE|1,2 Contact.Meet
+2,3 PER|3,4 GPE|1,2 Contact.Meet
+
+Fleischer reporters Turkey admits troops country Iraq conflict
+0,1 PER|1,2 PER|2,3 GPE|4,5 PER|5,6 GPE|6,7 GPE|3,4 Movement.Transport|4,6 PHYS.Located|2,4 r_Destination|3,5 Artifact
+0,1 PER|1,2 PER|2,3 GPE|4,5 PER|5,6 GPE|6,7 GPE|3,4 Movement.Transport|4,6 PHYS.Located|2,4 r_Destination|3,5 Artifact
+
+force Iraq Fleischer
+1,2 GPE|2,3 PER|0,1 Conflict.Attack|0,2 Place
+1,2 GPE|2,3 PER|0,1 Conflict.Attack|0,2 Place
+
+spokesman Turkey American troops country
+0,1 PER|1,2 GPE|2,3 GPE|3,4 PER|4,5 GPE|1,4 r_PHYS.Located|2,4 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity
+0,1 PER|1,2 GPE|2,3 GPE|3,4 PER|4,5 GPE|1,4 r_PHYS.Located|2,4 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity
+
+White House officials Turkey parliament U.S.
+0,2 GPE|2,3 PER|3,4 GPE|4,5 ORG|5,6 GPE|0,3 r_ORG-AFF.Employment
+0,2 GPE|2,3 PER|3,4 GPE|4,5 ORG|5,6 GPE|0,3 r_ORG-AFF.Employment
+
+officials Turkey
+0,1 PER|1,2 GPE
+0,1 PER|1,2 GPE
+
+United Nations Secretary - General Kofi Annan Baghdad missile Bush
+0,2 ORG|2,5 PER|5,7 PER|7,8 GPE|8,9 WEA|9,10 PER|0,7 r_PHYS.Located
+0,2 ORG|2,5 PER|5,7 PER|7,8 GPE|8,9 WEA|9,10 PER|0,7 r_PHYS.Located
+
+Russia Minister Igor Ivanov Moscow action Russia U.S
+0,1 GPE|1,2 PER|2,4 PER|4,5 GPE|6,7 GPE|7,8 GPE|0,2 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|2,4 PER|4,5 GPE|6,7 GPE|7,8 GPE|0,2 r_ORG-AFF.Employment
+
+Bush administration U.N. U.S.
+0,1 PER|1,2 GPE|2,3 ORG|3,4 GPE
+0,1 PER|1,2 GPE|2,3 ORG|3,4 GPE
+
+president United Nations Saddam Hussein coalition Fleischer
+0,1 PER|1,3 ORG|3,5 PER|5,6 ORG|6,7 PER
+0,1 PER|1,3 ORG|3,5 PER|5,6 ORG|6,7 PER
+
+vote
+
+
+
+world Fleischer
+0,1 LOC|1,2 PER
+0,1 LOC|1,2 PER
+
+U.S. Ambassador John Negroponte United States
+0,1 GPE|1,2 PER|2,4 PER|4,6 GPE|0,2 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|2,4 PER|4,6 GPE|0,2 r_ORG-AFF.Employment
+
+bridge
+0,1 FAC
+0,1 FAC
+
+cross bridge
+1,2 FAC
+1,2 FAC
+
+White House officials
+0,2 GPE|2,3 PER|0,3 r_ORG-AFF.Employment
+0,2 GPE|2,3 PER|0,3 r_ORG-AFF.Employment
+
+Milosevic
+
+
+
+BELGRADE Serbia Montenegro AP
+0,1 GPE|1,3 GPE|3,4 ORG|0,3 PART-WHOLE.Geographical
+0,1 GPE|1,3 GPE|3,4 ORG|0,3 PART-WHOLE.Geographical
+
+Slobodan Milosevic wife trial charges state president court
+0,2 PER|2,3 PER|5,6 GPE|6,7 PER|7,8 ORG|3,4 Justice.Trial-Hearing|4,5 Justice.Charge-Indict|0,3 PER-SOC.Family|2,4 r_Defendant|3,8 Adjudicator|2,5 r_Defendant
+0,2 PER|2,3 PER|5,6 GPE|6,7 PER|7,8 ORG|3,4 Justice.Trial-Hearing|4,5 Justice.Charge-Indict|0,3 PER-SOC.Family|2,4 r_Defendant|3,8 Adjudicator|2,5 r_Defendant
+
+Mirjana Markovic Milosevic providing grandson nanny state apartment Belgrade
+0,2 PER|2,3 PER|4,5 PER|5,6 PER|6,7 GPE|7,8 FAC|8,9 GPE|3,4 Transaction.Transfer-Ownership|6,8 ART.User-Owner-Inventor-Manufacturer|7,9 PART-WHOLE.Geographical|0,4 r_Seller|3,6 Beneficiary|3,8 Artifact|3,9 Place
+0,2 PER|2,3 PER|4,5 PER|5,6 PER|6,7 GPE|7,8 FAC|8,9 GPE|3,4 Transaction.Transfer-Ownership|6,8 ART.User-Owner-Inventor-Manufacturer|7,9 PART-WHOLE.Geographical|0,4 r_Seller|3,6 Beneficiary|3,8 Artifact|3,9 Place
+
+Belgrade court Markovic tried Milosevic officials charges state sentence jail
+0,1 GPE|1,2 ORG|2,3 PER|4,5 PER|5,6 PER|7,8 GPE|9,10 FAC|3,4 Justice.Trial-Hearing|6,7 Justice.Charge-Indict|8,9 Justice.Sentence|0,2 r_PART-WHOLE.Subsidiary|0,4 r_Place|1,4 r_Adjudicator|2,4 r_Defendant|3,6 Defendant|0,7 r_Place|2,7 r_Defendant|5,7 r_Defendant|0,9 r_Place|2,9 r_Defendant|5,9 r_Defendant
+0,1 GPE|1,2 ORG|2,3 PER|4,5 PER|5,6 PER|7,8 GPE|9,10 FAC|3,4 Justice.Trial-Hearing|6,7 Justice.Charge-Indict|8,9 Justice.Sentence|0,2 r_PART-WHOLE.Subsidiary|0,4 r_Place|1,4 r_Adjudicator|2,4 r_Defendant|3,6 Defendant|0,7 r_Place|2,7 r_Defendant|5,7 r_Defendant|0,9 r_Place|2,9 r_Defendant|5,9 r_Defendant
+
+trial court
+1,2 ORG|0,1 Justice.Trial-Hearing
+1,2 ORG|0,1 Justice.Trial-Hearing
+
+Milosevic wife Yugoslavia revolt
+0,1 PER|1,2 PER|2,3 GPE
+0,1 PER|1,2 PER|2,3 GPE
+
+Milosevic government extradited U.N. tribunal The Hague Netherlands
+0,1 PER|1,2 ORG|3,4 ORG|4,5 ORG|6,7 GPE|7,8 GPE|2,3 Justice.Extradite|3,5 r_PART-WHOLE.Subsidiary|4,7 GEN-AFF.Org-Location|6,8 PART-WHOLE.Geographical|1,3 r_Agent|2,7 Destination
+0,1 PER|1,2 ORG|3,4 ORG|4,5 ORG|6,7 GPE|7,8 GPE|2,3 Justice.Extradite|3,5 r_PART-WHOLE.Subsidiary|4,7 GEN-AFF.Org-Location|6,8 PART-WHOLE.Geographical|1,3 r_Agent|2,7 Destination
+
+Milosevic allies children accused
+0,1 PER|1,2 PER|2,3 PER|0,2 PER-SOC.Business
+0,1 PER|1,2 PER|2,3 PER|0,2 PER-SOC.Business
+
+Markovic leader Yugoslav Left party prosecution deputy parliament Serbia and Montenegro country Yugoslavia
+0,1 PER|1,2 PER|2,4 ORG|4,5 ORG|6,7 PER|7,8 ORG|8,11 GPE|11,12 GPE|12,13 GPE|1,5 ORG-AFF.Membership|6,8 ORG-AFF.Membership|7,11 PART-WHOLE.Subsidiary
+0,1 PER|1,2 PER|2,4 ORG|4,5 ORG|6,7 PER|7,8 ORG|8,11 GPE|11,12 GPE|12,13 GPE|1,5 ORG-AFF.Membership|6,8 ORG-AFF.Membership|7,11 PART-WHOLE.Subsidiary
+
+BAGHDAD Iraq AP
+0,1 GPE|1,2 GPE|2,3 ORG|0,2 PART-WHOLE.Geographical
+0,1 GPE|1,2 GPE|2,3 ORG|0,2 PART-WHOLE.Geographical
+
+weapons inspectors Iraq United Nations weapons Middle East United States
+0,1 WEA|1,2 PER|2,3 GPE|3,5 ORG|5,6 WEA|6,8 GPE|8,10 GPE
+0,1 WEA|1,2 PER|2,3 GPE|3,5 ORG|5,6 WEA|6,8 GPE|8,10 GPE
+
+Iraq Al Samoud missiles U.N. inspector Hans Blix
+0,1 GPE|1,3 WEA|3,4 WEA|4,5 ORG|5,6 PER|6,8 PER
+0,1 GPE|1,3 WEA|3,4 WEA|4,5 ORG|5,6 PER|6,8 PER
+
+Iraq missiles United Nations
+0,1 GPE|1,2 WEA|2,4 ORG
+0,1 GPE|1,2 WEA|2,4 ORG
+
+Security Council Blix inspector Mohammed ElBaradei Iraq
+0,2 ORG|2,3 PER|3,4 PER|4,6 PER|6,7 GPE
+0,2 ORG|2,3 PER|3,4 PER|4,6 PER|6,7 GPE
+
+inspectors Iraq inspectors war
+0,1 PER|1,2 GPE|2,3 PER|3,4 Conflict.Attack
+0,1 PER|1,2 GPE|2,3 PER|3,4 Conflict.Attack
+
+U.S. President George W. Bush war Iraq
+0,1 GPE|1,2 PER|2,5 PER|6,7 GPE|5,6 Conflict.Attack|0,2 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|2,5 PER|6,7 GPE|5,6 Conflict.Attack|0,2 r_ORG-AFF.Employment
+
+Saddam Hussein United Nations Americans
+0,2 PER|2,4 ORG|4,5 GPE
+0,2 PER|2,4 ORG|4,5 GPE
+
+Iraq war Security Council invasion Kuwait
+0,1 GPE|2,4 ORG|5,6 GPE|1,2 Conflict.Attack|4,5 Conflict.Attack|0,5 r_Attacker
+0,1 GPE|2,4 ORG|5,6 GPE|1,2 Conflict.Attack|4,5 Conflict.Attack|0,5 r_Attacker
+
+Security Council world Iraq spokesman meeting Saddam officials Iraqi media
+0,2 ORG|2,3 LOC|3,4 GPE|4,5 PER|6,7 PER|7,8 PER|8,9 GPE|9,10 ORG|5,6 Contact.Meet|8,10 r_PART-WHOLE.Subsidiary|5,7 Entity|5,8 Entity
+0,2 ORG|2,3 LOC|3,4 GPE|4,5 PER|6,7 PER|7,8 PER|8,9 GPE|9,10 ORG|5,6 Contact.Meet|8,10 r_PART-WHOLE.Subsidiary|5,7 Entity|5,8 Entity
+
+spokesman weapons inspectors Iraq weapons inspectors weapons Iraq Israel United States
+0,1 PER|1,2 WEA|2,3 PER|3,4 GPE|4,5 WEA|5,6 PER|6,7 WEA|7,8 GPE|8,9 GPE|9,11 GPE
+0,1 PER|1,2 WEA|2,3 PER|3,4 GPE|4,5 WEA|5,6 PER|6,7 WEA|7,8 GPE|8,9 GPE|9,11 GPE
+
+spokesman meeting Iraq Security Council Middle East weapons Iraq
+0,1 PER|2,3 GPE|3,5 ORG|5,7 GPE|7,8 WEA|8,9 GPE|1,2 Contact.Meet|1,3 Entity
+0,1 PER|2,3 GPE|3,5 ORG|5,7 GPE|7,8 WEA|8,9 GPE|1,2 Contact.Meet|1,3 Entity
+
+weapons Zionist entity Israel region America
+0,1 WEA|2,3 GPE|3,4 GPE|4,5 GPE|5,6 GPE
+0,1 WEA|2,3 GPE|3,4 GPE|4,5 GPE|5,6 GPE
+
+newspaper Babil daily Saddam son Odai Blix ElBaradei United Nations Iraq weapons
+0,1 ORG|1,2 ORG|2,3 ORG|3,4 PER|4,5 PER|5,6 PER|6,7 PER|7,8 PER|8,10 ORG|10,11 GPE|11,12 WEA|3,5 PER-SOC.Family|2,6 r_ORG-AFF.Ownership|10,12 ART.User-Owner-Inventor-Manufacturer
+0,1 ORG|1,2 ORG|2,3 ORG|3,4 PER|4,5 PER|5,6 PER|6,7 PER|7,8 PER|8,10 ORG|10,11 GPE|11,12 WEA|3,5 PER-SOC.Family|2,6 r_ORG-AFF.Ownership|10,12 ART.User-Owner-Inventor-Manufacturer
+
+Babil Security Council members Iraq weapons
+0,1 ORG|1,3 ORG|3,4 PER|4,5 GPE|5,6 WEA|1,4 r_ORG-AFF.Membership
+0,1 ORG|1,3 ORG|3,4 PER|4,5 GPE|5,6 WEA|1,4 r_ORG-AFF.Membership
+
+Saddam Iraq weapons
+0,1 PER|1,2 GPE|2,3 WEA
+0,1 PER|1,2 GPE|2,3 WEA
+
+United States Britain troops Iraq invasion
+0,2 GPE|2,3 GPE|3,4 PER|4,5 GPE|3,5 PHYS.Near
+0,2 GPE|2,3 GPE|3,4 PER|4,5 GPE|3,5 PHYS.Near
+
+Iraq Security Council diplomats U.S war French summit Security Council members
+0,1 GPE|1,3 ORG|3,4 PER|4,5 GPE|6,7 GPE|8,10 ORG|10,11 PER|5,6 Conflict.Attack|8,11 r_ORG-AFF.Membership
+0,1 GPE|1,3 ORG|3,4 PER|4,5 GPE|6,7 GPE|8,10 ORG|10,11 PER|5,6 Conflict.Attack|8,11 r_ORG-AFF.Membership
+
+Bush advisers allies telephone French President Jacques Chirac talked heads state office
+0,1 PER|1,2 PER|2,3 GPE|4,5 GPE|5,6 PER|6,8 PER|9,10 PER|10,11 GPE|11,12 ORG|4,6 r_ORG-AFF.Employment|9,11 ORG-AFF.Employment
+0,1 PER|1,2 PER|2,3 GPE|4,5 GPE|5,6 PER|6,8 PER|9,10 PER|10,11 GPE|11,12 ORG|4,6 r_ORG-AFF.Employment|9,11 ORG-AFF.Employment
+
+Inspectors ' spokesman Hiro Ueki Iraqi workers crushed Al Samoud missiles al - Taji military complex Baghdad weapons inspectors
+0,1 PER|2,3 PER|3,5 PER|5,6 GPE|6,7 PER|8,10 WEA|10,11 WEA|14,15 ORG|15,16 FAC|16,17 GPE|17,18 WEA|18,19 PER|5,7 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|15,17 PHYS.Near
+0,1 PER|2,3 PER|3,5 PER|5,6 GPE|6,7 PER|8,10 WEA|10,11 WEA|14,15 ORG|15,16 FAC|16,17 GPE|17,18 WEA|18,19 PER|5,7 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|15,17 PHYS.Near
+
+missiles warheads
+0,1 WEA
+0,1 WEA
+
+Inspectors Al Samoud factory group inspectors warheads Qa Qa complex Baghdad
+0,1 PER|1,3 WEA|3,4 FAC|4,5 PER|5,6 PER|9,10 FAC|10,11 GPE|9,11 PHYS.Near
+0,1 PER|1,3 WEA|3,4 FAC|4,5 PER|5,6 PER|9,10 FAC|10,11 GPE|9,11 PHYS.Near
+
+Odai al - Taie Information Ministry official workers missiles Muslim
+0,4 PER|4,6 ORG|6,7 PER|7,8 PER|8,9 WEA|4,7 r_ORG-AFF.Membership
+0,4 PER|4,6 ORG|6,7 PER|7,8 PER|8,9 WEA|4,7 r_ORG-AFF.Membership
+
+Ueki teams missile
+0,1 PER|1,2 PER|2,3 WEA
+0,1 PER|1,2 PER|2,3 WEA
+
+Ueki Iraqi scientist interview weapons inspectors scientists Iraq
+0,1 PER|1,2 GPE|2,3 PER|4,5 WEA|5,6 PER|6,7 PER|7,8 GPE|1,3 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity
+0,1 PER|1,2 GPE|2,3 PER|4,5 WEA|5,6 PER|6,7 PER|7,8 GPE|1,3 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity
+
+scientists
+0,1 PER
+0,1 PER
+
+scientists inspectors scientists teams
+0,1 PER|1,2 PER|2,3 PER|3,4 PER
+0,1 PER|1,2 PER|2,3 PER|3,4 PER
+
+Inspectors helicopter airfield Iraq bombs weapons
+0,1 PER|1,2 VEH|2,3 FAC|3,4 GPE|4,5 WEA|5,6 WEA
+0,1 PER|1,2 VEH|2,3 FAC|3,4 GPE|4,5 WEA|5,6 WEA
+
+Ueki inspectors Iraq agents
+0,1 PER|1,2 PER|2,3 GPE
+0,1 PER|1,2 PER|2,3 GPE
+
+Hong Kong Jockey Club acquire Macau rival
+
+
+
+HONG KONG AP
+0,2 GPE|2,3 ORG
+0,2 GPE|2,3 ORG
+
+Hong Kong Jockey Club talks club Macau newspaper
+0,4 ORG|5,6 ORG|6,7 GPE|7,8 ORG|5,7 GEN-AFF.Org-Location
+0,4 ORG|5,6 ORG|6,7 GPE|7,8 ORG|5,7 GEN-AFF.Org-Location
+
+South China Morning Post Hong Kong Jockey Club Executive Lawrence Wong
+0,4 ORG|4,8 ORG|9,11 PER|4,9 r_ORG-AFF.Employment
+0,4 ORG|4,8 ORG|9,11 PER|4,9 r_ORG-AFF.Employment
+
+Hong Kong club entity Macau Jockey Club concern tycoon Stanley Ho
+0,2 GPE|2,3 ORG|3,4 ORG|4,7 ORG|7,8 ORG|8,9 PER|9,11 PER|0,3 r_GEN-AFF.Org-Location|7,11 r_ORG-AFF.Ownership
+0,2 GPE|2,3 ORG|3,4 ORG|4,7 ORG|7,8 ORG|8,9 PER|9,11 PER|0,3 r_GEN-AFF.Org-Location|7,11 r_ORG-AFF.Ownership
+
+Hong Kong Macau industry gamblers Hong Kong Hong Kong Jockey Club
+0,2 GPE|2,3 GPE|3,4 ORG|4,5 PER|5,7 GPE|7,11 ORG|2,4 r_GEN-AFF.Org-Location|4,7 PHYS.Located
+0,2 GPE|2,3 GPE|3,4 ORG|4,5 PER|5,7 GPE|7,11 ORG|2,4 r_GEN-AFF.Org-Location|4,7 PHYS.Located
+
+Macau people Hong Kong offices
+0,1 GPE|1,2 PER|2,4 GPE|1,4 PHYS.Located
+0,1 GPE|1,2 PER|2,4 GPE|1,4 PHYS.Located
+
+Macau club Hong Kong Macau gamblers
+0,1 GPE|1,2 ORG|2,4 GPE|4,5 GPE|5,6 PER|0,2 r_GEN-AFF.Org-Location
+0,1 GPE|1,2 ORG|2,4 GPE|4,5 GPE|5,6 PER|0,2 r_GEN-AFF.Org-Location
+
+club calls Associated Press
+0,1 ORG|2,4 ORG
+0,1 ORG|2,4 ORG
+
+Macau enclave Hong Kong Portuguese Chinese
+0,1 GPE|1,2 GPE|2,4 GPE|4,5 GPE|5,6 GPE|1,4 PHYS.Near
+0,1 GPE|1,2 GPE|2,4 GPE|4,5 GPE|5,6 GPE|1,4 PHYS.Near
+
+Hong Kong British colony Chinese
+0,2 GPE|2,3 GPE|3,4 GPE|4,5 GPE
+0,2 GPE|2,3 GPE|3,4 GPE|4,5 GPE
+
+Turkish party leader Recep Tayyip Erdogan U.S. troops
+
+
+
+ANKARA Turkey AP
+0,1 GPE|1,2 GPE|2,3 ORG
+0,1 GPE|1,2 GPE|2,3 ORG
+
+leader Turkey party named minister United States deploy troops country Iraq border
+0,1 PER|1,2 GPE|2,3 ORG|4,5 PER|5,7 GPE|8,9 PER|9,10 GPE|10,11 GPE|11,12 LOC|3,4 Personnel.Elect|7,8 Movement.Transport|0,3 ORG-AFF.Employment|1,3 r_GEN-AFF.Org-Location|8,10 PHYS.Located|8,12 PHYS.Near|10,12 r_PART-WHOLE.Geographical|0,4 r_Person|2,4 r_Entity|3,10 Place|5,8 r_Agent|7,9 Artifact|7,10 Destination|7,12 Destination
+0,1 PER|1,2 GPE|2,3 ORG|4,5 PER|5,7 GPE|8,9 PER|9,10 GPE|10,11 GPE|11,12 LOC|3,4 Personnel.Elect|7,8 Movement.Transport|0,3 ORG-AFF.Employment|1,3 r_GEN-AFF.Org-Location|8,10 PHYS.Located|8,12 PHYS.Near|10,12 r_PART-WHOLE.Geographical|0,4 r_Person|2,4 r_Entity|3,10 Place|5,8 r_Agent|7,9 Artifact|7,10 Destination|7,12 Destination
+
+Recep Tayyip Erdogan reshuffle Cabinet purge officials troops analysts
+0,3 PER|4,5 PER|6,7 PER|7,8 PER|8,9 PER|5,6 Personnel.End-Position|5,7 Person
+0,3 PER|4,5 PER|6,7 PER|7,8 PER|8,9 PER|5,6 Personnel.End-Position|5,7 Person
+
+Erdogan Turkey leaders party U.S. troops
+0,1 PER|1,2 GPE|2,3 PER|3,4 ORG|4,5 GPE|5,6 PER|4,6 r_ORG-AFF.Employment
+0,1 PER|1,2 GPE|2,3 PER|3,4 ORG|4,5 GPE|5,6 PER|4,6 r_ORG-AFF.Employment
+
+Turks war
+0,1 GPE|1,2 Conflict.Attack
+0,1 GPE|1,2 Conflict.Attack
+
+Turkish parliament United States
+0,1 GPE|1,2 ORG|2,4 GPE|0,2 r_PART-WHOLE.Subsidiary
+0,1 GPE|1,2 ORG|2,4 GPE|0,2 r_PART-WHOLE.Subsidiary
+
+Erdogan
+0,1 PER
+0,1 PER
+
+United States Turkey
+0,2 GPE|2,3 GPE
+0,2 GPE|2,3 GPE
+
+Ships U.S. troops Turkish coast
+0,1 VEH|1,2 GPE|2,3 PER|3,4 GPE|4,5 LOC|1,3 r_ORG-AFF.Employment|3,5 r_PART-WHOLE.Geographical
+0,1 VEH|1,2 GPE|2,3 PER|3,4 GPE|4,5 LOC|1,3 r_ORG-AFF.Employment|3,5 r_PART-WHOLE.Geographical
+
+Washington Joint Chiefs of Staff Chairman Gen. Richard Myers Pentagon United States Turkey
+0,1 GPE|1,5 ORG|5,6 PER|6,7 PER|7,9 PER|9,10 ORG|10,12 GPE|12,13 GPE|1,6 r_ORG-AFF.Membership|0,9 r_PHYS.Located
+0,1 GPE|1,5 ORG|5,6 PER|6,7 PER|7,9 PER|9,10 ORG|10,12 GPE|12,13 GPE|1,6 r_ORG-AFF.Membership|0,9 r_PHYS.Located
+
+Washington Turkish Ambassador Farouk Logoglu Associated Press U.S. Turkish militaries discussions Turkish
+0,1 GPE|1,2 GPE|2,3 PER|3,5 PER|5,7 ORG|7,8 GPE|8,9 GPE|9,10 ORG|11,12 GPE|10,11 Contact.Phone-Write|1,3 r_ORG-AFF.Employment|0,5 r_PHYS.Located|7,10 r_PART-WHOLE.Subsidiary|8,10 r_PART-WHOLE.Subsidiary|9,11 r_Entity
+0,1 GPE|1,2 GPE|2,3 PER|3,5 PER|5,7 ORG|7,8 GPE|8,9 GPE|9,10 ORG|11,12 GPE|10,11 Contact.Phone-Write|1,3 r_ORG-AFF.Employment|0,5 r_PHYS.Located|7,10 r_PART-WHOLE.Subsidiary|8,10 r_PART-WHOLE.Subsidiary|9,11 r_Entity
+
+troop United States Turkish
+0,1 PER|1,3 GPE|3,4 GPE
+0,1 PER|1,3 GPE|3,4 GPE
+
+Washington strikes Iraq airlifting troops Iraq
+0,1 GPE|2,3 GPE|4,5 PER|5,6 LOC|1,2 Conflict.Attack|3,4 Movement.Transport|4,6 PHYS.Located|0,2 r_Attacker|1,3 Place|0,4 r_Agent|3,5 Artifact|3,6 Destination
+0,1 GPE|2,3 GPE|4,5 PER|5,6 LOC|1,2 Conflict.Attack|3,4 Movement.Transport|4,6 PHYS.Located|0,2 r_Attacker|1,3 Place|0,4 r_Agent|3,5 Artifact|3,6 Destination
+
+troop Turkey U.S. Washington country war
+0,1 PER|1,2 GPE|2,3 GPE|3,4 GPE|4,5 GPE|5,6 Conflict.Attack
+0,1 PER|1,2 GPE|2,3 GPE|3,4 GPE|4,5 GPE|5,6 Conflict.Attack
+
+Turkey Iraq Turkey Iraqi Kurds war Saddam Hussein ousted
+0,1 GPE|1,2 GPE|2,3 GPE|3,4 LOC|4,5 PER|6,8 PER|3,5 r_PHYS.Located
+0,1 GPE|1,2 GPE|2,3 GPE|3,4 LOC|4,5 PER|6,8 PER|3,5 r_PHYS.Located
+
+Iraqi Kurds Turkey Kurds fighting
+0,1 GPE|1,2 PER|2,3 GPE|3,4 PER|4,5 Conflict.Demonstrate|0,2 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|2,4 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|2,5 r_Place|3,5 r_Entity
+0,1 GPE|1,2 PER|2,3 GPE|3,4 PER|4,5 Conflict.Demonstrate|0,2 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|2,4 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|2,5 r_Place|3,5 r_Entity
+
+elected Erdogan Turkey United States Iraq
+1,2 PER|2,3 GPE|3,5 GPE|5,6 GPE|0,1 Personnel.Elect|0,2 Person|0,3 Entity
+1,2 PER|2,3 GPE|3,5 GPE|5,6 GPE|0,1 Personnel.Elect|0,2 Person|0,3 Entity
+
+Defense Secretary Donald H. Rumsfeld talks Turkish troops deployed border refugee
+0,1 ORG|1,2 PER|2,5 PER|6,7 GPE|7,8 PER|9,10 LOC|10,11 PER|8,9 Movement.Transport|0,2 r_ORG-AFF.Employment|6,8 r_ORG-AFF.Employment|6,9 r_Agent|7,9 r_Artifact|8,10 Destination
+0,1 ORG|1,2 PER|2,5 PER|6,7 GPE|7,8 PER|9,10 LOC|10,11 PER|8,9 Movement.Transport|0,2 r_ORG-AFF.Employment|6,8 r_ORG-AFF.Employment|6,9 r_Agent|7,9 r_Artifact|8,10 Destination
+
+Iraqi Kurds Turkish troops move enclave Iraq clashes
+0,1 GPE|1,2 PER|2,3 GPE|3,4 PER|5,6 GPE|6,7 LOC|4,5 Movement.Transport|7,8 Conflict.Attack|0,2 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|2,4 r_ORG-AFF.Employment|3,6 PHYS.Located|5,7 PART-WHOLE.Geographical|3,5 r_Artifact|4,6 Destination|1,8 r_Target|3,8 r_Attacker|5,8 r_Place
+0,1 GPE|1,2 PER|2,3 GPE|3,4 PER|5,6 GPE|6,7 LOC|4,5 Movement.Transport|7,8 Conflict.Attack|0,2 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|2,4 r_ORG-AFF.Employment|3,6 PHYS.Located|5,7 PART-WHOLE.Geographical|3,5 r_Artifact|4,6 Destination|1,8 r_Target|3,8 r_Attacker|5,8 r_Place
+
+Rumsfeld Turkey United States state Iraq country Pentagon
+0,1 PER|1,2 GPE|2,4 GPE|4,5 GPE|5,6 GPE|6,7 GPE|7,8 ORG
+0,1 PER|1,2 GPE|2,4 GPE|4,5 GPE|5,6 GPE|6,7 GPE|7,8 ORG
+
+Minister Abdullah Gul resigned Erdogan won parliamentary elections
+0,1 PER|1,3 PER|4,5 PER|3,4 Personnel.End-Position|5,6 Personnel.Elect|1,4 r_Person|4,6 r_Person
+0,1 PER|1,3 PER|4,5 PER|3,4 Personnel.End-Position|5,6 Personnel.Elect|1,4 r_Person|4,6 r_Person
+
+Gul minister President Ahmet Necdet Sezer Erdogan Cabinet
+0,1 PER|1,2 PER|2,3 PER|3,6 PER|6,7 PER|7,8 PER|6,8 PER-SOC.Business
+0,1 PER|1,2 PER|2,3 PER|3,6 PER|6,7 PER|7,8 PER|6,8 PER-SOC.Business
+
+Erdogan Cabinet president leaders Erdogan Justice and Development Party met
+0,1 PER|1,2 PER|2,3 PER|3,4 PER|4,5 PER|5,9 ORG|9,10 Contact.Meet|0,4 PER-SOC.Business|3,9 ORG-AFF.Membership|4,9 ORG-AFF.Employment|3,10 r_Entity
+0,1 PER|1,2 PER|2,3 PER|3,4 PER|4,5 PER|5,9 ORG|9,10 Contact.Meet|0,4 PER-SOC.Business|3,9 ORG-AFF.Membership|4,9 ORG-AFF.Employment|3,10 r_Entity
+
+Cabinet Erdogan
+0,1 PER|1,2 PER
+0,1 PER|1,2 PER
+
+Gul resignation
+0,1 PER|1,2 Personnel.End-Position|0,2 r_Person
+0,1 PER|1,2 Personnel.End-Position|0,2 r_Person
+
+Erdogan party elections jailed
+0,1 PER|1,2 ORG|3,4 Justice.Arrest-Jail|0,2 ORG-AFF.Employment|0,4 r_Person
+0,1 PER|1,2 ORG|3,4 Justice.Arrest-Jail|0,2 ORG-AFF.Employment|0,4 r_Person
+
+Justice party elections
+0,2 ORG
+0,2 ORG
+
+Erdogan leader Turkey Islamic movement jailed prison
+0,1 PER|1,2 PER|2,3 GPE|6,7 FAC|5,6 Justice.Arrest-Jail|1,6 r_Person|2,6 r_Place|5,7 Place
+0,1 PER|1,2 PER|2,3 GPE|6,7 FAC|5,6 Justice.Arrest-Jail|1,6 r_Person|2,6 r_Place|5,7 Place
+
+party
+0,1 ORG
+0,1 ORG
+
+U.S. troops war Iraq Muslim state
+0,1 GPE|1,2 PER|3,4 GPE|5,6 GPE|2,3 Conflict.Attack|0,2 r_ORG-AFF.Employment|1,3 r_Attacker|2,4 Place
+0,1 GPE|1,2 PER|3,4 GPE|5,6 GPE|2,3 Conflict.Attack|0,2 r_ORG-AFF.Employment|1,3 r_Attacker|2,4 Place
+
+Gul Erdogan fighter
+0,1 PER|1,2 PER|2,3 PER
+0,1 PER|1,2 PER|2,3 PER
+
+Erdogan confrontation Gul Bulent Aliriza analyst Washington Center for Strategic and International Studies Erdogan U.S.
+0,1 PER|2,3 PER|3,5 PER|5,6 PER|6,7 GPE|7,13 ORG|13,14 PER|14,15 GPE|5,13 ORG-AFF.Employment|6,13 r_PART-WHOLE.Subsidiary
+0,1 PER|2,3 PER|3,5 PER|5,6 PER|6,7 GPE|7,13 ORG|13,14 PER|14,15 GPE|5,13 ORG-AFF.Employment|6,13 r_PART-WHOLE.Subsidiary
+
+parliament deputy Ufuk Ozkan American lackeys
+0,1 ORG|1,2 PER|2,4 PER|4,5 GPE|5,6 PER
+0,1 ORG|1,2 PER|2,4 PER|4,5 GPE|5,6 PER
+
+members Erdogan party Anatolia news agency
+0,1 PER|1,2 PER|2,3 ORG|3,4 ORG|5,6 ORG|0,3 ORG-AFF.Membership|1,3 ORG-AFF.Employment
+0,1 PER|1,2 PER|2,3 ORG|3,4 ORG|5,6 ORG|0,3 ORG-AFF.Membership|1,3 ORG-AFF.Employment
+
+Justice party member Fehmi Husrev Kutlu rushed Ozkan Anatolia
+0,2 ORG|2,3 PER|3,6 PER|7,8 PER|8,9 ORG|0,3 r_ORG-AFF.Membership
+0,2 ORG|2,3 PER|3,6 PER|7,8 PER|8,9 ORG|0,3 r_ORG-AFF.Membership
+
+legislators
+0,1 PER
+0,1 PER
+
+BRUSSELS Belgium AP
+0,1 GPE|1,2 GPE|2,3 ORG|0,2 PART-WHOLE.Geographical
+0,1 GPE|1,2 GPE|2,3 ORG|0,2 PART-WHOLE.Geographical
+
+Europe Iraq France Germany U.S. war British Minister Tony Blair ousting Saddam Hussein
+0,1 GPE|1,2 GPE|2,3 GPE|3,4 GPE|4,5 GPE|6,7 GPE|7,8 PER|8,10 PER|11,13 PER|5,6 Conflict.Attack|10,11 Personnel.End-Position|6,8 r_ORG-AFF.Employment|10,13 Person
+0,1 GPE|1,2 GPE|2,3 GPE|3,4 GPE|4,5 GPE|6,7 GPE|7,8 PER|8,10 PER|11,13 PER|5,6 Conflict.Attack|10,11 Personnel.End-Position|6,8 r_ORG-AFF.Employment|10,13 Person
+
+European Union leaders Iraq ministers U.S war Iraq EU president Greece war
+0,2 GPE|2,3 PER|3,4 GPE|4,5 PER|5,6 GPE|7,8 GPE|8,9 GPE|9,10 GPE|10,11 GPE|6,7 Conflict.Attack|11,12 Conflict.Attack|0,3 r_ORG-AFF.Employment|5,7 r_Attacker
+0,2 GPE|2,3 PER|3,4 GPE|4,5 PER|5,6 GPE|7,8 GPE|8,9 GPE|9,10 GPE|10,11 GPE|6,7 Conflict.Attack|11,12 Conflict.Attack|0,3 r_ORG-AFF.Employment|5,7 r_Attacker
+
+Joschka Fischer Dominique de Villepin German French ministers United Nations Security Council meeting New York Iraq
+0,2 PER|2,5 PER|5,6 GPE|6,7 GPE|7,8 PER|8,12 ORG|13,15 GPE|15,16 GPE|12,13 Contact.Meet|5,8 r_ORG-AFF.Employment|6,8 r_ORG-AFF.Employment|0,13 r_Entity|2,13 r_Entity|8,13 r_Entity|12,15 Place
+0,2 PER|2,5 PER|5,6 GPE|6,7 GPE|7,8 PER|8,12 ORG|13,15 GPE|15,16 GPE|12,13 Contact.Meet|5,8 r_ORG-AFF.Employment|6,8 r_ORG-AFF.Employment|0,13 r_Entity|2,13 r_Entity|8,13 r_Entity|12,15 Place
+
+United Natgions authority Iraq Fischer reporters arrival EU meeting
+0,2 ORG|3,4 GPE|4,5 PER|5,6 PER|7,8 GPE|8,9 Contact.Meet|7,9 r_Entity
+0,2 ORG|3,4 GPE|4,5 PER|5,6 PER|7,8 GPE|8,9 Contact.Meet|7,9 r_Entity
+
+War Fishcer reporters
+1,2 PER|2,3 PER|0,1 Conflict.Attack
+1,2 PER|2,3 PER|0,1 Conflict.Attack
+
+members United Nations Security Council
+0,1 PER|1,5 ORG|0,5 ORG-AFF.Membership
+0,1 PER|1,5 ORG|0,5 ORG-AFF.Membership
+
+De Villepin arrival
+0,2 PER
+0,2 PER
+
+EU meeting Greek Minister Georhge Papandreou reporters
+0,1 GPE|2,3 GPE|3,4 PER|4,6 PER|6,7 PER|1,2 Contact.Meet|2,4 r_ORG-AFF.Employment|0,2 r_Entity
+0,1 GPE|2,3 GPE|3,4 PER|4,6 PER|6,7 PER|1,2 Contact.Meet|2,4 r_ORG-AFF.Employment|0,2 r_Entity
+
+EU meeting Iraq EU
+0,1 GPE|2,3 GPE|3,4 GPE|1,2 Contact.Meet|0,2 r_Entity
+0,1 GPE|2,3 GPE|3,4 GPE|1,2 Contact.Meet|0,2 r_Entity
+
+Britain Spain Denmark Italy Netherlands Portugal United States France Germany group nations military action
+0,1 GPE|1,2 GPE|2,3 GPE|3,4 GPE|4,5 GPE|5,6 GPE|6,8 GPE|8,9 GPE|9,10 GPE|10,11 GPE|11,12 GPE|12,13 ORG|13,14 Conflict.Attack|12,14 r_Attacker
+0,1 GPE|1,2 GPE|2,3 GPE|3,4 GPE|4,5 GPE|5,6 GPE|6,8 GPE|8,9 GPE|9,10 GPE|10,11 GPE|11,12 GPE|12,13 ORG|13,14 Conflict.Attack|12,14 r_Attacker
+
+European Union countries EU chief Javier Solana
+0,2 GPE|2,3 GPE|3,4 GPE|4,5 PER|5,7 PER|0,3 r_PART-WHOLE.Geographical|3,5 r_ORG-AFF.Employment
+0,2 GPE|2,3 GPE|3,4 GPE|4,5 PER|5,7 PER|0,3 r_PART-WHOLE.Geographical|3,5 r_ORG-AFF.Employment
+
+British Secretary Jack Straw London Blair government Saddam
+0,1 GPE|1,2 PER|2,4 PER|4,5 GPE|5,6 PER|6,7 ORG|7,8 PER|0,2 r_ORG-AFF.Employment|2,5 PHYS.Located|5,7 ORG-AFF.Membership
+0,1 GPE|1,2 PER|2,4 PER|4,5 GPE|5,6 PER|6,7 ORG|7,8 PER|0,2 r_ORG-AFF.Employment|2,5 PHYS.Located|5,7 ORG-AFF.Membership
+
+Blair parliament Conservatives
+0,1 PER|1,2 ORG|2,3 PER
+0,1 PER|1,2 ORG|2,3 PER
+
+House of Commons Iraq
+0,3 ORG|3,4 GPE
+0,3 ORG|3,4 GPE
+
+Britain world United Nations Europe United States European Union United States world Blair
+0,1 GPE|1,2 LOC|2,4 ORG|4,5 GPE|5,7 GPE|7,9 GPE|9,11 GPE|11,12 LOC|12,13 PER
+0,1 GPE|1,2 LOC|2,4 ORG|4,5 GPE|5,7 GPE|7,9 GPE|9,11 GPE|11,12 LOC|12,13 PER
+
+EU ministers met U.S. President George W. Bush Saddam leave Iraq invasion
+0,1 GPE|1,2 PER|3,4 GPE|4,5 PER|5,8 PER|8,9 PER|10,11 GPE|2,3 Contact.Meet|9,10 Movement.Transport|11,12 Conflict.Attack|0,2 r_ORG-AFF.Employment|3,5 r_ORG-AFF.Employment|8,11 PHYS.Located|1,3 r_Entity|8,10 r_Artifact|9,11 Origin|8,12 r_Target|10,12 r_Place
+0,1 GPE|1,2 PER|3,4 GPE|4,5 PER|5,8 PER|8,9 PER|10,11 GPE|2,3 Contact.Meet|9,10 Movement.Transport|11,12 Conflict.Attack|0,2 r_ORG-AFF.Employment|3,5 r_ORG-AFF.Employment|8,11 PHYS.Located|1,3 r_Entity|8,10 r_Artifact|9,11 Origin|8,12 r_Target|10,12 r_Place
+
+French President Jacques Chirac war U.N
+0,1 GPE|1,2 PER|2,4 PER|5,6 ORG|4,5 Conflict.Attack|0,2 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|2,4 PER|5,6 ORG|4,5 Conflict.Attack|0,2 r_ORG-AFF.Employment
+
+Iraq alternativ Chirac
+0,1 GPE|2,3 PER
+0,1 GPE|2,3 PER
+
+United Nations
+0,2 ORG
+0,2 ORG
+
+Berlin German Chancellor Gerhard Schroeder war
+0,1 GPE|1,2 GPE|2,3 PER|3,5 PER|5,6 Conflict.Attack|1,3 r_ORG-AFF.Employment|0,5 r_PHYS.Located
+0,1 GPE|1,2 GPE|2,3 PER|3,5 PER|5,6 Conflict.Attack|1,3 r_ORG-AFF.Employment|0,5 r_PHYS.Located
+
+Iraqi dictator war kill children women men
+0,1 GPE|1,2 PER|4,5 PER|5,6 PER|6,7 PER|2,3 Conflict.Attack|3,4 Life.Die|0,2 r_ORG-AFF.Employment|3,5 Victim|3,6 Victim|3,7 Victim
+0,1 GPE|1,2 PER|4,5 PER|5,6 PER|6,7 PER|2,3 Conflict.Attack|3,4 Life.Die|0,2 r_ORG-AFF.Employment|3,5 Victim|3,6 Victim|3,7 Victim
+
+Schroeder
+0,1 PER
+0,1 PER
+
+Solana EU attack Iraq
+0,1 PER|1,2 GPE|3,4 GPE|2,3 Conflict.Attack
+0,1 PER|1,2 GPE|3,4 GPE|2,3 Conflict.Attack
+
+EU Iraq war
+0,1 GPE|1,2 GPE|2,3 Conflict.Attack|1,3 r_Place
+0,1 GPE|1,2 GPE|2,3 Conflict.Attack|1,3 r_Place
+
+Europe Belgian Minister Guy Verhofstadt minister government United States territory military transports
+0,1 GPE|1,2 GPE|2,3 PER|3,5 PER|5,6 PER|6,7 GPE|7,9 GPE|10,11 ORG|1,3 r_ORG-AFF.Employment
+0,1 GPE|1,2 GPE|2,3 PER|3,5 PER|5,6 PER|6,7 GPE|7,9 GPE|10,11 ORG|1,3 r_ORG-AFF.Employment
+
+U.S. military transporting military bases Germany Gulf port Antwerp Minister Andre Flahaut Belgium Belgian
+0,1 GPE|1,2 ORG|3,4 ORG|4,5 FAC|5,6 GPE|6,7 LOC|7,8 FAC|8,9 GPE|9,10 PER|10,12 PER|12,13 GPE|13,14 GPE|2,3 Movement.Transport|0,2 r_PART-WHOLE.Subsidiary|4,6 PART-WHOLE.Geographical|1,3 r_Agent|2,5 Origin|2,7 Destination
+0,1 GPE|1,2 ORG|3,4 ORG|4,5 FAC|5,6 GPE|6,7 LOC|7,8 FAC|8,9 GPE|9,10 PER|10,12 PER|12,13 GPE|13,14 GPE|2,3 Movement.Transport|0,2 r_PART-WHOLE.Subsidiary|4,6 PART-WHOLE.Geographical|1,3 r_Agent|2,5 Origin|2,7 Destination
+
+Greece embassy Baghdad personnel out Iraq
+0,1 GPE|1,2 FAC|2,3 GPE|3,4 PER|5,6 GPE|1,3 PART-WHOLE.Geographical|3,6 PHYS.Located
+0,1 GPE|1,2 FAC|2,3 GPE|3,4 PER|5,6 GPE|1,3 PART-WHOLE.Geographical|3,6 PHYS.Located
+
+Dutch government fighting forces war Iraq military Saddam
+0,1 GPE|1,2 GPE|3,4 ORG|5,6 GPE|6,7 ORG|7,8 PER|2,3 Conflict.Attack|4,5 Conflict.Attack
+0,1 GPE|1,2 GPE|3,4 ORG|5,6 GPE|6,7 ORG|7,8 PER|2,3 Conflict.Attack|4,5 Conflict.Attack
+
+Switzerland Minister Micheline Calmy - Rey United States military action United Nations
+0,1 GPE|1,2 PER|2,6 PER|6,8 GPE|8,9 ORG|10,12 ORG|9,10 Conflict.Attack|0,6 r_PHYS.Located|6,10 r_Attacker
+0,1 GPE|1,2 PER|2,6 PER|6,8 GPE|8,9 ORG|10,12 ORG|9,10 Conflict.Attack|0,6 r_PHYS.Located|6,10 r_Attacker
+
+U.N. member states
+0,1 ORG|2,3 GPE|0,3 r_ORG-AFF.Membership
+0,1 ORG|2,3 GPE|0,3 r_ORG-AFF.Membership
+
+Diller resigns head Vivendi Universal Entertainment
+
+
+
+LOS ANGELES AP
+0,2 GPE|2,3 ORG
+0,2 GPE|2,3 ORG
+
+Barry Diller resigned co - chief executive Vivendi Universal Entertainment Paris Vivendi Universal Universal Studios Universal parks
+0,2 PER|6,7 PER|7,10 ORG|10,11 GPE|11,13 ORG|13,15 ORG|15,16 ORG|16,17 FAC|2,3 Personnel.End-Position|6,10 ORG-AFF.Employment|10,13 r_GEN-AFF.Org-Location|15,17 r_PART-WHOLE.Subsidiary|0,3 r_Person|2,10 Entity|11,13 r_Seller
+0,2 PER|6,7 PER|7,10 ORG|10,11 GPE|11,13 ORG|13,15 ORG|15,16 ORG|16,17 FAC|2,3 Personnel.End-Position|6,10 ORG-AFF.Employment|10,13 r_GEN-AFF.Org-Location|15,17 r_PART-WHOLE.Subsidiary|0,3 r_Person|2,10 Entity|11,13 r_Seller
+
+Diller appointed CEO Vivendi Universal U.S assets Vivendi Universal
+0,1 PER|2,3 PER|3,5 ORG|5,6 GPE|6,7 ORG|7,9 ORG|1,2 Personnel.Start-Position|2,7 ORG-AFF.Employment|0,2 r_Person|1,7 Entity|7,9 r_Giver
+0,1 PER|2,3 PER|3,5 ORG|5,6 GPE|6,7 ORG|7,9 ORG|1,2 Personnel.Start-Position|2,7 ORG-AFF.Employment|0,2 r_Person|1,7 Entity|7,9 r_Giver
+
+Vivendi sell Universal Studios Universal parks company
+0,1 ORG|2,4 ORG|4,5 ORG|5,6 FAC|6,7 ORG|1,2 Transaction.Transfer-Ownership|0,2 r_Seller|1,4 Artifact|1,6 Artifact|1,7 Artifact
+0,1 ORG|2,4 ORG|4,5 ORG|5,6 FAC|6,7 ORG|1,2 Transaction.Transfer-Ownership|0,2 r_Seller|1,4 Artifact|1,6 Artifact|1,7 Artifact
+
+oilman Marvin Davis offered VUE Universal Music Group Vivendi talks Viacom MGM buyers acquiring companies
+0,1 PER|1,3 PER|4,5 ORG|5,8 ORG|8,9 ORG|10,11 ORG|11,12 ORG|12,13 ORG|14,15 ORG|9,10 Contact.Meet|13,14 Transaction.Transfer-Ownership|8,10 r_Entity|9,11 Entity|9,12 Entity|9,13 Entity|8,14 r_Seller|10,14 r_Buyer|11,14 r_Buyer|12,14 r_Buyer
+0,1 PER|1,3 PER|4,5 ORG|5,8 ORG|8,9 ORG|10,11 ORG|11,12 ORG|12,13 ORG|14,15 ORG|9,10 Contact.Meet|13,14 Transaction.Transfer-Ownership|8,10 r_Entity|9,11 Entity|9,12 Entity|9,13 Entity|8,14 r_Seller|10,14 r_Buyer|11,14 r_Buyer|12,14 r_Buyer
+
+Diller co - CEO Vivendi Universal chairman Jean - Rene Fourtou
+0,1 PER|1,4 PER|4,6 ORG|6,7 PER|7,11 PER|4,7 r_ORG-AFF.Employment
+0,1 PER|1,4 PER|4,6 ORG|6,7 PER|7,11 PER|4,7 r_ORG-AFF.Employment
+
+Diller
+0,1 PER
+0,1 PER
+
+Vivendi Universal
+0,2 ORG
+0,2 ORG
+
+Diller remains executive officer USA Interactive Home Shopping Network Match.com Expedia companies VUE
+0,1 PER|3,4 PER|4,6 ORG|6,9 ORG|9,10 ORG|10,11 ORG|11,12 ORG|12,13 ORG|3,6 ORG-AFF.Employment
+0,1 PER|3,4 PER|4,6 ORG|6,9 ORG|9,10 ORG|10,11 ORG|11,12 ORG|12,13 ORG|3,6 ORG-AFF.Employment
+
+Diller Vivendi arm
+0,1 PER|1,2 ORG|2,3 ORG|1,3 r_PART-WHOLE.Subsidiary
+0,1 PER|1,2 ORG|2,3 ORG|1,3 r_PART-WHOLE.Subsidiary
+
+Diller Vivendi Universal Entertainment
+0,1 PER|1,4 ORG|0,4 ORG-AFF.Investor-Shareholder
+0,1 PER|1,4 ORG|0,4 ORG-AFF.Investor-Shareholder
+
+Diller unit studio
+0,1 PER|1,2 ORG|2,3 ORG
+0,1 PER|1,2 ORG|2,3 ORG
+
+Diller Associated Press executive
+0,1 PER|1,3 ORG|3,4 PER
+0,1 PER|1,3 ORG|3,4 PER
+
+Diller head USA Interactive
+0,1 PER|1,2 PER|2,4 ORG|1,4 ORG-AFF.Employment
+0,1 PER|1,2 PER|2,4 ORG|1,4 ORG-AFF.Employment
+
+Diller served head Paramount Twentieth Century Fox launch Fox Television network
+0,1 PER|2,3 PER|3,4 ORG|4,7 ORG|8,9 ORG|10,11 ORG|7,8 Business.Start-Org|2,4 ORG-AFF.Employment|2,7 ORG-AFF.Employment|4,8 r_Agent|7,11 Org
+0,1 PER|2,3 PER|3,4 ORG|4,7 ORG|8,9 ORG|10,11 ORG|7,8 Business.Start-Org|2,4 ORG-AFF.Employment|2,7 ORG-AFF.Employment|4,8 r_Agent|7,11 Org
+
+Fox
+0,1 ORG
+0,1 ORG
+
+ABC
+0,1 ORG
+0,1 ORG
+
+USA Interactive New York Stock Exchange Vivendi U.S.
+0,2 ORG|2,6 ORG|6,7 ORG|7,8 GPE
+0,2 ORG|2,6 ORG|6,7 ORG|7,8 GPE
+
+British
+
+
+
+SOUTHERN IRAQ AP
+1,2 LOC|2,3 ORG
+1,2 LOC|2,3 ORG
+
+U.S. British troops moving port city Basra assault Baghdad
+0,1 GPE|1,2 GPE|2,3 PER|5,6 GPE|6,7 GPE|8,9 GPE|3,4 Movement.Transport|0,3 r_ORG-AFF.Employment|1,3 r_ORG-AFF.Employment|2,4 r_Artifact|3,6 Destination
+0,1 GPE|1,2 GPE|2,3 PER|5,6 GPE|6,7 GPE|8,9 GPE|3,4 Movement.Transport|0,3 r_ORG-AFF.Employment|1,3 r_ORG-AFF.Employment|2,4 r_Artifact|3,6 Destination
+
+Iraqi soldiers south
+0,1 GPE|1,2 PER|2,3 LOC|0,2 r_ORG-AFF.Employment|1,3 PHYS.Located
+0,1 GPE|1,2 PER|2,3 LOC|0,2 r_ORG-AFF.Employment|1,3 PHYS.Located
+
+battle Basra hub people coalition troops Iraqi
+1,2 GPE|2,3 GPE|3,4 PER|4,5 GPE|5,6 PER|6,7 GPE|0,1 Conflict.Attack|2,4 r_PHYS.Located|4,6 r_ORG-AFF.Employment|0,2 Place
+1,2 GPE|2,3 GPE|3,4 PER|4,5 GPE|5,6 PER|6,7 GPE|0,1 Conflict.Attack|2,4 r_PHYS.Located|4,6 r_ORG-AFF.Employment|0,2 Place
+
+U.S. aircraft bombed Iraqi tanks bridges city
+0,1 GPE|1,2 VEH|3,4 GPE|4,5 VEH|5,6 FAC|6,7 GPE|2,3 Conflict.Attack|0,2 ART.User-Owner-Inventor-Manufacturer|3,5 ART.User-Owner-Inventor-Manufacturer|5,7 PHYS.Near|0,3 r_Attacker|1,3 r_Instrument|2,6 Place
+0,1 GPE|1,2 VEH|3,4 GPE|4,5 VEH|5,6 FAC|6,7 GPE|2,3 Conflict.Attack|0,2 ART.User-Owner-Inventor-Manufacturer|3,5 ART.User-Owner-Inventor-Manufacturer|5,7 PHYS.Near|0,3 r_Attacker|1,3 r_Instrument|2,6 Place
+
+Iraqi forces artillery fire
+0,1 GPE|1,2 ORG|2,3 WEA|3,4 Conflict.Attack|0,2 r_GEN-AFF.Org-Location|1,3 ART.User-Owner-Inventor-Manufacturer|1,4 r_Attacker
+0,1 GPE|1,2 ORG|2,3 WEA|3,4 Conflict.Attack|0,2 r_GEN-AFF.Org-Location|1,3 ART.User-Owner-Inventor-Manufacturer|1,4 r_Attacker
+
+Baghdad U.S. bombardment Tomahawk cruise missiles rained capital
+0,1 GPE|1,2 GPE|3,4 WEA|5,6 WEA|7,8 GPE|2,3 Conflict.Attack|1,3 r_Attacker|2,6 Instrument|2,8 Place
+0,1 GPE|1,2 GPE|3,4 WEA|5,6 WEA|7,8 GPE|2,3 Conflict.Attack|1,3 r_Attacker|2,6 Instrument|2,8 Place
+
+Headquarters Iraqi capital hit street al - Salhiya neighborhood Baghdad
+1,2 GPE|2,3 GPE|4,5 FAC|5,8 GPE|8,9 GPE|9,10 LOC|3,4 Conflict.Attack|1,3 r_PART-WHOLE.Geographical|4,9 PART-WHOLE.Geographical|8,10 PART-WHOLE.Geographical|2,4 r_Place|3,9 Place
+1,2 GPE|2,3 GPE|4,5 FAC|5,8 GPE|8,9 GPE|9,10 LOC|3,4 Conflict.Attack|1,3 r_PART-WHOLE.Geographical|4,9 PART-WHOLE.Geographical|8,10 PART-WHOLE.Geographical|2,4 r_Place|3,9 Place
+
+coalition troops Iraqi army division U.S. military officials
+0,1 GPE|1,2 PER|2,3 GPE|3,4 ORG|4,5 ORG|5,6 GPE|6,7 ORG|7,8 PER|0,2 r_ORG-AFF.Employment|2,4 r_GEN-AFF.Org-Location|3,5 r_PART-WHOLE.Subsidiary|6,8 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|2,3 GPE|3,4 ORG|4,5 ORG|5,6 GPE|6,7 ORG|7,8 PER|0,2 r_ORG-AFF.Employment|2,4 r_GEN-AFF.Org-Location|3,5 r_PART-WHOLE.Subsidiary|6,8 r_ORG-AFF.Employment
+
+51st Infantry Division men tanks unit
+0,3 ORG|3,4 PER|4,5 VEH|5,6 ORG|0,5 ART.User-Owner-Inventor-Manufacturer|0,4 r_ORG-AFF.Employment
+0,3 ORG|3,4 PER|4,5 VEH|5,6 ORG|0,5 ART.User-Owner-Inventor-Manufacturer|0,4 r_ORG-AFF.Employment
+
+Iraqi leader Saddam Hussein forces crumbling
+0,1 GPE|1,2 PER|2,4 PER|4,5 ORG|0,2 r_ORG-AFF.Employment
+0,1 GPE|1,2 PER|2,4 PER|4,5 ORG|0,2 r_ORG-AFF.Employment
+
+Allied collision Royal Navy helicopters Persian Gulf British crew members American killed
+2,4 ORG|4,5 VEH|5,7 LOC|7,8 GPE|9,10 PER|10,11 PER|11,12 Life.Die|2,5 ART.User-Owner-Inventor-Manufacturer|5,10 r_PHYS.Located|7,10 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|5,11 r_PHYS.Located|4,12 r_Instrument|5,12 r_Place|9,12 r_Victim|10,12 r_Victim
+2,4 ORG|4,5 VEH|5,7 LOC|7,8 GPE|9,10 PER|10,11 PER|11,12 Life.Die|2,5 ART.User-Owner-Inventor-Manufacturer|5,10 r_PHYS.Located|7,10 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|5,11 r_PHYS.Located|4,12 r_Instrument|5,12 r_Place|9,12 r_Victim|10,12 r_Victim
+
+American Marines British troops rumbled road Kuwaiti border Basra Highway 80 Highway Gulf U.S. airstrikes Iraqi military convoy
+0,1 GPE|1,2 PER|2,3 GPE|3,4 PER|5,6 FAC|6,7 GPE|7,8 LOC|8,9 GPE|9,11 FAC|11,12 FAC|13,14 GPE|15,16 GPE|16,17 ORG|17,18 VEH|4,5 Movement.Transport|0,2 r_ORG-AFF.Employment|2,4 r_ORG-AFF.Employment|5,8 PART-WHOLE.Geographical|5,9 PART-WHOLE.Geographical|6,8 r_PART-WHOLE.Geographical|15,17 r_PART-WHOLE.Subsidiary|16,18 ART.User-Owner-Inventor-Manufacturer|1,5 r_Artifact|3,5 r_Artifact|4,8 Origin|4,9 Destination
+0,1 GPE|1,2 PER|2,3 GPE|3,4 PER|5,6 FAC|6,7 GPE|7,8 LOC|8,9 GPE|9,11 FAC|11,12 FAC|13,14 GPE|15,16 GPE|16,17 ORG|17,18 VEH|4,5 Movement.Transport|0,2 r_ORG-AFF.Employment|2,4 r_ORG-AFF.Employment|5,8 PART-WHOLE.Geographical|5,9 PART-WHOLE.Geographical|6,8 r_PART-WHOLE.Geographical|15,17 r_PART-WHOLE.Subsidiary|16,18 ART.User-Owner-Inventor-Manufacturer|1,5 r_Artifact|3,5 r_Artifact|4,8 Origin|4,9 Destination
+
+American units Basra Rumeila field Iraq
+0,1 GPE|1,2 ORG|2,3 GPE|3,5 FAC|5,6 GPE|0,2 r_GEN-AFF.Org-Location|1,5 PHYS.Located
+0,1 GPE|1,2 ORG|2,3 GPE|3,5 FAC|5,6 GPE|0,2 r_GEN-AFF.Org-Location|1,5 PHYS.Located
+
+Basra U.S. British troops seized Umm Qasr moved fields
+0,1 GPE|1,2 GPE|2,3 GPE|3,4 PER|5,7 GPE|8,9 FAC|4,5 Conflict.Attack|1,4 r_ORG-AFF.Employment|2,4 r_ORG-AFF.Employment|3,7 PHYS.Located|3,5 r_Attacker|4,7 Place
+0,1 GPE|1,2 GPE|2,3 GPE|3,4 PER|5,7 GPE|8,9 FAC|4,5 Conflict.Attack|1,4 r_ORG-AFF.Employment|2,4 r_ORG-AFF.Employment|3,7 PHYS.Located|3,5 r_Attacker|4,7 Place
+
+Iraqis fought arms pistols guns rocket grenades
+0,1 PER|2,3 WEA|3,4 WEA|4,5 WEA|6,7 WEA|1,2 Conflict.Attack|0,3 ART.User-Owner-Inventor-Manufacturer|0,4 ART.User-Owner-Inventor-Manufacturer|0,5 ART.User-Owner-Inventor-Manufacturer|0,7 ART.User-Owner-Inventor-Manufacturer|0,2 r_Attacker|1,3 Instrument|1,4 Instrument|1,5 Instrument|1,7 Instrument
+0,1 PER|2,3 WEA|3,4 WEA|4,5 WEA|6,7 WEA|1,2 Conflict.Attack|0,3 ART.User-Owner-Inventor-Manufacturer|0,4 ART.User-Owner-Inventor-Manufacturer|0,5 ART.User-Owner-Inventor-Manufacturer|0,7 ART.User-Owner-Inventor-Manufacturer|0,2 r_Attacker|1,3 Instrument|1,4 Instrument|1,5 Instrument|1,7 Instrument
+
+Iraqi forces withdrawn Basra Saddam forces British Defense Secretary Geoff Hoon
+0,1 GPE|1,2 ORG|3,4 GPE|4,5 PER|5,6 ORG|6,7 GPE|8,9 PER|9,11 PER|0,2 r_GEN-AFF.Org-Location|1,4 PHYS.Located|6,9 r_ORG-AFF.Employment
+0,1 GPE|1,2 ORG|3,4 GPE|4,5 PER|5,6 ORG|6,7 GPE|8,9 PER|9,11 PER|0,2 r_GEN-AFF.Org-Location|1,4 PHYS.Located|6,9 r_ORG-AFF.Employment
+
+units moved airfield complexes Iraq Scud missiles Israel weapons
+0,1 ORG|3,4 FAC|4,5 LOC|5,6 WEA|6,7 WEA|7,8 GPE|8,9 WEA|3,5 PART-WHOLE.Geographical
+0,1 ORG|3,4 FAC|4,5 LOC|5,6 WEA|6,7 WEA|7,8 GPE|8,9 WEA|3,5 PART-WHOLE.Geographical
+
+units Kuwait Iraqi
+0,1 ORG|1,2 GPE|2,3 GPE
+0,1 ORG|1,2 GPE|2,3 GPE
+
+tanks personnel carriers Humvees trucks cross Iraqi Kuwait border
+0,1 VEH|1,2 PER|2,3 VEH|3,4 VEH|4,5 VEH|6,7 GPE|7,8 GPE|8,9 LOC|5,6 Movement.Transport|6,9 r_PART-WHOLE.Geographical|7,9 r_PART-WHOLE.Geographical|5,9 Origin
+0,1 VEH|1,2 PER|2,3 VEH|3,4 VEH|4,5 VEH|6,7 GPE|7,8 GPE|8,9 LOC|5,6 Movement.Transport|6,9 r_PART-WHOLE.Geographical|7,9 r_PART-WHOLE.Geographical|5,9 Origin
+
+U.S. forces Army 3rd Infantry Division outskirts Baghdad Republican Guard commanders
+0,1 GPE|1,2 PER|2,3 ORG|3,6 ORG|7,8 GPE|8,10 ORG|10,11 PER|0,2 r_ORG-AFF.Employment|2,6 r_PART-WHOLE.Subsidiary
+0,1 GPE|1,2 PER|2,3 ORG|3,6 ORG|7,8 GPE|8,10 ORG|10,11 PER|0,2 r_ORG-AFF.Employment|2,6 r_PART-WHOLE.Subsidiary
+
+Turkey aircraft territory
+0,1 GPE|1,2 VEH|2,3 GPE
+0,1 GPE|1,2 VEH|2,3 GPE
+
+Turkey sent troops Iraq government send Iraqi Kurds state
+0,1 GPE|2,3 PER|3,4 LOC|4,5 GPE|6,7 GPE|7,8 PER|8,9 GPE|1,2 Movement.Transport|5,6 Movement.Transport|0,3 r_PHYS.Located|2,4 PHYS.Located|6,8 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|7,9 ORG-AFF.Founder|0,2 r_Agent|1,3 Artifact|1,4 Destination|3,6 r_Destination|4,6 r_Agent
+0,1 GPE|2,3 PER|3,4 LOC|4,5 GPE|6,7 GPE|7,8 PER|8,9 GPE|1,2 Movement.Transport|5,6 Movement.Transport|0,3 r_PHYS.Located|2,4 PHYS.Located|6,8 r_GEN-AFF.Citizen-Resident-Religion-Ethnicity|7,9 ORG-AFF.Founder|0,2 r_Agent|1,3 Artifact|1,4 Destination|3,6 r_Destination|4,6 r_Agent
+
+United States move Turkey Iraq
+0,2 GPE|3,4 GPE|4,5 LOC|2,3 Movement.Transport|2,4 Agent|2,5 Destination
+0,2 GPE|3,4 GPE|4,5 LOC|2,3 Movement.Transport|2,4 Agent|2,5 Destination
+
+Turkish military spokesman Turkish troops crossed Iraq
+0,1 GPE|1,2 ORG|2,3 PER|3,4 GPE|4,5 PER|6,7 GPE|5,6 Movement.Transport|1,3 r_ORG-AFF.Employment|3,5 r_ORG-AFF.Employment|4,7 PHYS.Located|3,6 r_Origin|4,6 r_Artifact|5,7 Destination
+0,1 GPE|1,2 ORG|2,3 PER|3,4 GPE|4,5 PER|6,7 GPE|5,6 Movement.Transport|1,3 r_ORG-AFF.Employment|3,5 r_ORG-AFF.Employment|4,7 PHYS.Located|3,6 r_Origin|4,6 r_Artifact|5,7 Destination
+
+United States Britain casualties pushed Iraq U.S. Marines killed combat British American Marines dying helicopter
+0,2 GPE|2,3 GPE|5,6 GPE|6,7 GPE|7,8 PER|10,11 GPE|11,12 GPE|12,13 PER|14,15 VEH|8,9 Life.Die|13,14 Life.Die|6,8 r_ORG-AFF.Employment|10,13 r_ORG-AFF.Employment|11,13 r_ORG-AFF.Employment|7,9 r_Victim|12,14 r_Victim|13,15 Instrument
+0,2 GPE|2,3 GPE|5,6 GPE|6,7 GPE|7,8 PER|10,11 GPE|11,12 GPE|12,13 PER|14,15 VEH|8,9 Life.Die|13,14 Life.Die|6,8 r_ORG-AFF.Employment|10,13 r_ORG-AFF.Employment|11,13 r_ORG-AFF.Employment|7,9 r_Victim|12,14 r_Victim|13,15 Instrument
+
+Iraqi casualties
+0,1 GPE
+0,1 GPE
+
+Australian commandos Iraq destroyed post killed soldiers country chief Gen. Peter Cosgrove
+0,1 GPE|1,2 PER|2,3 GPE|4,5 FAC|6,7 PER|7,8 GPE|8,9 PER|9,10 PER|10,12 PER|3,4 Conflict.Attack|5,6 Life.Die|0,2 r_PHYS.Located|1,3 PHYS.Located|7,9 r_ORG-AFF.Employment|1,4 r_Attacker|2,4 r_Place|3,5 Target|1,6 r_Agent|2,6 r_Place
+0,1 GPE|1,2 PER|2,3 GPE|4,5 FAC|6,7 PER|7,8 GPE|8,9 PER|9,10 PER|10,12 PER|3,4 Conflict.Attack|5,6 Life.Die|0,2 r_PHYS.Located|1,3 PHYS.Located|7,9 r_ORG-AFF.Employment|1,4 r_Attacker|2,4 r_Place|3,5 Target|1,6 r_Agent|2,6 r_Place
+
+Minister Mohammed Saeed al - Sahhaf Iraqis fighting
+0,1 PER|1,6 PER|6,7 GPE|7,8 Conflict.Attack
+0,1 PER|1,6 PER|6,7 GPE|7,8 Conflict.Attack
+
+forces civilians soldiers
+0,1 ORG|1,2 PER|2,3 PER
+0,1 ORG|1,2 PER|2,3 PER
+
+Iraqi troops destroyed tanks
+0,1 GPE|1,2 PER|3,4 VEH|2,3 Conflict.Attack|0,2 r_ORG-AFF.Employment|1,3 r_Attacker|2,4 Target
+0,1 GPE|1,2 PER|3,4 VEH|2,3 Conflict.Attack|0,2 r_ORG-AFF.Employment|1,3 r_Attacker|2,4 Target
+
+Iraqis injured women children civilians hospitals Baghdad
+0,1 PER|2,3 PER|3,4 PER|4,5 PER|5,6 FAC|6,7 GPE|1,2 Life.Injure|5,7 PART-WHOLE.Geographical|0,2 r_Victim|1,3 Victim|1,4 Victim|1,5 Victim
+0,1 PER|2,3 PER|3,4 PER|4,5 PER|5,6 FAC|6,7 GPE|1,2 Life.Injure|5,7 PART-WHOLE.Geographical|0,2 r_Victim|1,3 Victim|1,4 Victim|1,5 Victim
+
+Hoon Saddam regime assault
+0,1 PER|1,2 PER|2,3 ORG|3,4 Conflict.Attack|2,4 r_Target
+0,1 PER|1,2 PER|2,3 ORG|3,4 Conflict.Attack|2,4 r_Target
+
+Baghdad
+0,1 GPE
+0,1 GPE
+
+Iraqi President Taha Yasin Ramadan Iraqi Radio British Broadcasting Corp. service Britain United States state Iraq
+0,1 GPE|1,2 PER|2,5 PER|5,7 ORG|7,10 ORG|10,11 ORG|11,12 GPE|12,14 GPE|14,15 GPE|15,16 GPE|0,2 r_ORG-AFF.Employment|7,11 r_PART-WHOLE.Subsidiary
+0,1 GPE|1,2 PER|2,5 PER|5,7 ORG|7,10 ORG|10,11 ORG|11,12 GPE|12,14 GPE|14,15 GPE|15,16 GPE|0,2 r_ORG-AFF.Employment|7,11 r_PART-WHOLE.Subsidiary
+
+letter U.N. Secretary - General Kofi Annan Ramadan U.N. General Secretariat aggression
+1,2 ORG|2,5 PER|5,7 PER|7,8 PER|8,9 ORG|10,11 PER|0,1 Contact.Phone-Write|1,5 r_ORG-AFF.Employment|8,11 r_ORG-AFF.Employment|0,7 Entity|0,8 Entity
+1,2 ORG|2,5 PER|5,7 PER|7,8 PER|8,9 ORG|10,11 PER|0,1 Contact.Phone-Write|1,5 r_ORG-AFF.Employment|8,11 r_ORG-AFF.Employment|0,7 Entity|0,8 Entity
+
+bombing U.S. Central Command military installations Iraqi regime
+1,2 GPE|2,4 ORG|4,5 ORG|5,6 FAC|6,7 GPE|7,8 ORG|0,1 Conflict.Attack|1,4 r_GEN-AFF.Org-Location|4,6 ART.User-Owner-Inventor-Manufacturer|6,8 r_GEN-AFF.Org-Location|0,6 Target
+1,2 GPE|2,4 ORG|4,5 ORG|5,6 FAC|6,7 GPE|7,8 ORG|0,1 Conflict.Attack|1,4 r_GEN-AFF.Org-Location|4,6 ART.User-Owner-Inventor-Manufacturer|6,8 r_GEN-AFF.Org-Location|0,6 Target
+
+Bombers hit cities Mosul Kirkuk Tikrit Saddam hometown
+0,1 VEH|2,3 GPE|3,4 GPE|4,5 GPE|5,6 GPE|6,7 PER|7,8 GPE|1,2 Conflict.Attack|6,8 GEN-AFF.Citizen-Resident-Religion-Ethnicity|0,2 r_Instrument|1,3 Place|1,4 Place|1,5 Place|1,6 Place
+0,1 VEH|2,3 GPE|3,4 GPE|4,5 GPE|5,6 GPE|6,7 PER|7,8 GPE|1,2 Conflict.Attack|6,8 GEN-AFF.Citizen-Resident-Religion-Ethnicity|0,2 r_Instrument|1,3 Place|1,4 Place|1,5 Place|1,6 Place
+
+Iraqi government Saddam meeting son Qusai commander Republican Guard minister Gen. Sultan Hashim Ahmad
+0,1 GPE|1,2 GPE|2,3 PER|4,5 PER|5,6 PER|6,7 PER|7,9 ORG|9,10 PER|10,11 PER|11,14 PER|3,4 Contact.Meet|6,9 ORG-AFF.Employment|3,7 Entity|3,10 Entity
+0,1 GPE|1,2 GPE|2,3 PER|4,5 PER|5,6 PER|6,7 PER|7,9 ORG|9,10 PER|10,11 PER|11,14 PER|3,4 Contact.Meet|6,9 ORG-AFF.Employment|3,7 Entity|3,10 Entity
+
+U.S. intelligence officials Iraqi U.S. Defense Secretary Donald Rumsfeld regime country
+0,1 GPE|2,3 PER|3,4 GPE|4,5 GPE|6,7 PER|7,9 PER|9,10 ORG|10,11 GPE|0,3 r_ORG-AFF.Employment|4,7 r_ORG-AFF.Employment
+0,1 GPE|2,3 PER|3,4 GPE|4,5 GPE|6,7 PER|7,9 PER|9,10 ORG|10,11 GPE|0,3 r_ORG-AFF.Employment|4,7 r_ORG-AFF.Employment
+
+LAHAINA Hawaii AP
+0,1 GPE|1,2 GPE|2,3 ORG|0,2 PART-WHOLE.Geographical
+0,1 GPE|1,2 GPE|2,3 ORG|0,2 PART-WHOLE.Geographical
+
+premier Canadian province British Columbia Hawaiian
+0,1 PER|1,2 LOC|2,3 GPE|3,5 GPE|5,6 GPE|0,3 ORG-AFF.Employment|1,3 r_PART-WHOLE.Geographical
+0,1 PER|1,2 LOC|2,3 GPE|3,5 GPE|5,6 GPE|0,3 ORG-AFF.Employment|1,3 r_PART-WHOLE.Geographical
+
+Gordon Campbell fines
+0,2 PER|2,3 Justice.Fine|0,3 r_Entity
+0,2 PER|2,3 Justice.Fine|0,3 r_Entity
+
+defendant charge
+0,1 PER
+0,1 PER
+
+Mr. Campbell Judge Reinette Cooper
+0,1 PER|1,2 PER|2,3 PER|3,5 PER
+0,1 PER|1,2 PER|2,3 PER|3,5 PER
+
+Campbell court
+0,1 PER
+0,1 PER
+
+Lawyer Steven Barta client Canada
+0,1 PER|1,3 PER|3,4 PER|4,5 GPE
+0,1 PER|1,3 PER|3,4 PER|4,5 GPE
+
+Campbell fines
+0,1 PER|1,2 Justice.Fine|0,2 r_Entity
+0,1 PER|1,2 Justice.Fine|0,2 r_Entity
+
+capital Victoria Campbell
+0,1 GPE|1,2 GPE|2,3 PER|0,3 r_PHYS.Located
+0,1 GPE|1,2 GPE|2,3 PER|0,3 r_PHYS.Located
+
+Campbell police vehicle
+0,1 PER|1,2 PER|2,3 VEH
+0,1 PER|1,2 PER|2,3 VEH
+
+Campbell roadside
+0,1 PER
+0,1 PER
+
+Vancouver Campbell British Columbians resign premier
+0,1 GPE|1,2 PER|2,4 GPE|5,6 PER|4,5 Personnel.End-Position|0,5 r_Place|1,5 r_Person|2,5 r_Entity
+0,1 GPE|1,2 PER|2,4 GPE|5,6 PER|4,5 Personnel.End-Position|0,5 r_Place|1,5 r_Person|2,5 r_Entity
+
+BRIDGEPORT Connecticut AP
+0,1 GPE|1,2 GPE|2,3 ORG|0,2 PART-WHOLE.Geographical
+0,1 GPE|1,2 GPE|2,3 ORG|0,2 PART-WHOLE.Geographical
+
+Retired General Electric Co. Chairman Jack Welch wife divorce
+1,4 ORG|4,5 PER|5,7 PER|7,8 PER|0,1 Personnel.End-Position|8,9 Life.Divorce|1,5 r_ORG-AFF.Employment|0,4 Entity|0,7 Person|7,9 r_Person
+1,4 ORG|4,5 PER|5,7 PER|7,8 PER|0,1 Personnel.End-Position|8,9 Life.Divorce|1,5 r_ORG-AFF.Employment|0,4 Entity|0,7 Person|7,9 r_Person
+
+Welches divorce Suzy Wetlaufer editor Harvard Business Review Welch
+0,1 PER|2,4 PER|4,5 PER|5,8 ORG|8,9 PER|1,2 Life.Divorce|2,9 PER-SOC.Lasting-Personal|4,8 ORG-AFF.Employment|0,2 r_Person
+0,1 PER|2,4 PER|4,5 PER|5,8 ORG|8,9 PER|1,2 Life.Divorce|2,9 PER-SOC.Lasting-Personal|4,8 ORG-AFF.Employment|0,2 r_Person
+
+court state Supreme Court New York Welch David Heleniak partner firm Shearman & amp ; Sterling New York
+1,2 GPE|3,4 ORG|4,6 GPE|6,7 PER|7,9 PER|9,10 PER|10,11 ORG|11,16 ORG|16,18 GPE|1,4 r_PART-WHOLE.Subsidiary|3,6 GEN-AFF.Org-Location|9,11 ORG-AFF.Employment|10,18 GEN-AFF.Org-Location
+1,2 GPE|3,4 ORG|4,6 GPE|6,7 PER|7,9 PER|9,10 PER|10,11 ORG|11,16 ORG|16,18 GPE|1,4 r_PART-WHOLE.Subsidiary|3,6 GEN-AFF.Org-Location|9,11 ORG-AFF.Employment|10,18 GEN-AFF.Org-Location
+
+Jane Beasley Welch personnel Shearman & amp ; Sterling firm married Welch
+0,3 PER|4,9 ORG|9,10 ORG|11,12 PER|10,11 Life.Marry|0,9 ORG-AFF.Employment|10,12 Person
+0,3 PER|4,9 ORG|9,10 ORG|11,12 PER|10,11 Life.Marry|0,9 ORG-AFF.Employment|10,12 Person
+
+Welch wife partners firm office London partner
+0,1 PER|1,2 PER|2,3 PER|3,4 ORG|4,5 FAC|5,6 GPE|6,7 PER|3,5 ART.User-Owner-Inventor-Manufacturer|4,6 PART-WHOLE.Geographical
+0,1 PER|1,2 PER|2,3 PER|3,4 ORG|4,5 FAC|5,6 GPE|6,7 PER|3,5 ART.User-Owner-Inventor-Manufacturer|4,6 PART-WHOLE.Geographical
+
+Welch Jane Beasley Welch paid
+0,1 PER|1,4 PER|4,5 Transaction.Transfer-Money|1,4 r_Person|1,5 r_Recipient
+0,1 PER|1,4 PER|4,5 Transaction.Transfer-Money|1,4 r_Person|1,5 r_Recipient
+
+Michael York Jack Welch attorneys
+0,2 PER|2,4 PER|4,5 PER
+0,2 PER|2,4 PER|4,5 PER
+
+judge divorce
+0,1 PER|1,2 Life.Divorce
+0,1 PER|1,2 Life.Divorce
+
+Welch retirement GE
+0,1 PER|2,3 ORG|1,2 Personnel.End-Position|0,3 ORG-AFF.Employment|0,2 r_Person|1,3 Entity
+0,1 PER|2,3 ORG|1,2 Personnel.End-Position|0,3 ORG-AFF.Employment|0,2 r_Person|1,3 Entity
+
+court Jack Welch attorney Daniel K. Webb Welch
+1,3 PER|3,4 PER|4,7 PER|7,8 PER
+1,3 PER|3,4 PER|4,7 PER|7,8 PER
+
+Webb Welches marriages
+0,1 PER|1,2 PER|2,3 Life.Marry|1,3 r_Person
+0,1 PER|1,2 PER|2,3 Life.Marry|1,3 r_Person
+
+Welch
+0,1 PER
+0,1 PER
+
+outlays houses Massachusetts Florida
+1,2 FAC|2,3 GPE|3,4 GPE|1,3 PART-WHOLE.Geographical|1,4 PART-WHOLE.Geographical
+1,2 FAC|2,3 GPE|3,4 GPE|1,3 PART-WHOLE.Geographical|1,4 PART-WHOLE.Geographical
+

@@ -1,0 +1,422 @@
+{
+    "ner": [
+        "VEH",
+        "FAC",
+        "ORG",
+        "GPE",
+        "WEA",
+        "LOC",
+        "PER"
+    ],
+    "event": [
+        "Justice:Trial-Hearing",
+        "Justice:Charge-Indict",
+        "Justice:Execute",
+        "Justice:Acquit",
+        "Justice:Appeal",
+        "Transaction:Transfer-Ownership",
+        "Life:Marry",
+        "Business:Start-Org",
+        "Personnel:Start-Position",
+        "Justice:Fine",
+        "Justice:Pardon",
+        "Life:Injure",
+        "Justice:Release-Parole",
+        "Transaction:Transfer-Money",
+        "Life:Divorce",
+        "Life:Be-Born",
+        "Justice:Sentence",
+        "Justice:Sue",
+        "Business:End-Org",
+        "Business:Merge-Org",
+        "Life:Die",
+        "Business:Declare-Bankruptcy",
+        "Movement:Transport",
+        "Justice:Arrest-Jail",
+        "Personnel:End-Position",
+        "Justice:Extradite",
+        "Justice:Convict",
+        "Personnel:Nominate",
+        "Personnel:Elect",
+        "Contact:Phone-Write",
+        "Conflict:Attack",
+        "Conflict:Demonstrate",
+        "Contact:Meet"
+    ],
+    "relation": [
+        "r_ORG-AFF",
+        "r_PHYS",
+        "r_GEN-AFF",
+        "PHYS",
+        "PER-SOC",
+        "r_PART-WHOLE",
+        "r_ART",
+        "ART",
+        "ORG-AFF",
+        "r_PER-SOC",
+        "GEN-AFF",
+        "PART-WHOLE"
+    ],
+    "role": [
+        "r_Plaintiff",
+        "Place",
+        "r_Recipient",
+        "Seller",
+        "Buyer",
+        "r_Beneficiary",
+        "r_Seller",
+        "Prosecutor",
+        "r_Giver",
+        "r_Destination",
+        "r_Attacker",
+        "Vehicle",
+        "Target",
+        "Attacker",
+        "Instrument",
+        "Destination",
+        "r_Origin",
+        "Entity",
+        "Giver",
+        "r_Vehicle",
+        "Agent",
+        "Adjudicator",
+        "Beneficiary",
+        "r_Entity",
+        "r_Prosecutor",
+        "r_Buyer",
+        "r_Artifact",
+        "Artifact",
+        "r_Target",
+        "r_Defendant",
+        "Org",
+        "r_Agent",
+        "Origin",
+        "Victim",
+        "r_Place",
+        "r_Person",
+        "Plaintiff",
+        "r_Instrument",
+        "r_Org",
+        "Person",
+        "Recipient",
+        "Defendant",
+        "r_Adjudicator",
+        "r_Victim"
+    ],
+    "role_entity": {
+        "Attacker": [
+            "PER",
+            "ORG",
+            "GPE"
+        ],
+        "Place": [
+            "GPE",
+            "FAC",
+            "LOC"
+        ],
+        "Instrument": [
+            "VEH",
+            "WEA"
+        ],
+        "Victim": [
+            "PER"
+        ],
+        "Artifact": [
+            "VEH",
+            "FAC",
+            "WEA",
+            "PER",
+            "ORG"
+        ],
+        "Destination": [
+            "GPE",
+            "FAC",
+            "LOC"
+        ],
+        "Person": [
+            "PER"
+        ],
+        "Target": [
+            "VEH",
+            "FAC",
+            "WEA",
+            "LOC",
+            "PER",
+            "ORG"
+        ],
+        "Entity": [
+            "PER",
+            "ORG",
+            "GPE"
+        ],
+        "Seller": [
+            "ORG",
+            "PER",
+            "GPE"
+        ],
+        "Buyer": [
+            "PER",
+            "ORG",
+            "GPE"
+        ],
+        "Vehicle": [
+            "VEH"
+        ],
+        "Agent": [
+            "PER",
+            "ORG",
+            "GPE"
+        ],
+        "Origin": [
+            "GPE",
+            "FAC",
+            "LOC"
+        ],
+        "Defendant": [
+            "PER",
+            "ORG",
+            "GPE"
+        ],
+        "Plaintiff": [
+            "PER",
+            "ORG",
+            "GPE"
+        ],
+        "Org": [
+            "PER",
+            "ORG"
+        ],
+        "Giver": [
+            "PER",
+            "ORG",
+            "GPE"
+        ],
+        "Recipient": [
+            "ORG",
+            "PER",
+            "GPE"
+        ],
+        "Prosecutor": [
+            "PER",
+            "ORG",
+            "GPE"
+        ],
+        "Adjudicator": [
+            "ORG",
+            "PER",
+            "GPE"
+        ],
+        "Beneficiary": [
+            "ORG",
+            "PER",
+            "GPE"
+        ]
+    },
+    "relation_entity": {
+        "PHYS": [
+            "FAC",
+            "ORG",
+            "GPE",
+            "LOC",
+            "PER"
+        ],
+        "ORG-AFF": [
+            "PER",
+            "ORG",
+            "GPE"
+        ],
+        "ART": [
+            "ORG",
+            "PER",
+            "GPE"
+        ],
+        "GEN-AFF": [
+            "ORG",
+            "PER",
+            "GPE",
+            "FAC"
+        ],
+        "PART-WHOLE": [
+            "VEH",
+            "FAC",
+            "ORG",
+            "GPE",
+            "WEA",
+            "LOC",
+            "PER"
+        ],
+        "PER-SOC": [
+            "PER"
+        ]
+    },
+    "event_role": {
+        "Conflict:Attack": [
+            "Attacker",
+            "Place",
+            "Target",
+            "Instrument",
+            "Victim"
+        ],
+        "Life:Die": [
+            "Place",
+            "Instrument",
+            "Person",
+            "Agent",
+            "Victim"
+        ],
+        "Movement:Transport": [
+            "Vehicle",
+            "Place",
+            "Artifact",
+            "Destination",
+            "Origin",
+            "Agent",
+            "Victim"
+        ],
+        "Personnel:End-Position": [
+            "Place",
+            "Entity",
+            "Person"
+        ],
+        "Contact:Meet": [
+            "Place",
+            "Entity"
+        ],
+        "Transaction:Transfer-Ownership": [
+            "Beneficiary",
+            "Place",
+            "Artifact",
+            "Seller",
+            "Buyer"
+        ],
+        "Justice:Charge-Indict": [
+            "Adjudicator",
+            "Defendant",
+            "Place",
+            "Prosecutor"
+        ],
+        "Contact:Phone-Write": [
+            "Place",
+            "Entity"
+        ],
+        "Life:Injure": [
+            "Instrument",
+            "Place",
+            "Agent",
+            "Victim"
+        ],
+        "Justice:Arrest-Jail": [
+            "Place",
+            "Agent",
+            "Person"
+        ],
+        "Justice:Appeal": [
+            "Plaintiff",
+            "Adjudicator",
+            "Place"
+        ],
+        "Life:Be-Born": [
+            "Place",
+            "Person"
+        ],
+        "Business:Start-Org": [
+            "Org",
+            "Place",
+            "Agent"
+        ],
+        "Justice:Sentence": [
+            "Adjudicator",
+            "Defendant",
+            "Place"
+        ],
+        "Personnel:Start-Position": [
+            "Place",
+            "Entity",
+            "Person"
+        ],
+        "Business:Declare-Bankruptcy": [
+            "Org",
+            "Place"
+        ],
+        "Transaction:Transfer-Money": [
+            "Recipient",
+            "Giver",
+            "Place",
+            "Beneficiary"
+        ],
+        "Justice:Sue": [
+            "Plaintiff",
+            "Adjudicator",
+            "Defendant",
+            "Place"
+        ],
+        "Justice:Fine": [
+            "Adjudicator",
+            "Place",
+            "Entity"
+        ],
+        "Life:Marry": [
+            "Place",
+            "Person"
+        ],
+        "Justice:Release-Parole": [
+            "Place",
+            "Entity",
+            "Person"
+        ],
+        "Life:Divorce": [
+            "Person"
+        ],
+        "Personnel:Elect": [
+            "Place",
+            "Entity",
+            "Person"
+        ],
+        "Conflict:Demonstrate": [
+            "Place",
+            "Entity"
+        ],
+        "Justice:Trial-Hearing": [
+            "Adjudicator",
+            "Defendant",
+            "Place",
+            "Prosecutor"
+        ],
+        "Justice:Convict": [
+            "Adjudicator",
+            "Defendant",
+            "Place"
+        ],
+        "Justice:Pardon": [
+            "Adjudicator",
+            "Defendant",
+            "Place"
+        ],
+        "Business:End-Org": [
+            "Org",
+            "Place"
+        ],
+        "Justice:Execute": [
+            "Place",
+            "Agent",
+            "Person"
+        ],
+        "Justice:Extradite": [
+            "Origin",
+            "Destination",
+            "Agent",
+            "Person"
+        ],
+        "Personnel:Nominate": [
+            "Agent",
+            "Person"
+        ],
+        "Business:Merge-Org": [
+            "Org"
+        ],
+        "Justice:Acquit": [
+            "Adjudicator",
+            "Defendant"
+        ]
+    }
+}

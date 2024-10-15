@@ -1,0 +1,109 @@
+{
+    "relation_entity": {
+        "ORG-AFF": [
+            "GPE",
+            "PER",
+            "ORG"
+        ],
+        "ART": [
+            "FAC",
+            "VEH",
+            "WEA",
+            "PER",
+            "ORG",
+            "GPE"
+        ],
+        "r_ART": [
+            "FAC",
+            "VEH",
+            "WEA",
+            "PER",
+            "ORG",
+            "GPE"
+        ],
+        "r_PART-WHOLE": [
+            "FAC",
+            "VEH",
+            "WEA",
+            "LOC",
+            "PER",
+            "ORG",
+            "GPE"
+        ],
+        "r_ORG-AFF": [
+            "GPE",
+            "PER",
+            "ORG"
+        ],
+        "PHYS": [
+            "FAC",
+            "VEH",
+            "LOC",
+            "PER",
+            "ORG",
+            "GPE"
+        ],
+        "GEN-AFF": [
+            "GPE",
+            "PER",
+            "LOC",
+            "ORG"
+        ],
+        "PER-SOC": [
+            "PER",
+            "ORG"
+        ],
+        "PART-WHOLE": [
+            "FAC",
+            "VEH",
+            "WEA",
+            "LOC",
+            "PER",
+            "ORG",
+            "GPE"
+        ],
+        "r_PHYS": [
+            "LOC",
+            "PER",
+            "GPE",
+            "FAC"
+        ],
+        "r_GEN-AFF": [
+            "FAC",
+            "PER",
+            "LOC",
+            "ORG",
+            "GPE"
+        ],
+        "r_PER-SOC": [
+            "PER"
+        ]
+    },
+    "event_role": {},
+    "role_entity": {},
+    "ner": [
+        "FAC",
+        "VEH",
+        "WEA",
+        "LOC",
+        "PER",
+        "ORG",
+        "GPE"
+    ],
+    "relation": [
+        "r_PHYS",
+        "ORG-AFF",
+        "r_GEN-AFF",
+        "PART-WHOLE",
+        "GEN-AFF",
+        "r_PER-SOC",
+        "ART",
+        "r_PART-WHOLE",
+        "PHYS",
+        "PER-SOC",
+        "r_ART",
+        "r_ORG-AFF"
+    ],
+    "event": [],
+    "role": []
+}

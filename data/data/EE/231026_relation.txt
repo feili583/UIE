@@ -1,0 +1,47 @@
+nohup: 忽略输入
+ace_relation
+ner_tag: 29006 7
+relation_tag: 4664 18
+event_tags: 0 0
+role_tags: 0 0
+all_tags: 33670 25 {'ORG-AFF.Founder', 'VEH', 'ORG-AFF.Ownership', 'PHYS.Located', 'ORG-AFF.Sports-Affiliation', 'PER', 'GEN-AFF.Citizen-Resident-Religion-Ethnicity', 'ORG-AFF.Membership', 'FAC', 'LOC', 'PART-WHOLE.Artifact', 'GEN-AFF.Org-Location', 'WEA', 'GPE', 'ORG', 'PHYS.Near', 'ORG-AFF.Investor-Shareholder', 'ORG-AFF.Student-Alum', 'ART.User-Owner-Inventor-Manufacturer', 'PER-SOC.Business', 'ORG-AFF.Employment', 'PER-SOC.Family', 'PART-WHOLE.Subsidiary', 'PER-SOC.Lasting-Personal', 'PART-WHOLE.Geographical'}
+25
+0 set()
+ner_tag: 2451 7
+relation_tag: 560 16
+event_tags: 0 0
+role_tags: 0 0
+all_tags: 3011 23 {'ORG-AFF.Founder', 'VEH', 'PHYS.Located', 'PER', 'GEN-AFF.Citizen-Resident-Religion-Ethnicity', 'ORG-AFF.Membership', 'FAC', 'LOC', 'PART-WHOLE.Artifact', 'GEN-AFF.Org-Location', 'WEA', 'GPE', 'ORG', 'PHYS.Near', 'ORG-AFF.Investor-Shareholder', 'ORG-AFF.Student-Alum', 'ART.User-Owner-Inventor-Manufacturer', 'PER-SOC.Business', 'ORG-AFF.Employment', 'PER-SOC.Family', 'PART-WHOLE.Subsidiary', 'PER-SOC.Lasting-Personal', 'PART-WHOLE.Geographical'}
+23
+0 set()
+ner_tag: 3017 7
+relation_tag: 636 17
+event_tags: 0 0
+role_tags: 0 0
+all_tags: 3653 24 {'ORG-AFF.Founder', 'VEH', 'ORG-AFF.Ownership', 'PHYS.Located', 'PER', 'GEN-AFF.Citizen-Resident-Religion-Ethnicity', 'ORG-AFF.Membership', 'FAC', 'LOC', 'PART-WHOLE.Artifact', 'GEN-AFF.Org-Location', 'WEA', 'GPE', 'ORG', 'PHYS.Near', 'ORG-AFF.Investor-Shareholder', 'ORG-AFF.Student-Alum', 'ART.User-Owner-Inventor-Manufacturer', 'PER-SOC.Business', 'ORG-AFF.Employment', 'PER-SOC.Family', 'PART-WHOLE.Subsidiary', 'PER-SOC.Lasting-Personal', 'PART-WHOLE.Geographical'}
+24
+0 set()
+ace_add_relation
+69
+19216 676 901
+ner_tag: 47554 44
+relation_tag: 7159 18
+event_tags: 4419 33
+role_tags: 6607 22
+all_tags: 65739 {'Religious', 'Nation', 'GEN-AFF:Org-Location', 'Path', 'PHYS:Near', 'Subarea-Vehicle', 'Population-Center', 'Individual', 'Region-International', 'Plant', 'Shooting', 'ORG-AFF:Founder', 'PART-WHOLE:Artifact', 'ORG-AFF:Employment', 'PER-SOC:Lasting-Personal', 'Water', 'PER-SOC:Business', 'ORG-AFF:Investor-Shareholder', 'Media', 'ORG-AFF:Membership', 'Underspecified', 'Exploding', 'Address', 'Region-General', 'GPE-Cluster', 'Air', 'PART-WHOLE:Geographical', 'Land-Region-Natural', 'GEN-AFF:Citizen-Resident-Religion-Ethnicity', 'State-or-Province', 'Sharp', 'Entertainment', 'Nuclear', 'Group', 'Land', 'Chemical', 'PART-WHOLE:Subsidiary', 'Water-Body', 'County-or-District', 'PER-SOC:Family', 'Boundary', 'Sports', 'ART:User-Owner-Inventor-Manufacturer', 'ORG-AFF:Sports-Affiliation', 'Blunt', 'Airport', 'Building-Grounds', 'Educational', 'Commercial', 'PHYS:Located', 'Subarea-Facility', 'Government', 'Special', 'Indeterminate', 'ORG-AFF:Ownership', 'Non-Governmental', 'Medical-Science', 'Biological', 'Continent', 'ORG-AFF:Student-Alum', 'Celestial', 'Projectile'}
+117
+0 set()
+ner_tag: 3673 42
+relation_tag: 802 17
+event_tags: 424 31
+role_tags: 689 21
+all_tags: 5588 {'Religious', 'Nation', 'GEN-AFF:Org-Location', 'Path', 'PHYS:Near', 'Subarea-Vehicle', 'Population-Center', 'Individual', 'Region-International', 'Plant', 'Shooting', 'ORG-AFF:Founder', 'PART-WHOLE:Artifact', 'ORG-AFF:Employment', 'PER-SOC:Lasting-Personal', 'Water', 'PER-SOC:Business', 'ORG-AFF:Investor-Shareholder', 'Media', 'ORG-AFF:Membership', 'Underspecified', 'Exploding', 'Region-General', 'GPE-Cluster', 'Air', 'PART-WHOLE:Geographical', 'Land-Region-Natural', 'GEN-AFF:Citizen-Resident-Religion-Ethnicity', 'State-or-Province', 'Nuclear', 'Entertainment', 'Sharp', 'Group', 'Land', 'Chemical', 'PART-WHOLE:Subsidiary', 'Water-Body', 'County-or-District', 'PER-SOC:Family', 'Boundary', 'Sports', 'ART:User-Owner-Inventor-Manufacturer', 'Airport', 'Building-Grounds', 'Educational', 'Commercial', 'PHYS:Located', 'Subarea-Facility', 'Government', 'Special', 'Indeterminate', 'ORG-AFF:Ownership', 'Non-Governmental', 'Medical-Science', 'Biological', 'Continent', 'ORG-AFF:Student-Alum', 'Celestial', 'Projectile'}
+111
+0 set()
+ner_tag: 3423 41
+relation_tag: 728 16
+event_tags: 468 22
+role_tags: 759 22
+all_tags: 5378 {'Religious', 'Nation', 'GEN-AFF:Org-Location', 'Path', 'PHYS:Near', 'Subarea-Vehicle', 'Population-Center', 'Individual', 'Region-International', 'Plant', 'Shooting', 'PART-WHOLE:Artifact', 'ORG-AFF:Founder', 'ORG-AFF:Employment', 'PER-SOC:Lasting-Personal', 'Water', 'PER-SOC:Business', 'ORG-AFF:Investor-Shareholder', 'Media', 'ORG-AFF:Membership', 'Exploding', 'Underspecified', 'Address', 'Region-General', 'GPE-Cluster', 'Air', 'PART-WHOLE:Geographical', 'Land-Region-Natural', 'GEN-AFF:Citizen-Resident-Religion-Ethnicity', 'State-or-Province', 'Entertainment', 'Nuclear', 'Group', 'Land', 'Chemical', 'PART-WHOLE:Subsidiary', 'Water-Body', 'County-or-District', 'PER-SOC:Family', 'Boundary', 'Sports', 'ART:User-Owner-Inventor-Manufacturer', 'Airport', 'Building-Grounds', 'Educational', 'Commercial', 'PHYS:Located', 'Subarea-Facility', 'Government', 'Special', 'Indeterminate', 'Non-Governmental', 'Biological', 'Continent', 'ORG-AFF:Student-Alum', 'Celestial', 'Projectile'}
+101
+0 set()

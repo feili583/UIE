@@ -1,0 +1,47 @@
+nohup: 忽略输入
+ace_event
+ner_tag: 29006 7
+relation_tag: 0 0
+event_tags: 4202 33
+role_tags: 4859 22
+all_tags: 38067 62 {'Justice.Sentence', 'Agent', 'Attacker', 'Personnel.Nominate', 'Transaction.Transfer-Money', 'Justice.Sue', 'Life.Be-Born', 'Target', 'Seller', 'FAC', 'Instrument', 'Justice.Arrest-Jail', 'Life.Injure', 'Prosecutor', 'Life.Marry', 'Life.Die', 'Personnel.Elect', 'Justice.Fine', 'Vehicle', 'Destination', 'Beneficiary', 'Movement.Transport', 'WEA', 'Business.Merge-Org', 'Justice.Convict', 'Plaintiff', 'Origin', 'LOC', 'Contact.Meet', 'Business.Declare-Bankruptcy', 'Recipient', 'Business.End-Org', 'Contact.Phone-Write', 'Justice.Extradite', 'Adjudicator', 'Life.Divorce', 'Justice.Execute', 'Transaction.Transfer-Ownership', 'Justice.Appeal', 'Defendant', 'Justice.Charge-Indict', 'VEH', 'PER', 'Artifact', 'Victim', 'Entity', 'Conflict.Attack', 'Justice.Release-Parole', 'Justice.Acquit', 'Personnel.End-Position', 'Org', 'Conflict.Demonstrate', 'Place', 'Buyer', 'Personnel.Start-Position', 'ORG', 'Person', 'Business.Start-Org', 'Giver', 'Justice.Trial-Hearing', 'Justice.Pardon', 'GPE'}
+62
+0 set()
+ner_tag: 2451 7
+relation_tag: 0 0
+event_tags: 450 21
+role_tags: 605 22
+all_tags: 3506 50 {'Justice.Sentence', 'Agent', 'Attacker', 'Transaction.Transfer-Money', 'Justice.Sue', 'Seller', 'Target', 'FAC', 'Instrument', 'Justice.Arrest-Jail', 'Prosecutor', 'Life.Die', 'Personnel.Elect', 'Destination', 'Vehicle', 'Beneficiary', 'Movement.Transport', 'WEA', 'Justice.Convict', 'Plaintiff', 'Origin', 'LOC', 'Contact.Meet', 'Business.Declare-Bankruptcy', 'Recipient', 'Contact.Phone-Write', 'Adjudicator', 'Justice.Execute', 'Transaction.Transfer-Ownership', 'Defendant', 'Justice.Charge-Indict', 'ORG', 'VEH', 'PER', 'Artifact', 'Victim', 'Entity', 'Conflict.Attack', 'Personnel.End-Position', 'Org', 'Conflict.Demonstrate', 'Buyer', 'Personnel.Start-Position', 'Life.Injure', 'Person', 'Place', 'Giver', 'Justice.Trial-Hearing', 'Justice.Appeal', 'GPE'}
+50
+0 set()
+ner_tag: 3017 7
+relation_tag: 0 0
+event_tags: 403 31
+role_tags: 576 20
+all_tags: 3996 58 {'Justice.Sentence', 'Agent', 'Attacker', 'Personnel.Nominate', 'Transaction.Transfer-Money', 'Justice.Sue', 'Life.Be-Born', 'Target', 'Seller', 'FAC', 'Instrument', 'Justice.Arrest-Jail', 'Life.Injure', 'Life.Marry', 'Life.Die', 'Personnel.Elect', 'Justice.Fine', 'Destination', 'Beneficiary', 'Movement.Transport', 'WEA', 'Justice.Convict', 'Plaintiff', 'Origin', 'LOC', 'Contact.Meet', 'Business.Declare-Bankruptcy', 'Recipient', 'Business.End-Org', 'Contact.Phone-Write', 'Justice.Extradite', 'Adjudicator', 'Life.Divorce', 'Justice.Execute', 'Transaction.Transfer-Ownership', 'Defendant', 'Justice.Charge-Indict', 'VEH', 'PER', 'Artifact', 'Victim', 'Entity', 'Conflict.Attack', 'Justice.Release-Parole', 'Justice.Acquit', 'Personnel.End-Position', 'Org', 'Conflict.Demonstrate', 'Place', 'Buyer', 'Personnel.Start-Position', 'ORG', 'Person', 'Business.Start-Org', 'Giver', 'Justice.Trial-Hearing', 'Justice.Appeal', 'GPE'}
+58
+0 set()
+ace_add_event
+69
+19216 676 901
+ner_tag: 47554 44
+relation_tag: 7159 18
+event_tags: 4419 33
+role_tags: 6607 22
+all_tags: 65739 {'Agent', 'Attacker', 'Seller', 'Justice:Sue', 'Target', 'Justice:Arrest-Jail', 'Personnel:Start-Position', 'Instrument', 'Prosecutor', 'Contact:Phone-Write', 'Life:Marry', 'Life:Be-Born', 'Business:Merge-Org', 'Justice:Fine', 'Life:Die', 'Justice:Extradite', 'Destination', 'Vehicle', 'Conflict:Attack', 'Beneficiary', 'Transaction:Transfer-Money', 'Business:Start-Org', 'Justice:Charge-Indict', 'Plaintiff', 'Origin', 'Recipient', 'Personnel:Elect', 'Justice:Acquit', 'Adjudicator', 'Justice:Sentence', 'Justice:Appeal', 'Conflict:Demonstrate', 'Business:End-Org', 'Defendant', 'Transaction:Transfer-Ownership', 'Movement:Transport', 'Justice:Execute', 'Life:Injure', 'Personnel:End-Position', 'Justice:Trial-Hearing', 'Justice:Convict', 'Artifact', 'Victim', 'Entity', 'Personnel:Nominate', 'Business:Declare-Bankruptcy', 'Org', 'Buyer', 'Life:Divorce', 'Contact:Meet', 'Justice:Pardon', 'Person', 'Place', 'Giver', 'Justice:Release-Parole'}
+117
+0 set()
+ner_tag: 3673 42
+relation_tag: 802 17
+event_tags: 424 31
+role_tags: 689 21
+all_tags: 5588 {'Agent', 'Attacker', 'Seller', 'Justice:Sue', 'Target', 'Justice:Arrest-Jail', 'Personnel:Start-Position', 'Instrument', 'Contact:Phone-Write', 'Life:Marry', 'Life:Be-Born', 'Justice:Fine', 'Life:Die', 'Justice:Extradite', 'Destination', 'Beneficiary', 'Conflict:Attack', 'Vehicle', 'Transaction:Transfer-Money', 'Business:Start-Org', 'Justice:Charge-Indict', 'Plaintiff', 'Origin', 'Recipient', 'Personnel:Elect', 'Justice:Acquit', 'Adjudicator', 'Justice:Sentence', 'Justice:Appeal', 'Conflict:Demonstrate', 'Business:End-Org', 'Defendant', 'Transaction:Transfer-Ownership', 'Movement:Transport', 'Justice:Execute', 'Life:Injure', 'Personnel:End-Position', 'Justice:Trial-Hearing', 'Justice:Convict', 'Artifact', 'Victim', 'Entity', 'Personnel:Nominate', 'Business:Declare-Bankruptcy', 'Org', 'Buyer', 'Life:Divorce', 'Contact:Meet', 'Giver', 'Person', 'Place', 'Justice:Release-Parole'}
+111
+0 set()
+ner_tag: 3423 41
+relation_tag: 728 16
+event_tags: 468 22
+role_tags: 759 22
+all_tags: 5378 {'Agent', 'Attacker', 'Seller', 'Justice:Sue', 'Target', 'Justice:Arrest-Jail', 'Personnel:Start-Position', 'Instrument', 'Prosecutor', 'Contact:Phone-Write', 'Life:Die', 'Destination', 'Vehicle', 'Conflict:Attack', 'Beneficiary', 'Transaction:Transfer-Money', 'Justice:Charge-Indict', 'Plaintiff', 'Origin', 'Recipient', 'Personnel:Elect', 'Adjudicator', 'Justice:Sentence', 'Justice:Appeal', 'Business:End-Org', 'Conflict:Demonstrate', 'Defendant', 'Transaction:Transfer-Ownership', 'Movement:Transport', 'Justice:Execute', 'Life:Injure', 'Personnel:End-Position', 'Justice:Trial-Hearing', 'Justice:Convict', 'Artifact', 'Victim', 'Entity', 'Business:Declare-Bankruptcy', 'Org', 'Buyer', 'Contact:Meet', 'Person', 'Giver', 'Place'}
+101
+0 set()

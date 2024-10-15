@@ -1,0 +1,4 @@
+( Although I would think the Israeli media , who were blamed for hushing up Haza ' s cause of death , would take a unique pleasure in making the most of Arafat ' s , if all this was true .)
+2,3 Individual|6,7 Nation|7,8 Media|9,10 Media|15,16 Individual|32,33 Individual|6,8 GEN-AFF:Org-Location|20,21 Life:Die|15,21 Victim|32,35 Life:Die|32,33 Victim|32,34 Victim|32,35 Victim
+2,3 Individual|6,7 Nation|7,8 Media|9,10 Media|15,16 Individual|32,33 Individual|6,8 GEN-AFF:Org-Location|20,21 Life:Die|15,21 Victim|32,35 Life:Die|32,35 Victim
+

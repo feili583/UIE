@@ -1,0 +1,21 @@
+nohup: 忽略输入
+ace
+ner_tag: 29006 7
+relation_tag: 4664 18
+event_tags: 4202 33
+role_tags: 4859 22
+all_tags: 42731 80 {'Buyer', 'Life.Injure', 'PHYS.Located', 'Giver', 'Conflict.Demonstrate', 'Defendant', 'ORG-AFF.Employment', 'Justice.Appeal', 'Personnel.End-Position', 'PART-WHOLE.Subsidiary', 'PER-SOC.Lasting-Personal', 'Justice.Execute', 'Attacker', 'Contact.Meet', 'PER-SOC.Family', 'Victim', 'Person', 'ORG-AFF.Membership', 'Plaintiff', 'Recipient', 'Transaction.Transfer-Money', 'Instrument', 'Destination', 'Justice.Sentence', 'Seller', 'Contact.Phone-Write', 'Life.Die', 'Justice.Extradite', 'Org', 'Conflict.Attack', 'Origin', 'Beneficiary', 'Justice.Trial-Hearing', 'Life.Marry', 'Target', 'GPE', 'Justice.Sue', 'Justice.Release-Parole', 'Business.End-Org', 'PHYS.Near', 'Artifact', 'Justice.Fine', 'Business.Merge-Org', 'WEA', 'Life.Be-Born', 'VEH', 'Justice.Charge-Indict', 'ORG-AFF.Sports-Affiliation', 'ART.User-Owner-Inventor-Manufacturer', 'PART-WHOLE.Artifact', 'Justice.Pardon', 'Agent', 'PER-SOC.Business', 'Personnel.Nominate', 'LOC', 'Justice.Acquit', 'PART-WHOLE.Geographical', 'ORG', 'Movement.Transport', 'ORG-AFF.Founder', 'GEN-AFF.Org-Location', 'Transaction.Transfer-Ownership', 'Personnel.Start-Position', 'Place', 'FAC', 'Life.Divorce', 'Justice.Convict', 'Justice.Arrest-Jail', 'PER', 'Vehicle', 'ORG-AFF.Investor-Shareholder', 'ORG-AFF.Student-Alum', 'Business.Declare-Bankruptcy', 'Entity', 'Personnel.Elect', 'Adjudicator', 'Prosecutor', 'Business.Start-Org', 'ORG-AFF.Ownership', 'GEN-AFF.Citizen-Resident-Religion-Ethnicity'}
+80
+0 set()
+17172
+
+ace+
+69
+19216 676 901
+ner_tag: 47554 44
+relation_tag: 7159 18
+event_tags: 4419 33
+role_tags: 6607 22
+all_tags: 65739 {'Buyer', 'Life:Divorce', 'PER-SOC:Lasting-Personal', 'Subarea-Facility', 'Personnel:End-Position', 'Educational', 'Giver', 'Defendant', 'Conflict:Demonstrate', 'Address', 'PHYS:Near', 'GEN-AFF:Org-Location', 'Medical-Science', 'ORG-AFF:Investor-Shareholder', 'Justice:Sentence', 'Boundary', 'Indeterminate', 'Contact:Meet', 'Life:Die', 'Underspecified', 'Shooting', 'Commercial', 'PART-WHOLE:Subsidiary', 'Attacker', 'Air', 'Victim', 'Person', 'PER-SOC:Business', 'Plaintiff', 'Justice:Release-Parole', 'Recipient', 'GPE-Cluster', 'Personnel:Start-Position', 'Subarea-Vehicle', 'Justice:Pardon', 'Instrument', 'Contact:Phone-Write', 'Destination', 'ORG-AFF:Ownership', 'Seller', 'Org', 'Continent', 'Origin', 'Justice:Execute', 'Life:Be-Born', 'Non-Governmental', 'Beneficiary', 'County-or-District', 'ORG-AFF:Membership', 'Target', 'Justice:Extradite', 'PER-SOC:Family', 'Path', 'Life:Injure', 'PART-WHOLE:Artifact', 'Water-Body', 'ORG-AFF:Employment', 'ART:User-Owner-Inventor-Manufacturer', 'Justice:Sue', 'Conflict:Attack', 'Plant', 'Individual', 'Artifact', 'Land-Region-Natural', 'Entertainment', 'Building-Grounds', 'Justice:Arrest-Jail', 'Blunt', 'Biological', 'Nuclear', 'Business:End-Org', 'Movement:Transport', 'ORG-AFF:Student-Alum', 'Region-General', 'Justice:Convict', 'Region-International', 'Sharp', 'Nation', 'Agent', 'Celestial', 'Special', 'State-or-Province', 'Media', 'Chemical', 'Justice:Charge-Indict', 'Exploding', 'Transaction:Transfer-Ownership', 'Airport', 'Transaction:Transfer-Money', 'Business:Declare-Bankruptcy', 'Justice:Trial-Hearing', 'Land', 'Justice:Fine', 'Place', 'ORG-AFF:Founder', 'Sports', 'Water', 'Vehicle', 'Projectile', 'PHYS:Located', 'Justice:Appeal', 'PART-WHOLE:Geographical', 'Religious', 'Personnel:Nominate', 'Life:Marry', 'Government', 'Business:Start-Org', 'Justice:Acquit', 'Entity', 'Population-Center', 'GEN-AFF:Citizen-Resident-Religion-Ethnicity', 'Adjudicator', 'Prosecutor', 'ORG-AFF:Sports-Affiliation', 'Personnel:Elect', 'Business:Merge-Org', 'Group'}
+117
+0 set()
