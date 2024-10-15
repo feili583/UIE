@@ -36,11 +36,12 @@ class PartialPCFG(RobertaPreTrainedModel):
         if (self.use_crf is False): assert (config.latent_label_size == 1)
 
         self.bert = BertModel(config)
-        # self.tokenizer=BertTokenizer.from_pretrained('./bert-base-cased')
-        # self.mlm = BertForMaskedLM.from_pretrained('./bert-base-cased')
+        self.tokenizer=BertTokenizer.from_pretrained('./bert-base-cased')
+        self.mlm = BertForMaskedLM.from_pretrained('./bert-base-cased')
         # self.bert = RobertaModel(config)
-        self.tokenizer = RobertaTokenizer.from_pretrained('./roberta-large')
-        self.mlm = RobertaForMaskedLM.from_pretrained('./roberta-large')
+        # self.bert = RobertaModel.from_pretrained('./roberta-large')
+        # self.tokenizer = RobertaTokenizer.from_pretrained('./roberta-large')
+        # self.mlm = RobertaForMaskedLM.from_pretrained('./roberta-large')
         self.dropout = nn.Dropout(config.hidden_dropout_prob)
 
         if (config.parser_type == 'bilinear'):
@@ -378,13 +379,13 @@ class PartialPCFG(RobertaPreTrainedModel):
         inspect = {}
         label_size = self.label_size
 
-        # outputs_bert = self.bert(input_ids, position_ids=None, token_type_ids=token_type_ids,
-        #                     attention_mask=attention_mask)
+        outputs_bert = self.bert(input_ids, position_ids=None, token_type_ids=token_type_ids,
+                            attention_mask=attention_mask)
 
-        # sequence_output_bert = outputs_bert[0]
-        outputs_bert = self.mlm(input_ids, position_ids=None, token_type_ids=token_type_ids,
-                            attention_mask=attention_mask, output_hidden_states=True)
-        sequence_output_bert = outputs_bert.hidden_states[-1]
+        sequence_output_bert = outputs_bert[0]
+        # outputs_bert = self.mlm(input_ids, position_ids=None, token_type_ids=token_type_ids,
+        #                     attention_mask=attention_mask, output_hidden_states=True)
+        # sequence_output_bert = outputs_bert.hidden_states[-1]
         batch_size, seq_len = input_ids.size()
         mask_token_id = self.tokenizer.mask_token_id
 
@@ -838,13 +839,13 @@ class PartialPCFG(RobertaPreTrainedModel):
         """
         label_size = self.label_size
 
-        # outputs_bert = self.mlm(input_ids, position_ids=None, token_type_ids=token_type_ids,
-        #                     attention_mask=attention_mask)
+        outputs_bert = self.bert(input_ids, position_ids=None, token_type_ids=token_type_ids,
+                            attention_mask=attention_mask)
 
-        # sequence_output_bert = outputs_bert[0]
-        outputs_bert = self.mlm(input_ids, position_ids=None, token_type_ids=token_type_ids,
-                            attention_mask=attention_mask, output_hidden_states=True)
-        sequence_output_bert = outputs_bert.hidden_states[-1]
+        sequence_output_bert = outputs_bert[0]
+        # outputs_bert = self.mlm(input_ids, position_ids=None, token_type_ids=token_type_ids,
+        #                     attention_mask=attention_mask, output_hidden_states=True)
+        # sequence_output_bert = outputs_bert.hidden_states[-1]
 
         batch_size, seq_len = input_ids.size()
         mask_token_id = self.tokenizer.mask_token_id
