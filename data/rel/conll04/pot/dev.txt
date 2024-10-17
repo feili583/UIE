@@ -1,0 +1,924 @@
+John Wilkes Booth , who assassinated President Lincoln , was an actor .
+0,3 people|6,8 people|0,7 kill|0,8 kill|1,7 kill|1,8 kill|2,7 kill|2,8 kill
+0,3 people|6,8 people|0,8 kill
+
+The opera company performed at the Palace of Fine Arts , in San Francisco , on June 30 and July 1-2 , said Kevin O 'Brien , a spokesman for the theater.
+6,10 location|12,14 location|16,18 other|19,22 other|23,26 people|6,13 located-in|6,14 located-in|7,13 located-in|7,14 located-in|8,13 located-in|8,14 located-in|9,13 located-in|9,14 located-in
+6,10 location|12,14 location|16,18 other|19,22 other|23,26 people|6,14 located-in
+
+In the field of mechanics , Wang Ziqiang at the Institute of Mechanics has made considerable headway in the area of elastoplastic crack mechanics .
+6,8 people|10,13 organization|6,11 work-for|6,12 work-for|6,13 work-for|7,11 work-for|7,12 work-for|7,13 work-for
+6,8 people|10,13 organization|6,13 work-for
+
+Sun Hung Kai Properties , a Hong Kong construction firm with a 27 percent share ;
+0,4 organization|6,8 location|12,14 other|0,7 organization-in|0,8 organization-in|1,7 organization-in|1,8 organization-in|2,7 organization-in|2,8 organization-in|3,7 organization-in|3,8 organization-in
+0,4 organization|6,8 location|12,14 other|0,8 organization-in
+
+Marie Magdefrau Ferraro , 50 , of Bethany , Conn. , was shot to death Thursday when two bandits armed with assault rifles emerged from nearby bushes and began firing at a van carrying a Connecticut Audubon Society wildlife wild tour group .
+0,3 people|7,8 location|9,10 location|35,39 organization|0,8 live-in|1,8 live-in|2,8 live-in|0,10 live-in|1,10 live-in|2,10 live-in|7,10 located-in
+0,3 people|7,8 location|9,10 location|35,39 organization|0,8 live-in|0,10 live-in|7,10 located-in
+
+Ten oil workers were missing off Morgan City , La. , after their rig capsized while heading inland Monday to escape the storm.
+6,8 location|9,10 location|6,10 located-in|7,10 located-in
+6,8 location|9,10 location|6,10 located-in
+
+Lightning ignited a firestorm that charred 10 , 000 acres in central Idaho , including much of the small resort town of Lowman , about 70 miles northeast of Boise.
+6,10 other|12,13 location|22,23 location|25,27 other|29,30 location|12,23 r_located-in
+6,10 other|12,13 location|22,23 location|25,27 other|29,30 location|12,23 r_located-in
+
+" It ( Arrow ) is not practical in the short term , " says former Air Force commander Avihu Bin-Nun .
+16,18 organization|19,21 people|16,20 r_work-for|16,21 r_work-for|17,20 r_work-for|17,21 r_work-for
+16,18 organization|19,21 people|16,21 r_work-for
+
+The three reactors , all at the Savannah River Plant , in Aiken , S.C. , have been shut down since last April undergoing changes to make them safer .
+7,10 location|12,13 location|14,15 location|7,13 located-in|8,13 located-in|9,13 located-in|7,15 located-in|8,15 located-in|9,15 located-in|12,15 located-in
+7,10 location|12,13 location|14,15 location|7,13 located-in|7,15 located-in|12,15 located-in
+
+Composer Thomas is a native of Chisholm , Minn .
+1,2 people|6,7 location|8,10 location|1,7 live-in|1,9 live-in|1,10 live-in|6,9 located-in|6,10 located-in
+1,2 people|6,7 location|8,10 location|1,7 live-in|1,10 live-in|6,10 located-in
+
+Illinois Gov. James Thompson signed legislation last month scrapping Chicago 's central school board next July , to be replaced by parent-run councils empowered to set budgets and hire and fire principals .
+0,1 location|2,4 people|9,10 location|0,3 r_live-in|0,4 r_live-in
+0,1 location|2,4 people|9,10 location|0,4 r_live-in
+
+During the 10-hour rescue , diver Brian Michaud of Millinocket hooked the men to harnesses , and rescuers dragged them to the surface with winches .
+6,8 people|9,10 location|6,10 live-in|7,10 live-in
+6,8 people|9,10 location|6,10 live-in
+
+The Warren Commission found Oswald acted alone in killing Kennedy .
+1,3 organization|4,5 people|9,10 people|4,10 kill
+1,3 organization|4,5 people|9,10 people|4,10 kill
+
+( By Yang Jianbai ( 2799 1017 4101 ) of the Economic Research
+2,4 people|11,13 organization|2,12 work-for|2,13 work-for|3,12 work-for|3,13 work-for
+2,4 people|11,13 organization|2,13 work-for
+
+` ` He was going pretty fast , wasn 't he ? ' ' said Daniel Urquhart , 8 , of Aumsville , whose slug crept to the championship.
+15,17 people|21,22 location|15,22 live-in|16,22 live-in
+15,17 people|21,22 location|15,22 live-in
+
+Kovacevic , a Serb , has come under fire from Serbian politicians and the republic 's press since the U.S. Congress last month passed two resolutions claiming there were human rights violations in the strife-torn southern province of Kosovo.
+0,1 people|3,4 other|19,20 location|20,21 organization|38,39 location|19,21 r_organization-in
+0,1 people|3,4 other|19,20 location|20,21 organization|38,39 location|19,21 r_organization-in
+
+Martin Luther King III , a son of the slain civil rights leader , said the execution of King assassin James Earl Ray ` ` would not bring my father back. ' '
+0,4 people|20,23 people|0,21 r_kill|0,22 r_kill|0,23 r_kill|1,21 r_kill|1,22 r_kill|1,23 r_kill|2,21 r_kill|2,22 r_kill|2,23 r_kill|3,21 r_kill|3,22 r_kill|3,23 r_kill
+0,4 people|20,23 people|0,23 r_kill
+
+On this date : In 1833 , Benjamin Harrison , the 23rd President of the United States , was born in North Bend , Ohio .
+7,9 people|15,17 location|21,25 location|7,22 live-in|7,23 live-in|7,24 live-in|7,25 live-in|8,22 live-in|8,23 live-in|8,24 live-in|8,25 live-in
+7,9 people|15,17 location|21,25 location|7,25 live-in
+
+The book said Khrushchev 's order to ignore the blockade was disclosed in a largely unknown work by dissident Soviet historian Roy Medvedev .
+3,4 people|19,20 location|21,23 people|3,20 live-in|19,22 r_live-in|19,23 r_live-in
+3,4 people|19,20 location|21,23 people|3,20 live-in|19,23 r_live-in
+
+EDITOR 'S NOTE : Walter R. Mears , vice and columnist for The Associated Press , has reported on Washington and national politics for more than 25 years .
+4,7 people|12,15 organization|19,20 location|4,13 work-for|4,14 work-for|4,15 work-for|5,13 work-for|5,14 work-for|5,15 work-for|6,13 work-for|6,14 work-for|6,15 work-for
+4,7 people|12,15 organization|19,20 location|4,15 work-for
+
+` ` The Germans just tunneled like rabbits , ' ' said Gerald Przenislawski , who operates La Valette Underground Military Museum.
+3,4 other|12,14 people|17,22 organization|12,18 work-for|12,19 work-for|12,20 work-for|12,21 work-for|12,22 work-for|13,18 work-for|13,19 work-for|13,20 work-for|13,21 work-for|13,22 work-for
+3,4 other|12,14 people|17,22 organization|12,22 work-for
+
+` ` With South Carolina being Jesse Jackson 's home state , there was a very strong incentive in the black community. ' '
+3,5 location|6,8 people|3,7 r_live-in|3,8 r_live-in|4,7 r_live-in|4,8 r_live-in
+3,5 location|6,8 people|3,8 r_live-in
+
+Photo , Dueling Over a GunIt is a scene seared into the memories of Americans old enough to have watched it that November day in 1963 : Jack Ruby firing his .38-caliber Colt Cobra , above , at Lee Harvey Oswald , the man who had assassinated President John F. Kennedy two days earlier.
+0,1 other|2,3 other|5,6 other|22,23 other|27,29 people|32,34 other|38,41 people|47,51 people|27,39 kill|27,40 kill|27,41 kill|28,39 kill|28,40 kill|28,41 kill
+0,1 other|2,3 other|5,6 other|22,23 other|27,29 people|32,34 other|38,41 people|47,51 people|27,41 kill
+
+In a statement at the airport before his departure , Cetin said that Turkey welcomed this step taken by Bosnians and Croats and hoped that real peace comes to Bosnia-Herzegovina when Serbs join this process too .
+10,11 people|13,14 location|19,20 other|21,22 other|29,30 location|31,32 other|10,14 live-in
+10,11 people|13,14 location|19,20 other|21,22 other|29,30 location|31,32 other|10,14 live-in
+
+On Friday , U.S. Ambassador Vernon A. Walters displayed photographs of one Libyan jet showing shapes resembling missile pods on its wings and fuselage .
+3,4 location|5,8 people|3,6 r_live-in|3,7 r_live-in|3,8 r_live-in
+3,4 location|5,8 people|3,8 r_live-in
+
+Ms. Carpenter 's brother , retired National Football League placekicker Mark Moseley , was in the courtroom Wednesday and told reporters afterward , ` ` It 's been nine years of hell for myself and my family. ' '
+0,2 people|6,9 organization|10,12 people|28,30 other|6,11 r_work-for|6,12 r_work-for|7,11 r_work-for|7,12 r_work-for|8,11 r_work-for|8,12 r_work-for
+0,2 people|6,9 organization|10,12 people|28,30 other|6,12 r_work-for
+
+Hernandez Galicia 's allegedly corrupt Mexican Oil Workers Union controls more than half the lucrative drilling contracts issued by the state oil monopoly , Pemex .
+0,2 people|5,9 organization|24,25 organization|0,6 work-for|0,7 work-for|0,8 work-for|0,9 work-for|1,6 work-for|1,7 work-for|1,8 work-for|1,9 work-for
+0,2 people|5,9 organization|24,25 organization|0,9 work-for
+
+You 'll pass through Rolling Fork , where Muddy Waters was born , close to Greenville , home of Nelson Street 's funky strip of blues clubs , and into Clarksdale , at the intersection of Highway 61 and another major road in blues lore , U.S. Highway 49. ;
+4,6 location|8,10 people|15,16 location|19,21 location|30,31 location|36,37 other|46,48 other|4,9 r_live-in|4,10 r_live-in|5,9 r_live-in|5,10 r_live-in
+4,6 location|8,10 people|15,16 location|19,21 location|30,31 location|36,37 other|46,48 other|4,10 r_live-in
+
+` ` The Challenger accident marked a major change in the U.S. outlook and policies with respect to the flight of other than NASA astronauts , ' ' the National Aeronautics and Space Administration said in a policy statement .
+11,12 location|23,24 organization|29,34 organization|11,24 r_organization-in|11,30 r_organization-in|11,31 r_organization-in|11,32 r_organization-in|11,33 r_organization-in|11,34 r_organization-in
+11,12 location|23,24 organization|29,34 organization|11,24 r_organization-in|11,34 r_organization-in
+
+` ` It 's not going to make you a whole bunch of money , but that 's not why we 're doing it , ' ' said Phil Fuhrer , vice of Gannett New Media. 1-900-WEATHER offers callers the current weather and a three-day forecast , plus skiing and highway conditions in the winter and coastal reports during the summer.
+28,30 people|33,36 organization|28,34 work-for|28,35 work-for|28,36 work-for|29,34 work-for|29,35 work-for|29,36 work-for
+28,30 people|33,36 organization|28,36 work-for
+
+PA2904034294 Guatemala City Teleonce Television in Spanish 0400 GMT 26 Apr 94
+1,3 location|3,5 organization|7,9 other|9,12 other|1,4 r_organization-in|1,5 r_organization-in|2,4 r_organization-in|2,5 r_organization-in
+1,3 location|3,5 organization|7,9 other|9,12 other|1,5 r_organization-in
+
+DAYTON , Ohio ( AP )
+0,1 location|2,3 location|4,5 organization|0,3 located-in|0,5 r_organization-in|2,5 r_organization-in
+0,1 location|2,3 location|4,5 organization|0,3 located-in|0,5 r_organization-in|2,5 r_organization-in
+
+In 1865 , four people were hanged in Washington , D.C. , after being convicted of conspiring with John Wilkes Booth in the assassination of President Lincoln .
+8,11 location|18,21 people|25,27 people|18,26 kill|18,27 kill|19,26 kill|19,27 kill|20,26 kill|20,27 kill
+8,11 location|18,21 people|25,27 people|18,27 kill
+
+San Gabriel River Channel , Azusa , Calif. ;
+0,4 location|5,6 location|7,8 location|0,6 located-in|1,6 located-in|2,6 located-in|3,6 located-in|0,8 located-in|1,8 located-in|2,8 located-in|3,8 located-in|5,8 located-in
+0,4 location|5,6 location|7,8 location|0,6 located-in|0,8 located-in|5,8 located-in
+
+He said that the Phnom Penh government has worked out several incentives to attract foreign investment in Cambodia .
+4,7 organization|17,18 location|4,18 organization-in|5,18 organization-in|6,18 organization-in
+4,7 organization|17,18 location|4,18 organization-in
+
+Derwinski , a Republican from Chicago who served 24 years in Congress , publicly denied 1978 allegations that he leaked the information and refused to testify in the matter before a federal grand jury and the House Ethics Committee .
+0,1 people|5,6 location|8,10 other|11,12 organization|15,16 other|36,39 organization|0,6 live-in|0,12 work-for
+0,1 people|5,6 location|8,10 other|11,12 organization|15,16 other|36,39 organization|0,6 live-in|0,12 work-for
+
+BANGKOK , Thailand ( AP )
+0,1 location|2,3 location|4,5 organization|0,3 located-in|0,5 r_organization-in|2,5 r_organization-in
+0,1 location|2,3 location|4,5 organization|0,3 located-in|0,5 r_organization-in|2,5 r_organization-in
+
+( Text ) Police Major Pramot Pansakun , the commander of the Region 2 Border Patrol Police ( BPP ) , Khon Kaen , and Thai and American narcotics suppression officials accompanied by reporters , spent more than 2 hours climbing a high mountain to destroy a Hmong poppy field located along the border between Dan Sai District in Loei Province , Nakhon Thai District in Phitsanulok Province , and Lomsak District in Phetchabun Province .
+5,7 people|12,17 organization|21,23 people|55,58 location|59,61 location|62,65 location|66,68 location|70,72 location|73,75 location|5,13 work-for|5,14 work-for|5,15 work-for|5,16 work-for|5,17 work-for|6,13 work-for|6,14 work-for|6,15 work-for|6,16 work-for|6,17 work-for|55,60 located-in|55,61 located-in|56,60 located-in|56,61 located-in|57,60 located-in|57,61 located-in|62,67 located-in|62,68 located-in|63,67 located-in|63,68 located-in|64,67 located-in|64,68 located-in|70,74 located-in|70,75 located-in|71,74 located-in|71,75 located-in
+5,7 people|12,17 organization|21,23 people|55,58 location|59,61 location|62,65 location|66,68 location|70,72 location|73,75 location|5,17 work-for|55,61 located-in|62,68 located-in|70,75 located-in
+
+Further buying was linked to rumors that the Chilean copper company Codelco was considering shutting down its smelter at Chuquicamata , the world 's largest copper mine , due to persistent mechanical problems , said Fred Demler , metals economist with Drexel Burnham Lambert Inc. in New York .
+11,12 organization|19,20 location|35,37 people|41,45 organization|46,48 location|35,42 work-for|35,43 work-for|35,44 work-for|35,45 work-for|36,42 work-for|36,43 work-for|36,44 work-for|36,45 work-for|35,47 live-in|35,48 live-in|36,47 live-in|36,48 live-in|41,47 organization-in|41,48 organization-in|42,47 organization-in|42,48 organization-in|43,47 organization-in|43,48 organization-in|44,47 organization-in|44,48 organization-in
+11,12 organization|19,20 location|35,37 people|41,45 organization|46,48 location|35,45 work-for|35,48 live-in|41,48 organization-in
+
+An urgent call for international help to avert food shortages in Poland went out both from last month 's Western economic summit in Paris and from Monday 's meeting in Brussels of 24 concerned nations chaired by the European Community Commission.
+11,12 location|23,24 location|30,31 location|38,41 organization|30,39 r_organization-in|30,40 r_organization-in|30,41 r_organization-in
+11,12 location|23,24 location|30,31 location|38,41 organization|30,41 r_organization-in
+
+Cheek , 53 , is a former chief and charge in Addis Ababa , Ethiopia.
+0,1 people|11,13 location|14,15 location|11,15 located-in|12,15 located-in
+0,1 people|11,13 location|14,15 location|11,15 located-in
+
+In 1881 , President James A. Garfield was shot by Charles J. Guiteau , a disappointed office-seeker , at the Washington railroad station .
+3,7 people|10,13 people|20,21 location|3,11 r_kill|3,12 r_kill|3,13 r_kill|4,11 r_kill|4,12 r_kill|4,13 r_kill|5,11 r_kill|5,12 r_kill|5,13 r_kill|6,11 r_kill|6,12 r_kill|6,13 r_kill
+3,7 people|10,13 people|20,21 location|3,13 r_kill
+
+Middle-class Argentines , among the most affluent in Latin America at one time , are so strapped now that they are selling off heirlooms that had been in their families since the days when beef and grain made Argentina one of the world 's wealthiest nations.
+1,2 other|8,10 location|38,39 location|8,39 r_located-in|9,39 r_located-in
+1,2 other|8,10 location|38,39 location|8,39 r_located-in
+
+` ` I don 't think there are any good answers why , ' ' said Virginia Towle of Wallingford , a family friend.
+16,18 people|19,20 location|16,20 live-in|17,20 live-in
+16,18 people|19,20 location|16,20 live-in
+
+The meeting will be held at the request of the Soviet Union , which also plans direct talks with resistance leader Prince Norodom Sihanouk , said Sihanouk 's son and representative in Thailand , Prince Norodom Ranariddh .
+10,12 location|21,24 people|23,24 people|32,33 location|34,37 people|32,35 r_live-in|32,36 r_live-in|32,37 r_live-in
+10,12 location|21,24 people|23,24 people|32,33 location|34,37 people|32,37 r_live-in
+
+Hundreds of children and adults sporting cowboy boots and hats turned out Wednesday to watch as Winterset 's busiest street was named for John Wayne , the community 's most famous native son .
+12,13 other|16,17 location|23,25 people|16,24 r_live-in|16,25 r_live-in
+12,13 other|16,17 location|23,25 people|16,25 r_live-in
+
+River North 's nouvelle sensibilities also might be offended by the Ranch 's menu , which features items such as the ` ` Jesse James Steak ( A Steal ! ) , ' ' and the occasional ornery patron .
+0,2 location|11,12 organization|0,12 r_organization-in|1,12 r_organization-in
+0,2 location|11,12 organization|0,12 r_organization-in
+
+Police Find No Signs of Radiation Leak AU0202111694 Paris AFP in English 0107 GMT 2 Feb 94
+8,9 location|9,10 organization|12,14 other|14,17 other|8,10 r_organization-in
+8,9 location|9,10 organization|12,14 other|14,17 other|8,10 r_organization-in
+
+It was filmed on location in Tokyo and Kyoto and is a co-production of Children 's Television Worship and NHK network in Japan .
+6,7 location|8,9 location|14,18 organization|19,21 organization|22,23 location|6,23 located-in|8,23 located-in
+6,7 location|8,9 location|14,18 organization|19,21 organization|22,23 location|6,23 located-in|8,23 located-in
+
+The self-propelled rig Avco 5 with 14 people aboard was headed to shore early Monday when it capsized about 20 miles off the Louisiana coast , near Morgan City , Chevron spokesman Jonathan Lifa said.
+19,21 other|23,24 location|27,29 location|30,31 organization|32,34 people|30,33 r_work-for|30,34 r_work-for
+19,21 other|23,24 location|27,29 location|30,31 organization|32,34 people|30,34 r_work-for
+
+Sen. Jake Garn , R-Utah , flew on the shuttle in April 1985 and Rep. Bill Nelson , D-Fla. , was aboard in January 1986 , at the invitation of NASA 's administrator .
+1,3 people|12,13 other|15,17 people|24,25 other|30,31 organization|1,31 work-for|2,31 work-for|15,31 work-for|16,31 work-for
+1,3 people|12,13 other|15,17 people|24,25 other|30,31 organization|1,31 work-for|15,31 work-for
+
+Ten Soviet volunteers and their American counterparts plan to spend August in Washington building homes for the poor as a return favor for help in earthquake-devastated Soviet Armenia.
+1,2 location|12,13 location|1,2 location|27,28 location|1,28 r_located-in
+1,2 location|12,13 location|1,2 location|27,28 location|1,28 r_located-in
+
+Evaluating Juppe 's visit , Cetin said that the French Government was not displaying a disturbing stand toward Turkey and was very careful in not intervening in Turkey 's internal affairs .
+1,2 people|5,6 people|9,11 organization|18,19 location|18,19 location|1,10 work-for|1,11 work-for|5,19 live-in|5,19 live-in
+1,2 people|5,6 people|9,11 organization|18,19 location|18,19 location|1,11 work-for|5,19 live-in|5,19 live-in
+
+Jose Vicente Maldonado , the Ecuadoran minister of industry , commerce , and integration , said that the foreign of the Andean Group ( Colombia , Bolivia , Ecuador , Peru , and Venezuela ) , will study a new date for the summit .
+0,3 people|21,23 organization|24,25 location|26,27 location|28,29 location|30,31 location|33,34 location|21,25 organization-in|22,25 organization-in|21,27 organization-in|22,27 organization-in|21,29 organization-in|22,29 organization-in|21,31 organization-in|22,31 organization-in|21,34 organization-in|22,34 organization-in
+0,3 people|21,23 organization|24,25 location|26,27 location|28,29 location|30,31 location|33,34 location|21,25 organization-in|21,27 organization-in|21,29 organization-in|21,31 organization-in|21,34 organization-in
+
+Dole 's wife , Elizabeth , is a native of Salisbury , N.C .
+0,1 people|4,5 people|10,13 location|4,11 live-in|4,12 live-in|4,13 live-in
+0,1 people|4,5 people|10,13 location|4,13 live-in
+
+( Text ) Sofia , February 15 ( BTA ) -- Today the two main political forces in Bulgaria , the Bulgarian Socialist ( formerly Communist ) Party ( BSP ) and the Union of Democratic Forces ( SDS ) announced their stand on the possible airstrikes in Bosnia five days before the expiry of NATO 's ultimatum .
+3,4 location|5,7 other|8,9 organization|18,19 location|21,28 organization|29,30 organization|33,37 organization|38,39 organization|48,49 location|55,56 organization|3,9 r_organization-in|18,22 r_organization-in|18,23 r_organization-in|18,24 r_organization-in|18,25 r_organization-in|18,26 r_organization-in|18,27 r_organization-in|18,28 r_organization-in|18,30 r_organization-in|18,34 r_organization-in|18,35 r_organization-in|18,36 r_organization-in|18,37 r_organization-in|18,39 r_organization-in
+3,4 location|5,7 other|8,9 organization|18,19 location|21,28 organization|29,30 organization|33,37 organization|38,39 organization|48,49 location|55,56 organization|3,9 r_organization-in|18,28 r_organization-in|18,30 r_organization-in|18,37 r_organization-in|18,39 r_organization-in
+
+Starr , who served as counselor to Attorney William French Smith from 1981 prior to taking the bench in 1983 , had been mentioned as a possible Supreme Court nominee after his former colleague on the District of Columbia circuit , Robert Bork , failed to win Senate confirmation in 1987 .
+0,1 people|8,11 people|27,29 organization|36,39 location|41,43 people|47,48 organization|27,37 organization-in|27,38 organization-in|27,39 organization-in|28,37 organization-in|28,38 organization-in|28,39 organization-in|36,48 r_organization-in|37,48 r_organization-in|38,48 r_organization-in
+0,1 people|8,11 people|27,29 organization|36,39 location|41,43 people|47,48 organization|27,39 organization-in|36,48 r_organization-in
+
+The program , financed with a grant from the United States Agency for International Development , is aimed at reducing infant mortality in Madagascar , an island nation in the Indian Ocean off the eastern coast of Africa.
+9,12 other|13,15 other|23,24 location|30,32 location|37,38 location|23,31 located-in|23,32 located-in
+9,12 other|13,15 other|23,24 location|30,32 location|37,38 location|23,32 located-in
+
+JN0704183294 Paris Radio Monte Carlo in Arabic 1700 GMT 7 Apr 94
+1,2 location|2,5 organization|7,9 other|9,12 other|1,3 r_organization-in|1,4 r_organization-in|1,5 r_organization-in
+1,2 location|2,5 organization|7,9 other|9,12 other|1,5 r_organization-in
+
+On this date : In 1533 , the last Incan King of Peru , Atahualpa , was murdered on the orders of Spanish conqueror Francisco Pizarro .
+9,11 other|12,13 location|14,15 people|24,26 people|14,25 r_kill|14,26 r_kill
+9,11 other|12,13 location|14,15 people|24,26 people|14,26 r_kill
+
+` ` We 'd play hearts for hours at a time , ' ' said Atlanta businessman Neil Estes.
+15,16 location|17,19 people|15,18 r_live-in|15,19 r_live-in
+15,16 location|17,19 people|15,19 r_live-in
+
+Minox has not shown a profit since 1981 , and on April 1 , 1988 , Robert C. Corduwener , a Netherlands businessman bought a 51 percent share of the company to take control from the Rinn family .
+0,1 organization|7,8 other|11,15 other|16,19 people|21,22 location|25,27 other|16,22 live-in|17,22 live-in|18,22 live-in
+0,1 organization|7,8 other|11,15 other|16,19 people|21,22 location|25,27 other|16,22 live-in
+
+Volcanoes in Nicaragua and Indonesia , deforestation in Brazil and Madagascar , the Sahara desert in Africa and global beach erosion are among the subjects to be photographed .
+2,3 location|4,5 location|8,9 location|10,11 location|13,15 location|16,17 location|13,17 located-in|14,17 located-in
+2,3 location|4,5 location|8,9 location|10,11 location|13,15 location|16,17 location|13,17 located-in
+
+` ` This is really hurting Heuchelheim , ' ' the town 's mayor Willi Marx told The Associated Press in an interview at his office earlier this month .
+6,7 location|14,16 people|18,20 organization|6,15 r_live-in|6,16 r_live-in
+6,7 location|14,16 people|18,20 organization|6,16 r_live-in
+
+` ` I think at this moment they fear making a wrong move _ whether they should seek political asylum or use other reasons to remain here , ' ' said Jeff Shia , president of the Kiangsu Chekiang Association , a non-profit group that helps new Chinese immigrants establish themselves in the city.
+31,33 people|37,40 organization|47,48 other|31,38 work-for|31,39 work-for|31,40 work-for|32,38 work-for|32,39 work-for|32,40 work-for
+31,33 people|37,40 organization|47,48 other|31,40 work-for
+
+The term ` ` 30 Seconds Over Tokyo ' ' was the title of a popular movie about the raid. _Anzio _ The Anzio beachhead , 33 miles south of Rome , saw some of the bloodiest fighting of World War II and accounted for many of the 10 , 000 U.S. battle deaths in Italy the first half of 1944 .
+7,8 location|23,24 location|26,28 other|30,31 location|39,42 other|55,56 location|23,56 located-in
+7,8 location|23,24 location|26,28 other|30,31 location|39,42 other|55,56 location|23,56 located-in
+
+Anna Sandhu Ray , who 10 years ago Thursday wed the man convicted of killing the Rev. Martin Luther King Jr. , said on her anniversary that she plans to divorce James Earl Ray .
+0,3 people|8,9 other|16,21 people|31,34 people|16,32 r_kill|16,33 r_kill|16,34 r_kill|17,32 r_kill|17,33 r_kill|17,34 r_kill|18,32 r_kill|18,33 r_kill|18,34 r_kill|19,32 r_kill|19,33 r_kill|19,34 r_kill|20,32 r_kill|20,33 r_kill|20,34 r_kill
+0,3 people|8,9 other|16,21 people|31,34 people|16,34 r_kill
+
+The 23-foot-tall statue was modeled after the 30-foot-tall Goddess of Democracy raised by Chinese pro-democracy demonstrators in Beijing 's Tiananmen Square on May 30.
+8,11 location|17,18 location|19,21 location|22,24 other|17,20 r_located-in|17,21 r_located-in
+8,11 location|17,18 location|19,21 location|22,24 other|17,21 r_located-in
+
+( Text ) Ulaanbaatar , 29 Apr ( XINHUA ) -- China 's Premier Li Peng and Mongolian Prime P. Jasray signed the " Treaty of Friendly Cooperation Relations Between the People 's Republic of China and Mongolia " at the State Palace in the afternoon of 29 April .
+5,7 other|8,9 organization|11,12 location|14,16 people|19,21 people|31,36 location|41,43 location|47,49 other|8,12 organization-in|8,32 organization-in|8,33 organization-in|8,34 organization-in|8,35 organization-in|8,36 organization-in|11,15 r_live-in|11,16 r_live-in|14,32 live-in|14,33 live-in|14,34 live-in|14,35 live-in|14,36 live-in|15,32 live-in|15,33 live-in|15,34 live-in|15,35 live-in|15,36 live-in
+5,7 other|8,9 organization|11,12 location|14,16 people|19,21 people|31,36 location|41,43 location|47,49 other|8,12 organization-in|8,36 organization-in|11,16 r_live-in|14,36 live-in
+
+In 1874 , Herbert Clark Hoover , the 31st president of the United States , was born in West Branch , Iowa .
+3,6 people|12,14 location|18,22 location|3,19 live-in|3,20 live-in|3,21 live-in|3,22 live-in|4,19 live-in|4,20 live-in|4,21 live-in|4,22 live-in|5,19 live-in|5,20 live-in|5,21 live-in|5,22 live-in
+3,6 people|12,14 location|18,22 location|3,22 live-in
+
+( Text ) The Rwandan Patriotic Front ( RPF ) has rescued 2 , 000 people in Bugesera in the southeastern part of Rwanda .
+4,7 organization|17,18 location|23,24 location|17,24 located-in
+4,7 organization|17,18 location|23,24 location|17,24 located-in
+
+One of Warner 's lawyers , Andrew Hall of Miami , Fla. , confirmed Tuesday that Warner is trying to settle the case.
+6,8 people|9,10 location|11,12 location|2,3 people|6,10 live-in|7,10 live-in|6,12 live-in|7,12 live-in|9,12 located-in
+6,8 people|9,10 location|11,12 location|2,3 people|6,10 live-in|6,12 live-in|9,12 located-in
+
+GRAND RAPIDS , Mich .
+0,2 location|3,5 location|0,4 located-in|0,5 located-in|1,4 located-in|1,5 located-in
+0,2 location|3,5 location|0,5 located-in
+
+New Jersey Gov. Thomas Kean , who is leaving office after two terms at the end of this year , was greeted with effuse public praise by his colleagues during the conference.
+0,2 location|3,5 people|0,4 r_live-in|0,5 r_live-in|1,4 r_live-in|1,5 r_live-in
+0,2 location|3,5 people|0,5 r_live-in
+
+` ` The country was starved of resources , ' ' said Marcos Victorica , director of the Institute of Contemporary Studies.
+12,14 people|18,22 organization|12,19 work-for|12,20 work-for|12,21 work-for|12,22 work-for|13,19 work-for|13,20 work-for|13,21 work-for|13,22 work-for
+12,14 people|18,22 organization|12,22 work-for
+
+Excess Lira Reportedly Causes Currency Crisis NC1901223094 London Kanal-6 Television in Turkish 1700 GMT 19 Jan 94
+7,8 location|8,10 organization|12,14 other|14,17 other|7,9 r_organization-in|7,10 r_organization-in
+7,8 location|8,10 organization|12,14 other|14,17 other|7,10 r_organization-in
+
+" This is the Garrett place where John Wilkes Booth , assassin of Lincoln , was cornered by Union soldiers and killed April 26 , 1865 .
+4,5 other|7,10 people|13,14 people|18,19 organization|22,23 other|7,14 kill|8,14 kill|9,14 kill
+4,5 other|7,10 people|13,14 people|18,19 organization|22,23 other|7,14 kill
+
+BANGKOK , Thailand ( AP )
+0,1 location|2,3 location|4,5 organization|0,3 located-in
+0,1 location|2,3 location|4,5 organization|0,3 located-in
+
+Joseph Cicippio , 58 , was acting comptroller at the American University of Beirut when he was kidnapped from the campus Sept. 12 , 1986.
+0,2 people|10,14 organization|21,25 other|0,11 work-for|0,12 work-for|0,13 work-for|0,14 work-for|1,11 work-for|1,12 work-for|1,13 work-for|1,14 work-for
+0,2 people|10,14 organization|21,25 other|0,14 work-for
+
+The Santa Ana winds _ also called ` ` devil winds ' ' _ are spun off by high pressure over the interior of the country , picking up speed as they move from Southern California 's deserts through mountain passes and roar down on adjacent communities .
+1,3 location|34,36 location|1,35 located-in|1,36 located-in|2,35 located-in|2,36 located-in
+1,3 location|34,36 location|1,36 located-in
+
+FL2706231194 Havana Radio Reloj Network in Spanish 1402 GMT 27 Jun 94
+1,2 location|2,5 organization|7,9 other|9,12 other|1,3 r_organization-in|1,4 r_organization-in|1,5 r_organization-in
+1,2 location|2,5 organization|7,9 other|9,12 other|1,5 r_organization-in
+
+` ` Our white paper , market pulp and packaging businesses turned in particularly impressive results in 1988 , ' ' said John A. Georges , International Paper 's chairman and chief executive officer .
+17,18 other|22,25 people|26,28 organization|22,27 work-for|22,28 work-for|23,27 work-for|23,28 work-for|24,27 work-for|24,28 work-for
+17,18 other|22,25 people|26,28 organization|22,28 work-for
+
+The FA-18 Hornet was on a mission to Pinecastle Electronic Warfare Range in the Ocala National Forest when the bomb tumbled free at 1 : 50 p.m .
+8,12 location|14,17 location|23,28 other|8,15 located-in|8,16 located-in|8,17 located-in|9,15 located-in|9,16 located-in|9,17 located-in|10,15 located-in|10,16 located-in|10,17 located-in|11,15 located-in|11,16 located-in|11,17 located-in
+8,12 location|14,17 location|23,28 other|8,17 located-in
+
+EAST LANSING , Mich.
+0,2 location|3,4 location|0,4 located-in|1,4 located-in
+0,2 location|3,4 location|0,4 located-in
+
+Born in Athens , Psacharopoulos came to the United States at age 17 to enter Oberlin College , where he studied art history .
+2,3 location|4,5 people|8,10 location|15,17 organization|8,16 r_organization-in|8,17 r_organization-in|9,16 r_organization-in|9,17 r_organization-in
+2,3 location|4,5 people|8,10 location|15,17 organization|8,17 r_organization-in
+
+Two days later , Perry operated on Kennedy 's assassin , Lee Harvey Oswald , who had just been shot by Jack Ruby .
+4,5 people|7,8 people|11,14 people|21,23 people|7,12 r_kill|7,13 r_kill|7,14 r_kill|11,22 r_kill|11,23 r_kill|12,22 r_kill|12,23 r_kill|13,22 r_kill|13,23 r_kill
+4,5 people|7,8 people|11,14 people|21,23 people|7,14 r_kill|11,23 r_kill
+
+The prime was accompanied by his wife , Datuk Sri Datin Paduka Dr. Siti Hasmah and the deputy secretary of the Foreign Ministry , Datuk Abdul Halim Ali , during his brief visit to South Africa .
+8,15 people|21,23 organization|24,28 people|34,36 location|21,25 r_work-for|21,26 r_work-for|21,27 r_work-for|21,28 r_work-for|22,25 r_work-for|22,26 r_work-for|22,27 r_work-for|22,28 r_work-for
+8,15 people|21,23 organization|24,28 people|34,36 location|21,28 r_work-for
+
+The federal appeals court previously overturned a key provision of Arizona 's death penalty statute in the case of John Harvey Adamson , convicted of murdering reporter Don Bolles .
+10,11 location|19,22 people|27,29 people|19,28 kill|19,29 kill|20,28 kill|20,29 kill|21,28 kill|21,29 kill
+10,11 location|19,22 people|27,29 people|19,29 kill
+
+The movie 's script remains a secret , but Stone has said Kevin Costner will star as New Orleans prosecutor Jim Garrison , who said that Kennedy was the victim of an FBI and CIA conspiracy and that Lee Harvey Oswald , identified by a presidential commission as the lone assassin , was set up to take the blame. ;
+9,10 people|12,14 people|17,19 location|20,22 people|26,27 people|32,33 organization|34,35 organization|38,41 people|26,39 r_kill|26,40 r_kill|26,41 r_kill
+9,10 people|12,14 people|17,19 location|20,22 people|26,27 people|32,33 organization|34,35 organization|38,41 people|26,41 r_kill
+
+Becton Dickinson sells needle containers to doctors and hospitals but may develop a container for home use , said Linda Schmitt , an assistant product manager.
+0,2 organization|19,21 people|0,20 r_work-for|0,21 r_work-for|1,20 r_work-for|1,21 r_work-for
+0,2 organization|19,21 people|0,21 r_work-for
+
+The police files on Kennedy 's shooting could shed new light on persistent questions about whether Sirhan Bishara Sirhan was the only gunman in the shooting .
+4,5 people|16,19 people|4,17 r_kill|4,18 r_kill|4,19 r_kill
+4,5 people|16,19 people|4,19 r_kill
+
+NC1404123794 Cairo AL-AHALI in Arabic 6 Apr 94 p 6
+1,2 location|2,3 organization|5,8 other|1,3 r_organization-in
+1,2 location|2,3 organization|5,8 other|1,3 r_organization-in
+
+In 1936 , rock legend Buddy Holly was born Charles Hardin Holley in Lubbock , Texas .
+5,7 people|9,12 people|13,16 location|5,14 live-in|5,15 live-in|5,16 live-in|6,14 live-in|6,15 live-in|6,16 live-in|9,14 live-in|9,15 live-in|9,16 live-in|10,14 live-in|10,15 live-in|10,16 live-in|11,14 live-in|11,15 live-in|11,16 live-in
+5,7 people|9,12 people|13,16 location|5,16 live-in|9,16 live-in
+
+Belli 's clients have included Jack Ruby , who killed John F. Kennedy assassin Lee Harvey Oswald , and Jim and Tammy Bakker .
+0,1 location|5,7 people|10,13 people|14,17 people|19,20 people|21,23 people|5,15 kill|5,16 kill|5,17 kill|6,15 kill|6,16 kill|6,17 kill|10,15 r_kill|10,16 r_kill|10,17 r_kill|11,15 r_kill|11,16 r_kill|11,17 r_kill|12,15 r_kill|12,16 r_kill|12,17 r_kill
+0,1 location|5,7 people|10,13 people|14,17 people|19,20 people|21,23 people|5,17 kill|10,17 r_kill
+
+Bosnia 's capital , Sarajevo , is best-known as the site of the assassination in 1914 of Austrian Archduke Franz Ferdinand by young Bosnian nationalist Gavrilo Princip , which was the spark that ignited World War I. No single party appeared likely to win a clear majority in Bosnia 's 240-seat bicameral parliament .
+0,1 location|4,5 location|17,21 people|25,27 people|34,36 other|0,1 location|0,5 r_located-in|17,26 r_kill|17,27 r_kill|18,26 r_kill|18,27 r_kill|19,26 r_kill|19,27 r_kill|20,26 r_kill|20,27 r_kill
+0,1 location|4,5 location|17,21 people|25,27 people|34,36 other|0,1 location|0,5 r_located-in|17,27 r_kill
+
+Walesa said Solidarity wants to avoid unrest .
+0,1 people|2,3 organization|0,3 work-for
+0,1 people|2,3 organization|0,3 work-for
+
+In 1817 , naturalist-author Henry David Thoreau was born in Concord , Mass .
+4,7 people|10,13 location|4,11 live-in|4,12 live-in|4,13 live-in|5,11 live-in|5,12 live-in|5,13 live-in|6,11 live-in|6,12 live-in|6,13 live-in
+4,7 people|10,13 location|4,13 live-in
+
+The nine sentences noting the spot where Dallas was settled are followed by this : ` ` On Nov. 22 , 1963 , the building gained national notoriety when Lee Harvey Oswald allegedly shot and killed President John F. Kennedy from a sixth floor window as the presidential motorcade passed the site. ' '
+7,8 location|18,19 other|29,32 people|36,40 people|29,37 kill|29,38 kill|29,39 kill|29,40 kill|30,37 kill|30,38 kill|30,39 kill|30,40 kill|31,37 kill|31,38 kill|31,39 kill|31,40 kill
+7,8 location|18,19 other|29,32 people|36,40 people|29,40 kill
+
+It almost makes me want to laugh. ( Minoli ) Why ? ( Fini ) Bossi is a very strange character and his extreme envy has been demonstrated. ( passage omitted ) He tried to get votes from the south , those votes which he now despises so much , but the south sent him back to the valleys. ( Minoli ) You said that Bossi reminded you of Hitler trapped in his Berlin bunker , a man with delusions of grandeur and a tendency towards suicide .
+8,9 people|13,14 people|15,16 people|8,9 people|15,16 people|69,70 people|73,74 location|69,74 live-in
+8,9 people|13,14 people|15,16 people|8,9 people|15,16 people|69,70 people|73,74 location|69,74 live-in
+
+` ` One thing I have learned over the past 17 months is that the truth is hard to find , and it remains so , ' ' said Mrs. Higgins , 37 , who is a major inthe Marine Corps and works at the Pentagon as a public information officer.
+29,31 people|39,41 organization|45,46 organization|29,40 work-for|29,41 work-for|30,40 work-for|30,41 work-for|29,46 work-for|30,46 work-for
+29,31 people|39,41 organization|45,46 organization|29,41 work-for|29,46 work-for
+
+Sam Kadet of the corporate law firm of Skadden , Arps said Popeyes could give Church 's notice on Thursday that it planned to proceed with the takeover attempt and deliver the information to Church 's after five business days .
+0,2 people|8,11 organization|12,13 organization|15,17 organization|15,17 organization|0,9 work-for|0,10 work-for|0,11 work-for|1,9 work-for|1,10 work-for|1,11 work-for
+0,2 people|8,11 organization|12,13 organization|15,17 organization|15,17 organization|0,11 work-for
+
+Yisrael Tal , one of the top military strategists in Israel , says the Arabs have reached a strategic balance with Israel through their acquisition of ground-to-ground missiles .
+0,2 people|10,11 location|14,15 other|10,11 location|0,11 live-in|1,11 live-in|0,11 live-in|1,11 live-in
+0,2 people|10,11 location|14,15 other|10,11 location|0,11 live-in|0,11 live-in
+
+Some people in the United States are saying that Clinton " gave away " $12 billion to Russia -- this is the amount it is proposed to pay for uranium destined for U.S. nuclear electric power stations , which will be obtained from our nuclear warheads .
+4,6 location|9,10 people|14,16 other|17,18 location|32,33 location|4,10 r_live-in|5,10 r_live-in|9,33 live-in
+4,6 location|9,10 people|14,16 other|17,18 location|32,33 location|4,10 r_live-in|9,33 live-in
+
+Guy M. Struve , the New York attorney representing Church 's , said he was disappointed and did not know when the chain would decide whether to appeal Thursday 's ruling .
+0,3 people|5,7 location|9,11 organization|0,6 live-in|0,7 live-in|1,6 live-in|1,7 live-in|2,6 live-in|2,7 live-in|0,10 work-for|0,11 work-for|1,10 work-for|1,11 work-for|2,10 work-for|2,11 work-for
+0,3 people|5,7 location|9,11 organization|0,7 live-in|0,11 work-for
+
+A golden future seemed assured when , at 25 , Ogdon shared top place with Soviet pianist Vladimir Ashkenazy in the piano section of the 1962 Moscow Tchaikovsky International Competition for young musicians.
+10,11 people|15,16 location|17,19 people|21,22 other|25,26 other|26,30 other|15,18 r_live-in|15,19 r_live-in
+10,11 people|15,16 location|17,19 people|21,22 other|25,26 other|26,30 other|15,19 r_live-in
+
+Illinois born Charlton Heston was a 27-year-old actor from Broadway and television when he arrived in Hollywood for a five-picture contract with Hal Wallis .
+0,1 location|2,4 people|9,10 other|16,17 location|22,24 location|0,3 r_live-in|0,4 r_live-in
+0,1 location|2,4 people|9,10 other|16,17 location|22,24 location|0,4 r_live-in
+
+The justices heard 60 minutes of arguments Wednesday on whether they will allow the execution of Johnny Paul Penry , 32 , a convicted rapist-murderer sentenced to die in Texas .
+3,5 other|16,19 people|29,30 location|16,30 live-in|17,30 live-in|18,30 live-in
+3,5 other|16,19 people|29,30 location|16,30 live-in
+
+1911 , playwright Tennessee Williams was born in Columbus , Miss.
+3,5 people|8,11 location|3,9 live-in|3,10 live-in|3,11 live-in|4,9 live-in|4,10 live-in|4,11 live-in
+3,5 people|8,11 location|3,11 live-in
+
+BRISBANE , Australia ( AP )
+0,1 location|2,3 location|4,5 organization|0,3 located-in|0,5 r_organization-in|2,5 r_organization-in
+0,1 location|2,3 location|4,5 organization|0,3 located-in|0,5 r_organization-in|2,5 r_organization-in
+
+CNEN Radioprotection Director Laercio Vinhas yesterday reported by fax that the thyroid dysfunctions detected in the employees have no relation whatsoever with their work at the laboratory and that this problem is detected in 3 percent of the overall population .
+0,1 organization|3,5 people|34,36 other|0,4 r_work-for|0,5 r_work-for
+0,1 organization|3,5 people|34,36 other|0,5 r_work-for
+
+Photographer , author , filmmaker and composer Gordon Parks , 76 , born in Fort Scott , Kan. , who was on the photographic staff of Life Magazine for 19 years before branching out into other activities.
+7,9 people|14,18 location|26,28 organization|7,15 live-in|7,16 live-in|7,17 live-in|7,18 live-in|8,15 live-in|8,16 live-in|8,17 live-in|8,18 live-in
+7,9 people|14,18 location|26,28 organization|7,18 live-in
+
+In 1830 , poet Emily Dickinson was born in Amherst , Mass.
+4,6 people|9,12 location|4,10 live-in|4,11 live-in|4,12 live-in|5,10 live-in|5,11 live-in|5,12 live-in
+4,6 people|9,12 location|4,12 live-in
+
+` ` This is not a good idea for a lot of environmental reasons , ' ' Stephanie Powell , of the DEM 's division of groundwater and freshwater wetlands , said Tuesday.
+17,19 people|22,23 organization|17,23 work-for|18,23 work-for
+17,19 people|22,23 organization|17,23 work-for
+
+Nihat ( Marka ) , deputy leader of SHP ( Social Democrat Populist Party ) parliamentary group , said : They should have run in the elections for the sake of democracy .
+0,1 people|2,3 people|8,9 organization|10,14 organization|0,9 work-for|0,11 work-for|0,12 work-for|0,13 work-for|0,14 work-for|2,9 work-for|2,11 work-for|2,12 work-for|2,13 work-for|2,14 work-for
+0,1 people|2,3 people|8,9 organization|10,14 organization|0,9 work-for|0,14 work-for|2,9 work-for|2,14 work-for
+
+A statement from military headquarters said the aircraft crashed during a 260-mile flight to Khartoum from Kassala in eastern Sudan near the Ethiopian border.
+14,15 location|16,17 location|19,20 location|16,20 located-in
+14,15 location|16,17 location|19,20 location|16,20 located-in
+
+Harrington , a professor of political science at Queens College of the City University of New York and honorary president of the Socialist International , died Monday night at his home in suburban Larchmont , the university said in a statement Tuesday.
+0,1 people|8,10 organization|12,17 organization|22,24 organization|33,34 location|0,9 work-for|0,10 work-for|0,13 work-for|0,14 work-for|0,15 work-for|0,16 work-for|0,17 work-for|0,23 work-for|0,24 work-for|0,34 live-in
+0,1 people|8,10 organization|12,17 organization|22,24 organization|33,34 location|0,10 work-for|0,17 work-for|0,24 work-for|0,34 live-in
+
+Norton Winfred Simon was born on Feb. 5 , 1907 , in Portland , Ore. , and spent his teen-age years in San Francisco .
+0,3 people|6,7 other|12,15 location|22,24 location|0,13 live-in|0,14 live-in|0,15 live-in|1,13 live-in|1,14 live-in|1,15 live-in|2,13 live-in|2,14 live-in|2,15 live-in
+0,3 people|6,7 other|12,15 location|22,24 location|0,15 live-in
+
+The National Aeronautics and Space Administration announced Thursday that Ulf D. Merbold , 47 , of the European Space Agency and Roger K. Crouch of NASA have been chosen to train to perform materials sciences experiments on the International Microgravity Laboratory-1 mission scheduled for April 1991 .
+1,6 organization|9,12 people|17,20 organization|21,24 people|25,26 organization|45,46 other|9,18 work-for|9,19 work-for|9,20 work-for|10,18 work-for|10,19 work-for|10,20 work-for|11,18 work-for|11,19 work-for|11,20 work-for|1,22 r_work-for|1,23 r_work-for|1,24 r_work-for|2,22 r_work-for|2,23 r_work-for|2,24 r_work-for|3,22 r_work-for|3,23 r_work-for|3,24 r_work-for|4,22 r_work-for|4,23 r_work-for|4,24 r_work-for|5,22 r_work-for|5,23 r_work-for|5,24 r_work-for|21,26 work-for|22,26 work-for|23,26 work-for
+1,6 organization|9,12 people|17,20 organization|21,24 people|25,26 organization|45,46 other|9,20 work-for|1,24 r_work-for|21,26 work-for
+
+Prime Minister Felipe Gonzalez of Spain told reporters , ` ` The police actions and the arrests are of great importance to Spanish society on such a major matter as the battle against terrorism. ' '
+2,4 people|5,6 location|2,6 live-in|3,6 live-in
+2,4 people|5,6 location|2,6 live-in
+
+In 1752 , flagmaker Betsy Ross was born in Philadelphia .
+4,6 people|9,10 location|4,10 live-in|5,10 live-in
+4,6 people|9,10 location|4,10 live-in
+
+This Latin American group 's reaction came two days after the military leaders of Haiti made Emile Jonassaint provisional president of Haiti , following the Haitian Parliament 's declaration that the post was vacant .
+14,15 location|16,18 people|14,15 location|25,27 organization|14,17 r_live-in|14,18 r_live-in|14,17 r_live-in|14,18 r_live-in|14,26 r_organization-in|14,27 r_organization-in|14,26 r_organization-in|14,27 r_organization-in
+14,15 location|16,18 people|14,15 location|25,27 organization|14,18 r_live-in|14,18 r_live-in|14,27 r_organization-in|14,27 r_organization-in
+
+No. 1 is the West Coast 's tallest building , the 76-story black-glass Columbia Seafirst Center built in 1985 , before downtown zoning went into effect .
+4,6 location|13,16 location|18,19 other|4,14 r_located-in|4,15 r_located-in|4,16 r_located-in|5,14 r_located-in|5,15 r_located-in|5,16 r_located-in
+4,6 location|13,16 location|18,19 other|4,16 r_located-in
+
+Yahia Bouguettaya , the former mayor of Mohammadia , south-east Algeria , and Mohamed Touali , an activist in Algeria 's Ettahadi ( Challenge ) political party , were assassinated Wednesday .
+0,2 people|7,8 location|10,11 location|13,15 people|10,11 location|21,27 organization|7,11 located-in|13,22 work-for|13,23 work-for|13,24 work-for|13,25 work-for|13,26 work-for|13,27 work-for|14,22 work-for|14,23 work-for|14,24 work-for|14,25 work-for|14,26 work-for|14,27 work-for|10,22 r_organization-in|10,23 r_organization-in|10,24 r_organization-in|10,25 r_organization-in|10,26 r_organization-in|10,27 r_organization-in|10,22 r_organization-in|10,23 r_organization-in|10,24 r_organization-in|10,25 r_organization-in|10,26 r_organization-in|10,27 r_organization-in
+0,2 people|7,8 location|10,11 location|13,15 people|10,11 location|21,27 organization|7,11 located-in|13,27 work-for|10,27 r_organization-in|10,27 r_organization-in
+
+He developed evidence regarding the assassination of President Kennedy which supported the findings of the Warren Commission that Lee Harvey Oswald was the lone assassin .
+7,9 people|15,17 organization|18,21 people|7,19 r_kill|7,20 r_kill|7,21 r_kill|8,19 r_kill|8,20 r_kill|8,21 r_kill
+7,9 people|15,17 organization|18,21 people|7,21 r_kill
+
+Montana : A fire burning in grassland and scattered timber in the Custer National Forest became the state 's biggest fire of the summer Tuesday when it surpassed 1 , 200 acres.
+0,1 location|12,15 location|28,32 other|0,13 r_located-in|0,14 r_located-in|0,15 r_located-in
+0,1 location|12,15 location|28,32 other|0,15 r_located-in
+
+JOHANNESBURG , South Africa ( AP )
+0,1 location|2,4 location|5,6 organization|0,3 located-in|0,4 located-in
+0,1 location|2,4 location|5,6 organization|0,4 located-in
+
+The PRAVDA newspaper carries an interview with Radovan Karadzic , leader of Bosnian Serbs and vice-president of the Union of Serb Writers .
+7,9 people|13,14 other|18,22 organization|7,19 work-for|7,20 work-for|7,21 work-for|7,22 work-for|8,19 work-for|8,20 work-for|8,21 work-for|8,22 work-for
+7,9 people|13,14 other|18,22 organization|7,22 work-for
+
+( Text ) The National Central Organization of Panamanian Workers ( CNTP ) , which comprises three workers ' federations and 16 unions for a total of 12 , 000 workers , has proclaimed its determination to support Dr. Ernesto Perez Balladares for the presidency of the Republic .
+3,10 organization|11,12 organization|39,42 people|46,48 location|3,47 organization-in|3,48 organization-in|4,47 organization-in|4,48 organization-in|5,47 organization-in|5,48 organization-in|6,47 organization-in|6,48 organization-in|7,47 organization-in|7,48 organization-in|8,47 organization-in|8,48 organization-in|9,47 organization-in|9,48 organization-in|11,47 organization-in|11,48 organization-in|39,47 live-in|39,48 live-in|40,47 live-in|40,48 live-in|41,47 live-in|41,48 live-in
+3,10 organization|11,12 organization|39,42 people|46,48 location|3,48 organization-in|11,48 organization-in|39,48 live-in
+
+MOSKOVSKIY KOMSOMOLETS has learned from competent sources that the commission is supposed to pay special attention to Lazutkin , former first deputy general director of " Ostankino , " who currently holds the position of first deputy head of the Russian Federation Federal Service for Television and Radio Broadcasting.
+0,2 organization|17,18 people|40,49 organization|17,41 work-for|17,42 work-for|17,43 work-for|17,44 work-for|17,45 work-for|17,46 work-for|17,47 work-for|17,48 work-for|17,49 work-for
+0,2 organization|17,18 people|40,49 organization|17,49 work-for
+
+But trustee Daniel L. Bakst , a West Palm Beach , Fla. , lawyer , said he will not let the 11th-hour settlement efforts interfere with his assignment to track down Warner 's assets for distribution to creditors.
+2,5 people|7,10 location|11,12 location|31,32 people|2,8 live-in|2,9 live-in|2,10 live-in|3,8 live-in|3,9 live-in|3,10 live-in|4,8 live-in|4,9 live-in|4,10 live-in|2,12 live-in|3,12 live-in|4,12 live-in|7,12 located-in|8,12 located-in|9,12 located-in
+2,5 people|7,10 location|11,12 location|31,32 people|2,10 live-in|2,12 live-in|7,12 located-in
+
+Serbia is the largest of Yugoslavia 's six republics.
+0,1 location|5,6 location|0,6 located-in
+0,1 location|5,6 location|0,6 located-in
+
+Sirhan was convicted of Kennedy 's killing and is serving a life sentence .
+0,1 people|4,5 people|0,5 kill
+0,1 people|4,5 people|0,5 kill
+
+A mechanized infantry battalion belonging to the 21st Brigade of Cerro Muriano in Cordoba and to the 12th Brigade in Botoa in Badajoz , a company of the Special Operations Group in Alicante , and a squadron from the Jarama 1st Cavalry Brigade from Salamanca make up the Cordoba Group .
+7,12 organization|13,14 location|17,19 organization|20,21 location|22,23 location|28,31 organization|32,33 location|39,43 organization|44,45 location|48,50 organization|7,14 organization-in|8,14 organization-in|9,14 organization-in|10,14 organization-in|11,14 organization-in|17,21 organization-in|18,21 organization-in|17,23 organization-in|18,23 organization-in|28,33 organization-in|29,33 organization-in|30,33 organization-in|39,45 organization-in|40,45 organization-in|41,45 organization-in|42,45 organization-in
+7,12 organization|13,14 location|17,19 organization|20,21 location|22,23 location|28,31 organization|32,33 location|39,43 organization|44,45 location|48,50 organization|7,14 organization-in|17,21 organization-in|17,23 organization-in|28,33 organization-in|39,45 organization-in
+
+Those honored were Jean Griffith , mother of a man killed on a Howard Beach , Queens , parkway after being chased by a gang of whites in December 1986 ;
+3,5 people|13,15 location|16,17 location|29,30 other|13,17 located-in|14,17 located-in
+3,5 people|13,15 location|16,17 location|29,30 other|13,17 located-in
+
+FBI agents arrived at Sohn 's New Jersey home and escorted him to safety only 30 minutes before KCIA agents showed up , an unidentified senior law enforcement official told the Times .
+0,1 organization|4,5 people|6,8 location|15,17 other|18,19 organization|4,7 live-in|4,8 live-in
+0,1 organization|4,5 people|6,8 location|15,17 other|18,19 organization|4,8 live-in
+
+Prime Brian Mulroney 's Progressive Conservative Party won its second consecutive majority government in the election , and he signed the trade pact with President Reagan in January 1988 .
+1,3 people|4,7 organization|25,26 people|1,5 work-for|1,6 work-for|1,7 work-for|2,5 work-for|2,6 work-for|2,7 work-for
+1,3 people|4,7 organization|25,26 people|1,7 work-for
+
+Treiki disclosed the planned missile tests during Security Council debate Tuesday night after the U.S. 6th Fleet informed Libyan air traffic controllers so they could divert civilian air traffic .
+0,1 people|7,9 organization|14,15 location|15,17 organization|14,16 r_organization-in|14,17 r_organization-in
+0,1 people|7,9 organization|14,15 location|15,17 organization|14,17 r_organization-in
+
+BANGKOK , Thailand ( AP )
+0,1 location|2,3 location|4,5 organization|0,3 located-in|0,5 r_organization-in|2,5 r_organization-in
+0,1 location|2,3 location|4,5 organization|0,3 located-in|0,5 r_organization-in|2,5 r_organization-in
+
+In Washington , the General Accounting Office ( GAO ) , the congressional watchdog of government spending , says in a report released last August that Israel might be underestimating the costs of producing and deploying the Arrow system .
+1,2 location|4,7 organization|8,9 organization|26,27 location|1,5 r_organization-in|1,6 r_organization-in|1,7 r_organization-in|1,9 r_organization-in
+1,2 location|4,7 organization|8,9 organization|26,27 location|1,7 r_organization-in|1,9 r_organization-in
+
+Britain 's Duchess of York and former Philippines first lady Imelda Marcos topped the list by Blackwell , a designer and self-appointed fashion arbiter whose real name is Richard Sylvan Selzer .
+0,1 location|2,5 people|7,8 location|10,12 people|16,17 people|28,31 people|0,3 r_live-in|0,4 r_live-in|0,5 r_live-in|7,11 r_live-in|7,12 r_live-in
+0,1 location|2,5 people|7,8 location|10,12 people|16,17 people|28,31 people|0,5 r_live-in|7,12 r_live-in
+
+Today 's highlight in history : On the Ides of March , 44 B.C. , Roman Emperor Julius Caesar was assassinated by a group of nobles that included Brutus and Cassius .
+8,9 other|10,11 other|15,19 people|28,29 people|30,31 people|15,29 r_kill|16,29 r_kill|17,29 r_kill|18,29 r_kill|15,31 r_kill|16,31 r_kill|17,31 r_kill|18,31 r_kill
+8,9 other|10,11 other|15,19 people|28,29 people|30,31 people|15,29 r_kill|15,31 r_kill
+
+Until President 's Day of this year , the public could not enter the sixth floor of the old school book depository in downtown Dallas , where it 's believed Lee Harvey Oswald fired the shots that killed Kennedy .
+1,2 other|3,4 other|24,25 location|30,33 people|38,39 people|30,39 kill|31,39 kill|32,39 kill
+1,2 other|3,4 other|24,25 location|30,33 people|38,39 people|30,39 kill
+
+An electrical train has arrived at Novonezhino to evacuate local inhabitants , and a special group from the Russian Defence Ministry has left Moscow by plane en route to Vladivostok and the site of the explosion .
+6,7 location|18,21 organization|23,24 location|29,30 location|18,24 organization-in|19,24 organization-in|20,24 organization-in
+6,7 location|18,21 organization|23,24 location|29,30 location|18,24 organization-in
+
+Deputy U.S. Ambassador Herbert S. Okun announced the cancellation just before the council began debate , and officials in Washington confirmed it .
+1,2 location|3,6 people|19,20 location|1,4 r_live-in|1,5 r_live-in|1,6 r_live-in
+1,2 location|3,6 people|19,20 location|1,6 r_live-in
+
+Moscow March 5 ( ITAR-TASS ) -- Moscow leading newspapers concentrate on the speeches by President Boris Yeltsin and Premier Viktor Chernomyrdin at the government 's enlarged meeting on Friday .
+0,1 location|1,3 other|4,5 organization|0,1 location|16,18 people|20,22 people|0,5 r_organization-in|0,5 r_organization-in|0,17 r_live-in|0,18 r_live-in|0,17 r_live-in|0,18 r_live-in|0,21 r_live-in|0,22 r_live-in|0,21 r_live-in|0,22 r_live-in
+0,1 location|1,3 other|4,5 organization|0,1 location|16,18 people|20,22 people|0,5 r_organization-in|0,5 r_organization-in|0,18 r_live-in|0,18 r_live-in|0,22 r_live-in|0,22 r_live-in
+
+Winter , 53 , a former Yale University law professor who took the bench in 1982 , and Starr , a fellow appointee of President Reagan , are both known as judicial conservatives .
+0,1 people|6,8 organization|15,16 other|18,19 people|25,26 people|0,7 work-for|0,8 work-for
+0,1 people|6,8 organization|15,16 other|18,19 people|25,26 people|0,8 work-for
+
+In 1873 , radio electronics pioneer Dr. Lee DeForest was born in Council Bluffs , Iowa .
+6,9 people|12,16 location|6,13 live-in|6,14 live-in|6,15 live-in|6,16 live-in|7,13 live-in|7,14 live-in|7,15 live-in|7,16 live-in|8,13 live-in|8,14 live-in|8,15 live-in|8,16 live-in
+6,9 people|12,16 location|6,16 live-in
+
+In southwest Louisiana 's Cameron Parish ( county ) , civil defense director Hayes Picou about 8 , 500 of the low-lying parish 's 10 , 000 residents had evacuated the southern coast , most to stay with friends or relatives.
+2,3 location|4,6 location|13,15 people|2,5 r_located-in|2,6 r_located-in|2,14 r_live-in|2,15 r_live-in|4,14 r_live-in|4,15 r_live-in|5,14 r_live-in|5,15 r_live-in
+2,3 location|4,6 location|13,15 people|2,6 r_located-in|2,15 r_live-in|4,15 r_live-in
+
+The Internal Revenue Service and Manufacturers Hanover Trust Co. of New York , two of the largest creditors in the Herbert Hunt bankruptcy , said they will file a repayment plan by Friday.
+1,4 organization|5,9 organization|10,12 location|20,22 people|5,11 organization-in|5,12 organization-in|6,11 organization-in|6,12 organization-in|7,11 organization-in|7,12 organization-in|8,11 organization-in|8,12 organization-in
+1,4 organization|5,9 organization|10,12 location|20,22 people|5,12 organization-in
+
+The committee reported in July 1979 that Lee Harvey Oswald had shot Kennedy and that neither the Soviet Union nor Cuba nor any U.S. government agency was involved in the killing. ;
+4,5 other|7,10 people|12,13 people|17,19 location|20,21 location|23,24 location|7,13 kill|8,13 kill|9,13 kill
+4,5 other|7,10 people|12,13 people|17,19 location|20,21 location|23,24 location|7,13 kill
+
+Announces Offer to End Strike PA0302025694 Panama City ACAN in Spanish 2153 GMT 2 Feb 94
+6,8 location|8,9 organization|11,13 other|13,16 other|6,9 r_organization-in|7,9 r_organization-in
+6,8 location|8,9 organization|11,13 other|13,16 other|6,9 r_organization-in
+
+Other winners are : _ Actress Helen Hayes , 87 , born in Washington , who first appeared on stage at the age of 5 , made her New York debut in 1909 and has played in works of Shakespeare , Tennessee Williams and Eugene O'Neill during her long career as a stage and movie actress.
+5,8 people|13,14 location|28,30 location|39,40 people|41,43 people|44,46 people|5,14 live-in|6,14 live-in|7,14 live-in
+5,8 people|13,14 location|28,30 location|39,40 people|41,43 people|44,46 people|5,14 live-in
+
+Bossi set up the Freedom Alliance not because he believed in it , but because he found that it was necessary to do so. ( Minoli ) Do you think that this continual exchange of insults is advantageous to the common cause ? ( Fini ) It is advantageous because whoever listens does not vote for Occhetto ( leader of the Democratic Party of the Left ) .
+0,1 people|4,6 organization|25,26 people|44,45 people|56,57 people|61,63 organization|0,5 work-for|0,6 work-for|56,62 work-for|56,63 work-for
+0,1 people|4,6 organization|25,26 people|44,45 people|56,57 people|61,63 organization|0,6 work-for|56,63 work-for
+
+The law , patterned after similar measures in Michigan and California , gives victims ` ` a maximum opportunity to participate , ' ' said Fran Sepler , executive of the state Crime Victim and Witness Advisory Council.
+8,9 location|10,11 location|25,27 people|31,38 organization|25,32 work-for|25,33 work-for|25,34 work-for|25,35 work-for|25,36 work-for|25,37 work-for|25,38 work-for|26,32 work-for|26,33 work-for|26,34 work-for|26,35 work-for|26,36 work-for|26,37 work-for|26,38 work-for
+8,9 location|10,11 location|25,27 people|31,38 organization|25,38 work-for
+
+Gary Hess , an Emery employee , saw the plane go down as he was getting off work at the airport .
+0,2 people|4,5 organization|0,5 work-for|1,5 work-for
+0,2 people|4,5 organization|0,5 work-for
+
+The six men were found under the rubble in the basement of a nine-story apartment building which had collapsed on them , the official Soviet news agency said in a report from Yerevan , the capital of Armenia .
+24,25 location|32,33 location|37,38 location|32,38 located-in
+24,25 location|32,33 location|37,38 location|32,38 located-in
+
+In 1963 , the year he joined the Herald Tribune , he was riding in the motorcade with President Kennedy when Kennedy was fatally shot by Lee Harvey Oswald in Dallas. ;
+8,10 location|18,20 people|19,20 people|26,29 people|30,31 location|19,27 r_kill|19,28 r_kill|19,29 r_kill
+8,10 location|18,20 people|19,20 people|26,29 people|30,31 location|19,29 r_kill
+
+` ` If we 're going to address this problem it will be a grass-roots effort by activists throughout the cities of the world , ' ' said Jeremy Rifkin , director of the Foundation on Economic Trends and a member of the Global Greenhouse Network , a coalition of environmental activists in 35 countries .
+28,30 people|34,38 organization|43,46 organization|28,35 work-for|28,36 work-for|28,37 work-for|28,38 work-for|29,35 work-for|29,36 work-for|29,37 work-for|29,38 work-for|28,44 work-for|28,45 work-for|28,46 work-for|29,44 work-for|29,45 work-for|29,46 work-for
+28,30 people|34,38 organization|43,46 organization|28,38 work-for|28,46 work-for
+
+When he was called to examine Robert F. Kennedy 's assassin , Sirhan Sirhan , a Jordanian residing in the United States , Markman refused .
+6,9 people|12,14 people|20,21 other|23,24 people|6,13 r_kill|6,14 r_kill|7,13 r_kill|7,14 r_kill|8,13 r_kill|8,14 r_kill
+6,9 people|12,14 people|20,21 other|23,24 people|6,14 r_kill
+
+Tokyo NIHON KEIZAI SHIMBUN
+0,1 location|1,4 organization|0,2 r_organization-in|0,3 r_organization-in|0,4 r_organization-in
+0,1 location|1,4 organization|0,4 r_organization-in
+
+Jeffrey Bander , vice for development of new products at American Express , said the credit card company conducted two different research projects before launching its weather phone.
+0,2 people|10,12 organization|0,11 work-for|0,12 work-for|1,11 work-for|1,12 work-for
+0,2 people|10,12 organization|0,12 work-for
+
+In 1968 , authorities announced the capture in London of James Earl Ray , suspected of the assassination of civil rights leader Dr. Martin Luther King Jr .
+8,9 location|10,13 people|22,27 people|10,23 kill|10,24 kill|10,25 kill|10,26 kill|10,27 kill|11,23 kill|11,24 kill|11,25 kill|11,26 kill|11,27 kill|12,23 kill|12,24 kill|12,25 kill|12,26 kill|12,27 kill
+8,9 location|10,13 people|22,27 people|10,27 kill
+
+James Earl Ray , 60 , is serving 99 years in prison for first-degree murder of King in Memphis on April 4 , 1968 .
+0,3 people|16,17 people|18,19 location|20,21 other|0,17 kill|1,17 kill|2,17 kill
+0,3 people|16,17 people|18,19 location|20,21 other|0,17 kill
+
+( Excerpts ) US President Bill Clinton 's decision to lift a long-standing trade embargo against Vietnam had been expected. ( passage omitted ) In his White House speech , Clinton said the time for bitterness was over and now was the time for a new beginning between Hanoi and Washington .
+3,4 location|5,7 people|16,17 location|26,28 location|6,7 people|48,49 location|50,51 location|3,6 r_live-in|3,7 r_live-in
+3,4 location|5,7 people|16,17 location|26,28 location|6,7 people|48,49 location|50,51 location|3,7 r_live-in
+
+In Washington , U.S officials announced that the Navy will rotate two aircraft carrier battle groups well away from Libya as one replaces the other .
+1,2 location|3,4 location|8,9 organization|12,14 other|19,20 location|1,4 located-in|3,9 r_organization-in
+1,2 location|3,4 location|8,9 organization|12,14 other|19,20 location|1,4 located-in|3,9 r_organization-in
+
+Such theories , which are not alone in the international press , find support in another agreement that was also signed in Geneva -- which the Croatian opposition ostensibly did not notice , to the great surprise and almost astonishment of all , and consequently did not comment on , although the integral text was published in Croatian newspapers -- the agreement signed between Mile Akmadzic , on behalf of the Croatian Republic of Herceg-Bosna , and Nikola Koljevic , on behalf of the Serbian Republic , in which both sides emphasize that " there are no disputed issues between them that cannot be solved in a peaceful way . "
+22,23 location|64,66 people|71,75 location|77,79 people|84,86 location|64,72 live-in|64,73 live-in|64,74 live-in|64,75 live-in|65,72 live-in|65,73 live-in|65,74 live-in|65,75 live-in|77,85 live-in|77,86 live-in|78,85 live-in|78,86 live-in
+22,23 location|64,66 people|71,75 location|77,79 people|84,86 location|64,75 live-in|77,86 live-in
+
+Tal , a senior Defense Ministry official , has not repeated these views in public .
+0,1 people|4,6 organization|0,5 work-for|0,6 work-for
+0,1 people|4,6 organization|0,6 work-for
+
+Lennon was shot to death Dec. 8 , 1980 , in the courtyard of his New York City apartment building by Mark David Chapman , a former Beatles ' fan who was convicted of the killing and sentenced to prison for a term of 20 years to life .
+0,1 people|5,6 other|15,18 location|21,24 people|27,28 organization|0,22 r_kill|0,23 r_kill|0,24 r_kill
+0,1 people|5,6 other|15,18 location|21,24 people|27,28 organization|0,24 r_kill
+
+In 1890 , the 34th President of the United States , Dwight D. Eisenhower , was born in Denison , Texas .
+8,10 location|11,14 people|18,21 location|11,19 live-in|11,20 live-in|11,21 live-in|12,19 live-in|12,20 live-in|12,21 live-in|13,19 live-in|13,20 live-in|13,21 live-in
+8,10 location|11,14 people|18,21 location|11,21 live-in
+
+By contrast , nearly 6 million square feet of downtown office space is newly completed , under construction or has received city permits , said Virginia Galle , a City Council member and CAP supporter .
+4,6 other|25,27 people|29,31 organization|25,30 work-for|25,31 work-for|26,30 work-for|26,31 work-for
+4,6 other|25,27 people|29,31 organization|25,31 work-for
+
+Harrington taught at Harvard University and the National War College.
+0,1 people|3,5 organization|7,10 organization|0,4 work-for|0,5 work-for|0,8 work-for|0,9 work-for|0,10 work-for
+0,1 people|3,5 organization|7,10 organization|0,5 work-for|0,10 work-for
+
+The federal appeals court threw out the death sentence of John Harvey Adamson , convicted of murdering Phoenix newspaper reporter Don Bolles in 1976 .
+10,13 people|17,18 location|20,22 people|10,21 kill|10,22 kill|11,21 kill|11,22 kill|12,21 kill|12,22 kill
+10,13 people|17,18 location|20,22 people|10,22 kill
+
+Fred Farrar , another FAA spokesman , said airlines flying the 737-300s are Aloha , America West , American , Continental , Delta , Orion , Piedmont , Southwest , United and U.S. Air .
+0,2 people|4,5 organization|13,14 organization|15,17 organization|18,19 organization|20,21 organization|22,23 organization|24,25 organization|26,27 organization|28,29 organization|30,31 organization|32,34 organization|0,5 work-for|1,5 work-for
+0,2 people|4,5 organization|13,14 organization|15,17 organization|18,19 organization|20,21 organization|22,23 organization|24,25 organization|26,27 organization|28,29 organization|30,31 organization|32,34 organization|0,5 work-for
+
+The trud newspaper features the last part of the memoirs by former commander of the Soviet Navy Nikolai Kuznetsov who personally knew Stalin , under the headline " Stalin 's Death . "
+15,16 location|16,17 organization|17,19 people|22,23 people|22,23 people|15,17 r_organization-in|15,18 r_live-in|15,19 r_live-in|16,18 r_work-for|16,19 r_work-for|15,23 r_live-in|15,23 r_live-in
+15,16 location|16,17 organization|17,19 people|22,23 people|22,23 people|15,17 r_organization-in|15,19 r_live-in|16,19 r_work-for|15,23 r_live-in|15,23 r_live-in
+
+National Congress President Vinicio Villar Anleu commented on the implications of the case : ( Begin recording ) ( Villar Anleu ) It seems to us -- and we uphold Congress ' institutional policy -- that the nation 's laws must be respected and that the Constitution must be respected .
+0,2 organization|3,6 people|4,6 people|1,2 organization|0,4 r_work-for|0,5 r_work-for|0,6 r_work-for|1,4 r_work-for|1,5 r_work-for|1,6 r_work-for
+0,2 organization|3,6 people|4,6 people|1,2 organization|0,6 r_work-for
+
+Several organizations planned remembrances later today at Parkland Memorial Hospital , where Kennedy was taken after being shot , and the Texas Theater , where Lee Harvey Oswald was arrested hours after the assassination .
+7,10 organization|12,13 people|21,23 location|25,28 people|12,26 r_kill|12,27 r_kill|12,28 r_kill
+7,10 organization|12,13 people|21,23 location|25,28 people|12,28 r_kill
+
+Ambassador Miller is also scheduled to meet with Crimean Deputy Yevhen Saburov and Black Sea Fleet Commander Eduard Baltin.
+1,2 people|10,12 people|13,16 organization|17,19 people|13,18 r_work-for|13,19 r_work-for|14,18 r_work-for|14,19 r_work-for|15,18 r_work-for|15,19 r_work-for
+1,2 people|10,12 people|13,16 organization|17,19 people|13,19 r_work-for
+
+` ` I think the longer they talk , the longer they delay , the greater the chances that we may turn this around and get them all home , ' ' said Ms. Say in Nashville , Tenn.
+33,35 people|36,37 location|38,39 location|36,39 located-in
+33,35 people|36,37 location|38,39 location|36,39 located-in
+
+A chart used to decipher the code was found among Booth 's effects after he was shot by Union soldiers 11 days after the assassination of Lincoln .
+10,11 people|18,19 organization|26,27 people|10,27 kill
+10,11 people|18,19 organization|26,27 people|10,27 kill
+
+( Text ) Taipei , Jan. 20 ( CNA ) -- Foreign Chien Fu will leave for the United States on January 29 to give two speeches in the Boston area .
+3,4 location|5,7 other|12,14 people|18,20 location|21,23 other|29,30 location|3,13 r_live-in|3,14 r_live-in
+3,4 location|5,7 other|12,14 people|18,20 location|21,23 other|29,30 location|3,14 r_live-in
+
+` ` ` Ryan 's Hope ' has not been rejected by the audience , it has simply been unavailable to viewers , ' ' Jo Ann Emmerich , vice president of daytime programs for ABC Entertainment , said at the time .
+3,6 other|25,28 people|35,37 organization|25,36 work-for|25,37 work-for|26,36 work-for|26,37 work-for|27,36 work-for|27,37 work-for
+3,6 other|25,28 people|35,37 organization|25,37 work-for
+
+On this date : In 1843 , the 25th President of the United States , William McKinley , was born in Niles , Ohio .
+12,14 location|15,17 people|21,24 location|15,22 live-in|15,23 live-in|15,24 live-in|16,22 live-in|16,23 live-in|16,24 live-in
+12,14 location|15,17 people|21,24 location|15,24 live-in
+
+Moscow MOSKOVSKIY KOMSOMOLETS
+0,1 location|1,3 organization|0,2 r_organization-in|0,3 r_organization-in
+0,1 location|1,3 organization|0,3 r_organization-in
+
+In 1874 , Herbert Clark Hoover , the 31st president of the United States , was born in West Branch , Iowa .
+3,6 people|12,14 location|18,22 location|3,19 live-in|3,20 live-in|3,21 live-in|3,22 live-in|4,19 live-in|4,20 live-in|4,21 live-in|4,22 live-in|5,19 live-in|5,20 live-in|5,21 live-in|5,22 live-in
+3,6 people|12,14 location|18,22 location|3,22 live-in
+
+Many had hoped their loyality would convince the banks , primarily the Frankfurt-based Commerzbank and Giessen 's Bezirksparkasse bank , to continue to help Minox , but the hope backfired on those who were layed off , he said .
+13,14 organization|15,16 location|17,19 organization|24,25 organization|15,18 r_organization-in|15,19 r_organization-in
+13,14 organization|15,16 location|17,19 organization|24,25 organization|15,19 r_organization-in
+
+An abstract theory explaining the structure of minimal surface in Riemann 's multi-dimensional space has been developed by Wang Guangyan , with the assistance of his PhD student , at the Institute of Mathematics .
+18,20 people|31,34 organization|18,32 work-for|18,33 work-for|18,34 work-for|19,32 work-for|19,33 work-for|19,34 work-for
+18,20 people|31,34 organization|18,34 work-for
+
+Owen Le Vallee , president of the Liberation Day Committee , said his mother found a starving German in the outhouse during the year after D-Day , the 1944 Allied invasion of Europe.
+0,3 people|7,10 organization|17,18 other|28,29 other|32,33 location|0,8 work-for|0,9 work-for|0,10 work-for|1,8 work-for|1,9 work-for|1,10 work-for|2,8 work-for|2,9 work-for|2,10 work-for
+0,3 people|7,10 organization|17,18 other|28,29 other|32,33 location|0,10 work-for
+
+KARBALA , Iraq ( AP )
+0,1 location|2,3 location|4,5 organization|0,3 located-in|0,5 r_organization-in|2,5 r_organization-in
+0,1 location|2,3 location|4,5 organization|0,3 located-in|0,5 r_organization-in|2,5 r_organization-in
+
+Another beacon of the better life is Prateep Ungsongtham , known as the ` ` Slum Angel of Bangkok. ' '
+7,9 people|18,19 location|7,19 live-in|8,19 live-in
+7,9 people|18,19 location|7,19 live-in
+
+( Text ) In an interview with Interfax the chief of Belarus 's Security Committee , Eduard Shirkovskiy , has dismissed rumors that the copies of the files relating to Lee Harvey Oswald , who was charged with having assassinated President John Kennedy , will be handed to President Bill Clinton during his visit to Minsk .
+1,2 other|7,8 people|11,12 people|13,15 organization|16,18 people|30,33 people|40,43 people|48,51 people|55,56 location|30,41 kill|30,42 kill|30,43 kill|31,41 kill|31,42 kill|31,43 kill|32,41 kill|32,42 kill|32,43 kill
+1,2 other|7,8 people|11,12 people|13,15 organization|16,18 people|30,33 people|40,43 people|48,51 people|55,56 location|30,43 kill
+
+Michael Henley Jr. , 10 , disappeared on a turkey hunt with his father in April 1988 in the mountains near their hometown of Grants , N.M. Ms. Calico , then 19 , disappeared five months later while bicycling on a country road near her hometown of Belen , N.M.
+0,3 people|16,17 other|24,25 location|26,27 location|27,29 people|47,48 location|26,27 location|0,25 live-in|1,25 live-in|2,25 live-in|0,27 live-in|1,27 live-in|2,27 live-in|24,27 located-in|26,28 r_live-in|26,29 r_live-in|27,48 live-in|28,48 live-in|26,28 r_live-in|26,29 r_live-in|26,48 r_located-in
+0,3 people|16,17 other|24,25 location|26,27 location|27,29 people|47,48 location|26,27 location|0,25 live-in|0,27 live-in|24,27 located-in|26,29 r_live-in|27,48 live-in|26,29 r_live-in|26,48 r_located-in
+
+( Text ) Moscow April 25 TASS -- Preliminary marine pollution measurements taken from the sites of radioactive waste dumping by the former Soviet Union and Japan in the Sea of Japan did not reveal any Caesium-137 radioactive level fluctuations .
+3,4 location|4,6 other|6,7 organization|23,25 location|26,27 location|29,32 location|3,7 r_organization-in
+3,4 location|4,6 other|6,7 organization|23,25 location|26,27 location|29,32 location|3,7 r_organization-in
+
+Police arrested 10 Spanish Basque militants , including Jose Antonio Urutigoechea , considered by Madrid to be a top leader of the Spanish Basque separatist organization ETA , authorities said today .
+3,4 other|4,5 other|8,11 people|14,15 location|3,4 other|4,5 other|26,27 organization|8,27 work-for|9,27 work-for|10,27 work-for
+3,4 other|4,5 other|8,11 people|14,15 location|3,4 other|4,5 other|26,27 organization|8,27 work-for
+
+The Warren Commission concluded that Oswald , acting alone , fired the shots that killed Kennedy and wounded John Connally , then the Texas governor .
+1,3 organization|5,6 people|15,16 people|18,20 people|23,24 location|5,16 kill
+1,3 organization|5,6 people|15,16 people|18,20 people|23,24 location|5,16 kill
+
+The advisory committee voted 7-1 to recommend that the drug remain a prescription ingredient , said Susan Cruzan , an FDA spokeswoman.
+16,18 people|20,21 organization|16,21 work-for|17,21 work-for
+16,18 people|20,21 organization|16,21 work-for
+
+` ` It 's been a nightmare , ' ' said Shelley Yeager , director of the Clara Barton camp at Oxford in central Massachusetts.
+11,13 people|21,22 location|24,25 location|21,25 located-in
+11,13 people|21,22 location|24,25 location|21,25 located-in
+
+And William McKinley 's assassin Leon Czolgosz croons " The Ballad of Czolgosz " from the electric chair .
+1,3 people|5,7 people|10,11 other|6,7 people|1,6 r_kill|1,7 r_kill|2,6 r_kill|2,7 r_kill
+1,3 people|5,7 people|10,11 other|6,7 people|1,7 r_kill
+
+Yeltsin Orders Audit of Ostankino Finances MK1401103094 Moscow MOSKOVSKIY KOMSOMOLETS in Russian 14 Jan 94 p 1
+0,1 people|7,8 location|8,10 organization|12,15 other|7,9 r_organization-in|7,10 r_organization-in
+0,1 people|7,8 location|8,10 organization|12,15 other|7,10 r_organization-in
+
+` ` We are constantly getting confirmation that the U.S. economy is no longer in a boom phase , and that interest rates are falling , ' ' said a dealer at a U.S. bank in Frankfurt , West Germany.
+9,10 location|9,10 location|36,37 location|38,40 location|36,39 located-in|36,40 located-in
+9,10 location|9,10 location|36,37 location|38,40 location|36,40 located-in
+
+In 1969 , Sirhan Sirhan was convicted of assassinating U.S. Sen. Robert F. Kennedy .
+3,5 people|9,14 people|3,10 kill|3,11 kill|3,12 kill|3,13 kill|3,14 kill|4,10 kill|4,11 kill|4,12 kill|4,13 kill|4,14 kill
+3,5 people|9,14 people|3,14 kill
+
+Jesse Jackson easily won the Democratic precinct caucuses Saturday in his native South Carolina , while Sen. Bob Dole went on Illinois television for a half-hour plea for Republican votes in a state where he said he is the underdog .
+0,2 people|8,9 other|12,14 location|16,19 people|21,22 location|0,13 live-in|0,14 live-in|1,13 live-in|1,14 live-in
+0,2 people|8,9 other|12,14 location|16,19 people|21,22 location|0,14 live-in
+
+MEXICO CITY ( AP )
+0,2 location|3,4 organization|0,4 r_organization-in|1,4 r_organization-in
+0,2 location|3,4 organization|0,4 r_organization-in
+
+Temperatures around the nation at 2 a.m. EST ranged from 2 degrees at Jackson , Wyo. , and Gunnison , Colo. , to 89 degrees at McAllen , Texas .
+5,8 other|13,14 location|15,16 location|18,19 location|20,21 location|26,27 location|28,29 location|13,16 located-in|18,21 located-in|26,29 located-in
+5,8 other|13,14 location|15,16 location|18,19 location|20,21 location|26,27 location|28,29 location|13,16 located-in|18,21 located-in|26,29 located-in
+
+` ` We certainly believe it 's a prudent measure to go out and check to make sure there 's nothing wrong with the fleet , ' ' Boeing Commercial Airplanes spokesman Craig Martin said Wednesday in Seattle .
+28,31 organization|32,34 people|37,38 location|28,33 r_work-for|28,34 r_work-for|29,33 r_work-for|29,34 r_work-for|30,33 r_work-for|30,34 r_work-for
+28,31 organization|32,34 people|37,38 location|28,34 r_work-for
+
+As Rochester teacher union leader Adam Urbanski put it : ` ` We have set the table ; we have not served the meal yet. ' '
+1,2 location|5,7 people|1,6 r_live-in|1,7 r_live-in
+1,2 location|5,7 people|1,7 r_live-in
+
+Tokyo MAINICHI SHIMBUN
+0,1 location|1,3 organization|0,2 r_organization-in|0,3 r_organization-in
+0,1 location|1,3 organization|0,3 r_organization-in
+
+If the elections had been held during the last 10 days of May , that is , after the debate , Fernandez de Cevallos would reportedly be the next president of Mexico with 33.2 percent of the vote .
+21,24 people|31,32 location|33,35 other|21,32 live-in|22,32 live-in|23,32 live-in
+21,24 people|31,32 location|33,35 other|21,32 live-in
+
+Authorities say Oswald opened fire from a sixth-floor window there into Kennedy 's motorcade .
+2,3 people|11,12 people|2,12 kill
+2,3 people|11,12 people|2,12 kill
+
+Meanwhile , the historical society in Beaumont , Texas , Richardson 's hometown , plans to raise two statues on Feb. 3 _ one of Buddy Holly , Richardson and Valens , and a second of the Big Bopper alone .
+6,9 location|10,11 people|20,21 other|25,27 people|10,11 people|30,31 people|37,39 other|6,11 r_live-in|7,11 r_live-in|8,11 r_live-in
+6,9 location|10,11 people|20,21 other|25,27 people|10,11 people|30,31 people|37,39 other|6,11 r_live-in
+
+At a briefing at NRC headquarters in nearby Rockville , Md. , Bernero said the volcanic cones in the area of Yucca Mountain have been a cause of concern for NRC experts.
+4,5 organization|8,9 location|10,11 location|12,13 people|21,23 location|4,5 organization|4,9 organization-in|4,11 organization-in|8,11 located-in|4,13 r_work-for|4,9 organization-in|4,11 organization-in
+4,5 organization|8,9 location|10,11 location|12,13 people|21,23 location|4,5 organization|4,9 organization-in|4,11 organization-in|8,11 located-in|4,13 r_work-for|4,9 organization-in|4,11 organization-in
+
+( Text ) Saint-Gall , Switzerland , Feb 2 ( AFP ) -- The wreck of a twin-engine aircraft has been found 160 metres below the surface of Lake Constance , Swiss police said Tuesday ( 1 February ) .
+3,4 location|5,6 location|7,9 other|10,11 organization|22,24 other|28,30 location|31,32 other|35,38 other|3,6 located-in|3,11 r_organization-in|5,11 r_organization-in
+3,4 location|5,6 location|7,9 other|10,11 organization|22,24 other|28,30 location|31,32 other|35,38 other|3,6 located-in|3,11 r_organization-in|5,11 r_organization-in
+
+According to the communique , clashes are continuing mainly in the Rancho Nuevo area at the military base in the southern Chiapas State .
+11,13 location|21,23 location|11,22 located-in|11,23 located-in|12,22 located-in|12,23 located-in
+11,13 location|21,23 location|11,23 located-in
+
+Dallas police arrested Oswald there on Nov. 22 , 1963 , after the assassination of President John F. Kennedy .
+0,1 location|3,4 people|6,7 other|15,19 people|3,16 kill|3,17 kill|3,18 kill|3,19 kill
+0,1 location|3,4 people|6,7 other|15,19 people|3,19 kill
+
+In Washington state , near the Canadian border , firefighters hoped to contain an 850-acre fire by tonight , said Greg Thayer of the Forest Service.
+1,2 location|20,22 people|24,26 organization|20,25 work-for|20,26 work-for|21,25 work-for|21,26 work-for
+1,2 location|20,22 people|24,26 organization|20,26 work-for
+
+In an " electoral communique " signed by CNTP Secretary Luis Cobos R. , the organization said it hopes that with this decision " we will achieve the return of the Torrijist forces to power to stimulate the process of national liberation . "
+8,9 organization|10,13 people|8,11 r_work-for|8,12 r_work-for|8,13 r_work-for
+8,9 organization|10,13 people|8,13 r_work-for
+
+In it , actor Edwin Booth tells us his version of his life story , in which he and not his brother John Wilkes shoots Abraham Lincoln at Ford 's Theater .
+4,6 people|22,24 people|25,27 people|28,29 other|22,26 kill|22,27 kill|23,26 kill|23,27 kill
+4,6 people|22,24 people|25,27 people|28,29 other|22,27 kill
+
+In 1801 , Mormon leader Brigham Young was born in Whitingham , Vt .
+3,4 organization|5,7 people|10,13 location|5,11 live-in|5,12 live-in|5,13 live-in|6,11 live-in|6,12 live-in|6,13 live-in
+3,4 organization|5,7 people|10,13 location|5,13 live-in
+
+The Warren Commission concluded that Lee Harvey Oswald , acting alone , fired the shots that killed Kennedy and wounded John Connally , then the Texas governor , on Nov. 22 , 1963 in Dallas .
+1,3 organization|5,8 people|17,18 people|20,22 people|25,26 location|29,30 other|34,35 location|5,18 kill|6,18 kill|7,18 kill
+1,3 organization|5,8 people|17,18 people|20,22 people|25,26 location|29,30 other|34,35 location|5,18 kill
+
+The spilled fuel covered an area two miles long and nearly a half-mile wide , said Whitefish City Attorney Tom Muri.
+6,8 other|16,18 location|19,21 people|16,20 r_live-in|16,21 r_live-in|17,20 r_live-in|17,21 r_live-in
+6,8 other|16,18 location|19,21 people|16,21 r_live-in
+
+In California 's Sierra Nevada foothills , firefighters today declared they had contained a fire that blackened 11 , 700 acres of brush and grassland and destroyed seven homes.
+1,2 location|3,5 location|17,21 other|1,4 r_located-in|1,5 r_located-in
+1,2 location|3,5 location|17,21 other|1,5 r_located-in
+
+" I was hearing the same story , " says James Hackett , an executive with Titan Systems and one of the leading missile experts in the U.S .
+10,12 people|16,18 organization|27,29 location|10,17 work-for|10,18 work-for|11,17 work-for|11,18 work-for|10,28 live-in|10,29 live-in|11,28 live-in|11,29 live-in
+10,12 people|16,18 organization|27,29 location|10,18 work-for|10,29 live-in
+
+The quake leveled much of Leninakan , Armenia 's second-largest city 10 miles east of the Turkish border and left thousands homeless .
+5,6 location|7,8 location|11,13 other|5,8 located-in
+5,6 location|7,8 location|11,13 other|5,8 located-in
+
+Pittsburgh-Corning Corp. of Pittsburgh ;
+0,2 organization|3,4 location|0,4 organization-in|1,4 organization-in
+0,2 organization|3,4 location|0,4 organization-in
+
+Barrett is a member of the Illinois Commerce Commission , and Marshall is a lawyer and former legislative aide to Patrick.
+0,1 people|6,9 organization|11,12 people|20,21 people|0,7 work-for|0,8 work-for|0,9 work-for
+0,1 people|6,9 organization|11,12 people|20,21 people|0,9 work-for
+
+During my recent tour , I met with Sultan Qabus Bin-Sa 'id of Oman .
+8,12 people|13,14 location|8,14 live-in|9,14 live-in|10,14 live-in|11,14 live-in
+8,12 people|13,14 location|8,14 live-in
+
+Ten years ago : James Earl Ray , convicted of assassinating Dr. Martin Luther King Jr. in 1968 , repeated his assertion at a Capitol Hill hearing that he did not commit the crime , saying he 'd been set up to take the blame by a mysterious man called Raoul .
+4,7 people|11,16 people|24,26 organization|50,51 people|4,12 kill|4,13 kill|4,14 kill|4,15 kill|4,16 kill|5,12 kill|5,13 kill|5,14 kill|5,15 kill|5,16 kill|6,12 kill|6,13 kill|6,14 kill|6,15 kill|6,16 kill
+4,7 people|11,16 people|24,26 organization|50,51 people|4,16 kill
+
+They will also be cleaning the car Oswald drove on the day Kennedy was shot and the ambulance that took Oswald to hospital after he was shot by Jack Ruby .
+7,8 people|12,13 people|7,8 people|28,30 people|7,29 r_kill|7,30 r_kill
+7,8 people|12,13 people|7,8 people|28,30 people|7,30 r_kill
+
+Widespread street flooding was reported throughout Brazoria , Fort Bend , Galveston and southern Harris Counties in southeast Texas.
+6,7 location|8,10 location|11,12 location|14,16 location|18,19 location|6,19 located-in|8,19 located-in|9,19 located-in|11,19 located-in|14,19 located-in|15,19 located-in
+6,7 location|8,10 location|11,12 location|14,16 location|18,19 location|6,19 located-in|8,19 located-in|11,19 located-in|14,19 located-in
+
+LD2804174994 Moscow INTERFAX in English 1601 GMT 28 Apr 94
+1,2 location|2,3 organization|5,7 other|7,10 other|1,3 r_organization-in
+1,2 location|2,3 organization|5,7 other|7,10 other|1,3 r_organization-in
+
+Navy sources said the Coral Sea , on duty with the 6th Fleet in the Mediterranean , left ` ` a few hours ' ' ahead of its scheduled departure.
+0,1 organization|4,6 other|11,13 organization|15,16 location|11,16 organization-in|12,16 organization-in
+0,1 organization|4,6 other|11,13 organization|15,16 location|11,16 organization-in
+
+It is one of many deep below the arid surface , fed by underground channels that carry rainwater from the Najd plateau in northern Saudi Arabia to the west.
+20,22 location|24,26 location|20,25 located-in|20,26 located-in|21,25 located-in|21,26 located-in
+20,22 location|24,26 location|20,26 located-in
+

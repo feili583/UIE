@@ -1,338 +1,259 @@
 {
-    "relation_entity": {
-        "ORG-AFF": [
-            "PER",
-            "ORG",
-            "GPE"
-        ],
-        "ART": [
-            "FAC",
-            "VEH",
-            "WEA",
-            "ORG",
-            "GPE",
-            "PER"
-        ],
-        "r_ART": [
-            "FAC",
-            "VEH",
-            "WEA",
-            "ORG",
-            "GPE",
-            "PER"
-        ],
-        "r_PART-WHOLE": [
-            "FAC",
-            "VEH",
-            "LOC",
-            "WEA",
-            "ORG",
-            "GPE",
-            "PER"
-        ],
-        "r_ORG-AFF": [
-            "PER",
-            "ORG",
-            "GPE"
-        ],
-        "PHYS": [
-            "FAC",
-            "VEH",
-            "LOC",
-            "ORG",
-            "GPE",
-            "PER"
-        ],
-        "GEN-AFF": [
-            "PER",
-            "ORG",
-            "LOC",
-            "GPE"
-        ],
-        "PER-SOC": [
-            "PER",
-            "ORG"
-        ],
-        "PART-WHOLE": [
-            "FAC",
-            "VEH",
-            "LOC",
-            "WEA",
-            "ORG",
-            "GPE",
-            "PER"
-        ],
-        "r_PHYS": [
-            "PER",
-            "LOC",
-            "GPE",
-            "FAC"
-        ],
-        "r_GEN-AFF": [
-            "FAC",
-            "LOC",
-            "ORG",
-            "GPE",
-            "PER"
-        ],
-        "r_PER-SOC": [
-            "PER"
-        ]
-    },
+    "relation_entity": {},
     "event_role": {
         "Movement.Transport": [
-            "Agent",
-            "Destination",
             "r_Vehicle",
-            "r_Destination",
-            "Vehicle",
-            "r_Origin",
-            "r_Agent",
-            "r_Artifact",
             "Place",
-            "Origin",
-            "Artifact"
+            "Destination",
+            "Agent",
+            "r_Agent",
+            "r_Destination",
+            "r_Origin",
+            "r_Artifact",
+            "Artifact",
+            "Vehicle",
+            "Origin"
         ],
         "Personnel.Elect": [
+            "r_Place",
             "Entity",
-            "Person",
-            "r_Person",
-            "r_Place",
-            "r_Entity",
-            "Place"
-        ],
-        "Personnel.Start-Position": [
-            "Entity",
-            "Person",
-            "r_Person",
-            "r_Place",
-            "r_Entity",
-            "Place"
-        ],
-        "Personnel.Nominate": [
-            "Agent",
-            "Person",
-            "r_Person",
-            "r_Agent"
-        ],
-        "Conflict.Attack": [
-            "Attacker",
-            "r_Target",
-            "Target",
-            "r_Victim",
-            "Instrument",
-            "r_Place",
-            "r_Attacker",
-            "r_Instrument",
-            "Place"
-        ],
-        "Personnel.End-Position": [
-            "Entity",
-            "Person",
-            "r_Person",
-            "r_Place",
-            "r_Entity",
-            "Place"
-        ],
-        "Contact.Meet": [
-            "r_Place",
-            "Place",
-            "Entity",
-            "r_Entity"
-        ],
-        "Life.Marry": [
-            "r_Place",
             "Place",
             "Person",
+            "r_Entity",
             "r_Person"
         ],
-        "Transaction.Transfer-Money": [
-            "r_Beneficiary",
-            "Giver",
-            "r_Giver",
+        "Personnel.Start-Position": [
             "r_Place",
-            "r_Recipient",
-            "Beneficiary",
             "Place",
+            "Entity",
+            "Person",
+            "r_Entity",
+            "r_Person"
+        ],
+        "Personnel.Nominate": [
+            "r_Person",
+            "Agent",
+            "r_Agent",
+            "Person"
+        ],
+        "Conflict.Attack": [
+            "Target",
+            "r_Place",
+            "Place",
+            "r_Victim",
+            "r_Instrument",
+            "r_Target",
+            "Instrument",
+            "r_Attacker",
+            "Attacker"
+        ],
+        "Personnel.End-Position": [
+            "r_Place",
+            "Entity",
+            "Place",
+            "Person",
+            "r_Entity",
+            "r_Person"
+        ],
+        "Contact.Meet": [
+            "Entity",
+            "r_Place",
+            "r_Entity",
+            "Place"
+        ],
+        "Life.Marry": [
+            "r_Person",
+            "r_Place",
+            "Person",
+            "Place"
+        ],
+        "Transaction.Transfer-Money": [
+            "r_Giver",
+            "r_Recipient",
+            "r_Place",
+            "Place",
+            "Beneficiary",
+            "Giver",
+            "r_Beneficiary",
             "Recipient"
         ],
         "Conflict.Demonstrate": [
-            "r_Place",
             "Place",
-            "Entity",
-            "r_Entity"
+            "r_Place",
+            "r_Entity",
+            "Entity"
         ],
         "Business.End-Org": [
-            "Place",
+            "r_Org",
             "Org",
-            "r_Org"
+            "Place"
         ],
         "Justice.Sue": [
-            "Defendant",
-            "r_Adjudicator",
             "r_Place",
-            "Adjudicator",
-            "Plaintiff",
             "Place",
+            "r_Defendant",
             "r_Plaintiff",
-            "r_Defendant"
+            "Plaintiff",
+            "Adjudicator",
+            "Defendant",
+            "r_Adjudicator"
         ],
         "Life.Injure": [
-            "Agent",
-            "r_Victim",
-            "Instrument",
             "r_Place",
+            "Place",
+            "r_Victim",
             "r_Agent",
             "r_Instrument",
-            "Place",
-            "Victim"
+            "Victim",
+            "Instrument",
+            "Agent"
         ],
         "Life.Die": [
-            "Agent",
-            "Person",
-            "r_Victim",
-            "Instrument",
             "r_Place",
-            "r_Agent",
-            "r_Instrument",
             "Place",
-            "Victim"
+            "r_Victim",
+            "r_Instrument",
+            "r_Agent",
+            "Victim",
+            "Person",
+            "Instrument",
+            "Agent"
         ],
         "Justice.Arrest-Jail": [
-            "Agent",
+            "r_Place",
+            "Place",
+            "r_Agent",
             "Person",
             "r_Person",
-            "r_Place",
-            "r_Agent",
-            "Place"
+            "Agent"
         ],
         "Contact.Phone-Write": [
-            "r_Place",
-            "Place",
             "Entity",
-            "r_Entity"
+            "r_Place",
+            "r_Entity",
+            "Place"
         ],
         "Transaction.Transfer-Ownership": [
-            "r_Beneficiary",
-            "Seller",
-            "r_Seller",
             "Buyer",
             "r_Place",
-            "r_Buyer",
-            "Beneficiary",
-            "r_Artifact",
             "Place",
-            "Artifact"
+            "Beneficiary",
+            "r_Seller",
+            "r_Beneficiary",
+            "r_Artifact",
+            "Artifact",
+            "Seller",
+            "r_Buyer"
         ],
         "Justice.Execute": [
+            "r_Place",
+            "Place",
             "Agent",
-            "r_Person",
             "Person",
-            "r_Place",
             "r_Agent",
-            "Place"
-        ],
-        "Justice.Trial-Hearing": [
-            "Prosecutor",
-            "r_Prosecutor",
-            "r_Place",
-            "r_Adjudicator",
-            "Adjudicator",
-            "Place",
-            "Defendant",
-            "r_Defendant"
-        ],
-        "Life.Be-Born": [
-            "r_Place",
-            "Place",
-            "Person",
             "r_Person"
         ],
-        "Justice.Charge-Indict": [
-            "Prosecutor",
+        "Justice.Trial-Hearing": [
             "r_Prosecutor",
             "r_Place",
-            "r_Adjudicator",
-            "Adjudicator",
             "Place",
+            "r_Defendant",
+            "Adjudicator",
+            "Prosecutor",
             "Defendant",
-            "r_Defendant"
+            "r_Adjudicator"
+        ],
+        "Life.Be-Born": [
+            "r_Person",
+            "Place",
+            "r_Place",
+            "Person"
+        ],
+        "Justice.Charge-Indict": [
+            "r_Prosecutor",
+            "r_Place",
+            "Place",
+            "r_Defendant",
+            "Adjudicator",
+            "Prosecutor",
+            "Defendant",
+            "r_Adjudicator"
         ],
         "Business.Start-Org": [
-            "Agent",
-            "r_Org",
             "r_Place",
+            "Place",
+            "r_Org",
             "Org",
             "r_Agent",
-            "Place"
+            "Agent"
         ],
         "Justice.Convict": [
             "r_Place",
-            "r_Adjudicator",
-            "Adjudicator",
             "Place",
+            "r_Defendant",
+            "Adjudicator",
             "Defendant",
-            "r_Defendant"
+            "r_Adjudicator"
         ],
         "Justice.Sentence": [
-            "r_Adjudicator",
             "r_Place",
-            "Adjudicator",
             "Place",
+            "r_Defendant",
+            "Adjudicator",
             "Defendant",
-            "r_Defendant"
+            "r_Adjudicator"
         ],
         "Business.Declare-Bankruptcy": [
-            "Place",
+            "r_Org",
             "Org",
-            "r_Org"
+            "Place"
         ],
         "Justice.Release-Parole": [
-            "Person",
-            "r_Person",
             "r_Place",
+            "Place",
+            "Person",
             "r_Entity",
-            "Place"
+            "r_Person"
         ],
         "Justice.Fine": [
-            "Entity",
             "r_Place",
-            "r_Adjudicator",
+            "Entity",
+            "Place",
             "r_Entity",
-            "Place"
+            "r_Adjudicator"
         ],
         "Justice.Pardon": [
+            "Defendant",
             "r_Adjudicator",
-            "r_Place",
-            "Defendant"
+            "r_Place"
         ],
         "Justice.Appeal": [
             "r_Place",
-            "r_Adjudicator",
-            "Adjudicator",
-            "Plaintiff",
             "Place",
-            "r_Plaintiff"
+            "r_Plaintiff",
+            "Plaintiff",
+            "Adjudicator",
+            "r_Adjudicator"
         ],
         "Justice.Extradite": [
-            "Agent",
             "Destination",
+            "r_Agent",
             "r_Destination",
             "r_Origin",
-            "r_Agent",
+            "Agent",
             "Origin"
         ],
         "Life.Divorce": [
-            "Person",
-            "r_Person"
+            "r_Person",
+            "Person"
         ],
         "Business.Merge-Org": [
-            "Org",
-            "r_Org"
+            "r_Org",
+            "Org"
         ],
         "Justice.Acquit": [
-            "r_Adjudicator",
-            "r_Defendant"
+            "r_Defendant",
+            "r_Adjudicator"
         ]
     },
     "role_entity": {
@@ -340,15 +261,15 @@
             "VEH"
         ],
         "r_Artifact": [
-            "FAC",
             "VEH",
+            "FAC",
             "WEA",
             "ORG",
             "PER"
         ],
         "Destination": [
-            "LOC",
             "GPE",
+            "LOC",
             "FAC"
         ],
         "Person": [
@@ -356,57 +277,57 @@
         ],
         "r_Agent": [
             "PER",
-            "ORG",
-            "GPE"
+            "GPE",
+            "ORG"
         ],
         "Entity": [
-            "PER",
+            "GPE",
             "ORG",
-            "GPE"
+            "PER"
         ],
         "r_Person": [
             "PER"
         ],
         "Place": [
-            "LOC",
             "GPE",
+            "LOC",
             "FAC"
         ],
         "Agent": [
             "PER",
-            "ORG",
-            "GPE"
+            "GPE",
+            "ORG"
         ],
         "r_Target": [
             "PER",
             "ORG",
-            "FAC",
-            "VEH"
+            "VEH",
+            "FAC"
         ],
         "Attacker": [
             "PER",
-            "ORG",
-            "GPE"
+            "GPE",
+            "ORG"
         ],
         "r_Giver": [
             "PER",
-            "ORG",
-            "GPE"
+            "GPE",
+            "ORG"
         ],
         "Recipient": [
             "PER",
-            "ORG",
-            "GPE"
+            "GPE",
+            "ORG"
         ],
         "r_Attacker": [
-            "PER",
+            "GPE",
             "ORG",
-            "GPE"
+            "PER"
         ],
         "r_Entity": [
             "PER",
-            "ORG",
-            "GPE"
+            "GPE",
+            "ORG"
         ],
         "Plaintiff": [
             "PER"
@@ -416,34 +337,34 @@
         ],
         "r_Recipient": [
             "PER",
-            "ORG",
-            "GPE"
+            "GPE",
+            "ORG"
         ],
         "Victim": [
             "PER"
         ],
         "r_Place": [
-            "LOC",
             "GPE",
+            "LOC",
             "FAC"
         ],
         "Target": [
-            "FAC",
             "VEH",
-            "LOC",
+            "FAC",
             "WEA",
             "ORG",
-            "PER"
+            "PER",
+            "LOC"
         ],
         "r_Buyer": [
             "PER",
-            "ORG",
-            "GPE"
+            "GPE",
+            "ORG"
         ],
         "Seller": [
             "PER",
-            "ORG",
-            "GPE"
+            "GPE",
+            "ORG"
         ],
         "Instrument": [
             "WEA",
@@ -454,20 +375,20 @@
             "VEH"
         ],
         "Artifact": [
-            "FAC",
             "VEH",
+            "FAC",
             "WEA",
             "ORG",
             "PER"
         ],
         "r_Origin": [
-            "LOC",
             "GPE",
+            "LOC",
             "FAC"
         ],
         "Origin": [
-            "LOC",
             "GPE",
+            "LOC",
             "FAC"
         ],
         "r_Org": [
@@ -478,13 +399,13 @@
             "VEH"
         ],
         "r_Destination": [
-            "LOC",
             "GPE",
+            "LOC",
             "FAC"
         ],
         "r_Beneficiary": [
-            "PER",
-            "GPE"
+            "GPE",
+            "PER"
         ],
         "r_Defendant": [
             "PER",
@@ -492,8 +413,8 @@
         ],
         "Adjudicator": [
             "PER",
-            "ORG",
-            "GPE"
+            "GPE",
+            "ORG"
         ],
         "r_Adjudicator": [
             "PER",
@@ -501,148 +422,135 @@
         ],
         "Giver": [
             "PER",
-            "ORG",
-            "GPE"
+            "GPE",
+            "ORG"
         ],
         "Defendant": [
             "PER",
-            "ORG",
-            "GPE"
+            "GPE",
+            "ORG"
         ],
         "r_Prosecutor": [
             "PER",
-            "ORG",
-            "GPE"
+            "GPE",
+            "ORG"
         ],
         "Buyer": [
             "PER",
-            "ORG",
-            "GPE"
+            "GPE",
+            "ORG"
         ],
         "Prosecutor": [
             "PER",
             "ORG"
         ],
         "r_Seller": [
-            "ORG",
-            "GPE"
+            "GPE",
+            "ORG"
         ],
         "Org": [
             "ORG"
         ],
         "r_Plaintiff": [
             "PER",
-            "ORG",
-            "GPE"
+            "GPE",
+            "ORG"
         ],
         "Beneficiary": [
             "PER",
-            "ORG",
-            "GPE"
+            "GPE",
+            "ORG"
         ]
     },
     "ner": [
-        "FAC",
         "VEH",
-        "LOC",
+        "FAC",
+        "GPE",
         "WEA",
         "ORG",
-        "GPE",
-        "PER"
+        "PER",
+        "LOC"
     ],
-    "relation": [
-        "r_ORG-AFF",
-        "ORG-AFF",
-        "PER-SOC",
-        "PART-WHOLE",
-        "r_ART",
-        "PHYS",
-        "r_PHYS",
-        "r_PER-SOC",
-        "GEN-AFF",
-        "r_PART-WHOLE",
-        "r_GEN-AFF",
-        "ART"
-    ],
+    "relation": [],
     "event": [
-        "Justice.Sue",
-        "Justice.Pardon",
-        "Personnel.End-Position",
-        "Justice.Release-Parole",
-        "Business.Merge-Org",
-        "Justice.Fine",
-        "Personnel.Start-Position",
-        "Contact.Meet",
-        "Business.End-Org",
-        "Conflict.Demonstrate",
-        "Justice.Arrest-Jail",
-        "Life.Marry",
-        "Conflict.Attack",
-        "Life.Be-Born",
-        "Business.Declare-Bankruptcy",
-        "Justice.Sentence",
-        "Life.Injure",
-        "Life.Divorce",
-        "Justice.Charge-Indict",
-        "Justice.Extradite",
-        "Contact.Phone-Write",
-        "Transaction.Transfer-Money",
-        "Movement.Transport",
-        "Business.Start-Org",
-        "Justice.Acquit",
         "Justice.Trial-Hearing",
-        "Personnel.Nominate",
-        "Life.Die",
-        "Justice.Convict",
+        "Transaction.Transfer-Money",
         "Personnel.Elect",
-        "Justice.Execute",
+        "Justice.Pardon",
+        "Contact.Phone-Write",
+        "Contact.Meet",
+        "Business.Declare-Bankruptcy",
+        "Business.Merge-Org",
+        "Personnel.End-Position",
+        "Business.End-Org",
+        "Life.Injure",
+        "Justice.Release-Parole",
+        "Business.Start-Org",
+        "Justice.Charge-Indict",
+        "Personnel.Nominate",
+        "Justice.Convict",
+        "Justice.Sentence",
+        "Life.Divorce",
+        "Movement.Transport",
+        "Life.Marry",
+        "Justice.Sue",
+        "Life.Be-Born",
         "Justice.Appeal",
-        "Transaction.Transfer-Ownership"
+        "Justice.Acquit",
+        "Transaction.Transfer-Ownership",
+        "Justice.Fine",
+        "Conflict.Attack",
+        "Conflict.Demonstrate",
+        "Life.Die",
+        "Justice.Arrest-Jail",
+        "Justice.Execute",
+        "Personnel.Start-Position",
+        "Justice.Extradite"
     ],
     "role": [
-        "r_Person",
-        "r_Prosecutor",
-        "r_Seller",
-        "Buyer",
-        "r_Adjudicator",
-        "Org",
-        "Giver",
-        "Destination",
-        "r_Vehicle",
-        "Entity",
-        "Attacker",
-        "Seller",
-        "Prosecutor",
-        "Person",
         "r_Giver",
-        "r_Place",
-        "r_Origin",
-        "Adjudicator",
-        "r_Recipient",
-        "r_Attacker",
-        "Plaintiff",
-        "r_Instrument",
-        "Recipient",
-        "r_Plaintiff",
-        "r_Beneficiary",
-        "Agent",
-        "r_Target",
-        "Target",
-        "r_Agent",
-        "r_Buyer",
-        "Defendant",
-        "Artifact",
-        "r_Defendant",
-        "r_Destination",
-        "Vehicle",
-        "r_Org",
-        "r_Victim",
-        "Instrument",
+        "Entity",
         "Beneficiary",
-        "r_Entity",
+        "r_Agent",
+        "r_Destination",
+        "r_Seller",
         "r_Artifact",
+        "r_Entity",
+        "r_Attacker",
+        "Seller",
+        "Target",
+        "r_Victim",
+        "Person",
+        "r_Instrument",
+        "r_Beneficiary",
+        "Prosecutor",
+        "Recipient",
+        "r_Adjudicator",
+        "r_Recipient",
+        "Destination",
+        "Defendant",
+        "r_Defendant",
+        "r_Plaintiff",
+        "Victim",
+        "Adjudicator",
+        "Agent",
+        "r_Person",
+        "Attacker",
+        "r_Buyer",
+        "r_Prosecutor",
+        "r_Vehicle",
+        "r_Place",
+        "Buyer",
         "Place",
-        "Origin",
-        "Victim"
+        "r_Org",
+        "Org",
+        "r_Origin",
+        "r_Target",
+        "Plaintiff",
+        "Giver",
+        "Instrument",
+        "Artifact",
+        "Vehicle",
+        "Origin"
     ]
 }

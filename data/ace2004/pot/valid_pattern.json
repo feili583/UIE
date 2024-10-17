@@ -1,0 +1,14 @@
+{
+    "ner": [
+        "GPE",
+        "ORG",
+        "PER",
+        "FAC",
+        "VEH",
+        "LOC",
+        "WEA"
+    ],
+    "relation": [],
+    "event": [],
+    "role": []
+}

@@ -1,0 +1,16 @@
+{
+    "ner": [
+        "opinion",
+        "aspect"
+    ],
+    "relation": [
+        "negative",
+        "neutral",
+        "positive",
+        "r_negative",
+        "r_positive",
+        "r_neutral"
+    ],
+    "event": [],
+    "role": []
+}

@@ -1,0 +1,1312 @@
+Boot time is super fast , around anywhere from 35 seconds to 1 minute .
+0,2 aspect|4,5 opinion|0,5 positive|1,5 positive
+0,2 aspect|4,5 opinion|0,5 positive
+
+tech support would not fix the problem unless I bought your plan for $ 150 plus .
+0,2 aspect|3,5 opinion|0,4 negative|0,5 negative|1,4 negative|1,5 negative
+0,2 aspect|3,5 opinion|0,5 negative
+
+Set up was easy .
+0,2 aspect|3,4 opinion|0,4 positive|1,4 positive
+0,2 aspect|3,4 opinion|0,4 positive
+
+Did not enjoy the new Windows 8 and touchscreen functions .
+5,7 aspect|8,10 aspect|1,3 opinion|1,6 r_negative|1,7 r_negative|2,6 r_negative|2,7 r_negative|1,9 r_negative|1,10 r_negative|2,9 r_negative|2,10 r_negative
+5,7 aspect|8,10 aspect|1,3 opinion|1,7 r_negative|1,10 r_negative
+
+Other than not being a fan of click pads ( industry standard these days ) and the lousy internal speakers , it 's hard for me to find things about this notebook I do n't like , especially considering the $ 350 price tag .
+18,20 aspect|17,18 opinion|17,19 r_negative|17,20 r_negative
+18,20 aspect|17,18 opinion|17,20 r_negative
+
+It 's fast , light , and simple to use .
+9,10 aspect|2,3 opinion|4,5 opinion|7,8 opinion|2,10 r_positive|4,10 r_positive|7,10 r_positive
+9,10 aspect|2,3 opinion|4,5 opinion|7,8 opinion|2,10 r_positive|4,10 r_positive|7,10 r_positive
+
+Works well , and I am extremely happy to be back to an apple OS .
+0,1 aspect|13,15 aspect|1,2 opinion|7,8 opinion|0,2 positive|7,14 r_positive|7,15 r_positive
+0,1 aspect|13,15 aspect|1,2 opinion|7,8 opinion|0,2 positive|7,15 r_positive
+
+Sure it 's not light and slim but the features make up for it 100 % .
+9,10 aspect|3,7 opinion|3,10 r_positive|4,10 r_positive|5,10 r_positive|6,10 r_positive
+9,10 aspect|3,7 opinion|3,10 r_positive
+
+I am pleased with the fast log on , speedy WiFi connection and the long battery life ( > 6 hrs ) .
+6,8 aspect|10,12 aspect|15,17 aspect|2,3 opinion|5,6 opinion|9,10 opinion|14,15 opinion|2,7 r_positive|2,8 r_positive|5,7 r_positive|5,8 r_positive|2,11 r_positive|2,12 r_positive|9,11 r_positive|9,12 r_positive|2,16 r_positive|2,17 r_positive|14,16 r_positive|14,17 r_positive
+6,8 aspect|10,12 aspect|15,17 aspect|2,3 opinion|5,6 opinion|9,10 opinion|14,15 opinion|2,8 r_positive|5,8 r_positive|2,12 r_positive|9,12 r_positive|2,17 r_positive|14,17 r_positive
+
+The Apple engineers have not yet discovered the delete key .
+8,10 aspect|4,7 opinion|4,9 r_negative|4,10 r_negative|5,9 r_negative|5,10 r_negative|6,9 r_negative|6,10 r_negative
+8,10 aspect|4,7 opinion|4,10 r_negative
+
+Made interneting ( part of my business ) very difficult to maintain .
+1,2 aspect|9,10 opinion|1,10 negative
+1,2 aspect|9,10 opinion|1,10 negative
+
+Luckily , for all of us contemplating the decision , the Mac Mini is priced just right .
+14,15 aspect|16,17 opinion|14,17 positive
+14,15 aspect|16,17 opinion|14,17 positive
+
+Only problem that I had was that the track pad was not very good for me , I only had a problem once or twice with it , But probably my computer was a bit defective .
+8,10 aspect|11,14 opinion|8,12 negative|8,13 negative|8,14 negative|9,12 negative|9,13 negative|9,14 negative
+8,10 aspect|11,14 opinion|8,14 negative
+
+It is super fast and has outstanding graphics .
+7,8 aspect|6,7 opinion|6,8 r_positive
+7,8 aspect|6,7 opinion|6,8 r_positive
+
+But the mountain lion is just too slow .
+2,4 aspect|7,8 opinion|2,8 negative|3,8 negative
+2,4 aspect|7,8 opinion|2,8 negative
+
+Strong build though which really adds to its durability .
+8,9 aspect|1,2 aspect|0,1 opinion|0,9 r_positive|0,2 r_positive
+8,9 aspect|1,2 aspect|0,1 opinion|0,9 r_positive|0,2 r_positive
+
+The battery life is excellent -- 6-7 hours without charging .
+1,3 aspect|4,5 opinion|1,5 positive|2,5 positive
+1,3 aspect|4,5 opinion|1,5 positive
+
+I 've had my computer for 2 weeks already and it works perfectly .
+11,12 aspect|12,13 opinion|11,13 positive
+11,12 aspect|12,13 opinion|11,13 positive
+
+And I may be the only one but I am really liking Windows 8 .
+12,14 aspect|11,12 opinion|11,13 r_positive|11,14 r_positive
+12,14 aspect|11,12 opinion|11,14 r_positive
+
+The baterry is very longer .
+1,2 aspect|4,5 opinion|1,5 positive
+1,2 aspect|4,5 opinion|1,5 positive
+
+Its size is ideal and the weight is acceptable .
+1,2 aspect|6,7 aspect|3,4 opinion|8,9 opinion|1,4 positive|6,9 positive
+1,2 aspect|6,7 aspect|3,4 opinion|8,9 opinion|1,4 positive|6,9 positive
+
+I can say that I am fully satisfied with the performance that the computer has supplied .
+10,11 aspect|7,8 opinion|7,11 r_positive
+10,11 aspect|7,8 opinion|7,11 r_positive
+
+It has so much more speed and the screen is very sharp .
+5,6 aspect|8,9 aspect|3,5 opinion|11,12 opinion|3,6 r_positive|4,6 r_positive|8,12 positive
+5,6 aspect|8,9 aspect|3,5 opinion|11,12 opinion|3,6 r_positive|8,12 positive
+
+Everything I wanted and everything I needed and the price was great !
+9,10 aspect|11,12 opinion|9,12 positive
+9,10 aspect|11,12 opinion|9,12 positive
+
+It 's not inexpensive but the Hardware performance is impressive for a computer this small .
+6,8 aspect|9,10 opinion|6,10 positive|7,10 positive
+6,8 aspect|9,10 opinion|6,10 positive
+
+This thing is awesome , everything always works , everything is always easy to set up , everything is compatible , its literally everything I could ask for .
+7,8 aspect|14,16 aspect|6,7 opinion|12,13 opinion|6,8 r_positive|12,15 r_positive|12,16 r_positive
+7,8 aspect|14,16 aspect|6,7 opinion|12,13 opinion|6,8 r_positive|12,16 r_positive
+
+Keyboard responds well to presses .
+0,1 aspect|1,3 opinion|0,2 positive|0,3 positive
+0,1 aspect|1,3 opinion|0,3 positive
+
+Lastly , Windows 8 is annoying .
+2,4 aspect|5,6 opinion|2,6 negative|3,6 negative
+2,4 aspect|5,6 opinion|2,6 negative
+
+Everything is so easy and intuitive to setup or configure .
+7,8 aspect|9,10 aspect|3,4 opinion|5,6 opinion|3,8 r_positive|5,8 r_positive|3,10 r_positive|5,10 r_positive
+7,8 aspect|9,10 aspect|3,4 opinion|5,6 opinion|3,8 r_positive|5,8 r_positive|3,10 r_positive|5,10 r_positive
+
+Biggest complaint is Windows 8 .
+3,5 aspect|1,2 opinion|1,4 r_negative|1,5 r_negative
+3,5 aspect|1,2 opinion|1,5 r_negative
+
+Only 2 usb ports ... seems kind of ... limited .
+2,4 aspect|9,10 opinion|2,10 negative|3,10 negative
+2,4 aspect|9,10 opinion|2,10 negative
+
+It has all the expected features and more +plus a wide screen and more than roomy keyboard .
+5,6 aspect|11,12 aspect|16,17 aspect|4,5 opinion|10,11 opinion|15,16 opinion|4,6 r_positive|10,12 r_positive|15,17 r_positive
+5,6 aspect|11,12 aspect|16,17 aspect|4,5 opinion|10,11 opinion|15,16 opinion|4,6 r_positive|10,12 r_positive|15,17 r_positive
+
+Amazing Performance for anything I throw at it .
+1,2 aspect|0,1 opinion|0,2 r_positive
+1,2 aspect|0,1 opinion|0,2 r_positive
+
+The receiver was full of superlatives for the quality and performance .
+8,9 aspect|10,11 aspect|5,6 opinion|5,9 r_positive|5,11 r_positive
+8,9 aspect|10,11 aspect|5,6 opinion|5,9 r_positive|5,11 r_positive
+
+I was extremely happy with the OS itself .
+6,7 aspect|3,4 opinion|3,7 r_positive
+6,7 aspect|3,4 opinion|3,7 r_positive
+
+The new MBP offers great portability and gives us confidence that we are not going to need to purchase a new laptop in 18 months .
+5,6 aspect|4,5 opinion|4,6 r_positive
+5,6 aspect|4,5 opinion|4,6 r_positive
+
+The criticism has waned , and now I 'd be the first to recommend an Air for truly portable computing .
+18,20 aspect|13,14 opinion|17,18 opinion|13,19 r_positive|13,20 r_positive|17,19 r_positive|17,20 r_positive
+18,20 aspect|13,14 opinion|17,18 opinion|13,20 r_positive|17,20 r_positive
+
+MS Office 2011 for Mac is wonderful , well worth it .
+0,5 aspect|6,7 opinion|8,10 opinion|0,7 positive|1,7 positive|2,7 positive|3,7 positive|4,7 positive|0,9 positive|0,10 positive|1,9 positive|1,10 positive|2,9 positive|2,10 positive|3,9 positive|3,10 positive|4,9 positive|4,10 positive
+0,5 aspect|6,7 opinion|8,10 opinion|0,7 positive|0,10 positive
+
+But the performance of Mac Mini is a huge disappointment .
+2,3 aspect|9,10 opinion|2,10 negative
+2,3 aspect|9,10 opinion|2,10 negative
+
+They do n't just look good ; they deliver excellent performance .
+4,5 aspect|10,11 aspect|5,6 opinion|9,10 opinion|4,6 positive|9,11 r_positive
+4,5 aspect|10,11 aspect|5,6 opinion|9,10 opinion|4,6 positive|9,11 r_positive
+
+I have had it over a year now with out a Glitch of any kind..I love the lit up keys and screen display ... this thing is Fast and clear as can be .
+17,20 aspect|21,23 aspect|15,16 opinion|27,28 opinion|29,30 opinion|15,18 r_positive|15,19 r_positive|15,20 r_positive|17,28 positive|18,28 positive|19,28 positive|17,30 positive|18,30 positive|19,30 positive|15,22 r_positive|15,23 r_positive|21,28 positive|22,28 positive|21,30 positive|22,30 positive
+17,20 aspect|21,23 aspect|15,16 opinion|27,28 opinion|29,30 opinion|15,20 r_positive|17,28 positive|17,30 positive|15,23 r_positive|21,28 positive|21,30 positive
+
+The Mountain Lion OS is not hard to figure out if you are familiar with Microsoft Windows .
+1,4 aspect|15,17 aspect|5,7 opinion|13,14 opinion|1,6 positive|1,7 positive|2,6 positive|2,7 positive|3,6 positive|3,7 positive|13,16 r_neutral|13,17 r_neutral
+1,4 aspect|15,17 aspect|5,7 opinion|13,14 opinion|1,7 positive|13,17 r_neutral
+
+However , I can refute that OSX is " FAST " .
+6,7 aspect|9,10 opinion|6,10 negative
+6,7 aspect|9,10 opinion|6,10 negative
+
+Enjoy using Microsoft Office !
+2,4 aspect|0,1 opinion|0,3 r_positive|0,4 r_positive
+2,4 aspect|0,1 opinion|0,4 r_positive
+
+Incredible graphics and brilliant colors .
+1,2 aspect|4,5 aspect|0,1 opinion|3,4 opinion|0,2 r_positive|3,5 r_positive
+1,2 aspect|4,5 aspect|0,1 opinion|3,4 opinion|0,2 r_positive|3,5 r_positive
+
+Built-in apps are purely amazing .
+0,2 aspect|4,5 opinion|0,5 positive|1,5 positive
+0,2 aspect|4,5 opinion|0,5 positive
+
+From the speed to the multi touch gestures this operating system beats Windows easily .
+9,11 aspect|11,12 opinion|9,12 positive|10,12 positive
+9,11 aspect|11,12 opinion|9,12 positive
+
+I really like the size and I 'm a fan of the ACERS .
+4,5 aspect|2,3 opinion|2,5 r_positive
+4,5 aspect|2,3 opinion|2,5 r_positive
+
+I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty ( $ 1500-2000 ) which also support " accidents " like drops and spills that are NOT covered by AppleCare .
+4,10 aspect|29,30 aspect|16,17 opinion|26,28 opinion|4,17 positive|5,17 positive|6,17 positive|7,17 positive|8,17 positive|9,17 positive|26,30 r_negative|27,30 r_negative
+4,10 aspect|29,30 aspect|16,17 opinion|26,28 opinion|4,17 positive|26,30 r_negative
+
+It 's light and easy to transport .
+6,7 aspect|2,3 opinion|4,5 opinion|2,7 r_positive|4,7 r_positive
+6,7 aspect|2,3 opinion|4,5 opinion|2,7 r_positive|4,7 r_positive
+
+Once you get past learning how to use the poorly designed Windows 8 Set-Up you may feel frustrated .
+11,14 aspect|9,11 opinion|17,18 opinion|9,12 r_negative|9,13 r_negative|9,14 r_negative|10,12 r_negative|10,13 r_negative|10,14 r_negative|11,18 negative|12,18 negative|13,18 negative
+11,14 aspect|9,11 opinion|17,18 opinion|9,14 r_negative|11,18 negative
+
+The aluminum body sure makes it stand out .
+1,3 aspect|6,8 opinion|1,7 positive|1,8 positive|2,7 positive|2,8 positive
+1,3 aspect|6,8 opinion|1,8 positive
+
+It is very easy to integrate bluetooth devices , and USB devices are recognized almost instantly .
+5,8 aspect|10,12 aspect|3,4 opinion|15,16 opinion|3,6 r_positive|3,7 r_positive|3,8 r_positive|10,16 positive|11,16 positive
+5,8 aspect|10,12 aspect|3,4 opinion|15,16 opinion|3,8 r_positive|10,16 positive
+
+And the fact that Apple is driving the 13 " RMBP with the Intel4000 graphic chip seems underpowered ( to me .
+13,16 aspect|17,18 opinion|13,18 negative|14,18 negative|15,18 negative
+13,16 aspect|17,18 opinion|13,18 negative
+
+Apple removed the DVD drive Firewire port ( will work with adapter ) and put the SDXC slot in a silly position on the back .
+3,7 aspect|16,18 aspect|1,2 opinion|20,21 opinion|1,4 r_neutral|1,5 r_neutral|1,6 r_neutral|1,7 r_neutral|16,21 negative|17,21 negative
+3,7 aspect|16,18 aspect|1,2 opinion|20,21 opinion|1,7 r_neutral|16,21 negative
+
+The durability of the laptop will make it worth the money .
+1,2 aspect|8,9 opinion|1,9 positive
+1,2 aspect|8,9 opinion|1,9 positive
+
+Well designed and fast .
+1,2 aspect|0,1 opinion|0,2 r_positive
+1,2 aspect|0,1 opinion|0,2 r_positive
+
+But I was completely wrong , this computer is UNBELIEVABLE amazing and easy to use .
+14,15 aspect|12,13 opinion|12,15 r_positive
+14,15 aspect|12,13 opinion|12,15 r_positive
+
+Exactly as posted plus a great value .
+6,7 aspect|5,6 opinion|5,7 r_positive
+6,7 aspect|5,6 opinion|5,7 r_positive
+
+The specs are pretty good too .
+1,2 aspect|4,5 opinion|1,5 positive
+1,2 aspect|4,5 opinion|1,5 positive
+
+Apple is unmatched in product quality , aesthetics , craftmanship , and customer service .
+4,6 aspect|7,8 aspect|9,10 aspect|12,14 aspect|2,3 opinion|2,5 r_positive|2,6 r_positive|2,8 r_positive|2,10 r_positive|2,13 r_positive|2,14 r_positive
+4,6 aspect|7,8 aspect|9,10 aspect|12,14 aspect|2,3 opinion|2,6 r_positive|2,8 r_positive|2,10 r_positive|2,14 r_positive
+
+It is a great size and amazing windows 8 included !
+4,5 aspect|7,9 aspect|3,4 opinion|6,7 opinion|3,5 r_positive|6,8 r_positive|6,9 r_positive
+4,5 aspect|7,9 aspect|3,4 opinion|6,7 opinion|3,5 r_positive|6,9 r_positive
+
+I do not like too much Windows 8 .
+6,8 aspect|2,4 opinion|2,7 r_negative|2,8 r_negative|3,7 r_negative|3,8 r_negative
+6,8 aspect|2,4 opinion|2,8 r_negative
+
+Startup times are incredibly long : over two minutes .
+0,2 aspect|4,5 opinion|0,5 negative|1,5 negative
+0,2 aspect|4,5 opinion|0,5 negative
+
+Also stunning colors and speedy
+2,3 aspect|1,2 opinion|1,3 r_positive
+2,3 aspect|1,2 opinion|1,3 r_positive
+
+great price free shipping what else can i ask for ! !
+1,2 aspect|3,4 aspect|0,1 opinion|2,3 opinion|0,2 r_positive|2,4 r_positive
+1,2 aspect|3,4 aspect|0,1 opinion|2,3 opinion|0,2 r_positive|2,4 r_positive
+
+This mouse is terrific .
+1,2 aspect|3,4 opinion|1,4 positive
+1,2 aspect|3,4 opinion|1,4 positive
+
+It is really thick around the battery .
+6,7 aspect|3,4 opinion|3,7 r_neutral
+6,7 aspect|3,4 opinion|3,7 r_neutral
+
+And windows 7 works like a charm .
+1,3 aspect|6,7 opinion|1,7 positive|2,7 positive
+1,3 aspect|6,7 opinion|1,7 positive
+
+: ) Great product , great price , great delivery , and great service .
+6,7 aspect|9,10 aspect|13,14 aspect|5,6 opinion|5,6 opinion|5,6 opinion|5,7 r_positive|5,10 r_positive|5,14 r_positive
+6,7 aspect|9,10 aspect|13,14 aspect|5,6 opinion|5,6 opinion|5,6 opinion|5,7 r_positive|5,10 r_positive|5,14 r_positive
+
+: ] It arrived so fast and customer service was great .
+7,9 aspect|10,11 opinion|7,11 positive|8,11 positive
+7,9 aspect|10,11 opinion|7,11 positive
+
+tried windows 8 and hated it ! ! !
+1,3 aspect|4,5 opinion|1,5 negative|2,5 negative
+1,3 aspect|4,5 opinion|1,5 negative
+
+Set up was a breeze .
+0,2 aspect|4,5 opinion|0,5 positive|1,5 positive
+0,2 aspect|4,5 opinion|0,5 positive
+
+But I do NOT like Win8 .
+5,6 aspect|3,5 opinion|3,6 r_negative|4,6 r_negative
+5,6 aspect|3,5 opinion|3,6 r_negative
+
+I had the same reasons as most PC users : the price , the overbearing restrictions of OSX and lack of support for games .
+17,18 aspect|21,24 aspect|14,15 opinion|19,20 opinion|14,18 r_negative|19,22 r_negative|19,23 r_negative|19,24 r_negative
+17,18 aspect|21,24 aspect|14,15 opinion|19,20 opinion|14,18 r_negative|19,24 r_negative
+
+I wanted it for it 's mobility and man , this little bad boy is very nice .
+6,7 aspect|16,17 opinion|6,17 positive
+6,7 aspect|16,17 opinion|6,17 positive
+
+I found the mini to be : Exceptionally easy to set up
+10,12 aspect|8,9 opinion|8,11 r_positive|8,12 r_positive
+10,12 aspect|8,9 opinion|8,12 r_positive
+
+The sound is nice and loud ; I do n't have any problems with hearing anything .
+1,2 aspect|3,4 opinion|5,6 opinion|1,4 positive|1,6 positive
+1,2 aspect|3,4 opinion|5,6 opinion|1,4 positive|1,6 positive
+
+It is very slim , the track pad is very much impressed with me .
+6,8 aspect|3,4 opinion|11,12 opinion|3,7 r_positive|3,8 r_positive|6,12 positive|7,12 positive
+6,8 aspect|3,4 opinion|11,12 opinion|3,8 r_positive|6,12 positive
+
+The settings are not user-friendly either .
+1,2 aspect|3,5 opinion|1,4 negative|1,5 negative
+1,2 aspect|3,5 opinion|1,5 negative
+
+Thank goodness for OpenOffice !
+3,4 aspect|1,2 opinion|1,4 r_positive
+3,4 aspect|1,2 opinion|1,4 r_positive
+
+Awesome form factor , great battery life , wonderful UX .
+1,3 aspect|5,7 aspect|9,10 aspect|0,1 opinion|4,5 opinion|8,9 opinion|0,2 r_positive|0,3 r_positive|4,6 r_positive|4,7 r_positive|8,10 r_positive
+1,3 aspect|5,7 aspect|9,10 aspect|0,1 opinion|4,5 opinion|8,9 opinion|0,3 r_positive|4,7 r_positive|8,10 r_positive
+
+i love the keyboard and the screen .
+3,4 aspect|6,7 aspect|1,2 opinion|1,4 r_positive|1,7 r_positive
+3,4 aspect|6,7 aspect|1,2 opinion|1,4 r_positive|1,7 r_positive
+
+However , there are MAJOR issues with the touchpad which render the device nearly useless .
+8,9 aspect|5,6 opinion|14,15 opinion|5,9 r_negative|8,15 negative
+8,9 aspect|5,6 opinion|14,15 opinion|5,9 r_negative|8,15 negative
+
+I 've already upgraded o Mavericks and I am impressed with everything about this computer .
+5,6 aspect|9,10 opinion|5,10 positive
+5,6 aspect|9,10 opinion|5,10 positive
+
+Not as fast as I would have expect for an i5 .
+10,11 aspect|0,3 opinion|0,11 r_negative|1,11 r_negative|2,11 r_negative
+10,11 aspect|0,3 opinion|0,11 r_negative
+
+thanks for great service and shipping !
+3,4 aspect|5,6 aspect|2,3 opinion|2,4 r_positive|2,6 r_positive
+3,4 aspect|5,6 aspect|2,3 opinion|2,4 r_positive|2,6 r_positive
+
+The performance seems quite good , and built-in applications like iPhoto work great with my phone and camera .
+1,2 aspect|7,9 aspect|10,11 aspect|4,5 opinion|12,13 opinion|1,5 positive|7,13 positive|8,13 positive|10,13 positive
+1,2 aspect|7,9 aspect|10,11 aspect|4,5 opinion|12,13 opinion|1,5 positive|7,13 positive|10,13 positive
+
+I did swap out the hard drive for a Samsung 830 SSD which I highly recommend .
+9,12 aspect|15,16 opinion|9,16 positive|10,16 positive|11,16 positive
+9,12 aspect|15,16 opinion|9,16 positive
+
+Yes , that 's a good thing , but it 's made from aluminum that scratches easily .
+13,14 aspect|15,17 opinion|13,16 negative|13,17 negative
+13,14 aspect|15,17 opinion|13,17 negative
+
+I was also informed that the components of the Mac Book were dirty .
+6,7 aspect|12,13 opinion|6,13 negative
+6,7 aspect|12,13 opinion|6,13 negative
+
+the hardware problems have been so bad , i ca n't wait till it completely dies in 3 years , TOPS !
+1,2 aspect|6,7 opinion|1,7 negative
+1,2 aspect|6,7 opinion|1,7 negative
+
+It 's so nice that the battery last so long and that this machine has the snow lion !
+6,7 aspect|3,4 opinion|9,10 opinion|3,7 r_positive|6,10 positive
+6,7 aspect|3,4 opinion|9,10 opinion|3,7 r_positive|6,10 positive
+
+it 's exactly what i wanted , and it has all the new features and whatnot .
+13,14 aspect|5,6 opinion|12,13 opinion|5,14 r_positive|12,14 r_positive
+13,14 aspect|5,6 opinion|12,13 opinion|5,14 r_positive|12,14 r_positive
+
+It feels cheap , the keyboard is not very sensitive .
+5,6 aspect|2,3 opinion|7,10 opinion|2,6 r_negative|5,8 negative|5,9 negative|5,10 negative
+5,6 aspect|2,3 opinion|7,10 opinion|2,6 r_negative|5,10 negative
+
+Though please note that sometimes it crashes , and the sound quality isnt superb .
+10,12 aspect|12,14 opinion|10,13 negative|10,14 negative|11,13 negative|11,14 negative
+10,12 aspect|12,14 opinion|10,14 negative
+
+It is very easy to navigate even for a novice .
+5,6 aspect|3,4 opinion|3,6 r_positive
+5,6 aspect|3,4 opinion|3,6 r_positive
+
+Does everything I need it to , has a wonderful battery life and I could n't be happier .
+10,12 aspect|9,10 opinion|9,11 r_positive|9,12 r_positive
+10,12 aspect|9,10 opinion|9,12 r_positive
+
+Great Performance and Quality .
+1,2 aspect|3,4 aspect|0,1 opinion|0,2 r_positive|0,4 r_positive
+1,2 aspect|3,4 aspect|0,1 opinion|0,2 r_positive|0,4 r_positive
+
+One more thing , this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC 's , also the charging cables are made of the same cheap material as the iPhone/iPod touch cables .
+44,45 aspect|43,44 opinion|43,45 r_negative
+44,45 aspect|43,44 opinion|43,45 r_negative
+
+The new os is great on my macbook pro !
+2,3 aspect|4,5 opinion|2,5 positive
+2,3 aspect|4,5 opinion|2,5 positive
+
+I have experienced no problems , works as anticipated .
+6,7 aspect|7,9 opinion|6,8 positive|6,9 positive
+6,7 aspect|7,9 opinion|6,9 positive
+
+System is running great .
+0,1 aspect|3,4 opinion|0,4 positive
+0,1 aspect|3,4 opinion|0,4 positive
+
+Easy to customize setting and even create your own bookmarks .
+2,4 aspect|6,10 aspect|0,1 opinion|0,3 r_positive|0,4 r_positive|0,7 r_positive|0,8 r_positive|0,9 r_positive|0,10 r_positive
+2,4 aspect|6,10 aspect|0,1 opinion|0,4 r_positive|0,10 r_positive
+
+it has all the features that we expected and the price was good , working well so far .
+10,11 aspect|14,15 aspect|12,13 opinion|15,16 opinion|10,13 positive|14,16 positive
+10,11 aspect|14,15 aspect|12,13 opinion|15,16 opinion|10,13 positive|14,16 positive
+
+The new operating system makes this computer into a super iPad .
+2,4 aspect|1,2 opinion|1,3 r_positive|1,4 r_positive
+2,4 aspect|1,2 opinion|1,4 r_positive
+
+Easy to set up and go !
+2,4 aspect|0,1 opinion|0,3 r_positive|0,4 r_positive
+2,4 aspect|0,1 opinion|0,4 r_positive
+
+I ca n't believe how quiet the hard drive is and how quick this thing boots up .
+7,9 aspect|15,17 aspect|5,6 opinion|12,13 opinion|5,8 r_positive|5,9 r_positive|12,16 r_positive|12,17 r_positive
+7,9 aspect|15,17 aspect|5,6 opinion|12,13 opinion|5,9 r_positive|12,17 r_positive
+
+It 's just what we were looking for and it works great .
+10,11 aspect|11,12 opinion|10,12 positive
+10,11 aspect|11,12 opinion|10,12 positive
+
+It 's so quick and responsive that it makes working / surfing on a computer so much more pleasurable !
+9,10 aspect|11,12 aspect|18,19 opinion|9,19 positive|11,19 positive
+9,10 aspect|11,12 aspect|18,19 opinion|9,19 positive|11,19 positive
+
+It works fine , and all the software seems to run pretty well .
+1,2 aspect|7,8 aspect|2,3 opinion|12,13 opinion|1,3 positive|7,13 positive
+1,2 aspect|7,8 aspect|2,3 opinion|12,13 opinion|1,3 positive|7,13 positive
+
+I wanted a computer that was quite , fast , and that had overall great performance .
+15,16 aspect|14,15 opinion|14,16 r_neutral
+15,16 aspect|14,15 opinion|14,16 r_neutral
+
+Harddrive was in poor condition , had to replace it .
+0,1 aspect|3,4 opinion|0,4 negative
+0,1 aspect|3,4 opinion|0,4 negative
+
+The on/off switch is a bit obscure in the rear corner .
+1,3 aspect|6,7 opinion|1,7 negative|2,7 negative
+1,3 aspect|6,7 opinion|1,7 negative
+
+My only complaint is the total lack of instructions that come with the mac mini .
+8,9 aspect|6,7 opinion|6,9 r_negative
+8,9 aspect|6,7 opinion|6,9 r_negative
+
+The only task that this computer would not be good enough for would be gaming , otherwise the integrated Intel 4000 graphics work well for other tasks .
+14,15 aspect|7,10 opinion|7,15 r_negative|8,15 r_negative|9,15 r_negative
+14,15 aspect|7,10 opinion|7,15 r_negative
+
+I use it mostly for content creation ( Audio , video , photo editing ) and its reliable .
+8,9 aspect|10,11 aspect|12,14 aspect|17,18 opinion|8,18 positive|10,18 positive|12,18 positive|13,18 positive
+8,9 aspect|10,11 aspect|12,14 aspect|17,18 opinion|8,18 positive|10,18 positive|12,18 positive
+
+Screen is bright and gorgeous .
+0,1 aspect|2,3 opinion|4,5 opinion|0,3 positive|0,5 positive
+0,1 aspect|2,3 opinion|4,5 opinion|0,3 positive|0,5 positive
+
+It is robust , with a friendly use as all Apple products .
+7,8 aspect|6,7 opinion|6,8 r_positive
+7,8 aspect|6,7 opinion|6,8 r_positive
+
+It is fast and easy to use .
+6,7 aspect|4,5 opinion|4,7 r_positive
+6,7 aspect|4,5 opinion|4,7 r_positive
+
+And the fact that it comes with an i5 processor definitely speeds things up
+8,10 aspect|11,14 opinion|8,12 positive|8,13 positive|8,14 positive|9,12 positive|9,13 positive|9,14 positive
+8,10 aspect|11,14 opinion|8,14 positive
+
+I have been PC for years but this computer is intuitive and its built in features are a great help
+13,16 aspect|18,20 opinion|13,19 positive|13,20 positive|14,19 positive|14,20 positive|15,19 positive|15,20 positive
+13,16 aspect|18,20 opinion|13,20 positive
+
+Nice screen , keyboard works great !
+1,2 aspect|3,4 aspect|0,1 opinion|5,6 opinion|0,2 r_positive|3,6 positive
+1,2 aspect|3,4 aspect|0,1 opinion|5,6 opinion|0,2 r_positive|3,6 positive
+
+I was amazed at how fast the delivery was .
+7,8 aspect|2,3 opinion|5,6 opinion|2,8 r_positive|5,8 r_positive
+7,8 aspect|2,3 opinion|5,6 opinion|2,8 r_positive|5,8 r_positive
+
+The memory was gone and it was not able to be used .
+1,2 aspect|3,4 opinion|7,12 opinion|1,4 negative|1,8 negative|1,9 negative|1,10 negative|1,11 negative|1,12 negative
+1,2 aspect|3,4 opinion|7,12 opinion|1,4 negative|1,12 negative
+
+It works great and I am so happy I bought it .
+1,2 aspect|2,3 opinion|1,3 positive
+1,2 aspect|2,3 opinion|1,3 positive
+
+I like the design and ease of use with the keyboard , plenty of ports .
+3,4 aspect|10,11 aspect|14,15 aspect|1,2 opinion|5,8 opinion|12,13 opinion|1,4 r_positive|1,11 r_positive|5,11 r_positive|6,11 r_positive|7,11 r_positive|12,15 r_positive
+3,4 aspect|10,11 aspect|14,15 aspect|1,2 opinion|5,8 opinion|12,13 opinion|1,4 r_positive|1,11 r_positive|5,11 r_positive|12,15 r_positive
+
+it definitely beats my old mac and the service was great .
+8,9 aspect|10,11 opinion|8,11 positive
+8,9 aspect|10,11 opinion|8,11 positive
+
+Web browsing is very quick with Safari browser .
+0,2 aspect|6,8 aspect|4,5 opinion|0,5 positive|1,5 positive|4,7 r_positive|4,8 r_positive
+0,2 aspect|6,8 aspect|4,5 opinion|0,5 positive|4,8 r_positive
+
+I like the lighted screen at night .
+3,5 aspect|1,2 opinion|1,4 r_positive|1,5 r_positive
+3,5 aspect|1,2 opinion|1,5 r_positive
+
+It is really easy to use and it is quick to start up .
+5,6 aspect|11,13 aspect|3,4 opinion|9,10 opinion|3,6 r_positive|9,12 r_positive|9,13 r_positive
+5,6 aspect|11,13 aspect|3,4 opinion|9,10 opinion|3,6 r_positive|9,13 r_positive
+
+I 've lived with the crashes and slow operation and restarts .
+8,9 aspect|7,8 opinion|7,9 r_negative
+8,9 aspect|7,8 opinion|7,9 r_negative
+
+USB3 Peripherals are noticably less expensive than the ThunderBolt ones .
+0,2 aspect|4,6 opinion|0,5 positive|0,6 positive|1,5 positive|1,6 positive
+0,2 aspect|4,6 opinion|0,6 positive
+
+It 's fast , light , and is perfect for media editing , which is mostly why I bought it in the first place .
+10,12 aspect|8,9 opinion|8,11 r_positive|8,12 r_positive
+10,12 aspect|8,9 opinion|8,12 r_positive
+
+The battery lasts as advertised ( give or take 15-20 minutes ) , and the entire user experience is very elegant .
+16,18 aspect|20,21 opinion|16,21 positive|17,21 positive
+16,18 aspect|20,21 opinion|16,21 positive
+
+Thanks for the fast shipment and great price .
+4,5 aspect|7,8 aspect|3,4 opinion|6,7 opinion|3,5 r_positive|6,8 r_positive
+4,5 aspect|7,8 aspect|3,4 opinion|6,7 opinion|3,5 r_positive|6,8 r_positive
+
+! Excellent performance , usability , presentation and time response .
+2,3 aspect|4,5 aspect|6,7 aspect|8,10 aspect|1,2 opinion|1,3 r_positive|1,5 r_positive|1,7 r_positive|1,9 r_positive|1,10 r_positive
+2,3 aspect|4,5 aspect|6,7 aspect|8,10 aspect|1,2 opinion|1,3 r_positive|1,5 r_positive|1,7 r_positive|1,10 r_positive
+
+The smaller size was a bonus because of space restrictions .
+2,3 aspect|1,2 opinion|5,6 opinion|1,3 r_positive|2,6 positive
+2,3 aspect|1,2 opinion|5,6 opinion|1,3 r_positive|2,6 positive
+
+I blame the Mac OS .
+3,5 aspect|1,2 opinion|1,4 r_negative|1,5 r_negative
+3,5 aspect|1,2 opinion|1,5 r_negative
+
+I like the operating system .
+3,5 aspect|1,2 opinion|1,4 r_positive|1,5 r_positive
+3,5 aspect|1,2 opinion|1,5 r_positive
+
+I love the form factor .
+3,5 aspect|1,2 opinion|1,4 r_positive|1,5 r_positive
+3,5 aspect|1,2 opinion|1,5 r_positive
+
+It 's fast at loading the internet .
+4,7 aspect|2,3 opinion|2,5 r_positive|2,6 r_positive|2,7 r_positive
+4,7 aspect|2,3 opinion|2,7 r_positive
+
+So much faster and sleeker looking .
+5,6 aspect|2,3 opinion|4,5 opinion|2,6 r_positive|4,6 r_positive
+5,6 aspect|2,3 opinion|4,5 opinion|2,6 r_positive|4,6 r_positive
+
+Unfortunately , it runs XP and Microsoft is dropping support next April .
+4,5 aspect|9,10 aspect|0,1 opinion|8,9 opinion|0,5 r_neutral|0,10 r_negative|8,10 r_negative
+4,5 aspect|9,10 aspect|0,1 opinion|8,9 opinion|0,5 r_neutral|0,10 r_negative|8,10 r_negative
+
+First off , I really do like my MBP ... once used to the OS it is pretty easy to get around , and the overall build is great ... eg the keyboard is one of the best to type on .
+14,15 aspect|25,27 aspect|32,33 aspect|6,7 opinion|18,19 opinion|28,29 opinion|37,38 opinion|6,15 r_positive|14,19 positive|25,29 positive|26,29 positive|32,38 positive
+14,15 aspect|25,27 aspect|32,33 aspect|6,7 opinion|18,19 opinion|28,29 opinion|37,38 opinion|6,15 r_positive|14,19 positive|25,29 positive|32,38 positive
+
+It is made of such solid construction and since I have never had a Mac using my iPhone helped me get used to the system a bit .
+6,7 aspect|5,6 opinion|5,7 r_positive
+6,7 aspect|5,6 opinion|5,7 r_positive
+
+Very nice unibody construction .
+2,4 aspect|1,2 opinion|1,3 r_positive|1,4 r_positive
+2,4 aspect|1,2 opinion|1,4 r_positive
+
+This Macbook Pro is fast , powerful , and runs super quiet and cool .
+9,10 aspect|11,12 opinion|13,14 opinion|9,12 positive|9,14 positive
+9,10 aspect|11,12 opinion|13,14 opinion|9,12 positive|9,14 positive
+
+It 's ok but does n't have a disk drive which I did n't know until after I bought it .
+8,10 aspect|4,7 opinion|4,9 r_neutral|4,10 r_neutral|5,9 r_neutral|5,10 r_neutral|6,9 r_neutral|6,10 r_neutral
+8,10 aspect|4,7 opinion|4,10 r_neutral
+
+There is no HDMI receptacle , nor is there an SD card slot located anywhere on the device .
+3,5 aspect|10,13 aspect|2,3 opinion|6,7 opinion|2,4 r_neutral|2,5 r_neutral|6,11 r_neutral|6,12 r_neutral|6,13 r_neutral
+3,5 aspect|10,13 aspect|2,3 opinion|6,7 opinion|2,5 r_neutral|6,13 r_neutral
+
+It came in brand new and works perfectly .
+6,7 aspect|7,8 opinion|6,8 positive
+6,7 aspect|7,8 opinion|6,8 positive
+
+It should n't happen like that , I do n't have any design app open or anything .
+12,14 aspect|8,11 opinion|8,13 r_neutral|8,14 r_neutral|9,13 r_neutral|9,14 r_neutral|10,13 r_neutral|10,14 r_neutral
+12,14 aspect|8,11 opinion|8,14 r_neutral
+
+MY TRACKPAD IS NOT WORKING .
+1,2 aspect|3,5 opinion|1,4 negative|1,5 negative
+1,2 aspect|3,5 opinion|1,5 negative
+
+It looks and feels solid , with a flawless finish .
+9,10 aspect|1,2 aspect|3,4 aspect|8,9 opinion|4,5 opinion|8,10 r_positive|1,5 positive|3,5 positive
+9,10 aspect|1,2 aspect|3,4 aspect|8,9 opinion|4,5 opinion|8,10 r_positive|1,5 positive|3,5 positive
+
+Price was higher when purchased on MAC when compared to price showing on PC when I bought this product .
+0,1 aspect|2,3 opinion|0,3 negative
+0,1 aspect|2,3 opinion|0,3 negative
+
+Then the system would many times not power down without a forced power-off .
+2,3 aspect|7,9 aspect|6,9 opinion|6,7 opinion|2,7 negative|2,8 negative|2,9 negative|6,8 r_negative|6,9 r_negative
+2,3 aspect|7,9 aspect|6,9 opinion|6,7 opinion|2,9 negative|6,9 r_negative
+
+The configuration is perfect for my needs .
+1,2 aspect|3,4 opinion|1,4 positive
+1,2 aspect|3,4 opinion|1,4 positive
+
+and the speakers is the worst ever .
+2,3 aspect|5,6 opinion|2,6 negative
+2,3 aspect|5,6 opinion|2,6 negative
+
+Its the best , its got the looks , super easy to use and love all you can do with the trackpad ! ..
+12,13 aspect|21,22 aspect|10,11 opinion|14,15 opinion|10,13 r_positive|14,22 r_positive
+12,13 aspect|21,22 aspect|10,11 opinion|14,15 opinion|10,13 r_positive|14,22 r_positive
+
+Web surfuring is smooth and seamless .
+0,2 aspect|3,4 opinion|5,6 opinion|0,4 positive|1,4 positive|0,6 positive|1,6 positive
+0,2 aspect|3,4 opinion|5,6 opinion|0,4 positive|0,6 positive
+
+I 'm overall pleased with the interface and the portability of this product .
+6,7 aspect|9,10 aspect|3,4 opinion|3,7 r_positive|3,10 r_positive
+6,7 aspect|9,10 aspect|3,4 opinion|3,7 r_positive|3,10 r_positive
+
+This item is a beautiful piece , it works well , it is easy to carry and handle .
+8,9 aspect|15,16 aspect|17,18 aspect|9,10 opinion|13,14 opinion|8,10 positive|13,16 r_positive|13,18 r_positive
+8,9 aspect|15,16 aspect|17,18 aspect|9,10 opinion|13,14 opinion|8,10 positive|13,16 r_positive|13,18 r_positive
+
+It was also suffering from hardware ( keyboard ) issues , relatively slow performance and shortening battery lifetime .
+13,14 aspect|16,18 aspect|5,9 aspect|12,13 opinion|15,16 opinion|3,4 opinion|9,10 opinion|12,14 r_negative|15,17 r_negative|15,18 r_negative|3,6 r_negative|3,7 r_negative|3,8 r_negative|3,9 r_negative|5,10 negative|6,10 negative|7,10 negative|8,10 negative
+13,14 aspect|16,18 aspect|5,9 aspect|12,13 opinion|15,16 opinion|3,4 opinion|9,10 opinion|12,14 r_negative|15,18 r_negative|3,9 r_negative|5,10 negative
+
+Runs good and does the job , ca n't complain about that !
+0,1 aspect|1,2 opinion|0,2 positive
+0,1 aspect|1,2 opinion|0,2 positive
+
+It 's silent and has a very small footprint on my desk .
+8,9 aspect|7,8 opinion|7,9 r_positive
+8,9 aspect|7,8 opinion|7,9 r_positive
+
+The exterior is absolutely gorgeous .
+1,2 aspect|4,5 opinion|1,5 positive
+1,2 aspect|4,5 opinion|1,5 positive
+
+It has a very high performance , just for what I needed for .
+5,6 aspect|4,5 opinion|4,6 r_positive
+5,6 aspect|4,5 opinion|4,6 r_positive
+
+Apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset .
+18,22 aspect|15,16 aspect|14,15 opinion|14,19 r_neutral|14,20 r_neutral|14,21 r_neutral|14,22 r_neutral|14,16 r_neutral
+18,22 aspect|15,16 aspect|14,15 opinion|14,22 r_neutral|14,16 r_neutral
+
+I just bought the new MacBook Pro , the 13 " model , and I ca n't believe Apple keeps making the same mistake with regard to USB ports .
+27,29 aspect|23,24 opinion|23,28 r_negative|23,29 r_negative
+27,29 aspect|23,24 opinion|23,29 r_negative
+
+It is the perfect size and speed for me .
+4,5 aspect|6,7 aspect|3,4 opinion|3,5 r_positive|3,7 r_positive
+4,5 aspect|6,7 aspect|3,4 opinion|3,5 r_positive|3,7 r_positive
+
+THE CUSTOMER SERVICE IS TERRIFIC ! !
+1,3 aspect|4,5 opinion|1,5 positive|2,5 positive
+1,3 aspect|4,5 opinion|1,5 positive
+
+My last laptop was a 17 " ASUS gaming machine , which performed admirably , but having since built my own desktop and really settling into the college life , I found myself wanting something smaller and less cumbersome , not to mention that the ASUS had been slowly developing problems ever since I bought it about 4 years ago .
+12,13 aspect|13,14 opinion|12,14 positive
+12,13 aspect|13,14 opinion|12,14 positive
+
+However , it did not have any scratches , ZERO battery cycle count ( pretty surprised ) , and all the hardware seemed to be working perfectly .
+10,13 aspect|21,22 aspect|9,10 opinion|15,16 opinion|26,27 opinion|9,11 r_positive|9,12 r_positive|9,13 r_positive|10,16 positive|11,16 positive|12,16 positive|21,27 positive
+10,13 aspect|21,22 aspect|9,10 opinion|15,16 opinion|26,27 opinion|9,13 r_positive|10,16 positive|21,27 positive
+
+And as for all the fancy finger swipes -- I just gave up and attached a mouse .
+6,8 aspect|5,6 opinion|5,7 r_negative|5,8 r_negative
+6,8 aspect|5,6 opinion|5,8 r_negative
+
+I needed a laptop with big storage , a nice screen and fast so I can photoshop without any problem .
+6,7 aspect|10,11 aspect|5,6 opinion|9,10 opinion|5,7 r_neutral|9,11 r_neutral
+6,7 aspect|10,11 aspect|5,6 opinion|9,10 opinion|5,7 r_neutral|9,11 r_neutral
+
+I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $ 400 old HP laptop .
+5,7 aspect|13,15 aspect|1,2 opinion|11,12 opinion|1,6 r_positive|1,7 r_positive|11,14 r_negative|11,15 r_negative
+5,7 aspect|13,15 aspect|1,2 opinion|11,12 opinion|1,7 r_positive|11,15 r_negative
+
+Shipped very quickly and safely .
+0,1 aspect|2,3 opinion|4,5 opinion|0,3 positive|0,5 positive
+0,1 aspect|2,3 opinion|4,5 opinion|0,3 positive|0,5 positive
+
+The thunderbolt port is awesome !
+1,3 aspect|4,5 opinion|1,5 positive|2,5 positive
+1,3 aspect|4,5 opinion|1,5 positive
+
+The performance is definitely superior to any computer I 've ever put my hands on .
+1,2 aspect|4,5 opinion|1,5 positive
+1,2 aspect|4,5 opinion|1,5 positive
+
+It 's great for streaming video and other entertainment uses .
+4,6 aspect|8,10 aspect|2,3 opinion|2,5 r_positive|2,6 r_positive|2,9 r_positive|2,10 r_positive
+4,6 aspect|8,10 aspect|2,3 opinion|2,6 r_positive|2,10 r_positive
+
+I like the design and its features but there are somethings I think needs to be improved .
+3,4 aspect|6,7 aspect|1,2 opinion|13,17 opinion|1,4 r_positive|6,14 positive|6,15 positive|6,16 positive|6,17 positive
+3,4 aspect|6,7 aspect|1,2 opinion|13,17 opinion|1,4 r_positive|6,17 positive
+
+There were small problems with Mac office .
+5,7 aspect|3,4 opinion|3,6 r_negative|3,7 r_negative
+5,7 aspect|3,4 opinion|3,7 r_negative
+
+I ordered my 2012 mac mini after being disappointed with spec of the new 27 " Imacs .
+10,11 aspect|8,9 opinion|8,11 r_negative
+10,11 aspect|8,9 opinion|8,11 r_negative
+
+Its fast , easy to use and it looks great .
+5,6 aspect|8,9 aspect|3,4 opinion|9,10 opinion|3,6 r_positive|8,10 positive
+5,6 aspect|8,9 aspect|3,4 opinion|9,10 opinion|3,6 r_positive|8,10 positive
+
+Performance is much much better on the Pro , especially if you install an SSD on it .
+0,1 aspect|14,15 aspect|4,5 opinion|0,5 positive|4,15 r_positive
+0,1 aspect|14,15 aspect|4,5 opinion|0,5 positive|4,15 r_positive
+
+Note , however , that any existing MagSafe accessories you have will not work with the MagSafe 2 connection .
+7,9 aspect|16,19 aspect|12,14 opinion|7,13 neutral|7,14 neutral|8,13 neutral|8,14 neutral|12,17 r_negative|12,18 r_negative|12,19 r_negative|13,17 r_negative|13,18 r_negative|13,19 r_negative
+7,9 aspect|16,19 aspect|12,14 opinion|7,14 neutral|12,19 r_negative
+
+The only thing I dislike is the touchpad , alot of the times its unresponsive and does things I dont want it too , I would recommend using a mouse with it .
+7,8 aspect|29,30 aspect|4,5 opinion|14,15 opinion|26,27 opinion|4,8 r_negative|7,15 negative|26,30 r_neutral
+7,8 aspect|29,30 aspect|4,5 opinion|14,15 opinion|26,27 opinion|4,8 r_negative|7,15 negative|26,30 r_neutral
+
+The Mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet , actually the fans are n't audible unlike my old pc
+17,18 aspect|23,24 aspect|19,20 opinion|24,27 opinion|17,20 positive|23,25 positive|23,26 positive|23,27 positive
+17,18 aspect|23,24 aspect|19,20 opinion|24,27 opinion|17,20 positive|23,27 positive
+
+I thought the transition would be difficult at best and would take some time to fully familiarize myself with the new Mac ecosystem .
+21,23 aspect|11,14 opinion|11,22 r_neutral|11,23 r_neutral|12,22 r_neutral|12,23 r_neutral|13,22 r_neutral|13,23 r_neutral
+21,23 aspect|11,14 opinion|11,23 r_neutral
+
+It 's absolutely wonderful and worth the price !
+7,8 aspect|3,4 opinion|5,6 opinion|3,8 r_positive|5,8 r_positive
+7,8 aspect|3,4 opinion|5,6 opinion|3,8 r_positive|5,8 r_positive
+
+I am please with the products ease of use ; out of the box ready ; appearance and functionality .
+8,9 aspect|16,17 aspect|18,19 aspect|2,3 opinion|6,7 opinion|2,9 r_positive|6,9 r_positive|2,17 r_positive|2,19 r_positive
+8,9 aspect|16,17 aspect|18,19 aspect|2,3 opinion|6,7 opinion|2,9 r_positive|6,9 r_positive|2,17 r_positive|2,19 r_positive
+
+Perfect for all my graphic design classes I 'm taking this year in college : - )
+4,6 aspect|0,1 opinion|0,5 r_positive|0,6 r_positive
+4,6 aspect|0,1 opinion|0,6 r_positive
+
+I will not be using that slot again .
+6,7 aspect|2,5 opinion|2,7 r_negative|3,7 r_negative|4,7 r_negative
+6,7 aspect|2,5 opinion|2,7 r_negative
+
+The OS is fast and fluid , everything is organized and it 's just beautiful .
+1,2 aspect|3,4 opinion|5,6 opinion|9,10 opinion|14,15 opinion|1,4 positive|1,6 positive|1,10 positive|1,15 positive
+1,2 aspect|3,4 opinion|5,6 opinion|9,10 opinion|14,15 opinion|1,4 positive|1,6 positive|1,10 positive|1,15 positive
+
+They are simpler to use .
+4,5 aspect|2,3 opinion|2,5 r_positive
+4,5 aspect|2,3 opinion|2,5 r_positive
+
+! so nice .. stable .. fast .. now i got my SSD !
+12,13 aspect|2,3 opinion|4,5 opinion|6,7 opinion|2,13 r_positive|4,13 r_positive|6,13 r_positive
+12,13 aspect|2,3 opinion|4,5 opinion|6,7 opinion|2,13 r_positive|4,13 r_positive|6,13 r_positive
+
+I love the quick start up .
+4,6 aspect|1,2 opinion|1,5 r_positive|1,6 r_positive
+4,6 aspect|1,2 opinion|1,6 r_positive
+
+You just can not beat the functionality of an Apple device .
+6,7 aspect|2,5 opinion|2,7 r_positive|3,7 r_positive|4,7 r_positive
+6,7 aspect|2,5 opinion|2,7 r_positive
+
+Yet my mac continues to function properly .
+5,6 aspect|6,7 opinion|5,7 positive
+5,6 aspect|6,7 opinion|5,7 positive
+
+Graphics are much improved .
+0,1 aspect|3,4 opinion|0,4 positive
+0,1 aspect|3,4 opinion|0,4 positive
+
+Here are the things that made me confident with my purchase : Build Quality - Seriously , you ca n't beat a unibody construction .
+12,14 aspect|22,24 aspect|7,8 opinion|18,21 opinion|7,13 r_positive|7,14 r_positive|18,23 r_positive|18,24 r_positive|19,23 r_positive|19,24 r_positive|20,23 r_positive|20,24 r_positive
+12,14 aspect|22,24 aspect|7,8 opinion|18,21 opinion|7,14 r_positive|18,24 r_positive
+
+It provides much more flexibility for connectivity .
+4,7 aspect|3,4 opinion|3,5 r_positive|3,6 r_positive|3,7 r_positive
+4,7 aspect|3,4 opinion|3,7 r_positive
+
+Mac tutorials do help .
+0,2 aspect|3,4 opinion|0,4 positive|1,4 positive
+0,2 aspect|3,4 opinion|0,4 positive
+
+The technical support was not helpful as well .
+1,3 aspect|4,6 opinion|1,5 negative|1,6 negative|2,5 negative|2,6 negative
+1,3 aspect|4,6 opinion|1,6 negative
+
+I got the new adapter and there was no change .
+4,5 aspect|3,4 opinion|8,10 opinion|3,5 r_neutral|4,9 neutral|4,10 neutral
+4,5 aspect|3,4 opinion|8,10 opinion|3,5 r_neutral|4,10 neutral
+
+Logic board utterly fried , cried , and laid down and died .
+0,2 aspect|2,4 opinion|5,6 opinion|8,10 opinion|11,12 opinion|0,3 positive|0,4 positive|1,3 positive|1,4 positive|0,6 positive|1,6 positive|0,9 positive|0,10 positive|1,9 positive|1,10 positive|0,12 positive|1,12 positive
+0,2 aspect|2,4 opinion|5,6 opinion|8,10 opinion|11,12 opinion|0,4 positive|0,6 positive|0,10 positive|0,12 positive
+
+The sound was crappy even when you turn up the volume still the same results .
+1,2 aspect|10,11 aspect|3,4 opinion|1,4 negative|3,11 r_negative
+1,2 aspect|10,11 aspect|3,4 opinion|1,4 negative|3,11 r_negative
+
+OSX Lion is a great performer..extremely fast and reliable .
+0,2 aspect|4,5 opinion|6,7 opinion|8,9 opinion|0,5 positive|1,5 positive|0,7 positive|1,7 positive|0,9 positive|1,9 positive
+0,2 aspect|4,5 opinion|6,7 opinion|8,9 opinion|0,5 positive|0,7 positive|0,9 positive
+
+Having heard from friends and family about how reliable a Mac product is , I never expected to have an application crash within the first month , but I did .
+20,21 aspect|21,22 opinion|20,22 negative
+20,21 aspect|21,22 opinion|20,22 negative
+
+The Macbook pro 's physical form is wonderful .
+4,6 aspect|7,8 opinion|4,8 positive|5,8 positive
+4,6 aspect|7,8 opinion|4,8 positive
+
+The Mini 's body has n't changed since late 2010- and for a good reason .
+3,4 aspect|4,7 opinion|13,14 opinion|3,5 positive|3,6 positive|3,7 positive|3,14 positive
+3,4 aspect|4,7 opinion|13,14 opinion|3,7 positive|3,14 positive
+
+The unibody construction really does feel lot more solid than Apple 's previous laptops .
+1,3 aspect|8,9 opinion|1,9 positive|2,9 positive
+1,3 aspect|8,9 opinion|1,9 positive
+
+3D rendering slows it down considerably .
+0,2 aspect|2,5 opinion|0,3 negative|0,4 negative|0,5 negative|1,3 negative|1,4 negative|1,5 negative
+0,2 aspect|2,5 opinion|0,5 negative
+
+fast , great screen , beautiful apps for a laptop ; priced at 1100 on the apple website ; amazon had it for 1098+ tax - plus i had a 10 % off coupon from amazon-cost me 998 plus tax- 1070- OTD !
+3,4 aspect|6,7 aspect|0,1 opinion|2,3 opinion|5,6 opinion|0,4 r_positive|2,4 r_positive|5,7 r_positive
+3,4 aspect|6,7 aspect|0,1 opinion|2,3 opinion|5,6 opinion|0,4 r_positive|2,4 r_positive|5,7 r_positive
+
+All the ports are much needed since this is my main computer .
+2,3 aspect|4,6 opinion|2,5 neutral|2,6 neutral
+2,3 aspect|4,6 opinion|2,6 neutral
+
+The Like New condition of the iMac MC309LL/A on Amazon is at $ 900+ level only , and it is a Quad-Core 2.5 GHz CPU ( similar to the $ 799 Mini ) , with Radeon HD 6750M 512MB graphic card ( this mini is integrated Intel 4000 card ) , and it even comes with wireless Apple Keyboard and Mouse , all put together in neat and nice package .
+69,70 aspect|66,67 opinion|68,69 opinion|66,70 r_positive|68,70 r_positive
+69,70 aspect|66,67 opinion|68,69 opinion|66,70 r_positive|68,70 r_positive
+
+Put a cover on it and is a little better but that is my only complaint .
+2,3 aspect|7,10 opinion|15,16 opinion|2,8 neutral|2,9 neutral|2,10 neutral|2,16 neutral
+2,3 aspect|7,10 opinion|15,16 opinion|2,10 neutral|2,16 neutral
+
+Within a few hours I was using the gestures unconsciously .
+8,9 aspect|9,10 opinion|8,10 positive
+8,9 aspect|9,10 opinion|8,10 positive
+
+This mac does come with an extender cable and I 'm using mine right now hoping the cable will stay nice for the many years I plan on using this mac .
+7,8 aspect|20,21 opinion|7,21 positive
+7,8 aspect|20,21 opinion|7,21 positive
+
+The 2.9ghz dual-core i7 chip really out does itself .
+1,5 aspect|5,6 opinion|1,6 positive|2,6 positive|3,6 positive|4,6 positive
+1,5 aspect|5,6 opinion|1,6 positive
+
+It is pretty snappy and starts up in about 30 seconds which is good enough for me .
+5,7 aspect|3,4 opinion|13,14 opinion|3,6 r_positive|3,7 r_positive|5,14 positive|6,14 positive
+5,7 aspect|3,4 opinion|13,14 opinion|3,7 r_positive|5,14 positive
+
+Not sure on Windows 8 .
+3,5 aspect|0,2 opinion|0,4 r_neutral|0,5 r_neutral|1,4 r_neutral|1,5 r_neutral
+3,5 aspect|0,2 opinion|0,5 r_neutral
+
+My one complaint is that there was no internal CD drive .
+8,11 aspect|2,3 opinion|7,8 opinion|2,9 r_negative|2,10 r_negative|2,11 r_negative|7,9 r_negative|7,10 r_negative|7,11 r_negative
+8,11 aspect|2,3 opinion|7,8 opinion|2,11 r_negative|7,11 r_negative
+
+This newer netbook has no hard drive or network lights .
+5,7 aspect|8,10 aspect|4,5 opinion|4,6 r_neutral|4,7 r_neutral|4,9 r_neutral|4,10 r_neutral
+5,7 aspect|8,10 aspect|4,5 opinion|4,7 r_neutral|4,10 r_neutral
+
+Not too expense and has enough storage for most users and many ports .
+6,7 aspect|12,13 aspect|5,6 opinion|5,7 r_positive|5,13 r_positive
+6,7 aspect|12,13 aspect|5,6 opinion|5,7 r_positive|5,13 r_positive
+
+The audio volume is quite low and virtually unusable in a room with any background activity .
+1,3 aspect|5,6 opinion|8,9 opinion|1,6 negative|2,6 negative|1,9 negative|2,9 negative
+1,3 aspect|5,6 opinion|8,9 opinion|1,6 negative|1,9 negative
+
+It is lightweight and the perfect size to carry to class .
+6,7 aspect|5,6 opinion|5,7 r_positive
+6,7 aspect|5,6 opinion|5,7 r_positive
+
+The MBP is beautiful has many wonderful capabilities .
+7,8 aspect|6,7 opinion|6,8 r_positive
+7,8 aspect|6,7 opinion|6,8 r_positive
+
+I thought that it will be fine , if i do some settings .
+12,13 aspect|6,7 opinion|6,13 r_neutral
+12,13 aspect|6,7 opinion|6,13 r_neutral
+
+Runs very smoothly .
+0,1 aspect|2,3 opinion|0,3 positive
+0,1 aspect|2,3 opinion|0,3 positive
+
+Boot-up slowed significantly after all Windows updates were installed .
+0,1 aspect|5,7 aspect|1,2 opinion|0,2 negative|1,6 r_negative|1,7 r_negative
+0,1 aspect|5,7 aspect|1,2 opinion|0,2 negative|1,7 r_negative
+
+It was important that it was powerful enough to do all of the tasks he needed on the internet , word processing , graphic design and gaming .
+18,19 aspect|20,22 aspect|23,25 aspect|26,27 aspect|6,7 opinion|6,19 r_positive|6,21 r_positive|6,22 r_positive|6,24 r_positive|6,25 r_positive|6,27 r_positive
+18,19 aspect|20,22 aspect|23,25 aspect|26,27 aspect|6,7 opinion|6,19 r_positive|6,22 r_positive|6,25 r_positive|6,27 r_positive
+
+I like the Mini Mac it was easy to setup and install , but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu .
+9,10 aspect|11,12 aspect|1,2 opinion|7,8 opinion|1,10 r_positive|7,10 r_positive|1,12 r_positive|7,12 r_positive
+9,10 aspect|11,12 aspect|1,2 opinion|7,8 opinion|1,10 r_positive|7,10 r_positive|1,12 r_positive|7,12 r_positive
+
+Runs real quick .
+0,1 aspect|2,3 opinion|0,3 positive
+0,1 aspect|2,3 opinion|0,3 positive
+
+Since the machine 's slim profile is critical to me , that was a problem .
+5,6 aspect|4,5 opinion|7,8 opinion|4,6 r_negative|5,8 negative
+5,6 aspect|4,5 opinion|7,8 opinion|4,6 r_negative|5,8 negative
+
+WiFi capability , disk drive and multiple USB ports to connect scale and printers was all that was required .
+3,5 aspect|7,9 aspect|0,2 aspect|18,19 opinion|3,19 positive|4,19 positive|7,19 positive|8,19 positive|0,19 positive|1,19 positive
+3,5 aspect|7,9 aspect|0,2 aspect|18,19 opinion|3,19 positive|7,19 positive|0,19 positive
+
+The SD card reader is slightly recessed and upside down ( the nail slot on the card can not be accessed ) , if this was a self ejecting slot this would not be an issue , but its not .
+1,4 aspect|12,17 aspect|13,14 aspect|6,7 opinion|8,10 opinion|17,21 opinion|35,36 opinion|1,7 negative|2,7 negative|3,7 negative|1,9 negative|1,10 negative|2,9 negative|2,10 negative|3,9 negative|3,10 negative|12,18 negative|12,19 negative|12,20 negative|12,21 negative|13,18 negative|13,19 negative|13,20 negative|13,21 negative|14,18 negative|14,19 negative|14,20 negative|14,21 negative|15,18 negative|15,19 negative|15,20 negative|15,21 negative|16,18 negative|16,19 negative|16,20 negative|16,21 negative|13,36 negative
+1,4 aspect|12,17 aspect|13,14 aspect|6,7 opinion|8,10 opinion|17,21 opinion|35,36 opinion|1,7 negative|1,10 negative|12,21 negative|13,36 negative
+
+Soft touch , anodized aluminum with laser cut precision and no flaws .
+1,2 aspect|3,5 aspect|0,1 opinion|8,9 opinion|10,12 opinion|0,2 r_positive|3,9 positive|4,9 positive|3,11 positive|3,12 positive|4,11 positive|4,12 positive
+1,2 aspect|3,5 aspect|0,1 opinion|8,9 opinion|10,12 opinion|0,2 r_positive|3,9 positive|3,12 positive
+
+Simple details , crafted aluminium and real glass make this laptop blow away the other plastic ridden , bulky sticker filled laptops .
+4,5 aspect|7,8 aspect|3,4 opinion|11,13 opinion|3,5 r_positive|7,12 positive|7,13 positive
+4,5 aspect|7,8 aspect|3,4 opinion|11,13 opinion|3,5 r_positive|7,13 positive
+
+First of all yes this is a mac and it has that nice brushed aluminum .
+14,15 aspect|12,13 opinion|12,15 r_positive
+14,15 aspect|12,13 opinion|12,15 r_positive
+
+No HDMI port .
+1,3 aspect|0,1 opinion|0,2 r_neutral|0,3 r_neutral
+1,3 aspect|0,1 opinion|0,3 r_neutral
+
+Customization on mac is impossible .
+0,1 aspect|4,5 opinion|0,5 negative
+0,1 aspect|4,5 opinion|0,5 negative
+
+Plus two finger clicking as a replacement for the right click button is surprisingly intuitive .
+1,4 aspect|9,12 aspect|13,14 opinion|14,15 opinion|1,14 positive|2,14 positive|3,14 positive|9,15 neutral|10,15 neutral|11,15 neutral
+1,4 aspect|9,12 aspect|13,14 opinion|14,15 opinion|1,14 positive|9,15 neutral
+
+The SuperDrive is quiet .
+1,2 aspect|3,4 opinion|1,4 positive
+1,2 aspect|3,4 opinion|1,4 positive
+
+The battery was completely dead , in fact it had grown about a quarter inch thick lump on the underside .
+1,2 aspect|4,5 opinion|1,5 negative
+1,2 aspect|4,5 opinion|1,5 negative
+
+if yo like practicality this is the laptop for you .
+3,4 aspect|2,3 opinion|2,4 r_positive
+3,4 aspect|2,3 opinion|2,4 r_positive
+
+The OS is great .
+1,2 aspect|3,4 opinion|1,4 positive
+1,2 aspect|3,4 opinion|1,4 positive
+
+CONS : Price is a bit ridiculous , kinda heavy .
+2,3 aspect|6,7 opinion|9,10 opinion|2,7 negative|2,10 negative
+2,3 aspect|6,7 opinion|9,10 opinion|2,7 negative|2,10 negative
+
+Which it did not have , only 3 USB 2 ports .
+8,11 aspect|3,5 opinion|3,9 r_neutral|3,10 r_neutral|3,11 r_neutral|4,9 r_neutral|4,10 r_neutral|4,11 r_neutral
+8,11 aspect|3,5 opinion|3,11 r_neutral
+
+No startup disk was not included but that may be my fault .
+1,3 aspect|0,1 opinion|4,6 opinion|11,12 opinion|0,2 r_neutral|0,3 r_neutral|1,5 neutral|1,6 neutral|2,5 neutral|2,6 neutral|1,12 neutral|2,12 neutral
+1,3 aspect|0,1 opinion|4,6 opinion|11,12 opinion|0,3 r_neutral|1,6 neutral|1,12 neutral
+
+It is very fast and has everything that I need except for a word program .
+13,15 aspect|10,12 opinion|10,14 r_negative|10,15 r_negative|11,14 r_negative|11,15 r_negative
+13,15 aspect|10,12 opinion|10,15 r_negative
+
+Needs a CD/DVD drive and a bigger power switch .
+7,9 aspect|6,7 opinion|6,8 r_negative|6,9 r_negative
+7,9 aspect|6,7 opinion|6,9 r_negative
+
+My laptop with Windows 7 crashed and I did not want Windows 8 .
+3,5 aspect|11,13 aspect|5,6 opinion|9,11 opinion|3,6 negative|4,6 negative|9,12 r_negative|9,13 r_negative|10,12 r_negative|10,13 r_negative
+3,5 aspect|11,13 aspect|5,6 opinion|9,11 opinion|3,6 negative|9,13 r_negative
+
+Easy to install also small to leave anywhere at your bedroom also very easy to configure for ADSl cable or wifi .
+2,3 aspect|15,21 aspect|0,1 opinion|13,14 opinion|0,3 r_positive|13,16 r_positive|13,17 r_positive|13,18 r_positive|13,19 r_positive|13,20 r_positive|13,21 r_positive
+2,3 aspect|15,21 aspect|0,1 opinion|13,14 opinion|0,3 r_positive|13,21 r_positive
+
+Nice packing .
+1,2 aspect|0,1 opinion|0,2 r_positive
+1,2 aspect|0,1 opinion|0,2 r_positive
+
+I switched to this because I wanted something different , even though I miss windows .
+14,15 aspect|13,14 opinion|13,15 r_positive
+14,15 aspect|13,14 opinion|13,15 r_positive
+
+Apple no longer includes iDVD with the computer and furthermore , Apple does n't even offer it anymore !
+4,5 aspect|1,4 opinion|1,5 r_negative|2,5 r_negative|3,5 r_negative
+4,5 aspect|1,4 opinion|1,5 r_negative
+
+I also wanted Windows 7 , which this one has .
+3,5 aspect|2,3 opinion|2,4 r_positive|2,5 r_positive
+3,5 aspect|2,3 opinion|2,5 r_positive
+
+At first , I feel a little bit uncomfortable in using the Mac system .
+12,14 aspect|8,9 opinion|8,13 r_negative|8,14 r_negative
+12,14 aspect|8,9 opinion|8,14 r_negative
+
+It just works out of the box and you have a lot of cool software included with the OS .
+2,3 aspect|14,15 aspect|18,19 aspect|3,7 opinion|13,14 opinion|2,4 positive|2,5 positive|2,6 positive|2,7 positive|13,15 r_positive|13,19 r_neutral
+2,3 aspect|14,15 aspect|18,19 aspect|3,7 opinion|13,14 opinion|2,7 positive|13,15 r_positive|13,19 r_neutral
+
+its as advertised on here ... .. it works great and is not a waste of money !
+8,9 aspect|9,10 opinion|8,10 positive
+8,9 aspect|9,10 opinion|8,10 positive
+
+Premium price for the OS more than anything else .
+1,2 aspect|4,5 aspect|0,1 opinion|0,2 r_positive|0,5 r_neutral
+1,2 aspect|4,5 aspect|0,1 opinion|0,2 r_positive|0,5 r_neutral
+
+I was a little concerned about the touch pad based on reviews , but I 've found it fine to work with .
+7,9 aspect|4,5 opinion|18,19 opinion|4,8 r_positive|4,9 r_positive|7,19 positive|8,19 positive
+7,9 aspect|4,5 opinion|18,19 opinion|4,9 r_positive|7,19 positive
+
+However , the experience was great since the OS does not become unstable and the application will simply shutdown and reopen .
+8,9 aspect|5,6 opinion|10,13 opinion|5,9 r_positive|8,11 positive|8,12 positive|8,13 positive
+8,9 aspect|5,6 opinion|10,13 opinion|5,9 r_positive|8,13 positive
+
+The battery is not as shown in the product photos .
+1,2 aspect|3,6 opinion|1,4 negative|1,5 negative|1,6 negative
+1,2 aspect|3,6 opinion|1,6 negative
+
+Shipping was quick and product described was the product sent and so much more ...
+0,1 aspect|2,3 opinion|0,3 positive
+0,1 aspect|2,3 opinion|0,3 positive
+
+the retina display display make pictures i took years ago jaw dropping .
+1,4 aspect|11,12 opinion|1,12 positive|2,12 positive|3,12 positive
+1,4 aspect|11,12 opinion|1,12 positive
+
+The Mac Mini is probably the simplest example of compact computing out there .
+9,11 aspect|6,7 opinion|6,10 r_positive|6,11 r_positive
+9,11 aspect|6,7 opinion|6,11 r_positive
+
+Additionally , there is barely a ventilation system in the computer , and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot , and in fact impossible to keep on lap .
+6,8 aspect|18,20 aspect|22,25 aspect|4,5 opinion|32,33 opinion|15,16 opinion|4,7 r_negative|4,8 r_negative|6,33 negative|7,33 negative|15,19 r_neutral|15,20 r_neutral|18,33 neutral|19,33 neutral|22,33 neutral|23,33 neutral|24,33 neutral
+6,8 aspect|18,20 aspect|22,25 aspect|4,5 opinion|32,33 opinion|15,16 opinion|4,8 r_negative|6,33 negative|15,20 r_neutral|18,33 neutral|22,33 neutral
+
+Chatting with Acer support , I was advised the problem was corrupted operating system files .
+12,15 aspect|11,12 opinion|11,13 r_neutral|11,14 r_neutral|11,15 r_neutral
+12,15 aspect|11,12 opinion|11,15 r_neutral
+
+It 's been a couple weeks since the purchase and I 'm struggle with finding the correct keys ( but that was expected ) .
+17,18 aspect|12,13 opinion|12,18 r_neutral
+17,18 aspect|12,13 opinion|12,18 r_neutral
+
+Many people complain about the new OS , and it 's urgent for Apple to fix it asap !
+6,7 aspect|2,3 opinion|2,7 r_negative
+6,7 aspect|2,3 opinion|2,7 r_negative
+
+Now that I have upgraded to Lion I am much happier about MAC OS and have just bought an iMac for office .
+6,7 aspect|12,14 aspect|4,5 opinion|10,11 opinion|4,7 r_positive|10,13 r_positive|10,14 r_positive
+6,7 aspect|12,14 aspect|4,5 opinion|10,11 opinion|4,7 r_positive|10,14 r_positive
+
+User upgradeable RAM and HDD .
+2,3 aspect|4,5 aspect|1,2 opinion|1,3 r_positive|1,5 r_positive
+2,3 aspect|4,5 aspect|1,2 opinion|1,3 r_positive|1,5 r_positive
+
+But I wanted the Pro for the CD/DVD player .
+7,9 aspect|2,3 opinion|2,8 r_positive|2,9 r_positive
+7,9 aspect|2,3 opinion|2,9 r_positive
+
+I was a little worry at first because I do n't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows .
+17,18 aspect|4,5 opinion|4,18 r_neutral
+17,18 aspect|4,5 opinion|4,18 r_neutral
+
+With the softwares supporting the use of other OS makes it much better .
+8,9 aspect|2,3 aspect|12,13 opinion|8,13 neutral|2,13 neutral
+8,9 aspect|2,3 aspect|12,13 opinion|8,13 neutral|2,13 neutral
+
+I was considering buying the Air , but in reality , this one has a more powerful performance and seems much more convenient , even though it 's about .20 inch thicker and 2 lbs heavier .
+17,18 aspect|16,17 opinion|16,18 r_positive
+17,18 aspect|16,17 opinion|16,18 r_positive
+
+At home and the office it gets plugged into an external 24 " LCD screen , so built in screen size is not terribly important .
+17,21 aspect|22,25 opinion|17,23 neutral|17,24 neutral|17,25 neutral|18,23 neutral|18,24 neutral|18,25 neutral|19,23 neutral|19,24 neutral|19,25 neutral|20,23 neutral|20,24 neutral|20,25 neutral
+17,21 aspect|22,25 opinion|17,25 neutral
+
+Just beware no DVD slot so when I went to install software I had on CD I could n't .
+3,5 aspect|2,3 opinion|2,4 r_neutral|2,5 r_neutral
+3,5 aspect|2,3 opinion|2,5 r_neutral
+
+No Cd Rom in the new version there 's no way I 'm spending that kind of money on something has less features than the older version .
+1,3 aspect|22,23 aspect|0,1 opinion|21,22 opinion|0,2 r_neutral|0,3 r_neutral|21,23 r_negative
+1,3 aspect|22,23 aspect|0,1 opinion|21,22 opinion|0,3 r_neutral|21,23 r_negative
+
+the volume is really low to low for a laptopwas not expectin t volume to be so lowan i hate that about this computer
+1,2 aspect|4,5 opinion|19,20 opinion|1,5 negative|1,20 negative|1,5 negative|1,20 negative
+1,2 aspect|4,5 opinion|19,20 opinion|1,5 negative|1,20 negative|1,5 negative|1,20 negative
+
+and its not hard to accidentally bang it against something so i recommend getting a case to protect it .
+15,16 aspect|12,13 opinion|12,16 r_neutral
+15,16 aspect|12,13 opinion|12,16 r_neutral
+
+I got this at an amazing price from Amazon and it arrived just in time .
+6,7 aspect|5,6 opinion|5,7 r_positive
+6,7 aspect|5,6 opinion|5,7 r_positive
+
+Every time I log into the system after a few hours , there is this endlessly frustrating process that I have to go through .
+3,7 aspect|16,17 opinion|3,17 negative|4,17 negative|5,17 negative|6,17 negative
+3,7 aspect|16,17 opinion|3,17 negative
+
+Put a SSD and use a 21 " LED screen , this set up is silky smooth !
+12,14 aspect|15,17 opinion|12,16 positive|12,17 positive|13,16 positive|13,17 positive
+12,14 aspect|15,17 opinion|12,17 positive
+
+The case is now slightly larger than the previous generation , but the lack of an external power supply justifies the small increase in size .
+1,2 aspect|16,19 aspect|5,6 opinion|13,14 opinion|1,6 negative|13,17 r_neutral|13,18 r_neutral|13,19 r_neutral
+1,2 aspect|16,19 aspect|5,6 opinion|13,14 opinion|1,6 negative|13,19 r_neutral
+
+I had to buy a wireless mouse to go with it , as I am old school and hate the pad , but knew that before I bought it , now it works great , need to get adjusted to the key board , as I am used to a bigger one and pounding .
+20,21 aspect|32,33 aspect|18,19 opinion|33,34 opinion|18,21 r_negative|32,34 positive
+20,21 aspect|32,33 aspect|18,19 opinion|33,34 opinion|18,21 r_negative|32,34 positive
+
+Has all the other features I wanted including a VGA port , HDMI , ethernet and 3 USB ports .
+4,5 aspect|9,11 aspect|12,13 aspect|14,15 aspect|17,19 aspect|6,7 opinion|4,7 positive|6,10 r_neutral|6,11 r_neutral|6,13 r_neutral|6,15 r_neutral|6,18 r_neutral|6,19 r_neutral
+4,5 aspect|9,11 aspect|12,13 aspect|14,15 aspect|17,19 aspect|6,7 opinion|4,7 positive|6,11 r_neutral|6,13 r_neutral|6,15 r_neutral|6,19 r_neutral
+
+The only thing I dislike about this laptop are the rubber pads found on the bottom of the computer for grip .
+10,12 aspect|4,5 opinion|4,11 r_negative|4,12 r_negative
+10,12 aspect|4,5 opinion|4,12 r_negative
+
+It 's a decent computer for the price and hopefully it will last a long time .
+7,8 aspect|3,4 opinion|3,8 r_neutral
+7,8 aspect|3,4 opinion|3,8 r_neutral
+
+The nicest part is the low heat output and ultra quiet operation .
+6,8 aspect|11,12 aspect|1,2 opinion|5,6 opinion|10,11 opinion|1,7 r_positive|1,8 r_positive|5,7 r_positive|5,8 r_positive|1,12 r_positive|10,12 r_positive
+6,8 aspect|11,12 aspect|1,2 opinion|5,6 opinion|10,11 opinion|1,8 r_positive|5,8 r_positive|1,12 r_positive|10,12 r_positive
+
+this Mac Mini does not have a built-in mic , and it would seem that its Mac OS 10.9 does not handle external microphones properly .
+7,9 aspect|16,19 aspect|4,6 opinion|20,22 opinion|4,8 r_neutral|4,9 r_neutral|5,8 r_neutral|5,9 r_neutral|16,21 negative|16,22 negative|17,21 negative|17,22 negative|18,21 negative|18,22 negative
+7,9 aspect|16,19 aspect|4,6 opinion|20,22 opinion|4,9 r_neutral|16,22 negative
+
+A lot of features and shortcuts on the MBP that I was never exposed to on a normal PC .
+3,4 aspect|5,6 aspect|1,3 opinion|1,4 r_neutral|2,4 r_neutral|1,6 r_neutral|2,6 r_neutral
+3,4 aspect|5,6 aspect|1,3 opinion|1,4 r_neutral|1,6 r_neutral
+
+Was n't sure if I was going to like it much less love it so I went to a local best buy and played around with the IOS system on a Mac Pro and it was totally unique and different .
+27,29 aspect|37,38 opinion|39,40 opinion|27,38 positive|28,38 positive|27,40 positive|28,40 positive
+27,29 aspect|37,38 opinion|39,40 opinion|27,38 positive|27,40 positive
+
+air has higher resolution but the fonts are small .
+3,4 aspect|6,7 aspect|2,3 opinion|8,9 opinion|2,4 r_positive|6,9 negative
+3,4 aspect|6,7 aspect|2,3 opinion|8,9 opinion|2,4 r_positive|6,9 negative
+
+working with Mac is so much easier , so many cool features .
+0,1 aspect|11,12 aspect|6,7 opinion|10,11 opinion|0,7 positive|10,12 r_positive
+0,1 aspect|11,12 aspect|6,7 opinion|10,11 opinion|0,7 positive|10,12 r_positive
+
+I like the brightness and adjustments .
+3,4 aspect|5,6 aspect|1,2 opinion|1,4 r_positive|1,6 r_positive
+3,4 aspect|5,6 aspect|1,2 opinion|1,4 r_positive|1,6 r_positive
+
+I only wish this mac had a CD/DVD player built in .
+7,9 aspect|2,3 opinion|2,8 r_neutral|2,9 r_neutral
+7,9 aspect|2,3 opinion|2,9 r_neutral
+
+The only thing I miss is that my old Alienware laptop had backlit keys .
+12,14 aspect|4,5 opinion|4,13 r_negative|4,14 r_negative
+12,14 aspect|4,5 opinion|4,14 r_negative
+
+So happy with this purchase , I just wish it came with Microsoft Word .
+12,14 aspect|8,9 opinion|8,13 r_neutral|8,14 r_neutral
+12,14 aspect|8,9 opinion|8,14 r_neutral
+
+It has enough memory and speed to run my business with all the flexibility that comes with a laptop .
+3,4 aspect|5,6 aspect|2,3 opinion|2,4 r_positive|2,6 r_positive
+3,4 aspect|5,6 aspect|2,3 opinion|2,4 r_positive|2,6 r_positive
+
+The battery life is excellent , the display is excellent , and downloading apps is a breeze .
+1,3 aspect|7,8 aspect|12,14 aspect|4,5 opinion|4,5 opinion|16,17 opinion|1,5 positive|2,5 positive|4,8 r_positive|12,17 positive|13,17 positive
+1,3 aspect|7,8 aspect|12,14 aspect|4,5 opinion|4,5 opinion|16,17 opinion|1,5 positive|4,8 r_positive|12,17 positive
+
+The screen , the software and the smoothness of the operating system .
+10,12 aspect|7,8 opinion|7,11 r_positive|7,12 r_positive
+10,12 aspect|7,8 opinion|7,12 r_positive
+
+But with this laptop , the bass is very weak and the sound comes out sounding tinny .
+6,7 aspect|12,13 aspect|9,10 opinion|16,17 opinion|6,10 negative|12,17 negative
+6,7 aspect|12,13 aspect|9,10 opinion|16,17 opinion|6,10 negative|12,17 negative
+
+The built quality is really good , I was so Happy and excited about this Product .
+1,3 aspect|5,6 opinion|10,11 opinion|12,13 opinion|1,6 positive|2,6 positive|1,11 positive|2,11 positive|1,13 positive|2,13 positive
+1,3 aspect|5,6 opinion|10,11 opinion|12,13 opinion|1,6 positive|1,11 positive|1,13 positive
+
+I am loving the fast performance also .
+5,6 aspect|2,3 opinion|4,5 opinion|2,6 r_positive|4,6 r_positive
+5,6 aspect|2,3 opinion|4,5 opinion|2,6 r_positive|4,6 r_positive
+
+Further , this Mac Mini has a sloppy Bluetooth interface ( courtesy of the Mac OS ) and the range is poor .
+8,10 aspect|14,16 aspect|19,20 aspect|7,8 opinion|11,12 opinion|21,22 opinion|7,9 r_negative|7,10 r_negative|11,15 r_negative|11,16 r_negative|19,22 negative
+8,10 aspect|14,16 aspect|19,20 aspect|7,8 opinion|11,12 opinion|21,22 opinion|7,10 r_negative|11,16 r_negative|19,22 negative
+
+My only gripe would be the need to add more RAM .
+10,11 aspect|2,3 opinion|2,11 r_negative
+10,11 aspect|2,3 opinion|2,11 r_negative
+
+Fine if you have a touch screen .
+5,7 aspect|0,1 opinion|0,6 r_neutral|0,7 r_neutral
+5,7 aspect|0,1 opinion|0,7 r_neutral
+
+This by far beats any computer out on the market today built well , battery life AMAZING .
+11,12 aspect|14,16 aspect|12,13 opinion|16,17 opinion|11,13 positive|14,17 positive|15,17 positive
+11,12 aspect|14,16 aspect|12,13 opinion|16,17 opinion|11,13 positive|14,17 positive
+
+The OS is easy , and offers all kinds of surprises .
+1,2 aspect|3,4 opinion|10,11 opinion|1,4 positive|1,11 positive
+1,2 aspect|3,4 opinion|10,11 opinion|1,4 positive|1,11 positive
+
+A veryimportant feature is Firewire 800 which in my experience works better then USB3 ( in PC enabled with USB3 ) I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7 .
+4,6 aspect|28,30 aspect|1,2 opinion|11,12 opinion|34,35 opinion|1,5 r_positive|1,6 r_positive|4,12 positive|5,12 positive|28,35 negative|29,35 negative
+4,6 aspect|28,30 aspect|1,2 opinion|11,12 opinion|34,35 opinion|1,6 r_positive|4,12 positive|28,35 negative
+
+I like iTunes , the apparent security , the Mini form factor , all the nice graphics stuff .
+2,3 aspect|6,7 aspect|16,18 aspect|1,2 opinion|5,6 opinion|15,16 opinion|1,3 r_positive|5,7 r_positive|15,17 r_positive|15,18 r_positive
+2,3 aspect|6,7 aspect|16,18 aspect|1,2 opinion|5,6 opinion|15,16 opinion|1,3 r_positive|5,7 r_positive|15,18 r_positive
+
+After replacing the spinning hard disk with an ssd drive , my mac is just flying .
+8,10 aspect|15,16 opinion|8,16 positive|9,16 positive
+8,10 aspect|15,16 opinion|8,16 positive
+
+I know some people complained about HDMI issues but they released a firmware patch to address that issue .
+6,7 aspect|4,5 opinion|4,7 r_neutral
+6,7 aspect|4,5 opinion|4,7 r_neutral
+
+With the needs of a professional photographer I generally need to keep up with the best specs .
+16,17 aspect|15,16 opinion|15,17 r_neutral
+16,17 aspect|15,16 opinion|15,17 r_neutral
+
+packing and everything was perfect
+0,1 aspect|4,5 opinion|0,5 positive
+0,1 aspect|4,5 opinion|0,5 positive
+
+I called Toshiba where I gave them the serial number and they informed me that they were having issues with the mother boards .
+21,23 aspect|18,19 opinion|18,22 r_neutral|18,23 r_neutral
+21,23 aspect|18,19 opinion|18,23 r_neutral
+
+I seem to be having repeat problems as the Mother Board in this one is diagnosed as faulty , related to the graphics card .
+9,11 aspect|22,24 aspect|17,18 opinion|9,18 negative|10,18 negative|17,23 r_negative|17,24 r_negative
+9,11 aspect|22,24 aspect|17,18 opinion|9,18 negative|17,24 r_negative
+
+It also comes with 4G of RAM but if you 're like me you want to max that out so I immediately put 8G of RAM in her and I 've never used a computer that performs better .
+36,37 aspect|37,38 opinion|36,38 positive
+36,37 aspect|37,38 opinion|36,38 positive
+
+This computer is also awesome for my sons virtual home schooling .
+8,11 aspect|4,5 opinion|4,9 r_positive|4,10 r_positive|4,11 r_positive
+8,11 aspect|4,5 opinion|4,11 r_positive
+
+Cost is more as compared to other brands .
+0,1 aspect|2,3 opinion|0,3 negative
+0,1 aspect|2,3 opinion|0,3 negative
+
+also ... - excellent operating system -- size and weight for optimal mobility -- excellent durability of the battery -- the functions provided by the trackpad is unmatched by any other brand-
+4,6 aspect|7,8 aspect|9,10 aspect|12,13 aspect|15,19 aspect|21,26 aspect|3,4 opinion|11,12 opinion|3,4 opinion|27,28 opinion|3,5 r_positive|3,6 r_positive|3,8 r_positive|3,10 r_positive|11,13 r_positive|3,16 r_positive|3,17 r_positive|3,18 r_positive|3,19 r_positive|21,28 positive|22,28 positive|23,28 positive|24,28 positive|25,28 positive
+4,6 aspect|7,8 aspect|9,10 aspect|12,13 aspect|15,19 aspect|21,26 aspect|3,4 opinion|11,12 opinion|3,4 opinion|27,28 opinion|3,6 r_positive|3,8 r_positive|3,10 r_positive|11,13 r_positive|3,19 r_positive|21,28 positive
+
+This hardware seems to be better than the iMac in that it is n't $ 1400 and smaller .
+1,2 aspect|5,6 opinion|1,6 positive
+1,2 aspect|5,6 opinion|1,6 positive
+
+I 've had it for about 2 months now and found no issues with software or updates .
+14,15 aspect|16,17 aspect|11,13 opinion|11,15 r_neutral|12,15 r_neutral|11,17 r_neutral|12,17 r_neutral
+14,15 aspect|16,17 aspect|11,13 opinion|11,15 r_neutral|11,17 r_neutral
+
+the latest version does not have a disc drive .
+7,9 aspect|4,6 opinion|4,8 r_neutral|4,9 r_neutral|5,8 r_neutral|5,9 r_neutral
+7,9 aspect|4,6 opinion|4,9 r_neutral
+
+Screen - although some people might complain about low res which I think is ridiculous .
+0,1 aspect|9,10 aspect|6,7 opinion|14,15 opinion|8,9 opinion|0,7 positive|0,15 positive|8,10 r_positive|9,15 positive
+0,1 aspect|9,10 aspect|6,7 opinion|14,15 opinion|8,9 opinion|0,7 positive|0,15 positive|8,10 r_positive|9,15 positive
+

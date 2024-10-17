@@ -1,0 +1,11 @@
+{
+    "ner": [
+        "NA"
+    ],
+    "relation": [
+        "adverse-drug-reaction",
+        "r_adverse-drug-reaction"
+    ],
+    "event": [],
+    "role": []
+}

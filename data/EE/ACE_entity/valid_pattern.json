@@ -90,20 +90,7 @@
         "PER",
         "LOC"
     ],
-    "relation": [
-        "r_GEN-AFF",
-        "ORG-AFF",
-        "PHYS",
-        "PER-SOC",
-        "r_PER-SOC",
-        "r_PART-WHOLE",
-        "PART-WHOLE",
-        "r_ORG-AFF",
-        "GEN-AFF",
-        "r_ART",
-        "r_PHYS",
-        "ART"
-    ],
+    "relation": [],
     "event": [],
     "role": []
 }

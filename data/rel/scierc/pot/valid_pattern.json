@@ -1,0 +1,28 @@
+{
+    "ner": [
+        "method",
+        "task",
+        "other-scientific-term",
+        "metric",
+        "material",
+        "generic"
+    ],
+    "relation": [
+        "evaluate-for",
+        "compare",
+        "used-for",
+        "feature-of",
+        "conjunction",
+        "part-of",
+        "hyponym-of",
+        "r_used-for",
+        "r_feature-of",
+        "r_evaluate-for",
+        "r_conjunction",
+        "r_hyponym-of",
+        "r_part-of",
+        "r_compare"
+    ],
+    "event": [],
+    "role": []
+}

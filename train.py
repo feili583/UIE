@@ -17,7 +17,9 @@
 lwc修改了evaluate函数
 11.30将partial tree输出预测结果,在特征中加入句子
 2.25在parser上加入注释
-3.1在模型处加入注释"""
+3.1在模型处加入注释
+10.16在模型配置文件中添加了max_seq_len
+10.17修改了数据集|train文件|utils.py文件"""
 from __future__ import absolute_import, division, print_function
 
 import argparse
@@ -48,7 +50,7 @@ from model import PartialPCFG
 import time
 import json
 
-os.environ['CUDA_VISIBLE_DEVICES'] = '2,3,4,5,6,7'
+os.environ['CUDA_VISIBLE_DEVICES'] = '0,1,2,3'
 
 torch.set_num_threads(4)
 
@@ -189,6 +191,8 @@ logging.basicConfig(format='%(asctime)s - %(levelname)s - %(name)s -   %(message
                     level=logging.INFO)
 logger = logging.getLogger(__name__)
 log_file_name = time.strftime("%Y%m%d-%H%M%S") + '.log.txt'
+if not os.path.exists(args.output_dir):
+    os.makedirs(args.output_dir)
 log_file_name = os.path.join(args.output_dir, log_file_name)
 file_handler = logging.FileHandler(log_file_name, encoding='utf-8')
 file_handler.setFormatter(logging.Formatter('%(asctime)s [%(levelname)-5.5s:%(name)s] %(message)s'))
@@ -442,6 +446,9 @@ def predict2file(args, outputs, partial_masks, labels, gather_masks):
     return predicts,goldens
 
 def all_predict2file(predicts,goldens,file):
+    folder_path = os.path.dirname(file)
+    if not os.path.exists(folder_path):
+        os.makedirs(folder_path)
     with open(file,'w',encoding='utf-8') as f:
         for golden,predict in zip(goldens,predicts):
             if len(golden)==0:
@@ -724,7 +731,7 @@ def evaluate(args, model, dataset, tokenizer, processor, step, _, prefix, valid_
             logger.info("  %s = %s", key, str(result[key]))
             writer.write("%s = %s\n" % (key, str(result[key])))
         writer.write("\n")
-    if prefix == 'dev' and argu_class_F > best_F:
+    if prefix == 'dev' and argu_class_F >= best_F:
         best_F = argu_class_F
         print('best:',argu_class_F)
         # output_dir = os.path.join(args.output_dir, 'checkpoint-{}-{}-{}'.format(_, step, int(F * 10000)))
@@ -868,6 +875,7 @@ def main():
     config.use_crf = args.use_crf
     config.full_print = args.full_print
     config.no_batchify = args.no_batchify
+    config.max_seq_length = args.max_seq_length
 
     model = PartialPCFG.from_pretrained(args.model_name_or_path,
                                         from_tf=bool('.ckpt' in args.model_name_or_path),

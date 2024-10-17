@@ -44,18 +44,7 @@
         "Contact:Meet"
     ],
     "relation": [
-        "r_ORG-AFF",
-        "r_PHYS",
-        "r_GEN-AFF",
-        "PHYS",
-        "PER-SOC",
-        "r_PART-WHOLE",
-        "r_ART",
-        "ART",
-        "ORG-AFF",
-        "r_PER-SOC",
-        "GEN-AFF",
-        "PART-WHOLE"
+
     ],
     "role": [
         "r_Plaintiff",

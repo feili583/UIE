@@ -1,0 +1,1100 @@
+The contributions of this paper are twofold .
+
+
+
+The noisy conditions comprised four additive noises .
+1,3 other-scientific-term|5,7 other-scientific-term|1,6 r_part-of|1,7 r_part-of|2,6 r_part-of|2,7 r_part-of
+1,3 other-scientific-term|5,7 other-scientific-term|1,7 r_part-of
+
+The local reconstruction algorithm is tensor voting .
+1,4 method|5,7 method|1,6 r_hyponym-of|1,7 r_hyponym-of|2,6 r_hyponym-of|2,7 r_hyponym-of|3,6 r_hyponym-of|3,7 r_hyponym-of
+1,4 method|5,7 method|1,7 r_hyponym-of
+
+The new approach has three main advantages .
+2,3 generic
+2,3 generic
+
+An entity-oriented approach to restricted-domain parsing is proposed .
+1,3 method|4,6 task|1,5 used-for|1,6 used-for|2,5 used-for|2,6 used-for
+1,3 method|4,6 task|1,6 used-for
+
+Experimental results are provided to illustrate the theory .
+
+
+
+Some examples of paraphrasing ambiguous sentences are presented .
+
+
+
+We compare our approach and present encouraging results .
+3,4 generic
+3,4 generic
+
+We provide frequentist and Bayesian analyses for this situation .
+4,6 method
+4,6 method
+
+Some new variations in semiphone modeling have been tested .
+4,6 method
+4,6 method
+
+This paper introduces a system for categorizing unknown words .
+4,5 generic|6,9 task|4,7 used-for|4,8 used-for|4,9 used-for
+4,5 generic|6,9 task|4,9 used-for
+
+Various researchers have studied the problem from different aspects .
+
+
+
+To estimate that number , we propose two methods .
+3,4 generic
+3,4 generic
+
+Our system deals with pronouns with NP - and non-NP-antecedents .
+1,2 generic|4,5 other-scientific-term|6,10 other-scientific-term|1,5 used-for|4,7 r_used-for|4,8 r_used-for|4,9 r_used-for|4,10 r_used-for
+1,2 generic|4,5 other-scientific-term|6,10 other-scientific-term|1,5 used-for|4,10 r_used-for
+
+The following describes recent work on the Lincoln CSR system .
+7,10 method
+7,10 method
+
+However , most of these methods usually need handcrafted features .
+8,10 other-scientific-term
+8,10 other-scientific-term
+
+The tool supports queries with an arbitrary number of wildcards .
+1,2 generic
+1,2 generic
+
+Experimental comparison with other techniques shows the effectiveness of our approach .
+4,5 generic|10,11 generic|4,11 r_compare
+4,5 generic|10,11 generic|4,11 r_compare
+
+Both rhetorical structure and punctuation have been helpful in discourse processing .
+1,3 other-scientific-term|4,5 other-scientific-term|9,11 task|1,5 conjunction|2,5 conjunction|1,10 used-for|1,11 used-for|2,10 used-for|2,11 used-for|4,10 used-for|4,11 used-for
+1,3 other-scientific-term|4,5 other-scientific-term|9,11 task|1,5 conjunction|1,11 used-for|4,11 used-for
+
+We design two core-selecting rules that always satisfy IR in expectation .
+3,5 other-scientific-term|8,9 other-scientific-term|3,9 used-for|4,9 used-for
+3,5 other-scientific-term|8,9 other-scientific-term|3,9 used-for
+
+This paper explores the role of user modeling in such systems .
+6,8 task|10,11 method|6,11 part-of|7,11 part-of
+6,8 task|10,11 method|6,11 part-of
+
+The Fragment-and-Compose paradigm and the computational methods of KDS are described .
+1,3 method|5,7 generic|8,9 method|5,9 used-for|6,9 used-for
+1,3 method|5,7 generic|8,9 method|5,9 used-for
+
+Learning only syntactically motivated phrases degrades the performance of our systems .
+10,11 generic
+10,11 generic
+
+Like semantic grammar , this allows easy exploitation of limited domain semantics .
+1,3 method|4,5 generic|9,12 other-scientific-term|4,10 used-for|4,11 used-for|4,12 used-for
+1,3 method|4,5 generic|9,12 other-scientific-term|4,12 used-for
+
+When the competence levels are unknown , they must be empirically estimated .
+2,4 other-scientific-term
+2,4 other-scientific-term
+
+The interaction is limited to the analysis step of the translation process .
+10,12 method
+10,12 method
+
+We present a framework for the fast computation of lexical affinity models .
+3,4 generic|6,12 task|3,7 used-for|3,8 used-for|3,9 used-for|3,10 used-for|3,11 used-for|3,12 used-for
+3,4 generic|6,12 task|3,12 used-for
+
+In this paper we focus on the results of the third phase .
+
+
+
+The improved method stops the EM algorithm at the optimum iteration number .
+2,3 generic|5,7 method|9,12 other-scientific-term
+2,3 generic|5,7 method|9,12 other-scientific-term
+
+The measures were compared with subjective intelligibility scores obtained in listening tests .
+1,2 generic|5,8 metric|1,6 compare|1,7 compare|1,8 compare
+1,2 generic|5,8 metric|1,8 compare
+
+The Glimpse measure gave the most accurate intelligibility predictions in this situation .
+1,3 metric|7,9 task|1,8 used-for|1,9 used-for|2,8 used-for|2,9 used-for
+1,3 metric|7,9 task|1,9 used-for
+
+Consequently , remaining analyses can be ordered along a scale of plausibility .
+
+
+
+Despite the successes of these systems , accuracy will always be imperfect .
+5,6 generic|7,8 metric|5,8 r_evaluate-for
+5,6 generic|7,8 metric|5,8 r_evaluate-for
+
+First , it helps the object detector handle objects of different orientations .
+2,3 generic|5,7 method|11,12 other-scientific-term|5,12 used-for|6,12 used-for
+2,3 generic|5,7 method|11,12 other-scientific-term|5,12 used-for
+
+Generating OOPs is very fast and takes only 0.5 s per image .
+1,2 task
+1,2 task
+
+This paper reports recent research into methods for creating natural language text .
+6,7 generic|8,12 task|6,9 used-for|6,10 used-for|6,11 used-for|6,12 used-for
+6,7 generic|8,12 task|6,12 used-for
+
+Several advantages from the point of view of language definition are also noted .
+
+
+
+The use of CCRs leads to syntactic descriptions formulated entirely with restrictive statements .
+3,4 other-scientific-term|6,8 other-scientific-term|11,13 other-scientific-term|6,12 r_feature-of|6,13 r_feature-of|7,12 r_feature-of|7,13 r_feature-of
+3,4 other-scientific-term|6,8 other-scientific-term|11,13 other-scientific-term|6,13 r_feature-of
+
+Some of our proof techniques are non-standard and may be of independent interest .
+
+
+
+We conclude with simulations that demonstrate the advantages of the reweighted Kikuchi approach .
+10,13 method
+10,13 method
+
+We apply a decision tree based approach to pronoun resolution in spoken dialogue .
+3,7 method|8,10 task|11,13 task|3,9 used-for|3,10 used-for|4,9 used-for|4,10 used-for|5,9 used-for|5,10 used-for|6,9 used-for|6,10 used-for|8,12 used-for|8,13 used-for|9,12 used-for|9,13 used-for
+3,7 method|8,10 task|11,13 task|3,10 used-for|8,13 used-for
+
+Finally , the recognizer has been modified to use bigram back-off language models .
+3,4 method|9,13 method|3,10 r_used-for|3,11 r_used-for|3,12 r_used-for|3,13 r_used-for
+3,4 method|9,13 method|3,13 r_used-for
+
+Evaluation test results are presented for both the RM and ATIS CSR tasks .
+8,13 task
+8,13 task
+
+In this paper we deal with the problem of global alignment and super-resolution .
+9,11 task|12,13 task|9,13 conjunction|10,13 conjunction
+9,11 task|12,13 task|9,13 conjunction
+
+Locally inferred surface elements are robust to noise and better capture local shapes .
+0,4 other-scientific-term|7,8 other-scientific-term|11,13 other-scientific-term|0,12 used-for|0,13 used-for|1,12 used-for|1,13 used-for|2,12 used-for|2,13 used-for|3,12 used-for|3,13 used-for
+0,4 other-scientific-term|7,8 other-scientific-term|11,13 other-scientific-term|0,13 used-for
+
+ROD-TV consists of a hierarchical data structure that encodes different levels of detail .
+0,1 method|4,7 method|0,5 r_part-of|0,6 r_part-of|0,7 r_part-of
+0,1 method|4,7 method|0,7 r_part-of
+
+In this paper we target at generating generic action proposals in unconstrained videos .
+7,10 other-scientific-term|11,13 material|7,12 r_used-for|7,13 r_used-for|8,12 r_used-for|8,13 r_used-for|9,12 r_used-for|9,13 r_used-for
+7,10 other-scientific-term|11,13 material|7,13 r_used-for
+
+We describe a dialogue system that works with its interlocutor to identify objects .
+3,5 method
+3,5 method
+
+The key is to identify groups of objects that are naturally recognized by humans .
+
+
+
+A parser incorporating the control structure and the parsing strategies is currently under implementation .
+1,2 method|4,6 other-scientific-term|8,10 method|1,5 r_part-of|1,6 r_part-of
+1,2 method|4,6 other-scientific-term|8,10 method|1,6 r_part-of
+
+The efficiency of the algorithm is demonstrated on a selection of geometric estimation problems .
+4,5 generic|11,14 task|4,12 r_evaluate-for|4,13 r_evaluate-for|4,14 r_evaluate-for
+4,5 generic|11,14 task|4,14 r_evaluate-for
+
+The framework is flexible , allowing fast adaptation to applications and it is scalable .
+1,2 generic
+1,2 generic
+
+The focus of this paper is the components that identify names and spelling errors .
+7,8 generic|10,11 other-scientific-term|12,14 other-scientific-term|7,11 used-for|7,13 used-for|7,14 used-for|10,13 conjunction|10,14 conjunction
+7,8 generic|10,11 other-scientific-term|12,14 other-scientific-term|7,11 used-for|7,14 used-for|10,14 conjunction
+
+Furthermore , our methods were confirmed to be effective also for verb WSD problems .
+3,4 generic|11,14 task|3,12 used-for|3,13 used-for|3,14 used-for
+3,4 generic|11,14 task|3,14 used-for
+
+Test performance data will show that a PCFG yields good results in morphological parsing .
+7,8 method|12,14 task|7,13 used-for|7,14 used-for
+7,8 method|12,14 task|7,14 used-for
+
+MORPA is a fully implemented parser developed for use in a text-to-speech conversion system .
+0,1 method|5,6 method|11,14 task|0,6 hyponym-of|0,12 used-for|0,13 used-for|0,14 used-for|5,12 used-for|5,13 used-for|5,14 used-for
+0,1 method|5,6 method|11,14 task|0,6 hyponym-of|0,14 used-for|5,14 used-for
+
+To study the performance of our rules we perform a computational Bayes-Nash equilibrium analysis .
+6,7 generic|10,14 method|6,11 r_used-for|6,12 r_used-for|6,13 r_used-for|6,14 r_used-for
+6,7 generic|10,14 method|6,14 r_used-for
+
+In addition , we discuss the results of the February 1992 ATIS benchmark tests .
+9,14 material
+9,14 material
+
+We revisit the classical decision-theoretic problem of weighted expert voting from a statistical learning perspective .
+3,10 task|12,15 method|3,13 r_used-for|3,14 r_used-for|3,15 r_used-for|4,13 r_used-for|4,14 r_used-for|4,15 r_used-for|5,13 r_used-for|5,14 r_used-for|5,15 r_used-for|6,13 r_used-for|6,14 r_used-for|6,15 r_used-for|7,13 r_used-for|7,14 r_used-for|7,15 r_used-for|8,13 r_used-for|8,14 r_used-for|8,15 r_used-for|9,13 r_used-for|9,14 r_used-for|9,15 r_used-for
+3,10 task|12,15 method|3,15 r_used-for
+
+The bounds we derive are nearly optimal , and several challenging open problems are posed .
+
+
+
+This methodology allows reducing the time complexity of the algorithm while classification results remain high .
+5,7 metric|9,10 generic|11,12 task|5,10 evaluate-for|6,10 evaluate-for
+5,7 metric|9,10 generic|11,12 task|5,10 evaluate-for
+
+We will show that the data representation choice has a minor influence on chunking performance .
+5,7 method|13,14 task
+5,7 method|13,14 task
+
+The rhetorical patterns of these marks are compared against patterns around cue phrases in general .
+1,3 other-scientific-term|5,6 generic|9,13 other-scientific-term|1,6 feature-of|2,6 feature-of|1,10 compare|1,11 compare|1,12 compare|1,13 compare|2,10 compare|2,11 compare|2,12 compare|2,13 compare
+1,3 other-scientific-term|5,6 generic|9,13 other-scientific-term|1,6 feature-of|1,13 compare
+
+In this paper , we study the design of core-selecting payment rules for such domains .
+7,12 task|14,15 generic|7,15 used-for|8,15 used-for|9,15 used-for|10,15 used-for|11,15 used-for
+7,12 task|14,15 generic|7,15 used-for
+
+Preliminary experiments with similarities computed using first-order and second-order co-occurrence seem to confirm the hypothesis .
+3,4 generic|6,10 other-scientific-term|3,7 r_used-for|3,8 r_used-for|3,9 r_used-for|3,10 r_used-for
+3,4 generic|6,10 other-scientific-term|3,10 r_used-for
+
+Past work of generating referring expressions mainly utilized attributes of objects and binary relations between objects .
+4,6 other-scientific-term|12,14 other-scientific-term
+4,6 other-scientific-term|12,14 other-scientific-term
+
+An attempt has been made to use an Augmented Transition Network as a procedural dialog model .
+8,11 method|14,16 method|8,15 hyponym-of|8,16 hyponym-of|9,15 hyponym-of|9,16 hyponym-of|10,15 hyponym-of|10,16 hyponym-of
+8,11 method|14,16 method|8,16 hyponym-of
+
+We present an extensive evaluation on benchmark datasets and a practical matching application on deformable surfaces .
+6,8 material|11,16 task
+6,8 material|11,16 task
+
+The main of this project is computer-assisted acquisition and morpho-syntactic description of verb-noun collocations in Polish .
+6,14 task|15,16 material|6,16 r_used-for|7,16 r_used-for|8,16 r_used-for|9,16 r_used-for|10,16 r_used-for|11,16 r_used-for|12,16 r_used-for|13,16 r_used-for
+6,14 task|15,16 material|6,16 r_used-for
+
+In experiments , we solved 50 noun WSD problems in the Japanese Dictionary Task in SENSEVAL2 .
+6,9 task|11,14 task|15,16 material|11,16 feature-of|12,16 feature-of|13,16 feature-of
+6,9 task|11,14 task|15,16 material|11,16 feature-of
+
+The score of our method is a match for the best public score of this task .
+4,5 generic|15,16 generic
+4,5 generic|15,16 generic
+
+By inferring per-vertex normals at sub-voxel precision on the fly , we can achieve interpolative shading .
+2,4 other-scientific-term|5,7 metric|14,16 task|2,15 used-for|2,16 used-for|3,15 used-for|3,16 used-for|2,6 r_feature-of|2,7 r_feature-of|3,6 r_feature-of|3,7 r_feature-of
+2,4 other-scientific-term|5,7 metric|14,16 task|2,16 used-for|2,7 r_feature-of
+
+In this paper , we will describe a search tool for a huge set of ngrams .
+8,10 method|15,16 other-scientific-term|8,16 used-for|9,16 used-for
+8,10 method|15,16 other-scientific-term|8,16 used-for
+
+This system can be a very useful tool for linguistic knowledge discovery and other NLP tasks .
+1,2 generic|7,8 generic|9,12 task|14,16 task|7,10 used-for|7,11 used-for|7,12 used-for|7,15 used-for|7,16 used-for|9,15 conjunction|9,16 conjunction|10,15 conjunction|10,16 conjunction|11,15 conjunction|11,16 conjunction
+1,2 generic|7,8 generic|9,12 task|14,16 task|7,12 used-for|7,16 used-for|9,16 conjunction
+
+A new processing paradigm called Fragment-and-Compose has been created and an experimental system implemented in it .
+2,4 generic|5,6 method
+2,4 generic|5,6 method
+
+Results are demonstrated on videos of hand-held objects moving in front of a fixed light and camera .
+4,8 material
+4,8 material
+
+However , such an approach does not work well when there is no distinctive attribute among objects .
+
+
+
+The evaluation using another 23 subjects showed that the proposed method could effectively generate proper referring expressions .
+10,11 generic|15,17 other-scientific-term
+10,11 generic|15,17 other-scientific-term
+
+The estimator yields an initial set of potential object poses that are then validated by the classifier .
+1,2 method|8,10 other-scientific-term|16,17 method|8,17 r_used-for|9,17 r_used-for
+1,2 method|8,10 other-scientific-term|16,17 method|8,17 r_used-for
+
+We aim to capture such interactions and to construct a powerful intermediate-level video representation for subsequent recognition .
+5,6 generic|11,14 method|16,17 task|11,17 used-for|12,17 used-for|13,17 used-for
+5,6 generic|11,14 method|16,17 task|11,17 used-for
+
+Each component uses a decision tree architecture to combine multiple types of evidence about the unknown word .
+1,2 generic|4,7 method|15,17 other-scientific-term|1,5 r_used-for|1,6 r_used-for|1,7 r_used-for
+1,2 generic|4,7 method|15,17 other-scientific-term|1,7 r_used-for
+
+-LRB- iii -RRB- Rapid system development and porting to new domains via knowledge-based automated acquisition of grammars .
+12,17 method
+12,17 method
+
+We also propose to evaluate the quality of the resulting mosaic by measuring the amount of blurring .
+10,11 task|14,17 metric|10,15 r_evaluate-for|10,16 r_evaluate-for|10,17 r_evaluate-for
+10,11 task|14,17 metric|10,17 r_evaluate-for
+
+The presented here corpus-based approach permitted us to triple the size the verb-noun collocation dictionary for Polish .
+3,5 method|12,15 material|16,17 material|3,13 used-for|3,14 used-for|3,15 used-for|4,13 used-for|4,14 used-for|4,15 used-for|12,17 r_feature-of|13,17 r_feature-of|14,17 r_feature-of
+3,5 method|12,15 material|16,17 material|3,15 used-for|12,17 r_feature-of
+
+In this paper we describe and evaluate a Question Answering system that goes beyond answering factoid questions .
+8,11 method
+8,11 method
+
+For the generation of synthesized speech we used a state of the art HMM-based speech synthesis system .
+2,6 task|13,17 method|2,14 r_used-for|2,15 r_used-for|2,16 r_used-for|2,17 r_used-for|3,14 r_used-for|3,15 r_used-for|3,16 r_used-for|3,17 r_used-for|4,14 r_used-for|4,15 r_used-for|4,16 r_used-for|4,17 r_used-for|5,14 r_used-for|5,15 r_used-for|5,16 r_used-for|5,17 r_used-for
+2,6 task|13,17 method|2,17 r_used-for
+
+In additional experiments , we processed the synthesized speech by an ideal binary mask before adding noise .
+7,9 material|11,14 method|7,12 r_used-for|7,13 r_used-for|7,14 r_used-for|8,12 r_used-for|8,13 r_used-for|8,14 r_used-for
+7,9 material|11,14 method|7,14 r_used-for
+
+It begins with a characterization of what a user model is and how it can be used .
+8,10 method|13,14 generic
+8,10 method|13,14 generic
+
+Experiments on the PASCAL VOC 2007 dataset show that the proposed OOP outperforms the state-of-the-art fast methods .
+3,7 material|11,12 method|14,17 generic|3,12 evaluate-for|4,12 evaluate-for|5,12 evaluate-for|6,12 evaluate-for|11,15 compare|11,16 compare|11,17 compare
+3,7 material|11,12 method|14,17 generic|3,12 evaluate-for|11,17 compare
+
+In this approach , the definitions of the structure and surface representation of domain entities are grouped together .
+2,3 generic|8,15 other-scientific-term
+2,3 generic|8,15 other-scientific-term
+
+Our approach is based on the idea that one person tends to use one expression for one meaning .
+1,2 generic
+1,2 generic
+
+Our proposed method improves the accuracy of our term aggregation system , showing that our approach is successful .
+2,3 generic|5,6 metric|8,11 method|15,16 generic|5,9 evaluate-for|5,10 evaluate-for|5,11 evaluate-for|2,9 r_evaluate-for|2,10 r_evaluate-for|2,11 r_evaluate-for
+2,3 generic|5,6 metric|8,11 method|15,16 generic|5,11 evaluate-for|2,11 r_evaluate-for
+
+A standard ATN should be further developed in order to account for the verbal interactions of task-oriented dialogs .
+2,3 method|13,15 other-scientific-term|16,18 material|2,14 used-for|2,15 used-for|13,17 feature-of|13,18 feature-of|14,17 feature-of|14,18 feature-of
+2,3 method|13,15 other-scientific-term|16,18 material|2,15 used-for|13,18 feature-of
+
+In the case of known expert competence levels , we give sharp error estimates for the optimal rule .
+5,8 other-scientific-term|11,14 method|16,18 other-scientific-term|11,17 used-for|11,18 used-for|12,17 used-for|12,18 used-for|13,17 used-for|13,18 used-for
+5,8 other-scientific-term|11,14 method|16,18 other-scientific-term|11,18 used-for
+
+This paper presents a new interactive disambiguation scheme based on the paraphrasing of a parser 's multiple output .
+5,8 method|11,12 method|5,12 r_used-for|6,12 r_used-for|7,12 r_used-for
+5,8 method|11,12 method|5,12 r_used-for
+
+This method requires a source-language dependency parser , target language word segmentation and an unsupervised word alignment component .
+1,2 generic|4,7 method|8,12 method|14,18 method|1,5 r_used-for|1,6 r_used-for|1,7 r_used-for|4,9 conjunction|4,10 conjunction|4,11 conjunction|4,12 conjunction|5,9 conjunction|5,10 conjunction|5,11 conjunction|5,12 conjunction|6,9 conjunction|6,10 conjunction|6,11 conjunction|6,12 conjunction|1,9 r_used-for|1,10 r_used-for|1,11 r_used-for|1,12 r_used-for|8,15 conjunction|8,16 conjunction|8,17 conjunction|8,18 conjunction|9,15 conjunction|9,16 conjunction|9,17 conjunction|9,18 conjunction|10,15 conjunction|10,16 conjunction|10,17 conjunction|10,18 conjunction|11,15 conjunction|11,16 conjunction|11,17 conjunction|11,18 conjunction|1,15 r_used-for|1,16 r_used-for|1,17 r_used-for|1,18 r_used-for
+1,2 generic|4,7 method|8,12 method|14,18 method|1,7 r_used-for|4,12 conjunction|1,12 r_used-for|8,18 conjunction|1,18 r_used-for
+
+We apply it in combination with a terabyte corpus to answer natural language tests , achieving encouraging results .
+2,3 generic|7,9 material|11,14 task|2,12 used-for|2,13 used-for|2,14 used-for|2,8 r_evaluate-for|2,9 r_evaluate-for
+2,3 generic|7,9 material|11,14 task|2,14 used-for|2,9 r_evaluate-for
+
+In this paper we will examine seven different data representations for the problem of recognizing noun phrase chunks .
+8,10 method|14,18 task|8,15 used-for|8,16 used-for|8,17 used-for|8,18 used-for|9,15 used-for|9,16 used-for|9,17 used-for|9,18 used-for
+8,10 method|14,18 task|8,18 used-for
+
+In some auction domains , there is uncertainty regarding the final availability of the goods being auctioned off .
+2,4 task
+2,4 task
+
+We describe a variation on the standard evaluation metric which provides a more tightly controlled measure of progress .
+
+
+
+We introduce a new database of 1,432 sketch-photo pairs from two categories with 32,000 fine-grained triplet ranking annotations .
+14,18 other-scientific-term
+14,18 other-scientific-term
+
+We present a set of features designed for pronoun resolution in spoken dialogue and determine the most promising features .
+5,6 other-scientific-term|8,10 task|11,13 task|5,6 other-scientific-term|5,9 used-for|5,10 used-for|8,12 used-for|8,13 used-for|9,12 used-for|9,13 used-for
+5,6 other-scientific-term|8,10 task|11,13 task|5,6 other-scientific-term|5,10 used-for|8,13 used-for
+
+We evaluate the proposed approach on a challenging set of video sequences of office scenes from feature length movies .
+4,5 generic|10,15 material|18,19 material|4,11 r_evaluate-for|4,12 r_evaluate-for|4,13 r_evaluate-for|4,14 r_evaluate-for|4,15 r_evaluate-for
+4,5 generic|10,15 material|18,19 material|4,15 r_evaluate-for
+
+The nonlinear scale space is built using efficient Additive Operator Splitting -LRB- AOS -RRB- techniques and variable con-ductance diffusion .
+1,4 other-scientific-term|8,15 method|16,19 method|1,9 r_used-for|1,10 r_used-for|1,11 r_used-for|1,12 r_used-for|1,13 r_used-for|1,14 r_used-for|1,15 r_used-for|2,9 r_used-for|2,10 r_used-for|2,11 r_used-for|2,12 r_used-for|2,13 r_used-for|2,14 r_used-for|2,15 r_used-for|3,9 r_used-for|3,10 r_used-for|3,11 r_used-for|3,12 r_used-for|3,13 r_used-for|3,14 r_used-for|3,15 r_used-for|8,17 conjunction|8,18 conjunction|8,19 conjunction|9,17 conjunction|9,18 conjunction|9,19 conjunction|10,17 conjunction|10,18 conjunction|10,19 conjunction|11,17 conjunction|11,18 conjunction|11,19 conjunction|12,17 conjunction|12,18 conjunction|12,19 conjunction|13,17 conjunction|13,18 conjunction|13,19 conjunction|14,17 conjunction|14,18 conjunction|14,19 conjunction|1,17 r_used-for|1,18 r_used-for|1,19 r_used-for|2,17 r_used-for|2,18 r_used-for|2,19 r_used-for|3,17 r_used-for|3,18 r_used-for|3,19 r_used-for
+1,4 other-scientific-term|8,15 method|16,19 method|1,15 r_used-for|8,19 conjunction|1,19 r_used-for
+
+-LRB- ii -RRB- High quality translation via word sense disambiguation and accurate word order generation of the target language .
+5,6 task|7,10 method|12,15 task|5,8 r_used-for|5,9 r_used-for|5,10 r_used-for|7,13 conjunction|7,14 conjunction|7,15 conjunction|8,13 conjunction|8,14 conjunction|8,15 conjunction|9,13 conjunction|9,14 conjunction|9,15 conjunction|5,13 r_used-for|5,14 r_used-for|5,15 r_used-for
+5,6 task|7,10 method|12,15 task|5,10 r_used-for|7,15 conjunction|5,15 r_used-for
+
+The parser uses structural and lexical dependencies not considered by n-gram models , conditioning recognition on more linguistically-grounded relationships .
+1,2 method|3,7 other-scientific-term|10,12 method|1,4 r_used-for|1,5 r_used-for|1,6 r_used-for|1,7 r_used-for
+1,2 method|3,7 other-scientific-term|10,12 method|1,7 r_used-for
+
+Dividing sentences in chunks of words is a useful preprocessing step for parsing , information extraction and information retrieval .
+0,6 task|12,13 task|14,16 task|17,19 task|0,13 used-for|1,13 used-for|2,13 used-for|3,13 used-for|4,13 used-for|5,13 used-for|0,15 used-for|0,16 used-for|1,15 used-for|1,16 used-for|2,15 used-for|2,16 used-for|3,15 used-for|3,16 used-for|4,15 used-for|4,16 used-for|5,15 used-for|5,16 used-for|0,18 used-for|0,19 used-for|1,18 used-for|1,19 used-for|2,18 used-for|2,19 used-for|3,18 used-for|3,19 used-for|4,18 used-for|4,19 used-for|5,18 used-for|5,19 used-for|12,15 conjunction|12,16 conjunction|14,18 conjunction|14,19 conjunction|15,18 conjunction|15,19 conjunction
+0,6 task|12,13 task|14,16 task|17,19 task|0,13 used-for|0,16 used-for|0,19 used-for|12,16 conjunction|14,19 conjunction
+
+It takes a fraction of a second for a search , and can provide the fillers of the wildcards .
+0,1 generic
+0,1 generic
+
+Information extraction techniques automatically create structured databases from unstructured data sources , such as the Web or newswire documents .
+0,3 method|5,7 material|8,11 material|15,16 material|17,19 material|0,6 used-for|0,7 used-for|1,6 used-for|1,7 used-for|2,6 used-for|2,7 used-for|0,9 r_used-for|0,10 r_used-for|0,11 r_used-for|1,9 r_used-for|1,10 r_used-for|1,11 r_used-for|2,9 r_used-for|2,10 r_used-for|2,11 r_used-for|8,16 r_hyponym-of|9,16 r_hyponym-of|10,16 r_hyponym-of|15,18 conjunction|15,19 conjunction|8,18 r_hyponym-of|8,19 r_hyponym-of|9,18 r_hyponym-of|9,19 r_hyponym-of|10,18 r_hyponym-of|10,19 r_hyponym-of
+0,3 method|5,7 material|8,11 material|15,16 material|17,19 material|0,7 used-for|0,11 r_used-for|8,16 r_hyponym-of|15,19 conjunction|8,19 r_hyponym-of
+
+Typically , information that makes it to a summary appears in many different lexical-syntactic forms in the input documents .
+13,15 other-scientific-term
+13,15 other-scientific-term
+
+A possible application would be to use this source of evidence for tuning the weights of the query terms .
+
+
+
+The algorithm works by iteratively estimating affine camera parameters , illumination , shape , and albedo in an alternating fashion .
+1,2 generic|5,16 method|1,6 r_used-for|1,7 r_used-for|1,8 r_used-for|1,9 r_used-for|1,10 r_used-for|1,11 r_used-for|1,12 r_used-for|1,13 r_used-for|1,14 r_used-for|1,15 r_used-for|1,16 r_used-for
+1,2 generic|5,16 method|1,16 r_used-for
+
+This paper summarizes the formalism of Category Cooccurrence Restrictions -LRB- CCRs -RRB- and describes two parsing algorithms that interpret it .
+4,12 task|6,12 other-scientific-term|15,17 method|19,20 generic|15,20 used-for|16,20 used-for
+4,12 task|6,12 other-scientific-term|15,17 method|19,20 generic|15,20 used-for
+
+The paper shows how conventional algorithms for the analysis of context free languages can be adapted to the CCR formalism .
+5,6 generic|10,13 material|18,20 task|5,19 used-for|5,20 used-for|5,11 r_used-for|5,12 r_used-for|5,13 r_used-for
+5,6 generic|10,13 material|18,20 task|5,20 used-for|5,13 r_used-for
+
+Special attention is given to the part of the parser that checks the fulfillment of logical well-formedness conditions on trees .
+9,10 method|15,18 other-scientific-term|19,20 other-scientific-term|15,20 feature-of|16,20 feature-of|17,20 feature-of
+9,10 method|15,18 other-scientific-term|19,20 other-scientific-term|15,20 feature-of
+
+In contrast , we detect and describe 2D features in a nonlinear scale space by means of nonlinear diffusion filtering .
+7,9 method|11,14 other-scientific-term|17,20 method|7,12 r_feature-of|7,13 r_feature-of|7,14 r_feature-of|8,12 r_feature-of|8,13 r_feature-of|8,14 r_feature-of|7,18 r_used-for|7,19 r_used-for|7,20 r_used-for|8,18 r_used-for|8,19 r_used-for|8,20 r_used-for
+7,9 method|11,14 other-scientific-term|17,20 method|7,14 r_feature-of|7,20 r_used-for
+
+Creating summaries on lengthy Semantic Web documents for quick identification of the corresponding entity has been of great contemporary interest .
+0,2 task|3,7 material|9,14 task|0,10 used-for|0,11 used-for|0,12 used-for|0,13 used-for|0,14 used-for|1,10 used-for|1,11 used-for|1,12 used-for|1,13 used-for|1,14 used-for|0,4 r_used-for|0,5 r_used-for|0,6 r_used-for|0,7 r_used-for|1,4 r_used-for|1,5 r_used-for|1,6 r_used-for|1,7 r_used-for
+0,2 task|3,7 material|9,14 task|0,14 used-for|0,7 r_used-for
+
+The system is based on a multi-component architecture where each component is responsible for identifying one class of unknown words .
+1,2 generic|6,8 method|10,11 generic|18,20 other-scientific-term|1,7 r_used-for|1,8 r_used-for|6,11 r_part-of|7,11 r_part-of|10,19 used-for|10,20 used-for
+1,2 generic|6,8 method|10,11 generic|18,20 other-scientific-term|1,8 r_used-for|6,11 r_part-of|10,20 used-for
+
+Along with the increasing requirements , the hash-tag recommendation task for microblogs has been receiving considerable attention in recent years .
+7,10 task|11,12 material|7,12 used-for|8,12 used-for|9,12 used-for
+7,10 task|11,12 material|7,12 used-for
+
+By relaxing the mesh connectivity requirement , we extend ROD-TV and propose a simple but effective multiscale feature extraction algorithm .
+3,6 other-scientific-term|9,10 method|16,20 method|3,17 used-for|3,18 used-for|3,19 used-for|3,20 used-for|4,17 used-for|4,18 used-for|4,19 used-for|4,20 used-for|5,17 used-for|5,18 used-for|5,19 used-for|5,20 used-for|9,17 used-for|9,18 used-for|9,19 used-for|9,20 used-for
+3,6 other-scientific-term|9,10 method|16,20 method|3,20 used-for|9,20 used-for
+
+The features based on Markov random field -LRB- MRF -RRB- models are usually sensitive to the rotation of image textures .
+1,2 other-scientific-term|4,11 method|16,20 other-scientific-term|1,5 r_used-for|1,6 r_used-for|1,7 r_used-for|1,8 r_used-for|1,9 r_used-for|1,10 r_used-for|1,11 r_used-for
+1,2 other-scientific-term|4,11 method|16,20 other-scientific-term|1,11 r_used-for
+
+Third , it avoids massive window sampling , and thereby reducing the number of proposals while maintaining a high recall .
+2,3 generic|4,7 method|12,15 other-scientific-term|19,20 metric|2,13 used-for|2,14 used-for|2,15 used-for|2,20 r_evaluate-for
+2,3 generic|4,7 method|12,15 other-scientific-term|19,20 metric|2,15 used-for|2,20 r_evaluate-for
+
+To overcome this limitation , this paper proposes a method utilizing the perceptual groups of objects and n-ary relations among them .
+17,19 other-scientific-term
+17,19 other-scientific-term
+
+We present a text mining method for finding synonymous expressions based on the distributional hypothesis in a set of coherent corpora .
+3,6 method|8,10 other-scientific-term|13,15 other-scientific-term|3,9 used-for|3,10 used-for|4,9 used-for|4,10 used-for|5,9 used-for|5,10 used-for|3,14 r_used-for|3,15 r_used-for|4,14 r_used-for|4,15 r_used-for|5,14 r_used-for|5,15 r_used-for
+3,6 method|8,10 other-scientific-term|13,15 other-scientific-term|3,10 used-for|3,15 r_used-for
+
+Both the use of supervised learning and working on the gradient space makes our approach robust while being efficient at run-time .
+4,6 method|10,12 other-scientific-term|14,15 generic|4,15 used-for|5,15 used-for|10,15 used-for|11,15 used-for
+4,6 method|10,12 other-scientific-term|14,15 generic|4,15 used-for|10,15 used-for
+
+A very simple improved duration model has reduced the error rate by about 10 % in both triphone and semiphone systems .
+4,6 method|9,11 metric|17,21 method|4,18 used-for|4,19 used-for|4,20 used-for|4,21 used-for|5,18 used-for|5,19 used-for|5,20 used-for|5,21 used-for|9,18 evaluate-for|9,19 evaluate-for|9,20 evaluate-for|9,21 evaluate-for|10,18 evaluate-for|10,19 evaluate-for|10,20 evaluate-for|10,21 evaluate-for
+4,6 method|9,11 metric|17,21 method|4,21 used-for|9,21 evaluate-for
+
+Previous approaches detect and describe features at different scale levels by building or approximating the Gaussian scale space of an image .
+15,18 other-scientific-term
+15,18 other-scientific-term
+
+Semantic Web documents that encode facts about entities on the Web have been growing rapidly in size and evolving over time .
+0,3 material
+0,3 material
+
+The system is evaluated using data from live closed captions - a genre replete with a wide variety of unknown words .
+1,2 generic|7,10 material|19,21 other-scientific-term|1,8 r_evaluate-for|1,9 r_evaluate-for|1,10 r_evaluate-for
+1,2 generic|7,10 material|19,21 other-scientific-term|1,10 r_evaluate-for
+
+The demonstration will focus on how JAVELIN processes questions and retrieves the most likely answer candidates from the given text corpus .
+6,7 method
+6,7 method
+
+The approach of KPSG provides an explicit development model for constructing a computational phonological system : speech recognition and synthesis system .
+1,2 generic|3,4 method|13,15 task|16,21 task|1,4 used-for|3,14 used-for|3,15 used-for
+1,2 generic|3,4 method|13,15 task|16,21 task|1,4 used-for|3,15 used-for
+
+We show that the proposed approach is more describable than other approaches such as those employing a traditional generative phonological approach .
+5,6 generic|11,12 generic|14,15 generic|18,21 method|5,12 compare|14,19 r_used-for|14,20 r_used-for|14,21 r_used-for
+5,6 generic|11,12 generic|14,15 generic|18,21 method|5,12 compare|14,21 r_used-for
+
+For intelligent interactive systems to communicate with humans in a natural manner , they must have knowledge about the system users .
+1,4 method|13,14 generic
+1,4 method|13,14 generic
+
+The types of information that a user model may be required to keep about a user are then identified and discussed .
+6,8 method
+6,8 method
+
+The hypothesis under examination is that useful terms tend to be more similar to each other than to other query terms .
+6,8 generic|19,21 generic|6,20 compare|6,21 compare|7,20 compare|7,21 compare
+6,8 generic|19,21 generic|6,21 compare
+
+Term similarities could then be used for determining which query terms are useful and best reflect the user 's information need .
+0,2 other-scientific-term
+0,2 other-scientific-term
+
+The problem is formulated in a manner that subsumes structure from motion , multi-view stereo , and photo-metric stereo as special cases .
+1,2 generic|11,12 material|13,15 material|17,19 material|11,14 conjunction|11,15 conjunction|13,18 conjunction|13,19 conjunction|14,18 conjunction|14,19 conjunction
+1,2 generic|11,12 material|13,15 material|17,19 material|11,15 conjunction|13,19 conjunction
+
+In particular , we examine the consistency -LRB- both asymptotic and finitary -RRB- of the optimal Nitzan-Paroush weighted majority and related rules .
+16,19 other-scientific-term
+16,19 other-scientific-term
+
+Finally , we provide an explicit characterization of the polytope of concavity in terms of the cycle structure of the region graph .
+11,12 other-scientific-term|16,18 other-scientific-term|20,22 other-scientific-term|16,21 feature-of|16,22 feature-of|17,21 feature-of|17,22 feature-of
+11,12 other-scientific-term|16,18 other-scientific-term|20,22 other-scientific-term|16,22 feature-of
+
+The system was then transferred from the RM task to the ATIS CSR task and a limited number of development tests performed .
+1,2 generic|7,9 task|11,14 task|1,8 used-for|1,9 used-for|1,12 used-for|1,13 used-for|1,14 used-for|7,12 conjunction|7,13 conjunction|7,14 conjunction|8,12 conjunction|8,13 conjunction|8,14 conjunction
+1,2 generic|7,9 task|11,14 task|1,9 used-for|1,14 used-for|7,14 conjunction
+
+A new approach for Interactive Machine Translation where the author interacts during the creation or the modification of the document is proposed .
+2,3 generic|4,7 task|2,5 used-for|2,6 used-for|2,7 used-for
+2,3 generic|4,7 task|2,7 used-for
+
+In this paper , we introduce KAZE features , a novel multiscale 2D feature detection and description algorithm in nonlinear scale spaces .
+6,8 method|11,18 method|19,22 other-scientific-term|6,12 hyponym-of|6,13 hyponym-of|6,14 hyponym-of|6,15 hyponym-of|6,16 hyponym-of|6,17 hyponym-of|6,18 hyponym-of|7,12 hyponym-of|7,13 hyponym-of|7,14 hyponym-of|7,15 hyponym-of|7,16 hyponym-of|7,17 hyponym-of|7,18 hyponym-of|11,20 r_feature-of|11,21 r_feature-of|11,22 r_feature-of|12,20 r_feature-of|12,21 r_feature-of|12,22 r_feature-of|13,20 r_feature-of|13,21 r_feature-of|13,22 r_feature-of|14,20 r_feature-of|14,21 r_feature-of|14,22 r_feature-of|15,20 r_feature-of|15,21 r_feature-of|15,22 r_feature-of|16,20 r_feature-of|16,21 r_feature-of|16,22 r_feature-of|17,20 r_feature-of|17,21 r_feature-of|17,22 r_feature-of
+6,8 method|11,18 method|19,22 other-scientific-term|6,18 hyponym-of|11,22 r_feature-of
+
+In the paper we describe the SyntLex Dictionary of Collocations and announce some future research intended to be a separate project continuation .
+6,10 material
+6,10 material
+
+The results of experiments on the data collected from a real world microblogging service demonstrated that the proposed model outperforms state-of-the-art methods .
+6,7 generic|18,19 generic|20,22 generic|6,19 evaluate-for|18,21 compare|18,22 compare
+6,7 generic|18,19 generic|20,22 generic|6,19 evaluate-for|18,22 compare
+
+In this paper we evaluate four objective measures of speech with regards to intelligibility prediction of synthesized speech in diverse noisy situations .
+7,10 metric|13,15 task|16,18 material|19,22 other-scientific-term|7,14 evaluate-for|7,15 evaluate-for|8,14 evaluate-for|8,15 evaluate-for|9,14 evaluate-for|9,15 evaluate-for|13,17 r_used-for|13,18 r_used-for|14,17 r_used-for|14,18 r_used-for|16,20 r_feature-of|16,21 r_feature-of|16,22 r_feature-of|17,20 r_feature-of|17,21 r_feature-of|17,22 r_feature-of
+7,10 metric|13,15 task|16,18 material|19,22 other-scientific-term|7,15 evaluate-for|13,18 r_used-for|16,22 r_feature-of
+
+This paper develops an anisotropic circular Gaussian MRF -LRB- ACGMRF -RRB- model for modelling rotated image textures and retrieving rotation-invariant texture features .
+4,12 method|13,17 task|18,22 task|4,14 used-for|4,15 used-for|4,16 used-for|4,17 used-for|5,14 used-for|5,15 used-for|5,16 used-for|5,17 used-for|6,14 used-for|6,15 used-for|6,16 used-for|6,17 used-for|7,14 used-for|7,15 used-for|7,16 used-for|7,17 used-for|8,14 used-for|8,15 used-for|8,16 used-for|8,17 used-for|9,14 used-for|9,15 used-for|9,16 used-for|9,17 used-for|10,14 used-for|10,15 used-for|10,16 used-for|10,17 used-for|11,14 used-for|11,15 used-for|11,16 used-for|11,17 used-for|4,19 used-for|4,20 used-for|4,21 used-for|4,22 used-for|5,19 used-for|5,20 used-for|5,21 used-for|5,22 used-for|6,19 used-for|6,20 used-for|6,21 used-for|6,22 used-for|7,19 used-for|7,20 used-for|7,21 used-for|7,22 used-for|8,19 used-for|8,20 used-for|8,21 used-for|8,22 used-for|9,19 used-for|9,20 used-for|9,21 used-for|9,22 used-for|10,19 used-for|10,20 used-for|10,21 used-for|10,22 used-for|11,19 used-for|11,20 used-for|11,21 used-for|11,22 used-for|13,19 conjunction|13,20 conjunction|13,21 conjunction|13,22 conjunction|14,19 conjunction|14,20 conjunction|14,21 conjunction|14,22 conjunction|15,19 conjunction|15,20 conjunction|15,21 conjunction|15,22 conjunction|16,19 conjunction|16,20 conjunction|16,21 conjunction|16,22 conjunction
+4,12 method|13,17 task|18,22 task|4,17 used-for|4,22 used-for|13,22 conjunction
+
+Finally , we briefly describe an experiment which we have done in extending the n-best speech/language integration architecture to improving OCR accuracy .
+14,18 method|20,22 metric|14,21 r_evaluate-for|14,22 r_evaluate-for|15,21 r_evaluate-for|15,22 r_evaluate-for|16,21 r_evaluate-for|16,22 r_evaluate-for|17,21 r_evaluate-for|17,22 r_evaluate-for
+14,18 method|20,22 metric|14,22 r_evaluate-for
+
+The method can exploit image correspondences obtained by various alignment techniques , and we show examples based on matching local region features .
+1,2 generic|4,6 other-scientific-term|9,11 method|18,22 other-scientific-term|1,5 used-for|1,6 used-for|4,10 r_used-for|4,11 r_used-for|5,10 r_used-for|5,11 r_used-for
+1,2 generic|4,6 other-scientific-term|9,11 method|18,22 other-scientific-term|1,6 used-for|4,11 r_used-for
+
+We present a practically unsupervised learning method to produce single-snippet answers to definition questions in question answering systems that supplement Web search engines .
+4,7 method|9,11 other-scientific-term|15,18 method|20,23 method|4,10 used-for|4,11 used-for|5,10 used-for|5,11 used-for|6,10 used-for|6,11 used-for|15,21 used-for|15,22 used-for|15,23 used-for|16,21 used-for|16,22 used-for|16,23 used-for|17,21 used-for|17,22 used-for|17,23 used-for
+4,7 method|9,11 other-scientific-term|15,18 method|20,23 method|4,11 used-for|15,23 used-for
+
+We evaluate the system on twenty Switchboard dialogues and show that it compares well to Byron 's -LRB- 2002 -RRB- manually tuned system .
+3,4 generic|6,8 material|11,12 generic|15,23 method|3,7 r_evaluate-for|3,8 r_evaluate-for|11,16 compare|11,17 compare|11,18 compare|11,19 compare|11,20 compare|11,21 compare|11,22 compare|11,23 compare
+3,4 generic|6,8 material|11,12 generic|15,23 method|3,8 r_evaluate-for|11,23 compare
+
+We describe a novel approach to statistical machine translation that combines syntactic information in the source language with recent advances in phrasal translation .
+4,5 generic|6,9 task|11,13 other-scientific-term|21,23 task|4,7 used-for|4,8 used-for|4,9 used-for|4,12 r_part-of|4,13 r_part-of|11,22 conjunction|11,23 conjunction|12,22 conjunction|12,23 conjunction|4,22 r_part-of|4,23 r_part-of
+4,5 generic|6,9 task|11,13 other-scientific-term|21,23 task|4,9 used-for|4,13 r_part-of|11,23 conjunction|4,23 r_part-of
+
+Video provides not only rich visual cues such as motion and appearance , but also much less explored long-range temporal interactions among objects .
+0,1 material|5,7 other-scientific-term|9,10 other-scientific-term|11,12 other-scientific-term|18,21 other-scientific-term|0,6 r_feature-of|0,7 r_feature-of|5,10 r_hyponym-of|6,10 r_hyponym-of|9,12 conjunction|5,12 r_hyponym-of|6,12 r_hyponym-of
+0,1 material|5,7 other-scientific-term|9,10 other-scientific-term|11,12 other-scientific-term|18,21 other-scientific-term|0,7 r_feature-of|5,10 r_hyponym-of|9,12 conjunction|5,12 r_hyponym-of
+
+Specifically , we highlight the importance of diversified -LRB- faceted -RRB- summaries by combining three dimensions : diversity , uniqueness , and popularity .
+7,12 other-scientific-term|17,18 other-scientific-term|19,20 other-scientific-term|22,23 other-scientific-term|7,18 r_feature-of|8,18 r_feature-of|9,18 r_feature-of|10,18 r_feature-of|11,18 r_feature-of|17,20 conjunction|7,20 r_feature-of|8,20 r_feature-of|9,20 r_feature-of|10,20 r_feature-of|11,20 r_feature-of|19,23 conjunction|7,23 r_feature-of|8,23 r_feature-of|9,23 r_feature-of|10,23 r_feature-of|11,23 r_feature-of
+7,12 other-scientific-term|17,18 other-scientific-term|19,20 other-scientific-term|22,23 other-scientific-term|7,18 r_feature-of|17,20 conjunction|7,20 r_feature-of|19,23 conjunction|7,23 r_feature-of
+
+We evaluate our approach against the state-of-the-art techniques and show that our work improves both the quality and the efficiency of entity summarization .
+3,4 generic|6,8 generic|16,17 metric|19,20 metric|21,23 task|3,22 used-for|3,23 used-for|3,7 r_compare|3,8 r_compare|6,22 used-for|6,23 used-for|7,22 used-for|7,23 used-for|16,22 evaluate-for|16,23 evaluate-for|19,22 evaluate-for|19,23 evaluate-for
+3,4 generic|6,8 generic|16,17 metric|19,20 metric|21,23 task|3,23 used-for|3,8 r_compare|6,23 used-for|16,23 evaluate-for|19,23 evaluate-for
+
+The model is adapted to an online left to right chart-parser for word lattices , integrating acoustic , n-gram , and parser probabilities .
+1,2 generic|6,11 method|12,14 other-scientific-term|16,23 other-scientific-term|1,7 used-for|1,8 used-for|1,9 used-for|1,10 used-for|1,11 used-for|6,13 used-for|6,14 used-for|7,13 used-for|7,14 used-for|8,13 used-for|8,14 used-for|9,13 used-for|9,14 used-for|10,13 used-for|10,14 used-for|6,17 r_part-of|6,18 r_part-of|6,19 r_part-of|6,20 r_part-of|6,21 r_part-of|6,22 r_part-of|6,23 r_part-of|7,17 r_part-of|7,18 r_part-of|7,19 r_part-of|7,20 r_part-of|7,21 r_part-of|7,22 r_part-of|7,23 r_part-of|8,17 r_part-of|8,18 r_part-of|8,19 r_part-of|8,20 r_part-of|8,21 r_part-of|8,22 r_part-of|8,23 r_part-of|9,17 r_part-of|9,18 r_part-of|9,19 r_part-of|9,20 r_part-of|9,21 r_part-of|9,22 r_part-of|9,23 r_part-of|10,17 r_part-of|10,18 r_part-of|10,19 r_part-of|10,20 r_part-of|10,21 r_part-of|10,22 r_part-of|10,23 r_part-of
+1,2 generic|6,11 method|12,14 other-scientific-term|16,23 other-scientific-term|1,11 used-for|6,14 used-for|6,23 r_part-of
+
+We show how to build a joint model of argument frames , incorporating novel features that model these interactions into discriminative log-linear models .
+6,11 method|14,15 other-scientific-term|20,23 method|14,21 part-of|14,22 part-of|14,23 part-of
+6,11 method|14,15 other-scientific-term|20,23 method|14,23 part-of
+
+Since acquiring the knowledge for a user model is a fundamental problem in user modeling , a section is devoted to this topic .
+6,8 method|13,15 task|6,14 used-for|6,15 used-for|7,14 used-for|7,15 used-for
+6,8 method|13,15 task|6,15 used-for
+
+For many reasons , it is highly desirable to accurately estimate the confidence the system has in the correctness of each extracted field .
+14,15 generic
+14,15 generic
+
+We consider the case of multi-document summarization , where the input documents are in Arabic , and the output summary is in English .
+5,7 task|14,15 material|22,23 material
+5,7 task|14,15 material|22,23 material
+
+Further , the use of multiple machine translation systems provides yet more redundancy , yielding different ways to realize that information in English .
+6,9 method|22,23 material
+6,9 method|22,23 material
+
+Compared with existing action proposal approaches , our action proposals do not rely on video segmentation and can be generated in nearly real-time .
+3,6 method|8,10 other-scientific-term|14,16 method|3,9 compare|3,10 compare|4,9 compare|4,10 compare|5,9 compare|5,10 compare
+3,6 method|8,10 other-scientific-term|14,16 method|3,10 compare
+
+Within our framework , we carry out a large number of experiments to understand better and explain why phrase-based models outperform word-based models .
+2,3 generic|18,20 method|21,23 method|18,22 compare|18,23 compare|19,22 compare|19,23 compare
+2,3 generic|18,20 method|21,23 method|18,23 compare
+
+We conducted psychological experiments with 42 subjects to collect referring expressions in such situations , and built a generation algorithm based on the results .
+9,11 other-scientific-term|18,20 method
+9,11 other-scientific-term|18,20 method
+
+This paper proposes a new methodology to improve the accuracy of a term aggregation system using each author 's text as a coherent corpus .
+5,6 generic|9,10 metric|12,15 method|9,13 evaluate-for|9,14 evaluate-for|9,15 evaluate-for|5,13 r_evaluate-for|5,14 r_evaluate-for|5,15 r_evaluate-for
+5,6 generic|9,10 metric|12,15 method|9,15 evaluate-for|5,15 r_evaluate-for
+
+According to our assumption , most of the words with similar context features in each author 's corpus tend not to be synonymous expressions .
+10,13 other-scientific-term|22,24 other-scientific-term
+10,13 other-scientific-term|22,24 other-scientific-term
+
+We analyze a reweighted version of the Kikuchi approximation for estimating the log partition function of a product distribution defined over a region graph .
+3,9 method|7,9 method|12,19 task|22,24 other-scientific-term|3,13 used-for|3,14 used-for|3,15 used-for|3,16 used-for|3,17 used-for|3,18 used-for|3,19 used-for|4,13 used-for|4,14 used-for|4,15 used-for|4,16 used-for|4,17 used-for|4,18 used-for|4,19 used-for|5,13 used-for|5,14 used-for|5,15 used-for|5,16 used-for|5,17 used-for|5,18 used-for|5,19 used-for|6,13 used-for|6,14 used-for|6,15 used-for|6,16 used-for|6,17 used-for|6,18 used-for|6,19 used-for|7,13 used-for|7,14 used-for|7,15 used-for|7,16 used-for|7,17 used-for|7,18 used-for|7,19 used-for|8,13 used-for|8,14 used-for|8,15 used-for|8,16 used-for|8,17 used-for|8,18 used-for|8,19 used-for|12,23 feature-of|12,24 feature-of|13,23 feature-of|13,24 feature-of|14,23 feature-of|14,24 feature-of|15,23 feature-of|15,24 feature-of|16,23 feature-of|16,24 feature-of|17,23 feature-of|17,24 feature-of|18,23 feature-of|18,24 feature-of
+3,9 method|7,9 method|12,19 task|22,24 other-scientific-term|3,19 used-for|12,24 feature-of
+
+In this paper , we explore automatic summa-rization techniques that characterize and enable identification of an entity and create summaries that are human friendly .
+6,9 method
+6,9 method
+
+At MIT Lincoln Laboratory , we have been developing a Korean-to-English machine translation system CCLINC -LRB- Common Coalition Language System at Lincoln Laboratory -RRB- .
+10,14 method|14,24 method|10,15 r_hyponym-of|10,16 r_hyponym-of|10,17 r_hyponym-of|10,18 r_hyponym-of|10,19 r_hyponym-of|10,20 r_hyponym-of|10,21 r_hyponym-of|10,22 r_hyponym-of|10,23 r_hyponym-of|10,24 r_hyponym-of|11,15 r_hyponym-of|11,16 r_hyponym-of|11,17 r_hyponym-of|11,18 r_hyponym-of|11,19 r_hyponym-of|11,20 r_hyponym-of|11,21 r_hyponym-of|11,22 r_hyponym-of|11,23 r_hyponym-of|11,24 r_hyponym-of|12,15 r_hyponym-of|12,16 r_hyponym-of|12,17 r_hyponym-of|12,18 r_hyponym-of|12,19 r_hyponym-of|12,20 r_hyponym-of|12,21 r_hyponym-of|12,22 r_hyponym-of|12,23 r_hyponym-of|12,24 r_hyponym-of|13,15 r_hyponym-of|13,16 r_hyponym-of|13,17 r_hyponym-of|13,18 r_hyponym-of|13,19 r_hyponym-of|13,20 r_hyponym-of|13,21 r_hyponym-of|13,22 r_hyponym-of|13,23 r_hyponym-of|13,24 r_hyponym-of
+10,14 method|14,24 method|10,24 r_hyponym-of
+
+The project presented here is a part of a long term research program aiming at a full lexicon grammar for Polish -LRB- SyntLex -RRB- .
+17,24 method
+17,24 method
+
+-LRB- Ramshaw and Marcus , 1995 -RRB- have introduced a `` convenient '' data representation for chunking by converting it to a tagging task .
+13,15 method|16,17 task|19,20 generic|22,24 task|13,17 used-for|14,17 used-for
+13,15 method|16,17 task|19,20 generic|22,24 task|13,17 used-for
+
+Since these missing details can be recovered at the current level of detail , our result is not upper bounded by the scanning resolution .
+22,24 other-scientific-term
+22,24 other-scientific-term
+
+Significantly improved accuracy can be achieved by applying the rotation-invariant features to classify SAR -LRB- synthetic aperture radar -RRB- sea ice and Brodatz imagery .
+2,3 metric|9,11 other-scientific-term|13,18 other-scientific-term|9,14 used-for|9,15 used-for|9,16 used-for|9,17 used-for|9,18 used-for|10,14 used-for|10,15 used-for|10,16 used-for|10,17 used-for|10,18 used-for
+2,3 metric|9,11 other-scientific-term|13,18 other-scientific-term|9,18 used-for
+
+This stands in stark contrast to the linguistic observation that a core argument frame is a joint structure , with strong dependencies between arguments .
+11,14 other-scientific-term
+11,14 other-scientific-term
+
+Surprisingly , we show that in this new domain , there does not exist a payment rule with is guaranteed to be ex-post core-selecting .
+8,9 generic|15,17 other-scientific-term
+8,9 generic|15,17 other-scientific-term
+
+We propose a new phrase-based translation model and decoding algorithm that enables us to evaluate and compare several , previously proposed phrase-based translation models .
+4,7 method|8,10 method|21,24 method|4,9 conjunction|4,10 conjunction|5,9 conjunction|5,10 conjunction|6,9 conjunction|6,10 conjunction
+4,7 method|8,10 method|21,24 method|4,10 conjunction
+
+Surprisingly , learning phrases longer than three words and learning phrases from high-accuracy word-level alignment models does not have a strong impact on performance .
+12,16 method
+12,16 method
+
+Traditional methods for color constancy can improve surface re-flectance estimates from such uncalibrated images , but their output depends significantly on the background scene .
+1,2 generic|3,5 task|7,10 method|12,14 material|22,24 other-scientific-term|1,4 used-for|1,5 used-for|1,8 used-for|1,9 used-for|1,10 used-for|7,13 r_used-for|7,14 r_used-for|8,13 r_used-for|8,14 r_used-for|9,13 r_used-for|9,14 r_used-for
+1,2 generic|3,5 task|7,10 method|12,14 material|22,24 other-scientific-term|1,5 used-for|1,10 used-for|7,14 r_used-for
+
+In addition , we build on recent work in randomized model verification , and use this to characterize the ` non-randomness ' of a solution .
+9,12 task|15,16 generic
+9,12 task|15,16 generic
+
+When the region graph has two layers , corresponding to a Bethe approximation , we show that our sufficient conditions for concavity are also necessary .
+2,4 other-scientific-term|11,13 method|21,22 other-scientific-term
+2,4 other-scientific-term|11,13 method|21,22 other-scientific-term
+
+Image composition -LRB- or mosaicing -RRB- has attracted a growing attention in recent years as one of the main elements in video analysis and representation .
+0,6 task|21,25 task|0,22 part-of|0,23 part-of|0,24 part-of|0,25 part-of|1,22 part-of|1,23 part-of|1,24 part-of|1,25 part-of|2,22 part-of|2,23 part-of|2,24 part-of|2,25 part-of|3,22 part-of|3,23 part-of|3,24 part-of|3,25 part-of|4,22 part-of|4,23 part-of|4,24 part-of|4,25 part-of|5,22 part-of|5,23 part-of|5,24 part-of|5,25 part-of
+0,6 task|21,25 task|0,25 part-of
+
+To incorporate the trigger words whose effectiveness have been experimentally evaluated in several previous works , we propose a novel architecture with an attention mechanism .
+3,5 other-scientific-term|20,21 generic|23,25 other-scientific-term|3,21 r_used-for|4,21 r_used-for|20,24 r_feature-of|20,25 r_feature-of
+3,5 other-scientific-term|20,21 generic|23,25 other-scientific-term|3,21 r_used-for|20,25 r_feature-of
+
+The results show the Dau and the glimpse measures to be the best predictors of intelligibility , with correlations of around 0.83 to subjective scores .
+4,5 metric|7,9 metric|13,16 method|18,19 metric|23,25 other-scientific-term|4,8 conjunction|4,9 conjunction|4,14 hyponym-of|4,15 hyponym-of|4,16 hyponym-of|4,24 compare|4,25 compare|7,14 hyponym-of|7,15 hyponym-of|7,16 hyponym-of|8,14 hyponym-of|8,15 hyponym-of|8,16 hyponym-of|7,24 compare|7,25 compare|8,24 compare|8,25 compare|4,19 r_evaluate-for|7,19 r_evaluate-for|8,19 r_evaluate-for
+4,5 metric|7,9 metric|13,16 method|18,19 metric|23,25 other-scientific-term|4,9 conjunction|4,16 hyponym-of|4,25 compare|7,16 hyponym-of|7,25 compare|4,19 r_evaluate-for|7,19 r_evaluate-for
+
+All measures gave less accurate predictions of intelligibility for synthetic speech than have previously been found for natural speech ; in particular the SII measure .
+1,2 generic|5,8 task|9,11 material|17,19 material|23,25 metric|1,6 evaluate-for|1,7 evaluate-for|1,8 evaluate-for|5,10 r_used-for|5,11 r_used-for|6,10 r_used-for|6,11 r_used-for|7,10 r_used-for|7,11 r_used-for|9,18 compare|9,19 compare|10,18 compare|10,19 compare|1,24 r_hyponym-of|1,25 r_hyponym-of
+1,2 generic|5,8 task|9,11 material|17,19 material|23,25 metric|1,8 evaluate-for|5,11 r_used-for|9,19 compare|1,25 r_hyponym-of
+
+The rotation-invariant features can be obtained from the parameters of the ACGMRF model by the one-dimensional -LRB- 1-D -RRB- discrete Fourier transform -LRB- DFT -RRB- .
+1,3 other-scientific-term|8,13 other-scientific-term|11,13 method|15,25 method|1,9 r_used-for|1,10 r_used-for|1,11 r_used-for|1,12 r_used-for|1,13 r_used-for|2,9 r_used-for|2,10 r_used-for|2,11 r_used-for|2,12 r_used-for|2,13 r_used-for|1,16 r_used-for|1,17 r_used-for|1,18 r_used-for|1,19 r_used-for|1,20 r_used-for|1,21 r_used-for|1,22 r_used-for|1,23 r_used-for|1,24 r_used-for|1,25 r_used-for|2,16 r_used-for|2,17 r_used-for|2,18 r_used-for|2,19 r_used-for|2,20 r_used-for|2,21 r_used-for|2,22 r_used-for|2,23 r_used-for|2,24 r_used-for|2,25 r_used-for
+1,3 other-scientific-term|8,13 other-scientific-term|11,13 method|15,25 method|1,13 r_used-for|1,25 r_used-for
+
+This paper describes the framework of a Korean phonological knowledge base system using the unification-based grammar formalism : Korean Phonology Structure Grammar -LRB- KPSG -RRB- .
+7,12 task|14,17 method|18,25 method|7,15 r_used-for|7,16 r_used-for|7,17 r_used-for|8,15 r_used-for|8,16 r_used-for|8,17 r_used-for|9,15 r_used-for|9,16 r_used-for|9,17 r_used-for|10,15 r_used-for|10,16 r_used-for|10,17 r_used-for|11,15 r_used-for|11,16 r_used-for|11,17 r_used-for|14,19 r_hyponym-of|14,20 r_hyponym-of|14,21 r_hyponym-of|14,22 r_hyponym-of|14,23 r_hyponym-of|14,24 r_hyponym-of|14,25 r_hyponym-of|15,19 r_hyponym-of|15,20 r_hyponym-of|15,21 r_hyponym-of|15,22 r_hyponym-of|15,23 r_hyponym-of|15,24 r_hyponym-of|15,25 r_hyponym-of|16,19 r_hyponym-of|16,20 r_hyponym-of|16,21 r_hyponym-of|16,22 r_hyponym-of|16,23 r_hyponym-of|16,24 r_hyponym-of|16,25 r_hyponym-of
+7,12 task|14,17 method|18,25 method|7,17 r_used-for|14,25 r_hyponym-of
+
+The system runs on a single Linux PC with reasonable size memory -LRB- less than 4GB -RRB- and disk space -LRB- less than 400GB -RRB- .
+1,2 generic|11,12 other-scientific-term|18,20 other-scientific-term
+1,2 generic|11,12 other-scientific-term|18,20 other-scientific-term
+
+In addition , it facilitates fragmentary recognition and the use of multiple parsing strategies , and so is particularly useful for robust recognition of extra-grammatical input .
+3,4 generic|5,7 task|11,14 method|22,26 other-scientific-term|3,6 used-for|3,7 used-for|3,12 used-for|3,13 used-for|3,14 used-for|11,23 used-for|11,24 used-for|11,25 used-for|11,26 used-for|12,23 used-for|12,24 used-for|12,25 used-for|12,26 used-for|13,23 used-for|13,24 used-for|13,25 used-for|13,26 used-for
+3,4 generic|5,7 task|11,14 method|22,26 other-scientific-term|3,7 used-for|3,14 used-for|11,26 used-for
+
+In particular , our algorithm requires , on average , 3-10 times fewer samples than standard RANSAC , which is in close agreement with theoretical predictions .
+4,5 generic|16,17 method|24,26 other-scientific-term|4,17 compare
+4,5 generic|16,17 method|24,26 other-scientific-term|4,17 compare
+
+The JAVELIN system integrates a flexible , planning-based architecture with a variety of language processing modules to provide an open-domain question answering capability on free text .
+1,3 method|7,9 method|13,16 method|19,23 task|1,20 used-for|1,21 used-for|1,22 used-for|1,23 used-for|2,20 used-for|2,21 used-for|2,22 used-for|2,23 used-for|1,8 r_part-of|1,9 r_part-of|2,8 r_part-of|2,9 r_part-of|1,14 r_part-of|1,15 r_part-of|1,16 r_part-of|2,14 r_part-of|2,15 r_part-of|2,16 r_part-of|7,14 r_conjunction|7,15 r_conjunction|7,16 r_conjunction|8,14 r_conjunction|8,15 r_conjunction|8,16 r_conjunction
+1,3 method|7,9 method|13,16 method|19,23 task|1,23 used-for|1,9 r_part-of|1,16 r_part-of|7,16 r_conjunction
+
+The operation of the system will be explained in depth through browsing the repository of data objects created by the system during each question answering session .
+4,5 generic|4,5 generic|23,25 task
+4,5 generic|4,5 generic|23,25 task
+
+By incorporating trigger words into the consideration , the relative improvement of the proposed method over the state-of-the-art method is around 9.4 % in the F1-score .
+2,4 other-scientific-term|14,15 generic|17,19 generic|25,26 metric|14,18 compare|14,19 compare|17,26 r_evaluate-for|18,26 r_evaluate-for
+2,4 other-scientific-term|14,15 generic|17,19 generic|25,26 metric|14,19 compare|17,26 r_evaluate-for
+
+For example , a government may auction off spectrum from its public safety network , but it may need this spectrum back in times of emergency .
+
+
+
+In this paper , we use the information redundancy in multilingual input to correct errors in machine translation and thus improve the quality of multilingual summaries .
+7,12 other-scientific-term|16,18 task|24,26 task|7,17 used-for|7,18 used-for|8,17 used-for|8,18 used-for|9,17 used-for|9,18 used-for|10,17 used-for|10,18 used-for|11,17 used-for|11,18 used-for|7,25 used-for|7,26 used-for|8,25 used-for|8,26 used-for|9,25 used-for|9,26 used-for|10,25 used-for|10,26 used-for|11,25 used-for|11,26 used-for
+7,12 other-scientific-term|16,18 task|24,26 task|7,18 used-for|7,26 used-for
+
+The knowledge to be expressed in text is first divided into small propositional units , which are then composed into appropriate combinations and converted into text .
+
+
+
+This paper explores the issue of using different co-occurrence similarities between terms for separating query terms that are useful for retrieval from those that are harmful .
+8,10 other-scientific-term|14,16 generic|20,21 task|22,23 generic|8,15 used-for|8,16 used-for|9,15 used-for|9,16 used-for|14,21 used-for|15,21 used-for|14,23 r_compare|15,23 r_compare
+8,10 other-scientific-term|14,16 generic|20,21 task|22,23 generic|8,16 used-for|14,21 used-for|14,23 r_compare
+
+The CCLINC Korean-to-English translation system consists of two core modules , language understanding and generation modules mediated by a language neutral meaning representation called a semantic frame .
+1,5 method|8,10 generic|11,16 method|19,23 method|25,27 other-scientific-term|1,9 r_part-of|1,10 r_part-of|2,9 r_part-of|2,10 r_part-of|3,9 r_part-of|3,10 r_part-of|4,9 r_part-of|4,10 r_part-of|11,20 r_used-for|11,21 r_used-for|11,22 r_used-for|11,23 r_used-for|12,20 r_used-for|12,21 r_used-for|12,22 r_used-for|12,23 r_used-for|13,20 r_used-for|13,21 r_used-for|13,22 r_used-for|13,23 r_used-for|14,20 r_used-for|14,21 r_used-for|14,22 r_used-for|14,23 r_used-for|15,20 r_used-for|15,21 r_used-for|15,22 r_used-for|15,23 r_used-for|19,26 r_hyponym-of|19,27 r_hyponym-of|20,26 r_hyponym-of|20,27 r_hyponym-of|21,26 r_hyponym-of|21,27 r_hyponym-of|22,26 r_hyponym-of|22,27 r_hyponym-of
+1,5 method|8,10 generic|11,16 method|19,23 method|25,27 other-scientific-term|1,10 r_part-of|11,23 r_used-for|19,27 r_hyponym-of
+
+We present the first application of the head-driven statistical parsing model of Collins -LRB- 1999 -RRB- as a simultaneous language model and parser for large-vocabulary speech recognition .
+7,11 method|18,21 method|22,23 method|24,27 task|7,19 used-for|7,20 used-for|7,21 used-for|8,19 used-for|8,20 used-for|8,21 used-for|9,19 used-for|9,20 used-for|9,21 used-for|10,19 used-for|10,20 used-for|10,21 used-for|7,23 used-for|8,23 used-for|9,23 used-for|10,23 used-for|18,23 conjunction|19,23 conjunction|20,23 conjunction|18,25 used-for|18,26 used-for|18,27 used-for|19,25 used-for|19,26 used-for|19,27 used-for|20,25 used-for|20,26 used-for|20,27 used-for|22,25 used-for|22,26 used-for|22,27 used-for
+7,11 method|18,21 method|22,23 method|24,27 task|7,21 used-for|7,23 used-for|18,23 conjunction|18,27 used-for|22,27 used-for
+
+ROD-TV simultaneously delivers good efficiency and robust-ness , by adapting to a continuum of primitive connectivity , view dependence , and levels of detail -LRB- LOD -RRB- .
+0,1 method|4,5 metric|6,7 metric|14,16 other-scientific-term|17,19 other-scientific-term|21,27 other-scientific-term|0,5 r_evaluate-for|0,7 r_evaluate-for|4,7 r_conjunction|14,18 r_conjunction|14,19 r_conjunction|15,18 r_conjunction|15,19 r_conjunction|17,22 r_conjunction|17,23 r_conjunction|17,24 r_conjunction|17,25 r_conjunction|17,26 r_conjunction|17,27 r_conjunction|18,22 r_conjunction|18,23 r_conjunction|18,24 r_conjunction|18,25 r_conjunction|18,26 r_conjunction|18,27 r_conjunction
+0,1 method|4,5 metric|6,7 metric|14,16 other-scientific-term|17,19 other-scientific-term|21,27 other-scientific-term|0,5 r_evaluate-for|0,7 r_evaluate-for|4,7 r_conjunction|14,19 r_conjunction|17,27 r_conjunction
+
+Second , as the shapes of the proposals may vary to fit the objects , the resulting proposals are tighter than the sampling windows with fixed sizes .
+4,8 other-scientific-term|22,24 other-scientific-term
+4,8 other-scientific-term|22,24 other-scientific-term
+
+We investigate the problem of fine-grained sketch-based image retrieval -LRB- SBIR -RRB- , where free-hand human sketches are used as queries to perform instance-level retrieval of images .
+5,12 task|14,17 other-scientific-term|23,27 task|14,24 used-for|14,25 used-for|14,26 used-for|14,27 used-for|15,24 used-for|15,25 used-for|15,26 used-for|15,27 used-for|16,24 used-for|16,25 used-for|16,26 used-for|16,27 used-for
+5,12 task|14,17 other-scientific-term|23,27 task|14,27 used-for
+
+Assuming each action is performed by a human with meaningful motion , both appearance and motion cues are utilized to measure the ac-tionness of the video tubes .
+13,17 other-scientific-term|22,23 metric|25,27 material|13,23 used-for|14,23 used-for|15,23 used-for|16,23 used-for|22,26 evaluate-for|22,27 evaluate-for
+13,17 other-scientific-term|22,23 metric|25,27 material|13,23 used-for|22,27 evaluate-for
+
+CCRs are Boolean conditions on the cooccurrence of categories in local trees which allow the statement of generalizations which can not be captured in other current syntax formalisms .
+0,1 other-scientific-term|2,4 other-scientific-term|10,12 other-scientific-term|15,18 other-scientific-term|26,28 method
+0,1 other-scientific-term|2,4 other-scientific-term|10,12 other-scientific-term|15,18 other-scientific-term|26,28 method
+
+We align a parallel corpus , project the source dependency parse onto the target sentence , extract dependency treelet translation pairs , and train a tree-based ordering model .
+3,5 material|8,11 other-scientific-term|17,21 other-scientific-term|25,28 method
+3,5 material|8,11 other-scientific-term|17,21 other-scientific-term|25,28 method
+
+However , Gaussian blurring does not respect the natural boundaries of objects and smoothes to the same degree both details and noise , reducing localization accuracy and distinctiveness .
+2,4 other-scientific-term|9,12 other-scientific-term|24,28 metric
+2,4 other-scientific-term|9,12 other-scientific-term|24,28 metric
+
+In this way , we can make blurring locally adaptive to the image data , reducing noise but retaining object boundaries , obtaining superior localization accuracy and distinctiviness .
+12,14 material|19,21 other-scientific-term|24,28 metric
+12,14 material|19,21 other-scientific-term|24,28 metric
+
+The framework is composed of a novel algorithm to efficiently compute the co-occurrence distribution between pairs of terms , an independence model , and a parametric affinity model .
+1,2 generic|7,8 generic|12,14 other-scientific-term|20,22 method|25,28 method|1,8 r_part-of|7,13 used-for|7,14 used-for|7,21 conjunction|7,22 conjunction|1,21 r_part-of|1,22 r_part-of|20,26 conjunction|20,27 conjunction|20,28 conjunction|21,26 conjunction|21,27 conjunction|21,28 conjunction|1,26 r_part-of|1,27 r_part-of|1,28 r_part-of
+1,2 generic|7,8 generic|12,14 other-scientific-term|20,22 method|25,28 method|1,8 r_part-of|7,14 used-for|7,22 conjunction|1,22 r_part-of|20,28 conjunction|1,28 r_part-of
+
+Having been trained on Korean newspaper articles on missiles and chemical biological warfare , the system produces the translation output sufficient for content understanding of the original document .
+4,7 material|8,13 material|15,16 generic|4,16 used-for|5,16 used-for|6,16 used-for|4,9 r_feature-of|4,10 r_feature-of|4,11 r_feature-of|4,12 r_feature-of|4,13 r_feature-of|5,9 r_feature-of|5,10 r_feature-of|5,11 r_feature-of|5,12 r_feature-of|5,13 r_feature-of|6,9 r_feature-of|6,10 r_feature-of|6,11 r_feature-of|6,12 r_feature-of|6,13 r_feature-of
+4,7 material|8,13 material|15,16 generic|4,16 used-for|4,13 r_feature-of
+
+However , equipped with the most suitable data representation , our memory-based learning chunker was able to improve the best published chunking results for a standard data set .
+7,9 method|11,14 method|21,22 task|26,28 material|7,12 used-for|7,13 used-for|7,14 used-for|8,12 used-for|8,13 used-for|8,14 used-for|11,27 r_evaluate-for|11,28 r_evaluate-for|12,27 r_evaluate-for|12,28 r_evaluate-for|13,27 r_evaluate-for|13,28 r_evaluate-for
+7,9 method|11,14 method|21,22 task|26,28 material|7,14 used-for|11,28 r_evaluate-for
+
+Despite much recent progress on accurate semantic role labeling , previous work has largely used independent classifiers , possibly combined with separate label sequence models via Viterbi decoding .
+6,9 task|15,17 method|22,25 method|26,28 method|6,16 r_used-for|6,17 r_used-for|7,16 r_used-for|7,17 r_used-for|8,16 r_used-for|8,17 r_used-for|15,23 conjunction|15,24 conjunction|15,25 conjunction|16,23 conjunction|16,24 conjunction|16,25 conjunction|22,27 r_used-for|22,28 r_used-for|23,27 r_used-for|23,28 r_used-for|24,27 r_used-for|24,28 r_used-for
+6,9 task|15,17 method|22,25 method|26,28 method|6,17 r_used-for|15,25 conjunction|22,28 r_used-for
+
+User models themselves can vary greatly depending on the requirements of the situation and the implementation , so several dimensions along which they can be classified are presented .
+0,2 method|22,23 generic
+0,2 method|22,23 generic
+
+We demonstrate how errors in the machine translations of the input Arabic documents can be corrected by identifying and generating from such redundancy , focusing on noun phrases .
+6,8 task|11,13 material|6,12 r_used-for|6,13 r_used-for|7,12 r_used-for|7,13 r_used-for
+6,8 task|11,13 material|6,13 r_used-for
+
+To this end , we propose to efficiently locate object regions according to pixelwise object probability , rather than measuring the objectness from a set of sampled windows .
+9,11 other-scientific-term|13,16 other-scientific-term|21,22 other-scientific-term|9,14 r_used-for|9,15 r_used-for|9,16 r_used-for|10,14 r_used-for|10,15 r_used-for|10,16 r_used-for|13,22 compare|14,22 compare|15,22 compare
+9,11 other-scientific-term|13,16 other-scientific-term|21,22 other-scientific-term|9,16 r_used-for|13,22 compare
+
+This paper describes three relatively domain-independent capabilities recently added to the Paramax spoken language understanding system : non-monotonic reasoning , implicit reference resolution , and database query paraphrase .
+5,7 generic|11,16 method|17,19 task|20,23 task|25,28 task|5,12 part-of|5,13 part-of|5,14 part-of|5,15 part-of|5,16 part-of|6,12 part-of|6,13 part-of|6,14 part-of|6,15 part-of|6,16 part-of|5,18 r_hyponym-of|5,19 r_hyponym-of|6,18 r_hyponym-of|6,19 r_hyponym-of|5,21 r_hyponym-of|5,22 r_hyponym-of|5,23 r_hyponym-of|6,21 r_hyponym-of|6,22 r_hyponym-of|6,23 r_hyponym-of|5,26 r_hyponym-of|5,27 r_hyponym-of|5,28 r_hyponym-of|6,26 r_hyponym-of|6,27 r_hyponym-of|6,28 r_hyponym-of
+5,7 generic|11,16 method|17,19 task|20,23 task|25,28 task|5,16 part-of|5,19 r_hyponym-of|5,23 r_hyponym-of|5,28 r_hyponym-of
+
+We then develop a deep triplet-ranking model for instance-level SBIR with a novel data augmentation and staged pre-training strategy to alleviate the issue of insufficient fine-grained training data .
+4,7 method|8,10 task|13,15 method|16,19 method|24,28 material|4,9 used-for|4,10 used-for|5,9 used-for|5,10 used-for|6,9 used-for|6,10 used-for|4,25 used-for|4,26 used-for|4,27 used-for|4,28 used-for|5,25 used-for|5,26 used-for|5,27 used-for|5,28 used-for|6,25 used-for|6,26 used-for|6,27 used-for|6,28 used-for|4,14 r_used-for|4,15 r_used-for|5,14 r_used-for|5,15 r_used-for|6,14 r_used-for|6,15 r_used-for|13,17 conjunction|13,18 conjunction|13,19 conjunction|14,17 conjunction|14,18 conjunction|14,19 conjunction|4,17 r_used-for|4,18 r_used-for|4,19 r_used-for|5,17 r_used-for|5,18 r_used-for|5,19 r_used-for|6,17 r_used-for|6,18 r_used-for|6,19 r_used-for
+4,7 method|8,10 task|13,15 method|16,19 method|24,28 material|4,10 used-for|4,28 used-for|4,15 r_used-for|13,19 conjunction|4,19 r_used-for
+
+Color is known to be highly discriminative for many object recognition tasks , but is difficult to infer from uncontrolled images in which the illuminant is not known .
+9,12 task|19,21 material|24,25 other-scientific-term
+9,12 task|19,21 material|24,25 other-scientific-term
+
+Our results show that multi-view constraints can significantly improve estimates of both scene illuminants and object color -LRB- surface reflectance -RRB- when compared to a baseline single-view method .
+4,6 other-scientific-term|9,21 task|25,28 method|4,10 used-for|4,11 used-for|4,12 used-for|4,13 used-for|4,14 used-for|4,15 used-for|4,16 used-for|4,17 used-for|4,18 used-for|4,19 used-for|4,20 used-for|4,21 used-for|5,10 used-for|5,11 used-for|5,12 used-for|5,13 used-for|5,14 used-for|5,15 used-for|5,16 used-for|5,17 used-for|5,18 used-for|5,19 used-for|5,20 used-for|5,21 used-for|4,26 r_compare|4,27 r_compare|4,28 r_compare|5,26 r_compare|5,27 r_compare|5,28 r_compare
+4,6 other-scientific-term|9,21 task|25,28 method|4,21 used-for|4,28 r_compare
+
+We show that , in equilibrium , our new rules have better incentives , higher efficiency , and a lower rate of ex-post IR violations than standard core-selecting rules .
+9,10 generic|20,25 metric|27,29 other-scientific-term|9,28 compare|9,29 compare|9,21 r_evaluate-for|9,22 r_evaluate-for|9,23 r_evaluate-for|9,24 r_evaluate-for|9,25 r_evaluate-for|20,28 evaluate-for|20,29 evaluate-for|21,28 evaluate-for|21,29 evaluate-for|22,28 evaluate-for|22,29 evaluate-for|23,28 evaluate-for|23,29 evaluate-for|24,28 evaluate-for|24,29 evaluate-for
+9,10 generic|20,25 metric|27,29 other-scientific-term|9,29 compare|9,25 r_evaluate-for|20,29 evaluate-for
+
+In this paper , we propose a new approach to generate oriented object proposals -LRB- OOPs -RRB- to reduce the detection error caused by various orientations of the object .
+8,9 generic|11,17 task|20,22 metric|25,29 other-scientific-term|8,12 used-for|8,13 used-for|8,14 used-for|8,15 used-for|8,16 used-for|8,17 used-for|11,21 r_evaluate-for|11,22 r_evaluate-for|12,21 r_evaluate-for|12,22 r_evaluate-for|13,21 r_evaluate-for|13,22 r_evaluate-for|14,21 r_evaluate-for|14,22 r_evaluate-for|15,21 r_evaluate-for|15,22 r_evaluate-for|16,21 r_evaluate-for|16,22 r_evaluate-for
+8,9 generic|11,17 task|20,22 metric|25,29 other-scientific-term|8,17 used-for|11,22 r_evaluate-for
+
+Extensive experiments are carried out to contribute a variety of insights into the challenges of data sufficiency and over-fitting avoidance when training deep networks for fine-grained cross-domain ranking tasks .
+15,17 other-scientific-term|18,20 other-scientific-term|22,24 method|25,29 task|15,19 conjunction|15,20 conjunction|16,19 conjunction|16,20 conjunction|22,26 used-for|22,27 used-for|22,28 used-for|22,29 used-for|23,26 used-for|23,27 used-for|23,28 used-for|23,29 used-for
+15,17 other-scientific-term|18,20 other-scientific-term|22,24 method|25,29 task|15,20 conjunction|22,29 used-for
+
+This paper presents an algorithm for computing optical flow , shape , motion , lighting , and albedo from an image sequence of a rigidly-moving Lambertian object under distant illumination .
+4,5 generic|6,18 task|20,22 material|24,27 material|28,30 other-scientific-term|4,7 used-for|4,8 used-for|4,9 used-for|4,10 used-for|4,11 used-for|4,12 used-for|4,13 used-for|4,14 used-for|4,15 used-for|4,16 used-for|4,17 used-for|4,18 used-for|4,21 r_used-for|4,22 r_used-for|20,25 r_feature-of|20,26 r_feature-of|20,27 r_feature-of|21,25 r_feature-of|21,26 r_feature-of|21,27 r_feature-of|24,29 r_feature-of|24,30 r_feature-of|25,29 r_feature-of|25,30 r_feature-of|26,29 r_feature-of|26,30 r_feature-of
+4,5 generic|6,18 task|20,22 material|24,27 material|28,30 other-scientific-term|4,18 used-for|4,22 r_used-for|20,27 r_feature-of|24,30 r_feature-of
+
+We present a new approach for building an efficient and robust classifier for the two class problem , that localizes objects that may appear in the image under different orien-tations .
+4,5 generic|11,12 method|15,17 task|26,27 material|29,30 other-scientific-term|4,12 used-for|11,16 used-for|11,17 used-for
+4,5 generic|11,12 method|15,17 task|26,27 material|29,30 other-scientific-term|4,12 used-for|11,17 used-for
+
+A new training strategy has been tested which , by itself , did not provide useful improvements but suggests that improvements can be obtained by a related rapid adaptation technique .
+2,4 method|27,30 method|2,28 r_used-for|2,29 r_used-for|2,30 r_used-for|3,28 r_used-for|3,29 r_used-for|3,30 r_used-for
+2,4 method|27,30 method|2,30 r_used-for
+
+Experiments on the Wall Street Journal treebank and lattice corpora show word error rates competitive with the standard n-gram language model while extracting additional structural information useful for speech understanding .
+3,7 material|8,10 material|11,14 metric|18,21 method|24,26 other-scientific-term|28,30 task|3,9 conjunction|3,10 conjunction|4,9 conjunction|4,10 conjunction|5,9 conjunction|5,10 conjunction|6,9 conjunction|6,10 conjunction|3,19 evaluate-for|3,20 evaluate-for|3,21 evaluate-for|4,19 evaluate-for|4,20 evaluate-for|4,21 evaluate-for|5,19 evaluate-for|5,20 evaluate-for|5,21 evaluate-for|6,19 evaluate-for|6,20 evaluate-for|6,21 evaluate-for|8,19 evaluate-for|8,20 evaluate-for|8,21 evaluate-for|9,19 evaluate-for|9,20 evaluate-for|9,21 evaluate-for|11,19 evaluate-for|11,20 evaluate-for|11,21 evaluate-for|12,19 evaluate-for|12,20 evaluate-for|12,21 evaluate-for|13,19 evaluate-for|13,20 evaluate-for|13,21 evaluate-for|24,29 used-for|24,30 used-for|25,29 used-for|25,30 used-for
+3,7 material|8,10 material|11,14 metric|18,21 method|24,26 other-scientific-term|28,30 task|3,10 conjunction|3,21 evaluate-for|8,21 evaluate-for|11,21 evaluate-for|24,30 used-for
+
+It is applied on demand to the visible subset of data at a desired level of detail , by traversing the data hierarchy and collecting tensorial support in a neighborhood .
+0,1 generic|19,23 method|24,27 method|0,20 r_used-for|0,21 r_used-for|0,22 r_used-for|0,23 r_used-for|19,25 conjunction|19,26 conjunction|19,27 conjunction|20,25 conjunction|20,26 conjunction|20,27 conjunction|21,25 conjunction|21,26 conjunction|21,27 conjunction|22,25 conjunction|22,26 conjunction|22,27 conjunction|0,25 r_used-for|0,26 r_used-for|0,27 r_used-for
+0,1 generic|19,23 method|24,27 method|0,23 r_used-for|19,27 conjunction|0,27 r_used-for
+
+This system achieves an error reduction of 22 % on all arguments and 32 % on core arguments over a state-of-the art independent classifier for gold-standard parse trees on PropBank .
+1,2 generic|4,6 metric|22,24 method|25,28 other-scientific-term|29,30 material|1,5 r_evaluate-for|1,6 r_evaluate-for|4,23 evaluate-for|4,24 evaluate-for|5,23 evaluate-for|5,24 evaluate-for|1,23 r_compare|1,24 r_compare|1,26 r_evaluate-for|1,27 r_evaluate-for|1,28 r_evaluate-for|22,26 r_evaluate-for|22,27 r_evaluate-for|22,28 r_evaluate-for|23,26 r_evaluate-for|23,27 r_evaluate-for|23,28 r_evaluate-for|25,30 part-of|26,30 part-of|27,30 part-of
+1,2 generic|4,6 metric|22,24 method|25,28 other-scientific-term|29,30 material|1,6 r_evaluate-for|4,24 evaluate-for|1,24 r_compare|1,28 r_evaluate-for|22,28 r_evaluate-for|25,30 part-of
+
+Further experiments show that the rotation invariant property helps a class-specific object detector achieve better performance than the state-of-the-art proposal generation methods in either object rotation scenarios or general scenarios .
+5,8 other-scientific-term|10,13 method|19,22 method|24,27 material|28,30 material|5,11 used-for|5,12 used-for|5,13 used-for|6,11 used-for|6,12 used-for|6,13 used-for|7,11 used-for|7,12 used-for|7,13 used-for|10,20 compare|10,21 compare|10,22 compare|11,20 compare|11,21 compare|11,22 compare|12,20 compare|12,21 compare|12,22 compare|10,25 r_evaluate-for|10,26 r_evaluate-for|10,27 r_evaluate-for|11,25 r_evaluate-for|11,26 r_evaluate-for|11,27 r_evaluate-for|12,25 r_evaluate-for|12,26 r_evaluate-for|12,27 r_evaluate-for|19,25 r_evaluate-for|19,26 r_evaluate-for|19,27 r_evaluate-for|20,25 r_evaluate-for|20,26 r_evaluate-for|20,27 r_evaluate-for|21,25 r_evaluate-for|21,26 r_evaluate-for|21,27 r_evaluate-for|24,29 conjunction|24,30 conjunction|25,29 conjunction|25,30 conjunction|26,29 conjunction|26,30 conjunction|10,29 r_evaluate-for|10,30 r_evaluate-for|11,29 r_evaluate-for|11,30 r_evaluate-for|12,29 r_evaluate-for|12,30 r_evaluate-for|19,29 r_evaluate-for|19,30 r_evaluate-for|20,29 r_evaluate-for|20,30 r_evaluate-for|21,29 r_evaluate-for|21,30 r_evaluate-for
+5,8 other-scientific-term|10,13 method|19,22 method|24,27 material|28,30 material|5,13 used-for|10,22 compare|10,27 r_evaluate-for|19,27 r_evaluate-for|24,30 conjunction|10,30 r_evaluate-for|19,30 r_evaluate-for
+
+In this paper , for the first time , we address all these challenges , providing a step towards the capabilities that would underpin a commercial sketch-based image retrieval application .
+26,30 task
+26,30 task
+
+Each action proposal corresponds to a temporal series of spatial bounding boxes , i.e. , a spatio-temporal video tube , which has a good potential to locate one human action .
+1,3 other-scientific-term|6,12 other-scientific-term|16,19 other-scientific-term|28,30 other-scientific-term|6,17 r_hyponym-of|6,18 r_hyponym-of|6,19 r_hyponym-of|7,17 r_hyponym-of|7,18 r_hyponym-of|7,19 r_hyponym-of|8,17 r_hyponym-of|8,18 r_hyponym-of|8,19 r_hyponym-of|9,17 r_hyponym-of|9,18 r_hyponym-of|9,19 r_hyponym-of|10,17 r_hyponym-of|10,18 r_hyponym-of|10,19 r_hyponym-of|11,17 r_hyponym-of|11,18 r_hyponym-of|11,19 r_hyponym-of|16,29 used-for|16,30 used-for|17,29 used-for|17,30 used-for|18,29 used-for|18,30 used-for
+1,3 other-scientific-term|6,12 other-scientific-term|16,19 other-scientific-term|28,30 other-scientific-term|6,19 r_hyponym-of|16,30 used-for
+
+Experimental results on two challenging datasets , MSRII and UCF 101 , validate the superior performance of our action proposals as well as competitive results on action detection and search .
+5,6 generic|7,8 material|9,11 material|18,20 other-scientific-term|26,30 task|5,19 evaluate-for|5,20 evaluate-for|5,8 r_hyponym-of|7,10 conjunction|7,11 conjunction|5,10 r_hyponym-of|5,11 r_hyponym-of|18,27 r_evaluate-for|18,28 r_evaluate-for|18,29 r_evaluate-for|18,30 r_evaluate-for|19,27 r_evaluate-for|19,28 r_evaluate-for|19,29 r_evaluate-for|19,30 r_evaluate-for
+5,6 generic|7,8 material|9,11 material|18,20 other-scientific-term|26,30 task|5,20 evaluate-for|5,8 r_hyponym-of|7,11 conjunction|5,11 r_hyponym-of|18,30 r_evaluate-for
+
+Second , we devise a new track clustering cost function that includes occlusion reasoning , in the form of depth ordering constraints , as well as motion similarity along the tracks .
+6,10 method|12,14 other-scientific-term|19,22 other-scientific-term|26,28 other-scientific-term|6,13 r_part-of|6,14 r_part-of|7,13 r_part-of|7,14 r_part-of|8,13 r_part-of|8,14 r_part-of|9,13 r_part-of|9,14 r_part-of|12,20 r_feature-of|12,21 r_feature-of|12,22 r_feature-of|13,20 r_feature-of|13,21 r_feature-of|13,22 r_feature-of|6,27 r_part-of|6,28 r_part-of|7,27 r_part-of|7,28 r_part-of|8,27 r_part-of|8,28 r_part-of|9,27 r_part-of|9,28 r_part-of
+6,10 method|12,14 other-scientific-term|19,22 other-scientific-term|26,28 other-scientific-term|6,14 r_part-of|12,22 r_feature-of|6,28 r_part-of
+
+In such a domain , standard combinatorial auctions perform poorly because they lead to violations of individual rationality -LRB- IR -RRB- , even in expectation , and to very low efficiency .
+3,4 generic|6,8 method|11,12 generic|14,21 other-scientific-term|16,21 other-scientific-term
+3,4 generic|6,8 method|11,12 generic|14,21 other-scientific-term|16,21 other-scientific-term
+
+Our contributions include a concise , modular architecture with reversible processes of understanding and generation , an information-state model of reference , and flexible links between semantics and collaborative problem solving .
+4,8 method|12,13 task|14,15 task|17,21 method|26,27 other-scientific-term|28,31 task|4,13 used-for|5,13 used-for|6,13 used-for|7,13 used-for|4,15 used-for|5,15 used-for|6,15 used-for|7,15 used-for|12,15 conjunction
+4,8 method|12,13 task|14,15 task|17,21 method|26,27 other-scientific-term|28,31 task|4,13 used-for|4,15 used-for|12,15 conjunction
+
+In this work , we present a technique for robust estimation , which by explicitly incorporating the inherent uncertainty of the estimation procedure , results in a more efficient robust estimation algorithm .
+7,8 generic|9,11 task|17,23 other-scientific-term|28,32 method|7,10 used-for|7,11 used-for|7,29 used-for|7,30 used-for|7,31 used-for|7,32 used-for|7,18 r_used-for|7,19 r_used-for|7,20 r_used-for|7,21 r_used-for|7,22 r_used-for|7,23 r_used-for
+7,8 generic|9,11 task|17,23 other-scientific-term|28,32 method|7,11 used-for|7,32 used-for|7,23 r_used-for
+
+The combination of these two strategies results in a robust estimation procedure that provides a significant speed-up over existing RANSAC techniques , while requiring no prior information to guide the sampling process .
+5,6 generic|9,12 method|19,21 method|25,27 other-scientific-term|30,32 other-scientific-term|5,10 used-for|5,11 used-for|5,12 used-for|9,20 r_compare|9,21 r_compare|10,20 r_compare|10,21 r_compare|11,20 r_compare|11,21 r_compare
+5,6 generic|9,12 method|19,21 method|25,27 other-scientific-term|30,32 other-scientific-term|5,12 used-for|9,21 r_compare
+
+Motivated by the successful use of convolutional neural networks -LRB- CNNs -RRB- for many natural language processing tasks , in this paper , we adopt CNNs to perform the hashtag recommendation problem .
+6,12 method|14,18 task|10,11 method|29,32 task|6,15 used-for|6,16 used-for|6,17 used-for|6,18 used-for|7,15 used-for|7,16 used-for|7,17 used-for|7,18 used-for|8,15 used-for|8,16 used-for|8,17 used-for|8,18 used-for|9,15 used-for|9,16 used-for|9,17 used-for|9,18 used-for|10,15 used-for|10,16 used-for|10,17 used-for|10,18 used-for|11,15 used-for|11,16 used-for|11,17 used-for|11,18 used-for
+6,12 method|14,18 task|10,11 method|29,32 task|6,18 used-for
+
+A '' graphics for vision '' approach is proposed to address the problem of reconstruction from a large and imperfect data set : reconstruction on demand by tensor voting , or ROD-TV .
+1,7 method|14,15 task|17,22 material|14,15 task|27,29 method|31,32 method|1,15 used-for|2,15 used-for|3,15 used-for|4,15 used-for|5,15 used-for|6,15 used-for|14,18 r_used-for|14,19 r_used-for|14,20 r_used-for|14,21 r_used-for|14,22 r_used-for|14,28 r_used-for|14,29 r_used-for|27,32 conjunction|28,32 conjunction|14,32 r_used-for
+1,7 method|14,15 task|17,22 material|14,15 task|27,29 method|31,32 method|1,15 used-for|14,22 r_used-for|14,29 r_used-for|27,32 conjunction|14,32 r_used-for
+
+The classifier we use in both stages is based on a boosted combination of Random Ferns over local histograms of oriented gradients -LRB- HOGs -RRB- , which we compute during a pre-processing step .
+1,2 method|11,16 method|17,25 other-scientific-term|31,33 method|1,12 r_used-for|1,13 r_used-for|1,14 r_used-for|1,15 r_used-for|1,16 r_used-for|11,18 r_feature-of|11,19 r_feature-of|11,20 r_feature-of|11,21 r_feature-of|11,22 r_feature-of|11,23 r_feature-of|11,24 r_feature-of|11,25 r_feature-of|12,18 r_feature-of|12,19 r_feature-of|12,20 r_feature-of|12,21 r_feature-of|12,22 r_feature-of|12,23 r_feature-of|12,24 r_feature-of|12,25 r_feature-of|13,18 r_feature-of|13,19 r_feature-of|13,20 r_feature-of|13,21 r_feature-of|13,22 r_feature-of|13,23 r_feature-of|13,24 r_feature-of|13,25 r_feature-of|14,18 r_feature-of|14,19 r_feature-of|14,20 r_feature-of|14,21 r_feature-of|14,22 r_feature-of|14,23 r_feature-of|14,24 r_feature-of|14,25 r_feature-of|15,18 r_feature-of|15,19 r_feature-of|15,20 r_feature-of|15,21 r_feature-of|15,22 r_feature-of|15,23 r_feature-of|15,24 r_feature-of|15,25 r_feature-of|17,32 r_used-for|17,33 r_used-for|18,32 r_used-for|18,33 r_used-for|19,32 r_used-for|19,33 r_used-for|20,32 r_used-for|20,33 r_used-for|21,32 r_used-for|21,33 r_used-for|22,32 r_used-for|22,33 r_used-for|23,32 r_used-for|23,33 r_used-for|24,32 r_used-for|24,33 r_used-for
+1,2 method|11,16 method|17,25 other-scientific-term|31,33 method|1,16 r_used-for|11,25 r_feature-of|17,33 r_used-for
+
+Next , the benefits and costs of implementing a user modeling component for a system are weighed in light of several aspects of the interaction requirements that may be imposed by the system .
+9,12 method|14,15 generic|14,15 generic|9,15 part-of|10,15 part-of|11,15 part-of
+9,12 method|14,15 generic|14,15 generic|9,15 part-of
+
+Finally , the current state of research in user modeling is summarized , and future research topics that must be addressed in order to achieve powerful , general user modeling systems are assessed .
+8,10 task|28,31 method
+8,10 task|28,31 method
+
+Representative samples from an entity-oriented language definition are presented , along with a control structure for an entity-oriented parser , some parsing strategies that use the control structure , and worked examples of parses .
+4,7 other-scientific-term|13,15 other-scientific-term|17,19 method|21,23 method|13,15 other-scientific-term|13,18 used-for|13,19 used-for|14,18 used-for|14,19 used-for|13,22 used-for|13,23 used-for|14,22 used-for|14,23 used-for
+4,7 other-scientific-term|13,15 other-scientific-term|17,19 method|21,23 method|13,15 other-scientific-term|13,19 used-for|13,23 used-for
+
+The method exploits on-line encyclopedias and dictionaries to generate automatically an arbitrarily large number of positive and negative definition examples , which are then used to train an svm to separate the two classes .
+1,2 generic|3,7 material|15,20 material|28,29 method|1,4 used-for|1,5 used-for|1,6 used-for|1,7 used-for|3,16 used-for|3,17 used-for|3,18 used-for|3,19 used-for|3,20 used-for|4,16 used-for|4,17 used-for|4,18 used-for|4,19 used-for|4,20 used-for|5,16 used-for|5,17 used-for|5,18 used-for|5,19 used-for|5,20 used-for|6,16 used-for|6,17 used-for|6,18 used-for|6,19 used-for|6,20 used-for|15,29 used-for|16,29 used-for|17,29 used-for|18,29 used-for|19,29 used-for
+1,2 generic|3,7 material|15,20 material|28,29 method|1,7 used-for|3,20 used-for|15,29 used-for
+
+The explanation of an ambiguity or an error for the purposes of correction does not use any concepts of the underlying linguistic theory : it is a reformulation of the erroneous or ambiguous sentence .
+21,23 method
+21,23 method
+
+Motivated by this goal , we seek to obtain spatio-temporal over-segmentation of a video into regions that respect object boundaries and , at the same time , associate object pix-els over many video frames .
+9,11 other-scientific-term|18,20 other-scientific-term
+9,11 other-scientific-term|18,20 other-scientific-term
+
+First , we develop an efficient spatio-temporal video segmentation algorithm , which naturally incorporates long-range motion cues from the past and future frames in the form of clusters of point tracks with coherent motion .
+6,10 method|14,17 other-scientific-term|27,31 other-scientific-term|6,15 r_used-for|6,16 r_used-for|6,17 r_used-for|7,15 r_used-for|7,16 r_used-for|7,17 r_used-for|8,15 r_used-for|8,16 r_used-for|8,17 r_used-for|9,15 r_used-for|9,16 r_used-for|9,17 r_used-for|14,28 r_used-for|14,29 r_used-for|14,30 r_used-for|14,31 r_used-for|15,28 r_used-for|15,29 r_used-for|15,30 r_used-for|15,31 r_used-for|16,28 r_used-for|16,29 r_used-for|16,30 r_used-for|16,31 r_used-for
+6,10 method|14,17 other-scientific-term|27,31 other-scientific-term|6,17 r_used-for|14,31 r_used-for
+
+We present methodology and resources obtained in three main project phases which are : dictionary-based acquisition of collocation lexicon , feasibility study for corpus-based lexicon enlargement phase , corpus-based lexicon enlargement and collocation description .
+10,11 generic|14,19 task|20,22 task|23,27 task|28,34 task|10,15 r_hyponym-of|10,16 r_hyponym-of|10,17 r_hyponym-of|10,18 r_hyponym-of|10,19 r_hyponym-of|14,21 conjunction|14,22 conjunction|15,21 conjunction|15,22 conjunction|16,21 conjunction|16,22 conjunction|17,21 conjunction|17,22 conjunction|18,21 conjunction|18,22 conjunction|10,21 r_hyponym-of|10,22 r_hyponym-of|20,24 used-for|20,25 used-for|20,26 used-for|20,27 used-for|21,24 used-for|21,25 used-for|21,26 used-for|21,27 used-for|10,29 r_hyponym-of|10,30 r_hyponym-of|10,31 r_hyponym-of|10,32 r_hyponym-of|10,33 r_hyponym-of|10,34 r_hyponym-of|20,29 r_conjunction|20,30 r_conjunction|20,31 r_conjunction|20,32 r_conjunction|20,33 r_conjunction|20,34 r_conjunction|21,29 r_conjunction|21,30 r_conjunction|21,31 r_conjunction|21,32 r_conjunction|21,33 r_conjunction|21,34 r_conjunction
+10,11 generic|14,19 task|20,22 task|23,27 task|28,34 task|10,19 r_hyponym-of|14,22 conjunction|10,22 r_hyponym-of|20,27 used-for|10,34 r_hyponym-of|20,34 r_conjunction
+
+To overcome the singularity problem of the least squares estimate -LRB- LSE -RRB- method , an approximate least squares estimate -LRB- ALSE -RRB- method is proposed to estimate the parameters of the ACGMRF model .
+3,5 other-scientific-term|7,14 method|16,24 method|29,34 other-scientific-term|32,34 method|3,8 feature-of|3,9 feature-of|3,10 feature-of|3,11 feature-of|3,12 feature-of|3,13 feature-of|3,14 feature-of|4,8 feature-of|4,9 feature-of|4,10 feature-of|4,11 feature-of|4,12 feature-of|4,13 feature-of|4,14 feature-of|16,30 used-for|16,31 used-for|16,32 used-for|16,33 used-for|16,34 used-for|17,30 used-for|17,31 used-for|17,32 used-for|17,33 used-for|17,34 used-for|18,30 used-for|18,31 used-for|18,32 used-for|18,33 used-for|18,34 used-for|19,30 used-for|19,31 used-for|19,32 used-for|19,33 used-for|19,34 used-for|20,30 used-for|20,31 used-for|20,32 used-for|20,33 used-for|20,34 used-for|21,30 used-for|21,31 used-for|21,32 used-for|21,33 used-for|21,34 used-for|22,30 used-for|22,31 used-for|22,32 used-for|22,33 used-for|22,34 used-for|23,30 used-for|23,31 used-for|23,32 used-for|23,33 used-for|23,34 used-for
+3,5 other-scientific-term|7,14 method|16,24 method|29,34 other-scientific-term|32,34 method|3,14 feature-of|16,34 used-for
+
+One of the major problems one is faced with when decomposing words into their constituent parts is ambiguity : the generation of multiple analyses for one input word , many of which are implausible .
+17,18 other-scientific-term|20,21 task
+17,18 other-scientific-term|20,21 task
+
+We implement several techniques to estimate the confidence of both extracted fields and entire multi-field records , obtaining an average precision of 98 % for retrieving correct fields and 87 % for multi-field records .
+3,4 generic|10,12 generic|14,16 material|19,21 metric|14,16 material|10,15 conjunction|10,16 conjunction|11,15 conjunction|11,16 conjunction|3,20 r_evaluate-for|3,21 r_evaluate-for
+3,4 generic|10,12 generic|14,16 material|19,21 metric|14,16 material|10,16 conjunction|3,21 r_evaluate-for
+
+We formulate the proposal generation problem as a generative proba-bilistic model such that object proposals of different shapes -LRB- i.e. , sizes and orientations -RRB- can be produced by locating the local maximum likelihoods .
+3,6 task|8,11 method|13,15 other-scientific-term|17,18 other-scientific-term|21,22 other-scientific-term|23,24 other-scientific-term|31,34 other-scientific-term|3,9 r_used-for|3,10 r_used-for|3,11 r_used-for|4,9 r_used-for|4,10 r_used-for|4,11 r_used-for|5,9 r_used-for|5,10 r_used-for|5,11 r_used-for|13,18 r_feature-of|14,18 r_feature-of|17,22 r_hyponym-of|21,24 conjunction|17,24 r_hyponym-of|13,32 r_used-for|13,33 r_used-for|13,34 r_used-for|14,32 r_used-for|14,33 r_used-for|14,34 r_used-for
+3,6 task|8,11 method|13,15 other-scientific-term|17,18 other-scientific-term|21,22 other-scientific-term|23,24 other-scientific-term|31,34 other-scientific-term|3,11 r_used-for|13,18 r_feature-of|17,22 r_hyponym-of|21,24 conjunction|17,24 r_hyponym-of|13,34 r_used-for
+
+We introduce the multi-view color constancy problem , and present a method to recover estimates of underlying surface re-flectance based on joint estimation of these surface properties and the illuminants present in multiple images .
+3,7 task|11,12 generic|14,19 task|25,27 other-scientific-term|29,30 other-scientific-term|11,15 used-for|11,16 used-for|11,17 used-for|11,18 used-for|11,19 used-for
+3,7 task|11,12 generic|14,19 task|25,27 other-scientific-term|29,30 other-scientific-term|11,19 used-for
+
+The algorithm utilizes both spatial and temporal intensity variation as cues : the former constrains flow and the latter constrains surface orientation ; combining both cues enables dense reconstruction of both textured and texture-less surfaces .
+1,2 generic|4,9 other-scientific-term|10,11 generic|13,14 generic|15,16 other-scientific-term|18,19 generic|20,22 other-scientific-term|10,11 generic|27,35 task|1,5 r_used-for|1,6 r_used-for|1,7 r_used-for|1,8 r_used-for|1,9 r_used-for|10,14 r_hyponym-of|13,16 used-for|13,19 conjunction|10,19 r_hyponym-of|18,21 used-for|18,22 used-for|10,28 used-for|10,29 used-for|10,30 used-for|10,31 used-for|10,32 used-for|10,33 used-for|10,34 used-for|10,35 used-for
+1,2 generic|4,9 other-scientific-term|10,11 generic|13,14 generic|15,16 other-scientific-term|18,19 generic|20,22 other-scientific-term|10,11 generic|27,35 task|1,9 r_used-for|10,14 r_hyponym-of|13,16 used-for|13,19 conjunction|10,19 r_hyponym-of|18,22 used-for|10,35 used-for
+
+In contrast to other works that address this problem using multiple classifiers , each one specialized for a specific orientation , we propose a simple two-step approach with an estimation stage and a classification stage .
+8,9 generic|11,12 method|26,27 generic|29,31 method|33,35 method|26,30 r_part-of|26,31 r_part-of|29,34 conjunction|29,35 conjunction|30,34 conjunction|30,35 conjunction|26,34 r_part-of|26,35 r_part-of
+8,9 generic|11,12 method|26,27 generic|29,31 method|33,35 method|26,31 r_part-of|29,35 conjunction|26,35 r_part-of
+
+We evaluated three intel-ligibility measures , the Dau measure , the glimpse proportion and the Speech Intelligibility Index -LRB- SII -RRB- and a quality measure , the Perceptual Evaluation of Speech Quality -LRB- PESQ -RRB- .
+3,5 metric|7,9 metric|11,13 metric|15,21 metric|23,25 metric|27,35 metric|3,24 conjunction|3,25 conjunction|4,24 conjunction|4,25 conjunction|3,8 r_hyponym-of|3,9 r_hyponym-of|4,8 r_hyponym-of|4,9 r_hyponym-of|7,12 conjunction|7,13 conjunction|8,12 conjunction|8,13 conjunction|3,12 r_hyponym-of|3,13 r_hyponym-of|4,12 r_hyponym-of|4,13 r_hyponym-of|11,16 conjunction|11,17 conjunction|11,18 conjunction|11,19 conjunction|11,20 conjunction|11,21 conjunction|12,16 conjunction|12,17 conjunction|12,18 conjunction|12,19 conjunction|12,20 conjunction|12,21 conjunction|3,16 r_hyponym-of|3,17 r_hyponym-of|3,18 r_hyponym-of|3,19 r_hyponym-of|3,20 r_hyponym-of|3,21 r_hyponym-of|4,16 r_hyponym-of|4,17 r_hyponym-of|4,18 r_hyponym-of|4,19 r_hyponym-of|4,20 r_hyponym-of|4,21 r_hyponym-of|23,28 r_hyponym-of|23,29 r_hyponym-of|23,30 r_hyponym-of|23,31 r_hyponym-of|23,32 r_hyponym-of|23,33 r_hyponym-of|23,34 r_hyponym-of|23,35 r_hyponym-of|24,28 r_hyponym-of|24,29 r_hyponym-of|24,30 r_hyponym-of|24,31 r_hyponym-of|24,32 r_hyponym-of|24,33 r_hyponym-of|24,34 r_hyponym-of|24,35 r_hyponym-of
+3,5 metric|7,9 metric|11,13 metric|15,21 metric|23,25 metric|27,35 metric|3,25 conjunction|3,9 r_hyponym-of|7,13 conjunction|3,13 r_hyponym-of|11,21 conjunction|3,21 r_hyponym-of|23,35 r_hyponym-of
+
+We show these properties by thorough testing on standard databases and on a new database made of motorbikes under planar rotations , and with challenging conditions such as cluttered backgrounds , changing illumination conditions and partial occlusions .
+14,15 generic|17,21 material|25,26 generic|28,30 other-scientific-term|31,34 other-scientific-term|35,37 other-scientific-term|14,18 r_feature-of|14,19 r_feature-of|14,20 r_feature-of|14,21 r_feature-of|14,26 r_feature-of|25,29 r_hyponym-of|25,30 r_hyponym-of|28,32 conjunction|28,33 conjunction|28,34 conjunction|29,32 conjunction|29,33 conjunction|29,34 conjunction|25,32 r_hyponym-of|25,33 r_hyponym-of|25,34 r_hyponym-of|31,36 conjunction|31,37 conjunction|32,36 conjunction|32,37 conjunction|33,36 conjunction|33,37 conjunction|25,36 r_hyponym-of|25,37 r_hyponym-of
+14,15 generic|17,21 material|25,26 generic|28,30 other-scientific-term|31,34 other-scientific-term|35,37 other-scientific-term|14,21 r_feature-of|14,26 r_feature-of|25,30 r_hyponym-of|28,34 conjunction|25,34 r_hyponym-of|31,37 conjunction|25,37 r_hyponym-of
+
+We describe an efficient decoder and show that using these tree-based models in combination with conventional SMT models provides a promising approach that incorporates the power of phrasal SMT with the linguistic generality available in a parser .
+4,5 method|10,12 method|16,18 method|21,22 generic|27,29 method|31,33 other-scientific-term|36,37 method|10,17 conjunction|10,18 conjunction|11,17 conjunction|11,18 conjunction|10,22 used-for|11,22 used-for|16,22 used-for|17,22 used-for|27,32 conjunction|27,33 conjunction|28,32 conjunction|28,33 conjunction|27,37 used-for|28,37 used-for|31,37 feature-of|32,37 feature-of
+4,5 method|10,12 method|16,18 method|21,22 generic|27,29 method|31,33 other-scientific-term|36,37 method|10,18 conjunction|10,22 used-for|16,22 used-for|27,33 conjunction|27,37 used-for|31,37 feature-of
+
+The key features of the system include : -LRB- i -RRB- Robust efficient parsing of Korean -LRB- a verb final language with overt case markers , relatively free word order , and frequent omissions of arguments -RRB- .
+5,6 generic|13,16 task|15,16 material|18,21 material|22,25 other-scientific-term|15,19 hyponym-of|15,20 hyponym-of|15,21 hyponym-of|18,23 r_feature-of|18,24 r_feature-of|18,25 r_feature-of|19,23 r_feature-of|19,24 r_feature-of|19,25 r_feature-of|20,23 r_feature-of|20,24 r_feature-of|20,25 r_feature-of
+5,6 generic|13,16 task|15,16 material|18,21 material|22,25 other-scientific-term|15,21 hyponym-of|18,25 r_feature-of
+
+Based on a corpus annotation project , this paper reports the discursive usage of 6 Chinese punctuation marks in news commentary texts : Colon , Dash , Ellipsis , Exclamation Mark , Question Mark , and Semicolon .
+3,6 task|11,18 task|15,18 other-scientific-term|19,22 material|23,24 other-scientific-term|25,26 other-scientific-term|27,28 other-scientific-term|29,31 other-scientific-term|32,34 other-scientific-term|36,37 other-scientific-term|15,20 part-of|15,21 part-of|15,22 part-of|16,20 part-of|16,21 part-of|16,22 part-of|17,20 part-of|17,21 part-of|17,22 part-of|15,24 r_hyponym-of|16,24 r_hyponym-of|17,24 r_hyponym-of|23,26 conjunction|15,26 r_hyponym-of|16,26 r_hyponym-of|17,26 r_hyponym-of|25,28 conjunction|15,28 r_hyponym-of|16,28 r_hyponym-of|17,28 r_hyponym-of|27,30 conjunction|27,31 conjunction|15,30 r_hyponym-of|15,31 r_hyponym-of|16,30 r_hyponym-of|16,31 r_hyponym-of|17,30 r_hyponym-of|17,31 r_hyponym-of|29,33 conjunction|29,34 conjunction|30,33 conjunction|30,34 conjunction|15,33 r_hyponym-of|15,34 r_hyponym-of|16,33 r_hyponym-of|16,34 r_hyponym-of|17,33 r_hyponym-of|17,34 r_hyponym-of|32,37 conjunction|33,37 conjunction|15,37 r_hyponym-of|16,37 r_hyponym-of|17,37 r_hyponym-of
+3,6 task|11,18 task|15,18 other-scientific-term|19,22 material|23,24 other-scientific-term|25,26 other-scientific-term|27,28 other-scientific-term|29,31 other-scientific-term|32,34 other-scientific-term|36,37 other-scientific-term|15,22 part-of|15,24 r_hyponym-of|23,26 conjunction|15,26 r_hyponym-of|25,28 conjunction|15,28 r_hyponym-of|27,31 conjunction|15,31 r_hyponym-of|29,34 conjunction|15,34 r_hyponym-of|32,37 conjunction|15,37 r_hyponym-of
+
+However , we show that by designing rules that are '' execution-contingent , '' i.e. , by charging payments that are conditioned on the realization of the availability of the goods , we can reduce IR violations .
+7,8 other-scientific-term|35,37 other-scientific-term
+7,8 other-scientific-term|35,37 other-scientific-term
+
+Global registration is achieved by combining a graph-based technique -- that exploits the topological structure of the sequence induced by the spatial overlap -- with a bundle adjustment which uses only the homographies computed in the previous steps .
+0,2 task|7,9 method|13,15 other-scientific-term|21,23 other-scientific-term|26,28 method|32,33 other-scientific-term|0,8 r_used-for|0,9 r_used-for|1,8 r_used-for|1,9 r_used-for|7,14 used-for|7,15 used-for|8,14 used-for|8,15 used-for|7,27 conjunction|7,28 conjunction|8,27 conjunction|8,28 conjunction|0,27 r_used-for|0,28 r_used-for|1,27 r_used-for|1,28 r_used-for|26,33 r_used-for|27,33 r_used-for
+0,2 task|7,9 method|13,15 other-scientific-term|21,23 other-scientific-term|26,28 method|32,33 other-scientific-term|0,9 r_used-for|7,15 used-for|7,28 conjunction|0,28 r_used-for|26,33 r_used-for
+
+We show experimentally that the proposed method is viable , that it outperforms the alternative of training the system on questions and news articles from trec , and that it helps the search engine handle definition questions significantly better .
+6,7 generic|11,12 generic|14,15 generic|18,19 generic|22,24 material|25,26 material|11,12 generic|32,34 method|11,15 compare|18,23 r_used-for|18,24 r_used-for|22,26 part-of|23,26 part-of|11,33 used-for|11,34 used-for
+6,7 generic|11,12 generic|14,15 generic|18,19 generic|22,24 material|25,26 material|11,12 generic|32,34 method|11,15 compare|18,24 r_used-for|22,26 part-of|11,34 used-for
+
+In this paper , we improve an unsupervised learning method using the Expectation-Maximization -LRB- EM -RRB- algorithm proposed by Nigam et al. for text classification problems in order to apply it to word sense disambiguation -LRB- WSD -RRB- problems .
+7,10 method|12,17 method|23,26 task|30,31 generic|32,39 task|7,13 r_used-for|7,14 r_used-for|7,15 r_used-for|7,16 r_used-for|7,17 r_used-for|8,13 r_used-for|8,14 r_used-for|8,15 r_used-for|8,16 r_used-for|8,17 r_used-for|9,13 r_used-for|9,14 r_used-for|9,15 r_used-for|9,16 r_used-for|9,17 r_used-for|12,24 used-for|12,25 used-for|12,26 used-for|13,24 used-for|13,25 used-for|13,26 used-for|14,24 used-for|14,25 used-for|14,26 used-for|15,24 used-for|15,25 used-for|15,26 used-for|16,24 used-for|16,25 used-for|16,26 used-for|30,33 used-for|30,34 used-for|30,35 used-for|30,36 used-for|30,37 used-for|30,38 used-for|30,39 used-for
+7,10 method|12,17 method|23,26 task|30,31 generic|32,39 task|7,17 r_used-for|12,26 used-for|30,39 used-for
+
+Results show that these Chinese punctuation marks , though fewer in number than cue phrases , are easy to identify , have strong correlation with certain relations , and can be used as distinctive indicators of nuclearity in Chinese texts .
+4,7 other-scientific-term|13,15 other-scientific-term|34,37 other-scientific-term|38,40 material|4,14 compare|4,15 compare|5,14 compare|5,15 compare|6,14 compare|6,15 compare|4,35 used-for|4,36 used-for|4,37 used-for|5,35 used-for|5,36 used-for|5,37 used-for|6,35 used-for|6,36 used-for|6,37 used-for|34,39 r_feature-of|34,40 r_feature-of|35,39 r_feature-of|35,40 r_feature-of|36,39 r_feature-of|36,40 r_feature-of
+4,7 other-scientific-term|13,15 other-scientific-term|34,37 other-scientific-term|38,40 material|4,15 compare|4,37 used-for|34,40 r_feature-of
+
+Our novel diversity-aware entity summarization approach mimics human conceptual clustering techniques to group facts , and picks representative facts from each group to form concise -LRB- i.e. , short -RRB- and comprehensive -LRB- i.e. , improved coverage through diversity -RRB- summaries .
+2,6 method|7,11 method|2,8 r_used-for|2,9 r_used-for|2,10 r_used-for|2,11 r_used-for|3,8 r_used-for|3,9 r_used-for|3,10 r_used-for|3,11 r_used-for|4,8 r_used-for|4,9 r_used-for|4,10 r_used-for|4,11 r_used-for|5,8 r_used-for|5,9 r_used-for|5,10 r_used-for|5,11 r_used-for
+2,6 method|7,11 method|2,11 r_used-for
+
+Our empirical results , which hold for all examined language pairs , suggest that the highest levels of performance can be obtained through relatively simple means : heuristic learning of phrase translations from word-based alignments and lexical weighting of phrase translations .
+25,26 generic|27,32 method|33,35 method|36,41 method|25,28 r_hyponym-of|25,29 r_hyponym-of|25,30 r_hyponym-of|25,31 r_hyponym-of|25,32 r_hyponym-of|27,34 r_used-for|27,35 r_used-for|28,34 r_used-for|28,35 r_used-for|29,34 r_used-for|29,35 r_used-for|30,34 r_used-for|30,35 r_used-for|31,34 r_used-for|31,35 r_used-for|25,37 r_hyponym-of|25,38 r_hyponym-of|25,39 r_hyponym-of|25,40 r_hyponym-of|25,41 r_hyponym-of
+25,26 generic|27,32 method|33,35 method|36,41 method|25,32 r_hyponym-of|27,35 r_used-for|25,41 r_hyponym-of
+
+After picking those spatiotem-poral paths of high actionness scores , our action proposal generation is formulated as a maximum set coverage problem , where greedy search is performed to select a set of action proposals that can maximize the overall actionness score .
+7,9 metric|11,14 task|18,22 task|24,26 method|33,35 other-scientific-term|40,42 metric|11,19 r_used-for|11,20 r_used-for|11,21 r_used-for|11,22 r_used-for|12,19 r_used-for|12,20 r_used-for|12,21 r_used-for|12,22 r_used-for|13,19 r_used-for|13,20 r_used-for|13,21 r_used-for|13,22 r_used-for|24,34 used-for|24,35 used-for|25,34 used-for|25,35 used-for|33,41 r_evaluate-for|33,42 r_evaluate-for|34,41 r_evaluate-for|34,42 r_evaluate-for
+7,9 metric|11,14 task|18,22 task|24,26 method|33,35 other-scientific-term|40,42 metric|11,22 r_used-for|24,35 used-for|33,42 r_evaluate-for
+
+In many recognition and retrieval applications , we have access to image sets that contain multiple views of the same object in different environments ; we show in this paper that correspondences between these images provide important constraints that can improve color constancy .
+2,6 task|41,43 task
+2,6 task|41,43 task
+
+Even though our features are somewhat more expensive to compute than SURF due to the construction of the nonlinear scale space , but comparable to SIFT , our results reveal a step forward in performance both in detection and description against previous state-of-the-art methods .
+3,4 generic|11,12 method|18,21 other-scientific-term|25,26 method|28,29 generic|37,38 task|39,40 task|42,44 generic|3,12 compare|3,26 compare|28,43 compare|28,44 compare|28,38 r_evaluate-for|37,40 conjunction|37,43 evaluate-for|37,44 evaluate-for|28,40 r_evaluate-for|39,43 evaluate-for|39,44 evaluate-for
+3,4 generic|11,12 method|18,21 other-scientific-term|25,26 method|28,29 generic|37,38 task|39,40 task|42,44 generic|3,12 compare|3,26 compare|28,44 compare|28,38 r_evaluate-for|37,40 conjunction|37,44 evaluate-for|28,40 r_evaluate-for|39,44 evaluate-for
+
+We focus on FAQ-like questions and answers , and build our system around a noisy-channel architecture which exploits both a language model for answers and a transformation model for answer/question terms , trained on a corpus of 1 million question/answer pairs collected from the Web .
+3,7 material|11,12 generic|14,16 method|20,22 method|26,28 method|44,45 material|3,12 r_used-for|4,12 r_used-for|5,12 r_used-for|6,12 r_used-for|11,15 r_used-for|11,16 r_used-for|14,21 used-for|14,22 used-for|15,21 used-for|15,22 used-for|14,27 used-for|14,28 used-for|15,27 used-for|15,28 used-for
+3,7 material|11,12 generic|14,16 method|20,22 method|26,28 method|44,45 material|3,12 r_used-for|11,16 r_used-for|14,22 used-for|14,28 used-for
+
+The information extraction system we evaluate is based on a linear-chain conditional random field -LRB- CRF -RRB- , a probabilistic model which has performed well on information extraction tasks because of its ability to capture arbitrary , overlapping features of the input in a Markov model .
+1,4 method|10,17 method|19,21 method|26,29 task|35,39 other-scientific-term|41,42 generic|44,46 method|1,11 r_used-for|1,12 r_used-for|1,13 r_used-for|1,14 r_used-for|1,15 r_used-for|1,16 r_used-for|1,17 r_used-for|2,11 r_used-for|2,12 r_used-for|2,13 r_used-for|2,14 r_used-for|2,15 r_used-for|2,16 r_used-for|2,17 r_used-for|3,11 r_used-for|3,12 r_used-for|3,13 r_used-for|3,14 r_used-for|3,15 r_used-for|3,16 r_used-for|3,17 r_used-for|10,20 hyponym-of|10,21 hyponym-of|11,20 hyponym-of|11,21 hyponym-of|12,20 hyponym-of|12,21 hyponym-of|13,20 hyponym-of|13,21 hyponym-of|14,20 hyponym-of|14,21 hyponym-of|15,20 hyponym-of|15,21 hyponym-of|16,20 hyponym-of|16,21 hyponym-of|19,27 used-for|19,28 used-for|19,29 used-for|20,27 used-for|20,28 used-for|20,29 used-for|19,36 used-for|19,37 used-for|19,38 used-for|19,39 used-for|20,36 used-for|20,37 used-for|20,38 used-for|20,39 used-for|35,42 feature-of|36,42 feature-of|37,42 feature-of|38,42 feature-of|35,45 part-of|35,46 part-of|36,45 part-of|36,46 part-of|37,45 part-of|37,46 part-of|38,45 part-of|38,46 part-of
+1,4 method|10,17 method|19,21 method|26,29 task|35,39 other-scientific-term|41,42 generic|44,46 method|1,17 r_used-for|10,21 hyponym-of|19,29 used-for|19,39 used-for|35,42 feature-of|35,46 part-of
+
+In order to deal with ambiguity , the MORphological PArser MORPA is provided with a probabilistic context-free grammar -LRB- PCFG -RRB- , i.e. it combines a `` conventional '' context-free morphological grammar to filter out ungrammatical segmentations with a probability-based scoring function which determines the likelihood of each successful parse .
+5,6 other-scientific-term|8,11 method|15,21 method|23,24 generic|26,32 method|35,37 other-scientific-term|39,42 method|49,50 task|5,9 r_used-for|5,10 r_used-for|5,11 r_used-for|8,16 r_used-for|8,17 r_used-for|8,18 r_used-for|8,19 r_used-for|8,20 r_used-for|8,21 r_used-for|9,16 r_used-for|9,17 r_used-for|9,18 r_used-for|9,19 r_used-for|9,20 r_used-for|9,21 r_used-for|10,16 r_used-for|10,17 r_used-for|10,18 r_used-for|10,19 r_used-for|10,20 r_used-for|10,21 r_used-for|23,27 r_used-for|23,28 r_used-for|23,29 r_used-for|23,30 r_used-for|23,31 r_used-for|23,32 r_used-for|26,36 used-for|26,37 used-for|27,36 used-for|27,37 used-for|28,36 used-for|28,37 used-for|29,36 used-for|29,37 used-for|30,36 used-for|30,37 used-for|31,36 used-for|31,37 used-for|23,40 r_used-for|23,41 r_used-for|23,42 r_used-for|26,40 r_conjunction|26,41 r_conjunction|26,42 r_conjunction|27,40 r_conjunction|27,41 r_conjunction|27,42 r_conjunction|28,40 r_conjunction|28,41 r_conjunction|28,42 r_conjunction|29,40 r_conjunction|29,41 r_conjunction|29,42 r_conjunction|30,40 r_conjunction|30,41 r_conjunction|30,42 r_conjunction|31,40 r_conjunction|31,41 r_conjunction|31,42 r_conjunction|39,50 used-for|40,50 used-for|41,50 used-for
+5,6 other-scientific-term|8,11 method|15,21 method|23,24 generic|26,32 method|35,37 other-scientific-term|39,42 method|49,50 task|5,11 r_used-for|8,21 r_used-for|23,32 r_used-for|26,37 used-for|23,42 r_used-for|26,42 r_conjunction|39,50 used-for
+
+We establish sufficient conditions for the concavity of our reweighted objective function in terms of weight assignments in the Kikuchi expansion , and show that a reweighted version of the sum product algorithm applied to the Kikuchi region graph will produce global optima of the Kikuchi approximation whenever the algorithm converges .
+6,7 other-scientific-term|9,12 other-scientific-term|15,17 other-scientific-term|19,21 other-scientific-term|26,33 method|36,39 other-scientific-term|41,43 other-scientific-term|45,47 method|32,33 generic|6,10 feature-of|6,11 feature-of|6,12 feature-of|26,37 used-for|26,38 used-for|26,39 used-for|27,37 used-for|27,38 used-for|27,39 used-for|28,37 used-for|28,38 used-for|28,39 used-for|29,37 used-for|29,38 used-for|29,39 used-for|30,37 used-for|30,38 used-for|30,39 used-for|31,37 used-for|31,38 used-for|31,39 used-for|32,37 used-for|32,38 used-for|32,39 used-for|41,46 feature-of|41,47 feature-of|42,46 feature-of|42,47 feature-of
+6,7 other-scientific-term|9,12 other-scientific-term|15,17 other-scientific-term|19,21 other-scientific-term|26,33 method|36,39 other-scientific-term|41,43 other-scientific-term|45,47 method|32,33 generic|6,12 feature-of|26,39 used-for|41,47 feature-of
+
+In comparison with previous models , which either use arbitrary windows to compute similarity between words or use lexical affinity to create sequential models , in this paper we focus on models intended to capture the co-occurrence patterns of any pair of words or phrases at any distance in the corpus .
+4,5 generic|13,14 other-scientific-term|18,20 other-scientific-term|22,24 method|4,5 generic|36,38 other-scientific-term|18,23 used-for|18,24 used-for|19,23 used-for|19,24 used-for|4,5 r_compare|4,37 used-for|4,38 used-for
+4,5 generic|13,14 other-scientific-term|18,20 other-scientific-term|22,24 method|4,5 generic|36,38 other-scientific-term|18,24 used-for|4,5 r_compare|4,38 used-for
+
+This is an extremely challenging task because -LRB- i -RRB- visual comparisons not only need to be fine-grained but also executed cross-domain , -LRB- ii -RRB- free-hand -LRB- finger -RRB- sketches are highly abstract , making fine-grained matching harder , and most importantly -LRB- iii -RRB- annotated cross-domain sketch-photo datasets required for training are scarce , challenging many state-of-the-art machine learning techniques .
+10,12 other-scientific-term|26,31 other-scientific-term|36,38 task|46,50 material|59,62 method|46,60 used-for|46,61 used-for|46,62 used-for|47,60 used-for|47,61 used-for|47,62 used-for|48,60 used-for|48,61 used-for|48,62 used-for|49,60 used-for|49,61 used-for|49,62 used-for
+10,12 other-scientific-term|26,31 other-scientific-term|36,38 task|46,50 material|59,62 method|46,62 used-for
+
+The development of such a model appears to be important in several respects : as a device to represent and to use different dialog schemata proposed in empirical conversation analysis ; as a device to represent and to use models of verbal interaction ; as a device combining knowledge about dialog schemata and about verbal interaction with knowledge about task-oriented and goal-directed dialogs .
+5,6 generic|16,17 generic|23,25 other-scientific-term|28,30 method|16,17 generic|39,40 generic|41,43 other-scientific-term|16,17 generic|23,25 other-scientific-term|41,43 other-scientific-term|59,63 material|16,24 r_used-for|16,25 r_used-for|23,29 used-for|23,30 used-for|24,29 used-for|24,30 used-for|16,40 r_used-for|39,42 used-for|39,43 used-for|23,42 conjunction|23,43 conjunction|24,42 conjunction|24,43 conjunction
+5,6 generic|16,17 generic|23,25 other-scientific-term|28,30 method|16,17 generic|39,40 generic|41,43 other-scientific-term|16,17 generic|23,25 other-scientific-term|41,43 other-scientific-term|59,63 material|16,25 r_used-for|23,30 used-for|16,40 r_used-for|39,43 used-for|23,43 conjunction
+
+KDS -LRB- Knowledge Delivery System -RRB- , which embodies this paradigm , has distinct parts devoted to creation of the propositional units , to organization of the text , to prevention of excess redundancy , to creation of combinations of units , to evaluation of these combinations as potential sentences , to selection of the best among competing combinations , and to creation of the final text .
+0,6 method|10,11 generic|0,11 r_part-of|1,11 r_part-of|2,11 r_part-of|3,11 r_part-of|4,11 r_part-of|5,11 r_part-of
+0,6 method|10,11 generic|0,11 r_part-of
+

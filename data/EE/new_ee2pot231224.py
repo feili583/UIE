@@ -527,8 +527,8 @@ def ace_add_entity():
     ace_add_file('./ACE_add_entity/pot_dev_1224.txt',dev_sentences,dev_tags, dev_all_tags)
 
 if __name__=='__main__':
-    print('ace')
-    ace()
+    # print('ace')
+    # ace()
     # print()
     # print('ace+')
     # ace_add()
@@ -536,8 +536,8 @@ if __name__=='__main__':
     # ace_relation()
     # print('ace_add_relation')
     # ace_add_relation()
-    # print('ace_event')
-    # ace_event()
+    print('ace_event')
+    ace_event()
     # print('ace_add_event')
     # ace_add_event()
     # print('ace_only_event')

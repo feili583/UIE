@@ -1,0 +1,2940 @@
+Xinhua News Agency , Shanghai , August 31st , by reporter Jierong Zhou
+4,5 GPE|0,3 ORG|10,11 PER|10,13 PER
+4,5 GPE|0,3 ORG|10,11 PER|10,13 PER
+
+Malaysian vice - prime minister Anwar ended a visit to China this afternoon , and left Shanghai for Tokyo .
+0,1 GPE|10,11 GPE|16,17 GPE|18,19 GPE|0,5 PER|0,6 PER
+0,1 GPE|10,11 GPE|16,17 GPE|18,19 GPE|0,5 PER|0,6 PER
+
+Anwar arrived in Shanghai from Nanjing yesterday afternoon .
+3,4 GPE|5,6 GPE|0,1 PER
+3,4 GPE|5,6 GPE|0,1 PER
+
+Last night , the vice - mayor of Shanghai , Qizheng Zhao represented mayor Ju Huang by meeting and inviting Anwar and his delegation to a banquet .
+8,9 GPE|3,9 PER|10,12 PER|13,14 PER|13,16 PER|20,21 PER|22,23 PER|22,24 PER
+8,9 GPE|3,9 PER|10,12 PER|13,14 PER|13,16 PER|20,21 PER|22,23 PER|22,24 PER
+
+This morning , Anwar attended the foundation laying ceremony of the Minhang China - Malaysia joint - venture enterprise , and after that toured Pudong ' s Jingqiao export processing district .
+24,25 GPE|24,31 GPE|27,28 GPE|10,19 ORG|3,4 PER
+24,25 GPE|24,31 GPE|27,28 GPE|10,19 ORG|3,4 PER
+
+( End )
+
+
+
+Xinhua News Agency , Beijing , December 16th , by reporter Haisheng Yu
+4,5 GPE|0,3 ORG|10,11 PER|10,13 PER
+4,5 GPE|0,3 ORG|10,11 PER|10,13 PER
+
+Today , the Henan provincial government and more than 100 representatives from 88 foreign investment financial institutions stationed in Beijing held an economic cooperation negotiation conference here to promote mutual understanding between Henan Province and international finance circles , and to open financing channels for Henan ' s economic development .
+2,6 GPE|3,4 GPE|3,5 GPE|19,20 GPE|26,27 GPE|32,34 GPE|45,46 GPE|12,17 ORG|7,20 PER
+2,6 GPE|3,4 GPE|3,5 GPE|19,20 GPE|26,27 GPE|32,34 GPE|45,46 GPE|12,17 ORG|7,20 PER
+
+Yuan Chen , vice president of the People ' s Bank Of China , said in his message of congratulations sent to the conference that the Chinese government decided to increase middle and western regions development effort , to encourage Chinese and foreign enterprises to invest in the middle and western regions , and that it had also decided from now on to spend more than 60 % of the loans from foreign banks and the Chinese government in the middle and western regions .
+25,28 GPE|26,27 GPE|40,41 GPE|55,56 GPE|75,78 GPE|76,77 GPE|6,13 ORG|40,44 ORG|72,74 ORG|0,13 PER|3,13 PER|16,17 PER|31,35 LOC|47,52 LOC|79,84 LOC
+25,28 GPE|26,27 GPE|40,41 GPE|55,56 GPE|75,78 GPE|76,77 GPE|6,13 ORG|40,44 ORG|72,74 ORG|0,13 PER|3,13 PER|16,17 PER|31,35 LOC|47,52 LOC|79,84 LOC
+
+Kershye , chairman of the Foreign Capital Financial Organization stationed in Beijing and chief representative of the Belgian General Bank ' s Beijing Representative Office , expressed at the conference that the foreign capital financial institutions stationed in Beijing intend make contributions to Henan Province ' s economic construction and the development of China ' s middle and western regions .
+11,12 GPE|38,39 GPE|43,45 GPE|53,54 GPE|4,12 ORG|16,20 ORG|16,26 ORG|31,39 ORG|0,25 PER|2,12 PER|13,25 PER|53,60 LOC
+11,12 GPE|38,39 GPE|43,45 GPE|53,54 GPE|4,12 ORG|16,20 ORG|16,26 ORG|31,39 ORG|0,25 PER|2,12 PER|13,25 PER|53,60 LOC
+
+Chengyu Li , standing vice governor of Henan Province , presented the province ' s natural resources and economic development situation at the conference .
+7,9 GPE|11,13 GPE|0,9 PER|3,9 PER
+7,9 GPE|11,13 GPE|0,9 PER|3,9 PER
+
+He said that Henan Province possessed not only the hardware required for foreign investment , but also integrated the reality of this province to formulate a preferential policy to encourage foreign investors to invest and develop foreign economic , trade and technological cooperation on the basis of national policies .
+3,5 GPE|21,23 GPE|0,1 PER
+3,5 GPE|21,23 GPE|0,1 PER
+
+Concerned departments of the Henan provincial government promulgated this province ' s foreign economy and technological cooperation projects at the conference , and conference representatives negotiated on the cooperative intention of related projects .
+3,7 GPE|4,5 GPE|4,6 GPE|8,10 GPE|0,7 ORG|23,25 PER
+3,7 GPE|4,5 GPE|4,6 GPE|8,10 GPE|0,7 ORG|23,25 PER
+
+Xinhua News Agency , Fuzhou , January 18 , by wire ( reporter Ting Xu )
+4,5 GPE|0,3 ORG|12,13 PER|12,15 PER
+4,5 GPE|0,3 ORG|12,13 PER|12,15 PER
+
+The economy of China ' s southern Fujian delta region has been growing rapidly in the past 5 years , having ascended to one of China ' s most active economic regions .
+3,4 GPE|25,26 GPE|3,10 LOC|6,8 LOC|6,9 LOC|23,32 LOC|25,32 LOC
+3,4 GPE|25,26 GPE|3,10 LOC|6,8 LOC|6,9 LOC|23,32 LOC|25,32 LOC
+
+Currently , this region ' s economic development continues to maintain growth stamina .
+2,4 LOC
+2,4 LOC
+
+The southern Fujian delta region refers to the Xiamen Special Economic Zone , Quanzhou , and Zhangzhou .
+7,12 GPE|13,14 GPE|16,17 GPE|0,5 LOC|1,3 LOC|1,4 LOC
+7,12 GPE|13,14 GPE|16,17 GPE|0,5 LOC|1,3 LOC|1,4 LOC
+
+The region is a famous hometown of overseas Chinese .
+7,9 PER|0,2 LOC|3,9 LOC|7,8 LOC
+7,9 PER|0,2 LOC|3,9 LOC|7,8 LOC
+
+The Xiamen Special Economic Zone is the dragon ' s head area in southern Fujian ' s economic development .
+0,5 GPE|6,19 GPE|13,15 LOC
+0,5 GPE|6,19 GPE|13,15 LOC
+
+Currently , this city has already entered the list of the ten strongest of the country ' s large and medium - sized cities , with per capita GDP reaching 27 , 700 yuan , having reached the basic level of the world ' s middle - income countries .
+2,4 GPE|10,24 GPE|14,16 GPE|14,24 GPE|41,49 GPE|41,43 LOC
+2,4 GPE|10,24 GPE|14,16 GPE|14,24 GPE|41,49 GPE|41,43 LOC
+
+The city has formed over 60 industrial corporations with an annual production values of over 100 million yuan , 36 limited share - holding companies and 13 listed companies .
+0,2 GPE|4,18 ORG|19,25 ORG|26,29 ORG
+0,2 GPE|4,18 ORG|19,25 ORG|26,29 ORG
+
+In the past 5 years , Xiamen has actually utilized 6 . 3 billion US dollars in foreign funds , and foreign trade exports have continuously ranked fourth among China ' s cities , and nearly 50 % of local industrial products are sold overseas .
+6,7 GPE|14,15 GPE|29,30 GPE|29,33 GPE|44,45 LOC
+6,7 GPE|14,15 GPE|29,30 GPE|29,33 GPE|44,45 LOC
+
+The actual realization rate of foreign merchant investments ranks first in the nation .
+11,13 GPE|5,7 PER
+11,13 GPE|5,7 PER
+
+The delta region ' s Quanzhou , over the past 5 years , has had a GNP that annually increases 42 . 9 % , and 3 cities under its administration , namely Jinjiang , Shishi and Nan ' an , have ascended to the 100 strongest counties in the nation ' s economy .
+0,6 GPE|26,40 GPE|29,30 GPE|33,34 GPE|35,36 GPE|37,40 GPE|44,54 GPE|49,51 GPE|0,3 LOC|1,2 LOC
+0,6 GPE|26,40 GPE|29,30 GPE|33,34 GPE|35,36 GPE|37,40 GPE|44,54 GPE|49,51 GPE|0,3 LOC|1,2 LOC
+
+In recent years , Quanzhou has brought its advantage of overseas Chinese from Hong Kong and Taiwan into full play , and has made actively , reasonably , effectively used foreign capital .
+4,5 GPE|7,8 GPE|13,15 GPE|16,17 GPE|10,20 PER|10,11 LOC
+4,5 GPE|7,8 GPE|13,15 GPE|16,17 GPE|10,20 PER|10,11 LOC
+
+Three - capital enterprises and foreign - investment enterprises develop vigorously .
+0,4 ORG|5,9 ORG
+0,4 ORG|5,9 ORG
+
+Within 5 years , the whole city built up 21 large - scale industrial development districts , approved over 4 , 000 foreign investment projects and actually utilized 3 . 4 billion US dollars of foreign capital .
+4,7 GPE|9,16 GPE|32,33 GPE
+4,7 GPE|9,16 GPE|32,33 GPE
+
+The city has also diligently developed township enterprises , cultivated domestically famous advantageous industries such as clothing , shoemaking , ceramics , stone carving , slate material , etc .
+0,2 GPE|6,7 GPE|6,8 ORG|10,29 ORG
+0,2 GPE|6,7 GPE|6,8 ORG|10,29 ORG
+
+Last year , the gross output value of township enterprises of the whole city broke through 100 billion yuan for the first time , ranking first in the entire province .
+8,9 GPE|11,14 GPE|27,30 GPE|8,14 ORG
+8,9 GPE|11,14 GPE|27,30 GPE|8,14 ORG
+
+Zhangzhou , whose agriculture is usually well developed , has , in recent years , achieved a breakthrough in utilizing foreign capital , especially in introducing significant foreign - capital projects .
+0,8 GPE|2,3 GPE
+0,8 GPE|2,3 GPE
+
+From 1993 to October 1997 , this city ' s contracts utilized foreign capital totally reached 4 . 88 billion US dollars , and actually realized 1 . 91 billion US dollars , equivalent to 90 % of the total of 18 years of reform and opening up .
+6,8 GPE|20,21 GPE|30,31 GPE
+6,8 GPE|20,21 GPE|30,31 GPE
+
+In 1997 , the growth rate of actually utilized foreign capital once again ranked first in the entire province , which showed strong growth stamina .
+16,19 GPE
+16,19 GPE
+
+Currently , there are 65 large scale and oversize projects being invested in Zhangzhou .
+13,14 GPE
+13,14 GPE
+
+A number of big consortia , large enterprises with international influence have successively settled down in Zhangzhou , at the same time have brought along a large number of medium and small - sized enterprises to invest in Zhangzhou .
+16,17 GPE|38,39 GPE|0,5 ORG|3,5 ORG|6,11 ORG|25,35 ORG|29,35 ORG
+16,17 GPE|38,39 GPE|0,5 ORG|3,5 ORG|6,11 ORG|25,35 ORG|29,35 ORG
+
+This city now has ten development districts , 18 square kilometers of developed area , 580 introduced projects , and 1 . 5 billion US dollars of contracted foreign capital .
+0,2 GPE|4,7 GPE|24,25 GPE
+0,2 GPE|4,7 GPE|24,25 GPE
+
+It is reported that the southern Fujian delta region has already established a regional economic collaboration and development system .
+4,9 LOC|5,7 LOC|5,8 LOC
+4,9 LOC|5,7 LOC|5,8 LOC
+
+The three cities are currently striving to improve the region ' s investment environment .
+0,3 GPE|8,10 LOC
+0,3 GPE|8,10 LOC
+
+Currently , the Quanzhou - Xiamen and Xiamen - Zhangzhou expressways linking the three cities have been built or basically completed .
+3,4 GPE|5,6 GPE|7,8 GPE|9,10 GPE|12,15 GPE|2,15 FAC
+3,4 GPE|5,6 GPE|7,8 GPE|9,10 GPE|12,15 GPE|2,15 FAC
+
+A large number of key infrastructures such as the port , airport , railway , telecommunications , etc . have also been successively completed .
+0,18 FAC|4,18 FAC|8,18 FAC
+0,18 FAC|4,18 FAC|8,18 FAC
+
+Xinhua News Agency , Helsinki , January 13th , by reporter Huanqing Zheng
+4,5 GPE|0,3 ORG|10,11 PER|10,13 PER
+4,5 GPE|0,3 ORG|10,11 PER|10,13 PER
+
+According to the latest statistics data published by Finland Customs , in 1997 , Finland ' s exports to Southeast Asia grew by 28 % .
+8,9 GPE|14,15 GPE|19,21 GPE|8,10 ORG
+8,9 GPE|14,15 GPE|19,21 GPE|8,10 ORG
+
+Up till October of last year , Finland ' s export volume to major trading partners , such as Hong Kong , China , Indonesia , Thailand , Singapore , Malaysia etc . , reached 10 . 7 billion Finland Marks ( 1 Finland Mark approximates 0 . 19 US dollar ) , which was equivalent to gross exports of the whole year of 1996 .
+7,8 GPE|13,32 GPE|19,21 GPE|22,23 GPE|24,25 GPE|26,27 GPE|28,29 GPE|30,31 GPE|31,32 GPE|39,40 GPE|43,44 GPE|49,50 GPE
+7,8 GPE|13,32 GPE|19,21 GPE|22,23 GPE|24,25 GPE|26,27 GPE|28,29 GPE|30,31 GPE|31,32 GPE|39,40 GPE|43,44 GPE|49,50 GPE
+
+The proportion of Finland ' s exports to this region in its total exports increased from 1 % ten years ago to 6 . 2 % .
+3,4 GPE|8,10 GPE|11,12 GPE
+3,4 GPE|8,10 GPE|11,12 GPE
+
+The main commodities Finland exports to this region are mechanical and electronic industry products as well as transport equipment , etc .
+3,4 GPE|6,8 GPE|9,13 ORG
+3,4 GPE|6,8 GPE|9,13 ORG
+
+At the same time , Finland ' s imports from Southeast Asia grew by 5 % .
+5,6 GPE|10,12 GPE
+5,6 GPE|10,12 GPE
+
+In recently years , Finland has been keeping an obvious trade surplus in this region .
+4,5 GPE|13,15 GPE
+4,5 GPE|13,15 GPE
+
+Finland Customs estimated that , the financial crisis in Southeast Asia may weaken Finland ' s exports to this region , in particular , the export of electromechanical products would be impacted .
+0,1 GPE|9,11 GPE|13,14 GPE|18,20 GPE|0,2 ORG|27,28 ORG
+0,1 GPE|9,11 GPE|13,14 GPE|18,20 GPE|0,2 ORG|27,28 ORG
+
+Xinhua News Agency , Shanghai , April 3rd , by reporter Jierong Zhou
+4,5 GPE|0,3 ORG|10,11 PER|10,13 PER
+4,5 GPE|0,3 ORG|10,11 PER|10,13 PER
+
+Recently , HSBC has moved its Shanghai branch to the China Shipping Mansion in the Pudong Lujiazui financial trading district , becoming the third foreign capital bank to be approved to operate RMB business and shift to Pudong .
+6,7 GPE|14,20 GPE|37,38 GPE|2,3 ORG|5,6 ORG|5,8 ORG|22,27 ORG|9,20 FAC
+6,7 GPE|14,20 GPE|37,38 GPE|2,3 ORG|5,6 ORG|5,8 ORG|22,27 ORG|9,20 FAC
+
+At the moment , Shanghai already has 8 foreign capital banks approved to operate RMB business .
+4,5 GPE|7,16 ORG
+4,5 GPE|7,16 ORG
+
+They are the US ' s Citibank , Hong Kong ' s HSBC , Japan ' s Tokyo Mitsubishi Bank , Japan ' s Industrial Bank , the Shanghai Branch of the Standard and Chartered Bank , Shanghai ' s BNP Paris Bank , the Shanghai Branch of Japan ' s Dai - Ichi Kangyo Bank and the Shanghai Branch of Japan ' s Sanwa Bank .
+2,4 GPE|8,10 GPE|14,15 GPE|21,22 GPE|28,29 GPE|37,38 GPE|45,46 GPE|48,49 GPE|58,59 GPE|61,62 GPE|0,1 ORG|2,7 ORG|8,13 ORG|14,20 ORG|21,26 ORG|27,36 ORG|31,36 ORG|37,43 ORG|44,56 ORG|48,56 ORG|57,66 ORG|61,66 ORG
+2,4 GPE|8,10 GPE|14,15 GPE|21,22 GPE|28,29 GPE|37,38 GPE|45,46 GPE|48,49 GPE|58,59 GPE|61,62 GPE|0,1 ORG|2,7 ORG|8,13 ORG|14,20 ORG|21,26 ORG|27,36 ORG|31,36 ORG|37,43 ORG|44,56 ORG|48,56 ORG|57,66 ORG|61,66 ORG
+
+According to regulations , these 8 banks will all move to Pudong soon .
+11,12 GPE|4,7 ORG|8,9 ORG
+11,12 GPE|4,7 ORG|8,9 ORG
+
+After the policy was formally announced for the Pudong Lujiazui Financial Trade District to allow foreign capital banks to operate RMB business , more than 40 foreign capital banks and financial institutions have submitted applications to establish branches in Pudong .
+7,13 GPE|39,40 GPE|15,18 ORG|23,32 ORG|37,40 ORG
+7,13 GPE|39,40 GPE|15,18 ORG|23,32 ORG|37,40 ORG
+
+When selecting locations in Lujiazui , some foreign financial institutions do not mind the real estate prices , but focus more on whether the class of the building is compatible with the standing of the company .
+6,10 ORG|34,36 ORG|14,16 FAC|26,28 FAC|2,5 LOC|4,5 LOC
+6,10 ORG|34,36 ORG|14,16 FAC|26,28 FAC|2,5 LOC|4,5 LOC
+
+The Franklin Templeton Company , whose headquarters are in California , the US , and has registered capital of 130 billion US dollars all around the world , decided to establish its local China headquarters in Pudong .
+9,13 GPE|11,13 GPE|21,22 GPE|33,34 GPE|36,37 GPE|0,27 ORG|5,6 ORG|31,32 ORG|5,7 FAC|31,35 FAC|25,27 LOC
+9,13 GPE|11,13 GPE|21,22 GPE|33,34 GPE|36,37 GPE|0,27 ORG|5,6 ORG|31,32 ORG|5,7 FAC|31,35 FAC|25,27 LOC
+
+The president of the company and the Asian regional president personally surveyed Pudong and decided to choose office locations in the Shanghai Securities Building , which has a floor rate of more than 2700 US dollars per square meter .
+7,8 GPE|12,13 GPE|34,35 GPE|3,5 ORG|0,5 PER|6,10 PER|17,18 FAC|17,39 FAC|20,24 FAC|25,26 FAC|7,9 LOC
+7,8 GPE|12,13 GPE|34,35 GPE|3,5 ORG|0,5 PER|6,10 PER|17,18 FAC|17,39 FAC|20,24 FAC|25,26 FAC|7,9 LOC
+
+Now , the Templeton Company has formally signed a contract , and bought the floor area of the entire 18th floor of the Securities Building .
+2,5 ORG|13,25 FAC|17,25 FAC|22,25 FAC
+2,5 ORG|13,25 FAC|17,25 FAC|22,25 FAC
+
+Currently , foreign - capital banks and financial institutions such as Hong Kong ' s HSBC , the Shanghai Branch of the Japan Industrial Bank , the Holland Co - operation Bank , Shanghai Branch of the Belgium Credit Bank , etc . , have successively settled down in the Lujiazui Financial Trading District .
+11,13 GPE|18,19 GPE|33,34 GPE|49,54 GPE|2,42 ORG|11,16 ORG|17,25 ORG|21,25 ORG|26,32 ORG|33,40 ORG|36,40 ORG|41,42 ORG
+11,13 GPE|18,19 GPE|33,34 GPE|49,54 GPE|2,42 ORG|11,16 ORG|17,25 ORG|21,25 ORG|26,32 ORG|33,40 ORG|36,40 ORG|41,42 ORG
+
+Soon , a large number of domestic and foreign financial institutions , and large companies will also come to successively settle down , including the finance street which has already formed in the Waitan district , and the Shanghai central commercial district framework that is forming .
+32,35 GPE|38,42 GPE|2,15 ORG|6,15 ORG|24,35 FAC|27,28 FAC
+32,35 GPE|38,42 GPE|2,15 ORG|6,15 ORG|24,35 FAC|27,28 FAC
+
+In 1997 , Mexico ' s total amount of foreign trade broke through 220 billion US dollars , which created a new historical record .
+3,4 GPE|15,16 GPE
+3,4 GPE|15,16 GPE
+
+However , in reviewing Mexico ' s foreign trade situation this year , it might be appropriate to say that it is between joy and sorrow .
+4,5 GPE|20,21 GPE
+4,5 GPE|20,21 GPE
+
+The joy lies in that the total amount of foreign trade still maintains a strong growth momentum , and has realized trade surpluses for the third year in a row , whereas the sorrow is that the amount of trade surplus has sharply reversed , and this year , a relatively large deficit may appear .
+
+
+
+According to official journals published recently by Mexico ' s Treasury Department , in 1997 , foreign trade continues to grow at high speed , the total amount of imports and exports reached 220 . 178 billion US dollars , 18 . 85 % higher than that of the previous year , among which the amount of exports is 110 . 38 billion US dollars , imports were 109 . 798 billion US dollars , being 15 % and 22 . 7 % higher than that of 1996 respectively .
+7,8 GPE|37,38 GPE|63,64 GPE|72,73 GPE|7,12 ORG
+7,8 GPE|37,38 GPE|63,64 GPE|72,73 GPE|7,12 ORG
+
+The trade surplus was 582 million US dollars .
+6,7 GPE
+6,7 GPE
+
+Foreign trade occupies a pivotal position in Mexico ' s economy .
+7,8 GPE
+7,8 GPE
+
+At present , exports account for more than 30 % of its GDP , which is one of the primary economic growth forces .
+11,12 GPE
+11,12 GPE
+
+After the outbreak of Mexico ' s financial crisis in 1994 , Mexico ' s currency , the peso was greatly devalued , thus greatly strengthening Mexico ' s export competitiveness .
+4,5 GPE|12,13 GPE|26,27 GPE
+4,5 GPE|12,13 GPE|26,27 GPE
+
+In the last several years , the government has been vigorously supporting exports , and exports grew rapidly .
+6,8 GPE
+6,8 GPE
+
+In 1995 , the situation of successive foreign trade deficit reversed , and up to now , has maintained trade surpluses for three years in a row .
+
+
+
+However , in the past three years , Mexico ' s foreign trade surplus showed a substantial degradation : 7 . 889 billion US dollars in 1995 , 6 . 424 billion US dollars in 1996 , and only 582 million US dollars last year .
+8,9 GPE|23,24 GPE|32,33 GPE|41,42 GPE
+8,9 GPE|23,24 GPE|32,33 GPE|41,42 GPE
+
+Especially deserving to be pointed out is that , after the first monthly deficit in July last year , the rest of the year saw successive monthly deficits with the amounts of deficit almost doubling , roaring from 20 million US dollars in July to 722 million US dollars in December , reducing the 1997 annual accumulative trade surplus amount to a trivial number .
+40,41 GPE|47,48 GPE
+40,41 GPE|47,48 GPE
+
+Local economic analysts felt that the trade deficit in the second half of last year was mainly due to an overly high import growth rate , which is even higher than that of exports .
+0,3 PER
+0,3 PER
+
+In the second half of last year , the average growth rate of imports was 6 % to 7 % higher than that of exports .
+
+
+
+Among import sectors , swift growth comes mainly from imports of consumer products and capital goods , 39 . 9 % and 38 . 2 % higher than that of 1996 respectively .
+11,12 PER
+11,12 PER
+
+The growth of imports of semi - finished products was up by 18 . 8 % .
+
+
+
+Secondly , the overly high valuation of the peso is also an indispensable factor .
+
+
+
+An overly high peso exchange rate stimulated imports , but hindered exports .
+
+
+
+It is commonly known that in 1994 , before the outbreak of the financial crisis , the trade deficit was once as high as more than 18 billion US dollars .
+28,29 GPE
+28,29 GPE
+
+The huge trade deficit was one of the internal reasons that triggered this crisis .
+
+
+
+Hence , the trade situation last year has caused extreme concern among people from economic circles , who even predicted that in 1998 , foreign trade deficit would revive .
+12,29 PER|17,18 PER
+12,29 PER|17,18 PER
+
+They pointed out that , this year , except for an overly high peso exchange rate , exports would also face some new unfavorable factors .
+0,1 PER
+0,1 PER
+
+For instance , Asian currency devaluation will decrease export competitiveness , and the fall of oil price will significantly reduce oil revenues .
+3,4 GPE
+3,4 GPE
+
+Under these circumstances , if the import growth momentum cannot be restrained , this year , a trade deficit of 4 to 5 billion US dollars may appear .
+24,25 GPE
+24,25 GPE
+
+Xinhua News Agency , Beijing , March 18th
+4,5 GPE|0,3 ORG
+4,5 GPE|0,3 ORG
+
+General Electric of the US and the Southwest Medical Equipment Factory of the Medical Appliance Industry Company of China recently signed a contract to jointly invest 6 million US dollars to establish a joint venture enterprise in Chengdu .
+3,5 GPE|18,19 GPE|28,29 GPE|37,38 GPE|0,5 ORG|6,19 ORG|12,17 ORG
+3,5 GPE|18,19 GPE|28,29 GPE|37,38 GPE|0,5 ORG|6,19 ORG|12,17 ORG
+
+It is reported that this is the 14th joint venture enterprise to be established in China by the investment by General Electric .
+15,16 GPE|20,22 ORG
+15,16 GPE|20,22 ORG
+
+At present , the total amount of investment of GE in China has reached 150 million US dollars .
+11,12 GPE|16,17 GPE|9,10 ORG
+11,12 GPE|16,17 GPE|9,10 ORG
+
+This new enterprise , named Chengdu General Medical Equipment ( Southwest ) Co . , Ltd . , will be engaged mainly in developing , producing , manufacturing , assembling and marketing X - ray equipment for medical diagnoses purposes , in import and export trade , consultation and technical cooperation , etc .
+5,16 ORG
+5,16 ORG
+
+Apart from setting up joint venture enterprises , GE also invested more than 1 billion US dollars in China by means of airplane and container leasing .
+15,16 GPE|18,19 GPE|8,9 ORG|22,23 VEH
+15,16 GPE|18,19 GPE|8,9 ORG|22,23 VEH
+
+GE now has more than 8 , 000 employees in China .
+10,11 GPE|0,1 ORG|3,9 PER
+10,11 GPE|0,1 ORG|3,9 PER
+
+Moreover , in 1994 , GE purchased more than 40 million US dollars in products in China , and planned to increase purchasing volume of Chinese products in the next two years .
+11,12 GPE|16,17 GPE|25,26 GPE|5,6 ORG
+11,12 GPE|16,17 GPE|25,26 GPE|5,6 ORG
+
+WASHINGTON _ Ralph Nader may not be feeling any regrets about his Green Party presidential campaign , but some visitors to the chat room on Nader2000 . org , Nader ' s official campaign website , sounded as if a bad hangover had come crashing down on them .
+0,1 GPE|12,14 ORG|2,4 PER|11,12 PER|14,15 PER|18,35 PER|29,30 PER|47,48 PER
+0,1 GPE|12,14 ORG|2,4 PER|11,12 PER|14,15 PER|18,35 PER|29,30 PER|47,48 PER
+
+There was this entry , for instance , posted Thursday morning by a writer named ` ` wreckz ' ' :
+12,18 PER|17,18 PER
+12,18 PER|17,18 PER
+
+` ` I , too , feel I should apologize to America .
+11,12 GPE|2,3 PER|7,8 PER
+11,12 GPE|2,3 PER|7,8 PER
+
+I was duped .
+0,1 PER
+0,1 PER
+
+Ralph Nader ' s enjoyment of all of this is an indication of a man more concerned with vindictive politics than the future of our country and planet .
+24,25 GPE|24,28 GPE|0,2 PER|13,28 PER
+24,25 GPE|24,28 GPE|0,2 PER|13,28 PER
+
+I am no longer a member of the Green Party .
+7,10 ORG|0,1 PER|4,10 PER
+7,10 ORG|0,1 PER|4,10 PER
+
+Instead , I ' m a member of the green movement _ a movement without Ralph Nader . ' '
+8,11 ORG|12,17 ORG|2,3 PER|5,17 PER|15,17 PER
+8,11 ORG|12,17 ORG|2,3 PER|5,17 PER|15,17 PER
+
+Or this one , also posted Thursday morning , from ` ` Noni ' ' :
+12,13 PER
+12,13 PER
+
+` ` I saw an interview with Ralph Nader today and he seemed to be enjoying what has happened !
+2,3 PER|7,9 PER|11,12 PER
+2,3 PER|7,9 PER|11,12 PER
+
+I ' ve never seen him smile so broadly .
+0,1 PER|5,6 PER
+0,1 PER|5,6 PER
+
+I regret my support .
+0,1 PER|2,3 PER
+0,1 PER|2,3 PER
+
+Nader , you ' re a well - intending man and I agree with most of your positions .
+0,1 PER|2,3 PER|5,10 PER|11,12 PER|16,17 PER
+0,1 PER|2,3 PER|5,10 PER|11,12 PER|16,17 PER
+
+But the symbolic run for the White House has destroyed our Party and our cause .
+5,8 ORG|10,11 ORG|10,12 ORG|13,14 ORG
+5,8 ORG|10,11 ORG|10,12 ORG|13,14 ORG
+
+Very bad things are in our future .
+5,6 ORG
+5,6 ORG
+
+You should not be smiling .
+0,1 PER
+0,1 PER
+
+And we , the misled , should feel shame for what we ' ve done . ' '
+1,2 PER|11,12 PER
+1,2 PER|11,12 PER
+
+The remarks expressed fears that votes for Nader may have put Gov . George W . Bush in a position to defeat Vice President Al Gore .
+7,8 PER|11,12 PER|11,17 PER|22,24 PER|22,26 PER
+7,8 PER|11,12 PER|11,17 PER|22,24 PER|22,26 PER
+
+In Florida , where Gore trailed Bush by only a few hundred votes Thursday , a shift of just a fraction of Nader ' s 95 , 000 votes could have given the state , and the White House , to Gore , the most likely major - party alternative for Nader ' s supporters .
+1,13 GPE|3,4 GPE|32,34 GPE|36,39 ORG|4,5 PER|6,7 PER|22,23 PER|41,55 PER|43,55 PER|51,52 PER|51,55 PER
+1,13 GPE|3,4 GPE|32,34 GPE|36,39 ORG|4,5 PER|6,7 PER|22,23 PER|41,55 PER|43,55 PER|51,52 PER|51,55 PER
+
+John Ruth , for example , wrote on the Nader2000 site Thursday morning that he voted for Nader because he thought they ` ` shared a common goal ' ' but that he was now regretting it .
+0,2 PER|14,15 PER|17,18 PER|19,20 PER|21,22 PER|32,33 PER
+0,2 PER|14,15 PER|17,18 PER|19,20 PER|21,22 PER|32,33 PER
+
+` ` Gore ( despite what you have said ) is NOT an environmental clone of G . W . Bush .
+2,3 PER|6,7 PER|12,21 PER|16,21 PER
+2,3 PER|6,7 PER|12,21 PER|16,21 PER
+
+Because of your actions and statements prior to Nov . 7th , we are on the brink of a Bush presidency .
+2,3 PER|12,13 PER|19,20 PER
+2,3 PER|12,13 PER|19,20 PER
+
+No money , no support , no respect for you , Ralph , ever again ! ' '
+9,10 PER|11,12 PER
+9,10 PER|11,12 PER
+
+And in Oregon , a state that was still too close to call Thursday afternoon , Nader won about 5 percent of the vote _ enough to cause some Nader voters to feel morning - after qualms .
+2,3 GPE|4,15 GPE|16,17 PER|28,31 PER|29,30 PER
+2,3 GPE|4,15 GPE|16,17 PER|28,31 PER|29,30 PER
+
+Julie Quastler , 28 , who voted for Nader in Portland , said on Wednesday that she was feeling ` ` a little alarmed and disappointed ' ' that Bush seemed on the brink of winning the presidency _ suggesting that she did not accept Nader ' s assertion that the two parties were equally bad .
+10,11 GPE|50,53 ORG|0,11 PER|5,6 PER|8,9 PER|16,17 PER|29,30 PER|41,42 PER|45,46 PER
+10,11 GPE|50,53 ORG|0,11 PER|5,6 PER|8,9 PER|16,17 PER|29,30 PER|41,42 PER|45,46 PER
+
+` ` I ' m just so sad , ' ' she said .
+2,3 PER
+2,3 PER
+
+` ` Bush is probably going to be our president and Nader didn ' t get his 5 percent .
+8,9 GPE|2,3 PER|8,10 PER|11,12 PER|16,17 PER
+8,9 GPE|2,3 PER|8,10 PER|11,12 PER|16,17 PER
+
+It seems like a lose - lose end result in some ways . ' '
+
+
+
+Winning 5 percent of the vote nationwide would have qualified the Green Party for millions of dollars in federal campaign funds in 2004 .
+10,13 ORG
+10,13 ORG
+
+But Quastler , the development director for a nonprofit cafe , said she did not feel guilty about her vote .
+7,10 ORG|1,2 PER|3,10 PER|12,13 PER|18,19 PER
+7,10 ORG|1,2 PER|3,10 PER|12,13 PER|18,19 PER
+
+` ` I voted for Nader because he was most aligned with my values , ' ' she said .
+2,3 PER|5,6 PER|7,8 PER|12,13 PER|17,18 PER
+2,3 PER|5,6 PER|7,8 PER|12,13 PER|17,18 PER
+
+Of course , there were also countless verbal high - fives among Nader supporters Thursday who felt the Green Party had sent a bracing wake - up call to the two major parties .
+17,20 ORG|29,33 ORG|12,13 PER|12,33 PER|15,16 PER
+17,20 ORG|29,33 ORG|12,13 PER|12,33 PER|15,16 PER
+
+` ` Stand tall and proud , fellow Nader supporters , ' ' said one message on the Nader2000 site signed GO LOOK ELSEWHERE FOR SCAPEGOATS .
+8,9 PER
+8,9 PER
+
+` ` We fought the good fight for what we believed in .
+2,3 PER|9,10 PER
+2,3 PER|9,10 PER
+
+This does not make us villains . ' '
+4,5 PER|5,6 PER
+4,5 PER|5,6 PER
+
+Such sentiments seemed particularly strong in Florida .
+6,7 GPE
+6,7 GPE
+
+Dorothy Byrne , a state coordinator for the Florida Green Party , said she had been inundated with angry phone calls and e - mails from Democrats , but has yet to receive one regretful note from a Nader voter .
+4,5 GPE|8,9 GPE|7,11 ORG|0,2 PER|3,11 PER|13,14 PER|26,27 PER|37,40 PER|38,39 PER
+4,5 GPE|8,9 GPE|7,11 ORG|0,2 PER|3,11 PER|13,14 PER|26,27 PER|37,40 PER|38,39 PER
+
+` ` I can see positives for the Greens with either Bush or Gore being president , ' ' she said .
+7,9 ORG|2,3 PER|11,12 PER|13,14 PER|15,16 PER|19,20 PER
+7,9 ORG|2,3 PER|11,12 PER|13,14 PER|15,16 PER|19,20 PER
+
+` ` If Gore was in , we wouldn ' t have to worry about women ' s reproductive rights .
+3,4 PER|15,16 PER
+3,4 PER|15,16 PER
+
+But his record on the environment is so abysmal I don ' t see how Bush can be any worse . ' '
+1,2 PER|9,10 PER|15,16 PER
+1,2 PER|9,10 PER|15,16 PER
+
+Barbara Lange , the Everglades chairwoman for the Florida chapter of the Sierra Club , said she and other environmentalists voted for Nader because Gore had not taken a stand against the development of a commercial airport near the Everglades .
+8,9 GPE|7,14 ORG|11,14 ORG|0,2 PER|3,14 PER|16,17 PER|18,20 PER|22,23 PER|24,25 PER|34,40 FAC|4,5 LOC|38,40 LOC
+8,9 GPE|7,14 ORG|11,14 ORG|0,2 PER|3,14 PER|16,17 PER|18,20 PER|22,23 PER|24,25 PER|34,40 FAC|4,5 LOC|38,40 LOC
+
+` ` I voted my conscience , ' ' she said .
+2,3 PER|4,5 PER|9,10 PER
+2,3 PER|4,5 PER|9,10 PER
+
+` ` And I ' m okay with that . ' '
+3,4 PER
+3,4 PER
+
+Patricia Newell , an organizer for Nader at the University of Florida in Gainesville , said that Nader had won far fewer votes in Florida than his supporters had expected _ due , she said , to ` ` scare tactics ' ' by the Democrats .
+13,14 GPE|24,25 GPE|8,14 ORG|44,46 ORG|0,2 PER|3,14 PER|6,7 PER|17,18 PER|26,27 PER|26,28 PER|33,34 PER
+13,14 GPE|24,25 GPE|8,14 ORG|44,46 ORG|0,2 PER|3,14 PER|6,7 PER|17,18 PER|26,27 PER|26,28 PER|33,34 PER
+
+` ` Anyone who voted with Nader on Tuesday knew exactly what they were doing , ' ' she said .
+2,9 PER|3,4 PER|6,7 PER|12,13 PER|18,19 PER
+2,9 PER|3,4 PER|6,7 PER|12,13 PER|18,19 PER
+
+` ` On the contrary to feeling guilty , they feel very good about sticking with the candidate that they felt was best . ' '
+9,10 PER|16,23 PER|18,19 PER|19,20 PER
+9,10 PER|16,23 PER|18,19 PER|19,20 PER
+
+NEW YORK _ Bread pudding is one of the most traditional American dishes ; cookbooks from the 18th century have recipes for it that are more or less the same as what we make today .
+0,2 GPE|11,12 GPE|32,33 PER
+0,2 GPE|11,12 GPE|32,33 PER
+
+But bread pudding is also a minimalist sort of dish , no more than dry bread mixed together with milk and eggs and whatever flavor strikes the cook , and then baked until it is rich and custardy .
+26,28 PER
+26,28 PER
+
+It can be savory or sweet , and either makes a simple , interesting substitute for a standard part of the Thanksgiving meal .
+
+
+
+Savory bread pudding is a luxurious side dish that can be served in place of stuffing .
+
+
+
+Or it can be the extra stuffing that everyone always wants ( but not dry like the usual kind baked outside a turkey can be ) .
+8,9 PER
+8,9 PER
+
+My basic recipe combines the cubed bread , eggs and milk with a couple of cheeses .
+0,1 PER
+0,1 PER
+
+( If you ' re desperate for oven space , bake it and then heat it just before serving , or serve it at room temperature . )
+2,3 PER
+2,3 PER
+
+You can make it without the mushrooms , too .
+0,1 PER
+0,1 PER
+
+The pudding can also be varied by adding a pinch of thyme or sage , chopped nuts or cooked chestnuts , or about a cup of grated sweet potato or chopped scallions .
+
+
+
+If you want a pudding that tastes more like stuffing , just add chopped celery , onions , carrots and herbs .
+1,2 PER
+1,2 PER
+
+Sweet bread pudding is made the same way , but with fewer ingredients .
+
+
+
+I use maple syrup instead of sugar for the extra flavor and moisture .
+0,1 PER
+0,1 PER
+
+You can add more spices , including a small grating of nutmeg , chopped crystallized ginger , raisins or prunes soaked in Armagnac .
+0,1 PER
+0,1 PER
+
+The kind of bread you choose makes a difference .
+4,5 PER
+4,5 PER
+
+Fluffy packaged white bread disappears ; the crusts of crisp baguettes and peasant breads never become tender .
+
+
+
+For savory pudding , stick to long , wide inexpensive loaves , usually called Italian bread ; for sweet pudding , stale hallah is best .
+
+
+
+And make sure the bread is thoroughly and evenly soaked before it ' s baked ; I like to submerge the bread with a weighted plate before baking .
+16,17 PER
+16,17 PER
+
+Then you don ' t even have to stir .
+1,2 PER
+1,2 PER
+
+& UR ; SWEET BREAD PUDDING & LR ;
+
+
+
+& UR ; Time : 1 hour , largely unattended & LR ;
+
+
+
+4 tablespoons butter
+
+
+
+6 cups white bread , cut or torn into 1 - inch chunks
+
+
+
+2 cups half - and - half
+
+
+
+4 eggs
+
+
+
+} cup maple syrup or sugar
+
+
+
+{ teaspoon cinnamon
+
+
+
+Pinch salt .
+
+
+
+1 .
+
+
+
+Butter an 8 - inch souffle or baking dish , and add bread .
+
+
+
+Cut remaining butter into bits , and combine with all other ingredients ; pour over bread .
+
+
+
+Submerge bread with weighted plate , and turn oven to 350 degrees .
+
+
+
+2 .
+
+
+
+When oven is hot , remove the plate and bake until pudding is just set , 35 to 45 minutes .
+
+
+
+Serve with or without whipped cream .
+
+
+
+Yield : 6 or more servings .
+
+
+
+Variation : To make chocolate bread pudding , melt 2 ounces chopped bittersweet chocolate in the milk , let cool slightly and add to mixture .
+
+
+
+& UR ; SAVORY BREAD PUDDING & LR ;
+
+
+
+2 tablespoons butter or olive oil , plus more for greasing the pan
+
+
+
+6 cups dense white bread , cut or torn into 1 - inch chunks
+
+
+
+2 cups milk
+
+
+
+Salt and fresh black pepper
+
+
+
+2 ounces grated Parmesan
+
+
+
+4 ounces freshly grated semisoft cheese , like Emmenthal
+
+
+
+1 cup sliced shiitake mushroom caps .
+
+
+
+Butter or oil an 8 - inch souffle or baking dish , and put bread in it .
+
+
+
+Combine everything but shiitakes , and pour over bread .
+
+
+
+Submerge bread with a weighted plate , and turn oven to 350 degrees .
+
+
+
+Heat 2 tablespoons butter or oil in a saute pan , add shiitakes and saute until tender , about 10 minutes .
+
+
+
+Remove plate , and stir in mushrooms .
+
+
+
+Bake until pudding is just set , 35 to 45 minutes .
+
+
+
+Yield : At least 6 servings .
+
+
+
+ROME _ Fueling speculation that John Paul II might retire at the end of this year , a Belgian cardinal says he believes that the frail , ailing pope could do exactly that .
+0,1 GPE|18,19 GPE|5,8 PER|17,20 PER|21,22 PER|24,29 PER
+0,1 GPE|18,19 GPE|5,8 PER|17,20 PER|21,22 PER|24,29 PER
+
+` ` It would not surprise me if the pope were to retire after 2000 , ' ' says Cardinal Godfried Danneels in a book to be published on Monday in Belgium .
+31,32 GPE|6,7 PER|8,10 PER|19,20 PER|19,22 PER
+31,32 GPE|6,7 PER|8,10 PER|19,20 PER|19,22 PER
+
+` ` He wanted at all costs to reach the Jubilee year 2000 , but I consider him capable of retiring afterward . ' '
+2,3 PER|15,16 PER|17,18 PER
+2,3 PER|15,16 PER|17,18 PER
+
+Danneels is not the first Roman Catholic Church official to broach a topic considered taboo at the Vatican , but he is the highest - ranking leader to address the question so openly .
+5,8 ORG|16,18 ORG|0,1 PER|3,9 PER|20,21 PER|22,27 PER
+5,8 ORG|16,18 ORG|0,1 PER|3,9 PER|20,21 PER|22,27 PER
+
+The Vatican spokesman , Joaquin Navarro - Valls , issued a terse reaction , saying ` ` this is the personal opinion of Cardinal Danneels that we do not confirm . ' '
+1,2 ORG|26,27 ORG|0,3 PER|4,8 PER|23,24 PER|23,25 PER
+1,2 ORG|26,27 ORG|0,3 PER|4,8 PER|23,24 PER|23,25 PER
+
+The cardinal spoke in answer to a question in an interview included in his book , ` ` Frankly Speaking : Six Conversations with the Cardinal . ' '
+0,2 PER|13,14 PER|24,26 PER
+0,2 PER|13,14 PER|24,26 PER
+
+Speculation that John Paul might step down if his health deteriorates to the extent that he cannot fulfill his duties has echoed around the church ever since he turned 75 , the mandatory retirement age for bishops , in 1995 .
+23,25 ORG|2,4 PER|8,9 PER|15,16 PER|18,19 PER|27,28 PER|36,37 PER
+23,25 ORG|2,4 PER|8,9 PER|15,16 PER|18,19 PER|27,28 PER|36,37 PER
+
+The rumors grew louder as the pope visibly weakened and this year passed his 80th birthday , the age at which cardinals become ineligible to vote in a conclave for the next pope .
+5,7 PER|13,14 PER|21,22 PER|30,33 PER
+5,7 PER|13,14 PER|21,22 PER|30,33 PER
+
+In January , Bishop Karl Lehmann , leader of the German Bishops Conference , unleashed a flurry of articles in the Italian press when he told a questioner on German radio that he believed that the pope would resign for the good of the church if he felt he could not fulfill his papal functions .
+21,22 GPE|29,30 GPE|9,13 ORG|43,45 ORG|3,4 PER|3,6 PER|7,13 PER|24,25 PER|26,28 PER|32,33 PER|35,37 PER|46,47 PER|48,49 PER|52,53 PER|53,54 PER
+21,22 GPE|29,30 GPE|9,13 ORG|43,45 ORG|3,4 PER|3,6 PER|7,13 PER|24,25 PER|26,28 PER|32,33 PER|35,37 PER|46,47 PER|48,49 PER|52,53 PER|53,54 PER
+
+The pope , whose speech is slurred and who shakes badly because of a neurological disorder , has nevertheless marshaled his strength to preside over this year ' s Jubilee , a Holy Year of the church .
+35,37 ORG|0,16 PER|3,4 PER|8,9 PER|20,21 PER
+35,37 ORG|0,16 PER|3,4 PER|8,9 PER|20,21 PER
+
+Once the Holy Year ends on Jan . 6 , however , many wonder whether he might retire .
+12,13 PER|15,16 PER
+12,13 PER|15,16 PER
+
+The pope has not addressed the issue directly , but his few comments on the subject suggest that he is determined to serve out his full term .
+0,2 PER|10,11 PER|18,19 PER|24,25 PER
+0,2 PER|10,11 PER|18,19 PER|24,25 PER
+
+On his 75th birthday , he told an audience of pilgrims at St . Peter ' s , referring to God , ` ` I leave it to him to decide when and how he wants to relieve me of this service . ' '
+1,2 PER|5,6 PER|7,17 PER|10,11 PER|20,21 PER|24,25 PER|28,29 PER|34,35 PER|38,39 PER|12,17 FAC
+1,2 PER|5,6 PER|7,17 PER|10,11 PER|20,21 PER|24,25 PER|28,29 PER|34,35 PER|38,39 PER|12,17 FAC
+
+The pope keeps up a full schedule , and the Vatican says he wants to make other important trips in 2001 .
+9,11 ORG|0,2 PER|12,13 PER
+9,11 ORG|0,2 PER|12,13 PER
+
+There is no detailed procedure for a papal resignation , and little precedent .
+7,8 PER
+7,8 PER
+
+The last pope to resign voluntarily was Celestine V in 1294 .
+0,6 PER|7,9 PER
+0,6 PER|7,9 PER
+
+But canon law does allow a pope to resign , saying it is valid as long as the pope does it freely .
+5,7 PER|17,19 PER
+5,7 PER|17,19 PER
+
+There are no explicit instructions on how the Vatican should function if a pope had a stroke or went into a coma and could not express his wishes .
+7,9 ORG|12,14 PER|26,27 PER
+7,9 ORG|12,14 PER|26,27 PER
+
+The Rev . Thomas J . Reese , an American Jesuit who wrote a book on Vatican procedure , ` ` Inside the Vatican : The Politics and Organization of the Catholic Church , ' ' said , ` ` The real problem is if the pope can no longer govern , and is incapable of resigning . ' '
+9,10 GPE|16,17 ORG|0,3 PER|0,7 PER|8,18 PER|11,12 PER|45,47 PER
+9,10 GPE|16,17 ORG|0,3 PER|0,7 PER|8,18 PER|11,12 PER|45,47 PER
+
+Some reform - minded Catholics believe that it would be healthier for the church if popes resigned when their health failed .
+12,14 ORG|0,5 PER|15,16 PER|18,19 PER
+12,14 ORG|0,5 PER|15,16 PER|18,19 PER
+
+Traditionalists reject all talk of papal resignations , fearful that such a precedent would undermine the special nature of papal authority , which Catholics believe comes directly from God .
+0,1 PER|5,6 PER|19,20 PER|23,24 PER|28,29 PER
+0,1 PER|5,6 PER|19,20 PER|23,24 PER|28,29 PER
+
+WASHINGTON ( AP ) _ Herbert Lawrence Block is not subtle .
+0,1 GPE|2,3 ORG|5,8 PER
+0,1 GPE|2,3 ORG|5,8 PER
+
+But then subtlety is not a trait of political cartoonists , a trade that Block _ better known as Herblock _ has plied for the past 71 years .
+8,28 PER|14,20 PER|16,20 PER
+8,28 PER|14,20 PER|16,20 PER
+
+From his base on The Washington Post ' s editorial page , Herblock has sprayed ink on big issues and big shots , from Vietnam to Watergate and the Soviet bear , from presidents Truman to Nixon and Clinton .
+24,25 GPE|29,30 GPE|4,7 ORG|1,2 PER|12,13 PER|20,22 PER|33,34 PER|34,35 PER|36,37 PER|38,39 PER
+24,25 GPE|29,30 GPE|4,7 ORG|1,2 PER|12,13 PER|20,22 PER|33,34 PER|34,35 PER|36,37 PER|38,39 PER
+
+` ` You see a cartoon in the newspapers and it goes ` Boom !
+2,3 PER
+2,3 PER
+
+Bang ! ' ' ' Herblock , who turned 91 on Friday , once told a reporter .
+5,12 PER|7,8 PER|15,17 PER
+5,12 PER|7,8 PER|15,17 PER
+
+Tuesday , a retrospective of his work goes on display at the Library of Congress .
+5,6 PER|11,15 FAC
+5,6 PER|11,15 FAC
+
+Lately , his shrapnel has stung Slobodan Milosevic , Yasser Arafat , the National Rifle Association and others .
+12,16 ORG|2,3 PER|6,8 PER|9,11 PER|17,18 PER
+12,16 ORG|2,3 PER|6,8 PER|9,11 PER|17,18 PER
+
+Al Gore and George W . Bush have taken fire , and whoever wins in November will take more .
+0,2 PER|3,7 PER|12,13 PER
+0,2 PER|3,7 PER|12,13 PER
+
+They can ask Clinton .
+0,1 PER|3,4 PER
+0,1 PER|3,4 PER
+
+Few Herblock targets , however , were as favored as Nixon , drawn with deep - set , malevolent eyes , five o ' clock shadow and , when he was vice president in Eisenhower ' s administration , with a bloodstained hatchet in hand .
+34,38 ORG|0,3 PER|1,2 PER|10,45 PER|29,30 PER|31,38 PER|34,35 PER|40,43 WEA
+34,38 ORG|0,3 PER|1,2 PER|10,45 PER|29,30 PER|31,38 PER|34,35 PER|40,43 WEA
+
+But Herblock offered a truce when Nixon was elected president in 1968 .
+1,2 PER|6,7 PER|9,10 PER
+1,2 PER|6,7 PER|9,10 PER
+
+He gave Nixon a shave .
+0,1 PER|2,3 PER
+0,1 PER|2,3 PER
+
+` ` I gave him a chance , but after a while people saw he was the same old Nixon , ' ' Herblock said in an interview Monday .
+2,3 PER|4,5 PER|12,13 PER|14,15 PER|16,20 PER|23,24 PER
+2,3 PER|4,5 PER|12,13 PER|14,15 PER|16,20 PER|23,24 PER
+
+Herblock also was an unrelenting opponent of Sen . Joe McCarthy , and the artist coined the term McCarthyism .
+0,1 PER|3,11 PER|7,8 PER|7,11 PER|13,15 PER
+0,1 PER|3,11 PER|7,8 PER|7,11 PER|13,15 PER
+
+For a March 29 , 1950 , cartoon he drew four Republican stalwarts hauling a reluctant GOP elephant toward a teetering stack of tar buckets , topped by a dripping barrel labeled ` ` McCarthyism ' ' and a little platform above that .
+11,12 ORG|16,17 ORG|8,9 PER|10,13 PER
+11,12 ORG|16,17 ORG|8,9 PER|10,13 PER
+
+He and the library agree that was the origin of the word _ ` ` with no thought of creating a new term , ' ' Herblock wrote later .
+0,1 PER|26,27 PER|2,4 FAC
+0,1 PER|26,27 PER|2,4 FAC
+
+In the caption , the elephant says : ` ` You mean I ' m supposed to stand on that ? ' '
+10,11 PER
+10,11 PER
+
+Still , McCarthy , Herblock noted , even adopted the term as a title for a book ` ` McCarthyism : The Fight for America . ' '
+2,3 PER|4,5 PER
+2,3 PER|4,5 PER
+
+Every president has had his turn under Herblock ' s pen .
+0,2 PER|4,5 PER|7,8 PER
+0,2 PER|4,5 PER|7,8 PER
+
+Other subjects include U . S . intervention in Vietnam , Soviet and Chinese oppression , nuclear weapons , curtailed voting rights for the District of Columbia , slum housing , campaign fund raising , drunk drivers and racism .
+3,6 GPE|9,10 GPE|11,12 GPE|13,14 GPE|23,27 GPE|35,37 PER|16,17 WEA|16,18 WEA
+3,6 GPE|9,10 GPE|11,12 GPE|13,14 GPE|23,27 GPE|35,37 PER|16,17 WEA|16,18 WEA
+
+He apparently has no intention of retiring any time soon from the Post , where he has toiled for 54 years .
+11,21 ORG|14,15 ORG|0,1 PER|15,16 PER
+11,21 ORG|14,15 ORG|0,1 PER|15,16 PER
+
+At a reception Monday , James H . Billington , the librarian of Congress , said Herblock ' s cartoons will be seen 100 years from now .
+13,14 ORG|5,9 PER|10,14 PER|16,17 PER
+13,14 ORG|5,9 PER|10,14 PER|16,17 PER
+
+To that , the artist said : ` ` Yes , and I hope they will be saying ' That was a good one this morning . ' ' '
+3,5 PER|12,13 PER|14,15 PER
+3,5 PER|12,13 PER|14,15 PER
+
+Jean Rickard , Herblock ' s assistant for 43 years , said the cartoonist goes to the office daily to keep close to the news and check his facts .
+16,18 ORG|0,2 PER|3,4 PER|3,10 PER|12,14 PER|27,28 PER
+16,18 ORG|0,2 PER|3,4 PER|3,10 PER|12,14 PER|27,28 PER
+
+` ` I was just about to turn in a finished cartoon one day , ' ' Herblock writes in the catalog to the show , ` ` only to learn that a major story had broken and kept the newsroom people too busy to tell me about it .
+2,3 PER|17,18 PER|39,42 PER|46,47 PER|40,41 FAC
+2,3 PER|17,18 PER|39,42 PER|46,47 PER|40,41 FAC
+
+The quick return to the drawing board to produce a new cartoon in minutes was an experience I wouldn ' t want to repeat . ' '
+17,18 PER
+17,18 PER
+
+Born and raised in Chicago , Herblock ' s first full - time cartoonist ' s job was on the Chicago Daily News .
+4,5 GPE|19,23 ORG|6,7 PER|13,14 PER
+4,5 GPE|19,23 ORG|6,7 PER|13,14 PER
+
+His father , a chemist and contributor to humor magazines , suggested joining the first and last syllables of his name .
+0,1 PER|0,2 PER|3,5 PER|6,10 PER|19,20 PER
+0,1 PER|0,2 PER|3,5 PER|6,10 PER|19,20 PER
+
+His first cartoon for the News _ April 24 , 1929 _ blasted the timber industry .
+4,6 ORG|13,16 ORG|0,1 PER
+4,6 ORG|13,16 ORG|0,1 PER
+
+It was a bleak view of rough - cut tree stumps stretching to the horizon , with an ironic quote from the poet Henry Wadsworth Longfellow : ` ` This is the forest primeval . ' '
+21,23 PER|21,26 PER
+21,23 PER|21,26 PER
+
+Since then Herblock has published a dozen books , won three Pulitzer Prizes and shared in a fourth .
+2,3 PER
+2,3 PER
+
+ST . PAUL ( AP ) _ Gov . Jesse Ventura ' s weekly radio show has been flooded with calls about his new part - time job as a football commentator .
+0,3 GPE|4,5 ORG|7,9 PER|7,11 PER|22,23 PER|29,32 PER
+0,3 GPE|4,5 ORG|7,9 PER|7,11 PER|22,23 PER|29,32 PER
+
+` ` You belong to the people , 100 percent , 24 - hours - a - day , seven days a week , ' ' one caller admonished Friday .
+2,3 PER|5,7 PER|26,28 PER
+2,3 PER|5,7 PER|26,28 PER
+
+Others said his association with the XFL _ a rough - and - tumble league organized by NBC and the World Wrestling Federation _ degraded his office .
+5,7 ORG|8,23 ORG|17,18 ORG|19,23 ORG|0,1 PER|2,3 PER|25,26 PER
+5,7 ORG|8,23 ORG|17,18 ORG|19,23 ORG|0,1 PER|2,3 PER|25,26 PER
+
+Ventura brushed aside the criticism , saying he would stop if the XFL becomes too raunchy or he deems it in ` ` any way unacceptable to my position as governor . ' '
+11,13 ORG|19,20 ORG|0,1 PER|7,8 PER|17,18 PER|27,28 PER|30,31 PER
+11,13 ORG|19,20 ORG|0,1 PER|7,8 PER|17,18 PER|27,28 PER|30,31 PER
+
+Meanwhile , Democratic state Sen . Ellen Anderson said she would introduce a bill to make the job of governor a part - time position , similar to state lawmaker positions .
+3,4 GPE|28,29 GPE|2,3 ORG|2,6 PER|2,8 PER|9,10 PER
+3,4 GPE|28,29 GPE|2,3 ORG|2,6 PER|2,8 PER|9,10 PER
+
+` ` It would fit in ( Ventura ' s ) political philosophy and it would take away the criticism of him taking outside jobs , ' ' she said .
+7,8 PER|21,22 PER|28,29 PER
+7,8 PER|21,22 PER|28,29 PER
+
+In a contract announced Thursday , the former wrestler agreed to work 10 Saturday night games starting in February .
+6,9 PER
+6,9 PER
+
+He can miss them if state business demands it .
+5,6 GPE|0,1 PER
+5,6 GPE|0,1 PER
+
+` ` I do wish I was a big nobody again , ' ' Mark David Chapman told the New York State Parole Board at a closed hearing at the Attica state prison on Oct . 3 .
+19,22 GPE|31,32 GPE|18,24 ORG|2,3 PER|5,6 PER|7,10 PER|14,17 PER|29,33 FAC|30,31 FAC
+19,22 GPE|31,32 GPE|18,24 ORG|2,3 PER|5,6 PER|7,10 PER|14,17 PER|29,33 FAC|30,31 FAC
+
+But his words did not sway the board , which , citing his ongoing desire for notoriety , denied Chapman ' s first bid for parole since he pleaded guilty to the Dec . 8 , 1980 , murder of John Lennon .
+6,42 ORG|9,10 ORG|1,2 PER|12,13 PER|19,20 PER|27,28 PER|40,42 PER
+6,42 ORG|9,10 ORG|1,2 PER|12,13 PER|19,20 PER|27,28 PER|40,42 PER
+
+In the hearing , a transcript of which was released Wednesday , Chapman said repeatedly that he did not have the right to ask for his release .
+12,13 PER|16,17 PER|25,26 PER
+12,13 PER|16,17 PER|25,26 PER
+
+But if he were paroled , he would try to work on a farm , speak at churches and be reunited with his wife , who flies from Hawaii twice a year to visit him , he said .
+28,29 GPE|2,3 PER|6,7 PER|22,23 PER|22,35 PER|25,26 PER|34,35 PER|36,37 PER|12,14 FAC|17,18 FAC
+28,29 GPE|2,3 PER|6,7 PER|22,23 PER|22,35 PER|25,26 PER|34,35 PER|36,37 PER|12,14 FAC|17,18 FAC
+
+In a somewhat rambling apology to Lennon ' s widow , Yoko Ono , Chapman , 45 , said first that he could not imagine her pain , and later that he had felt it for the first time after reading a recent Newsweek article in which she said she had been shaking uncontrollably the night of her husband ' s death .
+43,44 ORG|6,7 PER|6,10 PER|11,13 PER|14,17 PER|21,22 PER|25,26 PER|31,32 PER|47,48 PER|49,50 PER|57,58 PER|57,59 PER
+43,44 ORG|6,7 PER|6,10 PER|11,13 PER|14,17 PER|21,22 PER|25,26 PER|31,32 PER|47,48 PER|49,50 PER|57,58 PER|57,59 PER
+
+` ` I ' ve come to grips with the fact that that John Lennon was a person , ' ' he said .
+2,3 PER|13,15 PER|16,18 PER|21,22 PER
+2,3 PER|13,15 PER|16,18 PER|21,22 PER
+
+Chapman told the board that after reading the article , he had almost skipped the hearing .
+2,4 ORG|0,1 PER|10,11 PER
+2,4 ORG|0,1 PER|10,11 PER
+
+But he said , ` ` You have a right to know what happened . ' '
+6,7 ORG|1,2 PER
+6,7 ORG|1,2 PER
+
+Chapman would have been up for parole even if he had not attended , a parole board spokesman said .
+15,17 ORG|0,1 PER|9,10 PER|14,18 PER
+15,17 ORG|0,1 PER|9,10 PER|14,18 PER
+
+Ono did not attend the hearing , but had submitted a letter asking that parole be denied .
+0,1 PER
+0,1 PER
+
+Chapman , who has been criticized for seeming to revel in televised appearances after his conviction , was consistently self - deprecating throughout the 50 - minute hearing .
+0,16 PER|2,3 PER|14,15 PER
+0,16 PER|2,3 PER|14,15 PER
+
+Describing an outburst early in his incarceration , he said : ` ` They were rough with me , which was fine .
+5,6 PER|8,9 PER|13,14 PER|17,18 PER
+5,6 PER|8,9 PER|13,14 PER|17,18 PER
+
+Which is probably what I needed to snap out of that . ' '
+4,5 PER
+4,5 PER
+
+Asked if he would be concerned for his safety if released , Chapman , who is being held in protective custody apart from other inmates , said he believed that God ` ` kept the lions ' mouths shut in Daniel ' s den , ' ' adding , ` ` And I think he can do the same for me if he so chooses , and I would leave most of that up to him . ' '
+2,3 PER|7,8 PER|12,25 PER|14,15 PER|23,25 PER|27,28 PER|30,31 PER|40,41 PER|52,53 PER|54,55 PER|60,61 PER|62,63 PER|67,68 PER|75,76 PER|40,44 LOC
+2,3 PER|7,8 PER|12,25 PER|14,15 PER|23,25 PER|27,28 PER|30,31 PER|40,41 PER|52,53 PER|54,55 PER|60,61 PER|62,63 PER|67,68 PER|75,76 PER|40,44 LOC
+
+Chapman ' s pursuit of publicity occupied much of the discussion , despite his professed wish to return to the anonymity that had plagued him , as a security guard in Hawaii , enough to make him commit his notorious crime .
+31,32 GPE|0,1 PER|13,14 PER|24,25 PER|27,32 PER|36,37 PER|38,39 PER
+31,32 GPE|0,1 PER|13,14 PER|24,25 PER|27,32 PER|36,37 PER|38,39 PER
+
+When the board denied parole in a written statement issued shortly after the hearing , it said : ` ` Your most vicious and violent act was apparently fueled by your need to be acknowledged .
+1,3 ORG|15,16 ORG|20,21 PER|30,31 PER
+1,3 ORG|15,16 ORG|20,21 PER|30,31 PER
+
+During your parole hearing , this panel noted your continued interest in maintaining your notoriety . ' '
+5,7 ORG|1,2 PER|8,9 PER|13,14 PER
+5,7 ORG|1,2 PER|8,9 PER|13,14 PER
+
+Asked what he had done to attract attention since he was incarcerated , Chapman recalled a 1987 interview with People magazine , for which he received $ 5 , 000 , according to news reports at the time .
+19,21 ORG|2,3 PER|9,10 PER|13,14 PER|24,25 PER
+19,21 ORG|2,3 PER|9,10 PER|13,14 PER|24,25 PER
+
+He also recalled interviews with Barbara Walters and Larry King when a book about him was published in 1992 .
+0,1 PER|5,7 PER|8,10 PER|14,15 PER
+0,1 PER|5,7 PER|8,10 PER|14,15 PER
+
+` ` Other than that , ' ' he said , ` ` I ' ve consistently , especially the last 10 years , denied any press requests . ' '
+8,9 PER|13,14 PER
+8,9 PER|13,14 PER
+
+But when prompted , Chapman did acknowledge a three - hour interview in July with Jack Jones , a Rochester journalist who wrote the 1992 book ` ` Let Me Take You Down : Inside the Mind of Mark David Chapman , the Man Who Killed John Lennon ' ' ( Villard Books ) .
+19,20 GPE|51,53 ORG|4,5 PER|15,17 PER|18,53 PER|21,22 PER
+19,20 GPE|51,53 ORG|4,5 PER|15,17 PER|18,53 PER|21,22 PER
+
+Jones , reached by telephone Wednesday , said that in the July interview , Chapman had told him for the first time that he wanted to be released from prison .
+0,6 PER|14,15 PER|17,18 PER|23,24 PER|29,30 FAC
+0,6 PER|14,15 PER|17,18 PER|23,24 PER|29,30 FAC
+
+But after the hearing last week , ` ` he was relieved that they made the decision that they made , ' ' said Jones , who spoke to him then .
+13,14 ORG|18,19 ORG|9,10 PER|24,31 PER|26,27 PER|29,30 PER
+13,14 ORG|18,19 ORG|9,10 PER|24,31 PER|26,27 PER|29,30 PER
+
+The interview was conducted for the book ' s newly published second edition .
+
+
+
+Chapman said that after getting permission from God , he had allowed parts of it to be released to Court TV .
+0,1 PER|7,8 PER|9,10 PER
+0,1 PER|7,8 PER|9,10 PER
+
+In the interview , parts of which were also published in The Daily Express of London , Chapman made the widely publicized remark that Lennon was a liberal and would have wanted him to be released .
+15,16 GPE|17,18 PER|24,25 PER|26,28 PER|32,33 PER
+15,16 GPE|17,18 PER|24,25 PER|26,28 PER|32,33 PER
+
+But at the hearing , the inmate complained that the comment had been wrongly portrayed , and that he had not meant it as an argument in favor of his parole .
+5,7 PER|18,19 PER|29,30 PER
+5,7 PER|18,19 PER|29,30 PER
+
+` ` He asked me , what did I think John Lennon would do , ' ' Chapman said .
+2,3 PER|4,5 PER|8,9 PER|10,12 PER|17,18 PER
+2,3 PER|4,5 PER|8,9 PER|10,12 PER|17,18 PER
+
+` ` And I thought about it for a minute , and I answered honestly . ' '
+3,4 PER|12,13 PER
+3,4 PER|12,13 PER
+
+The New York Times said in an editorial on Monday , Oct . 2 :
+0,4 ORG
+0,4 ORG
+
+The new Supreme Court term , which opens today , has no high - profile cases to match last session ' s tangles over partial birth abortion , gays in the Boy Scouts and organized prayer at high school football games .
+2,4 ORG|30,33 ORG|37,39 ORG|28,29 PER
+2,4 ORG|30,33 ORG|37,39 ORG|28,29 PER
+
+But even shorn of the Microsoft case , this season will not lack for suspense or importance .
+5,6 ORG
+5,6 ORG
+
+The court ' s docket includes cases that , depending on their outcome , could significantly bolster or weaken environmental protection , federal civil rights , freedom of the press and the Fourth Amendment ' s shield against unreasonable searches and seizures .
+0,2 ORG
+0,2 ORG
+
+Once again , a prime battleground will be the constitutional allocation of power _ between the federal government and the states , and between Congress and federal regulatory agencies .
+15,18 GPE|19,21 GPE|24,25 ORG|26,29 ORG
+15,18 GPE|19,21 GPE|24,25 ORG|26,29 ORG
+
+Last term , the court lengthened its string of regrettable 5 - to - 4 decisions trimming federal authority by striking down portions of the Violence Against Women Act and the federal law barring age discrimination in employment .
+3,5 ORG
+3,5 ORG
+
+A case to be heard next week tests whether the majority ' s constricted view of federal power extends to shielding states from lawsuits brought by their public employees under the Americans With Disabilities Act .
+21,22 GPE|26,27 GPE|26,29 PER
+21,22 GPE|26,27 GPE|26,29 PER
+
+In another big federalism case with implications for the environment , the court will consider whether Congress exceeded its Commerce Clause powers by allowing regulation of small , intrastate wetlands to protect the habitats of migratory birds .
+11,13 ORG|16,17 ORG|26,30 LOC|32,37 LOC
+11,13 ORG|16,17 ORG|26,30 LOC|32,37 LOC
+
+This term the court will also weigh a challenge to the authority of the Environmental Protection Agency to set national standards for air pollutants .
+2,4 ORG|14,17 ORG
+2,4 ORG|14,17 ORG
+
+The justices should resist this invitation to disrupt the modern regulatory system by overturning Congress ' broad delegation of authority to the EPA or otherwise diluting the agency ' s power to set ` ` uncompromising ' ' health - based standards .
+14,15 ORG|21,23 ORG|26,28 ORG|0,2 PER
+14,15 ORG|21,23 ORG|26,28 ORG|0,2 PER
+
+On Tuesday , the court begins the term ' s review of Fourth Amendment principles with an Indianapolis case involving the use of police checkpoints and drug - sniffing dogs to check motorists for illicit drugs .
+17,18 GPE|3,5 ORG|23,24 ORG|32,33 PER
+17,18 GPE|3,5 ORG|23,24 ORG|32,33 PER
+
+The court should view these law enforcement stops as an overly aggressive leap from the sobriety checkpoints it has previously approved to remove an immediate safety hazard .
+0,2 ORG
+0,2 ORG
+
+Then , on Wednesday , the court will consider the outrageous privacy violation committed against pregnant women who were selectively tested for cocaine use while seeking prenatal care at a South Carolina hospital , and subsequently arrested or threatened with arrest .
+30,32 GPE|5,7 ORG|29,33 ORG|15,41 PER|17,18 PER
+30,32 GPE|5,7 ORG|29,33 ORG|15,41 PER|17,18 PER
+
+Amicus briefs from leading medical and health groups caution that such punitive policies will drive women away from critically needed prenatal care and treatment programs .
+3,8 ORG|15,16 PER
+3,8 ORG|15,16 PER
+
+Later this term , the court will confront a major media case .
+4,6 ORG
+4,6 ORG
+
+At issue is the liability of a Pennsylvania radio station under the federal wiretap statute for broadcasting an illegally taped cell phone conversation between two union officials .
+7,8 GPE|6,10 ORG|25,26 ORG|24,27 PER
+7,8 GPE|6,10 ORG|25,26 ORG|24,27 PER
+
+No one accuses the station of involvement in the taping , which was done by an anonymous third party .
+3,5 ORG|0,2 PER|15,19 PER
+3,5 ORG|0,2 PER|15,19 PER
+
+Should the court override the station ' s First Amendment privilege here , the chilling impact on newsgathering cannot be overstated , much as The Times intends to argue in an amicus brief .
+1,3 ORG|4,6 ORG|24,26 ORG
+1,3 ORG|4,6 ORG|24,26 ORG
+
+Jeff Zucker , the longtime executive producer of NBC ' s ` ` Today ' ' program , will be named Friday as the new president of NBC ' s entertainment division , replacing Garth Ancier , NBC executives said .
+8,9 ORG|27,28 ORG|27,32 ORG|37,38 ORG|0,2 PER|3,17 PER|23,36 PER|34,36 PER|37,39 PER
+8,9 ORG|27,28 ORG|27,32 ORG|37,38 ORG|0,2 PER|3,17 PER|23,36 PER|34,36 PER|37,39 PER
+
+The move will have a ripple effect on two NBC divisions , forcing the network to replace Zucker at ` ` Today , ' ' where he has led the program to its most dominant ratings position in decades , and shaking up the entertainment division , where Zucker has never worked .
+8,11 ORG|9,10 ORG|13,15 ORG|21,22 ORG|25,26 ORG|43,52 ORG|47,48 ORG|17,39 PER|26,27 PER|48,49 PER
+8,11 ORG|9,10 ORG|13,15 ORG|21,22 ORG|25,26 ORG|43,52 ORG|47,48 ORG|17,39 PER|26,27 PER|48,49 PER
+
+Zucker ' s enormous success at ` ` Today , ' ' where he has served as executive producer since 1994 , has for several years set him up for a promotion at the network , and he has frequently expressed his desire to move on from ` ` Today . ' '
+8,21 ORG|12,13 ORG|33,35 ORG|49,50 ORG|0,1 PER|13,14 PER|17,21 PER|27,28 PER|37,38 PER|41,42 PER
+8,21 ORG|12,13 ORG|33,35 ORG|49,50 ORG|0,1 PER|13,14 PER|17,21 PER|27,28 PER|37,38 PER|41,42 PER
+
+On Tuesday night , Zucker said that after covering the postelection news on ` ` Today ' ' and seeing that story help establish the third hour of the program , which was only added in October , he had little left to accomplish at ` ` Today . ' '
+15,16 ORG|47,48 ORG|4,5 PER|38,39 PER
+15,16 ORG|47,48 ORG|4,5 PER|38,39 PER
+
+But no job in the news division had either been available or of interest to Zucker .
+4,7 ORG|15,16 PER
+4,7 ORG|15,16 PER
+
+The move to NBC Entertainment serves as the best way for NBC to retain an executive they regard as one of the best in television .
+3,5 ORG|11,12 ORG|16,17 ORG|24,25 ORG|14,25 PER|19,25 PER|21,25 PER
+3,5 ORG|11,12 ORG|16,17 ORG|24,25 ORG|14,25 PER|19,25 PER|21,25 PER
+
+The decision abruptly ends Ancier ' s leadership of NBC Entertainment after only 18 months .
+9,11 ORG|4,5 PER
+9,11 ORG|4,5 PER
+
+His tenure became extremely troubled this fall after the new lineup of NBC series stumbled badly .
+12,13 ORG|0,1 PER
+12,13 ORG|0,1 PER
+
+But the move ' s timing is still somewhat surprising because NBC had enough strength among its core group of hit shows to win last month ' s ratings sweep competition .
+11,12 ORG|16,17 ORG
+11,12 ORG|16,17 ORG
+
+In addition , three series _ ` ` The West Wing , ' ' ` ` Law and Order S . V . U . ' ' and ` ` Third Watch ' ' _ all added last fall , Ancier ' s first at NBC , have since become significant hits for the network .
+45,46 ORG|53,55 ORG|40,41 PER
+45,46 ORG|53,55 ORG|40,41 PER
+
+But Ancier ' s ouster had been the subject of widespread rumors in Hollywood in the last several weeks , largely because of the failure of this fall ' s slate of programs .
+13,14 GPE|1,2 PER
+13,14 GPE|1,2 PER
+
+NBC has several aging hits , including ` ` Frasier ' ' and ` ` Friends , ' ' that may not have many more years on the network , and NBC executives have said this fall that it was especially crucial the network add some new replacements .
+0,1 ORG|27,29 ORG|31,32 ORG|42,44 ORG|31,33 PER
+0,1 ORG|27,29 ORG|31,32 ORG|42,44 ORG|31,33 PER
+
+Only one NBC show , ` ` Ed , ' ' has performed with any particular promise , although two others , ` ` DAG ' and ` ` Cursed , ' ' have proved at least serviceable in time periods where they are protected by other NBC hits .
+2,3 ORG|47,48 ORG
+2,3 ORG|47,48 ORG
+
+But many other new NBC series this fall collapsed quickly , including two high - profile shows , ` ` The Michael Richards Show ' ' and ` ` Titans . ' '
+4,5 ORG
+4,5 ORG
+
+Ancier was especially tied to the latter , having argued strenuously for it last spring before NBC selected its schedule .
+16,17 ORG|18,19 ORG|0,1 PER
+16,17 ORG|18,19 ORG|0,1 PER
+
+The show had been opposed by several other senior NBC executives , including the network president , Bob Wright , on grounds that it was tasteless .
+9,10 ORG|14,15 ORG|6,19 PER|13,16 PER|17,19 PER
+9,10 ORG|14,15 ORG|6,19 PER|13,16 PER|17,19 PER
+
+Ancier had dismissed that criticism .
+0,1 PER
+0,1 PER
+
+Ancier was also the target of some criticism from Wright last year after CBS , with ` ` Survivor , ' ' and ABC , with ` ` Who Wants To Be A Millionaire , ' ' turned their networks around with so - called reality programs .
+13,19 ORG|23,34 ORG|38,39 ORG|38,40 ORG|0,1 PER|9,10 PER
+13,19 ORG|23,34 ORG|38,39 ORG|38,40 ORG|0,1 PER|9,10 PER
+
+Wright questioned why NBC Entertainment was the only network that had not picked up programs in the reality genre .
+3,5 ORG|6,19 ORG|9,10 ORG|0,1 PER
+3,5 ORG|6,19 ORG|9,10 ORG|0,1 PER
+
+Ancier had come to NBC with seemingly ideal qualifications .
+4,5 ORG|0,1 PER
+4,5 ORG|0,1 PER
+
+He had previously worked at NBC Entertainment , then had run Fox ' s programming in the first days of that network and most recently had managed programming at the WB Network , helping that network establish itself as a strong competitor for young audiences .
+5,7 ORG|11,12 ORG|20,22 ORG|29,32 ORG|34,36 ORG|37,38 ORG|39,45 ORG|0,1 PER|43,45 PER
+5,7 ORG|11,12 ORG|20,22 ORG|29,32 ORG|34,36 ORG|37,38 ORG|39,45 ORG|0,1 PER|43,45 PER
+
+LOS ANGELES ( AP ) _ The Dick Cheney - Joe Lieberman debate was praised by some TV commentators as an exercise in good manners and condemned by others as bad politics .
+0,2 GPE|3,4 ORG|7,9 PER|10,12 PER|16,19 PER|28,29 PER
+0,2 GPE|3,4 ORG|7,9 PER|10,12 PER|16,19 PER|28,29 PER
+
+` ` Highly civilized , in many ways they articulated the positions of their campaigns more effectively than the top of their ticket when they met in Boston , ' ' Tom Brokaw said .
+27,28 GPE|13,15 ORG|8,9 PER|13,14 PER|21,22 PER|24,25 PER|31,33 PER
+27,28 GPE|13,15 ORG|8,9 PER|13,14 PER|21,22 PER|24,25 PER|31,33 PER
+
+` ` Give it a rave , ' ' said CBS anchor Dan Rather .
+10,11 ORG|10,12 PER|10,14 PER
+10,11 ORG|10,12 PER|10,14 PER
+
+This will go down as the best vice presidential joint appearance on television since the television era in presidential and vice presidential campaigns began . ' '
+18,23 ORG
+18,23 ORG
+
+His colleague , Bob Schieffer , wondered whether their ` ` bosses , ' ' George W . Bush and Al Gore , were watching .
+0,1 PER|0,2 PER|3,5 PER|8,9 PER|8,12 PER|15,19 PER|20,22 PER
+0,1 PER|0,2 PER|3,5 PER|8,9 PER|8,12 PER|15,19 PER|20,22 PER
+
+Instant polls and in - studio audiences also gave the vice presidential candidates high marks .
+3,7 PER|9,13 PER
+3,7 PER|9,13 PER
+
+But some observers pronounced themselves frustrated by the debate .
+1,3 PER|4,5 PER
+1,3 PER|4,5 PER
+
+Fox News Channel ' s Mort Kondracke called it ` ` an opportunity wasted by Cheney to go after Gore . ' '
+0,3 ORG|0,7 PER|15,16 PER|19,20 PER
+0,3 ORG|0,7 PER|15,16 PER|19,20 PER
+
+` ` Maybe somebody could have given the candidates a hot foot or put a joy buzzer on their seat , ' ' said his colleague , Fred Barnes .
+3,4 PER|7,9 PER|18,19 PER|24,25 PER|24,26 PER|27,29 PER
+3,4 PER|7,9 PER|18,19 PER|24,25 PER|24,26 PER|27,29 PER
+
+Conservative commentator Bill Kristol , also on FNC , said ` ` the Bush campaign failed to do what it had to do . . . which to assault al Gore ' s policies and his credibility . ' '
+7,8 ORG|12,15 ORG|19,20 ORG|0,2 PER|0,8 PER|13,14 PER|29,31 PER
+7,8 ORG|12,15 ORG|19,20 ORG|0,2 PER|0,8 PER|13,14 PER|29,31 PER
+
+ABC ' s Sam Donaldson asked plaintively when it was decreed that campaigners had to act like ` ` gentlemen and ladies . ' '
+0,1 ORG|0,5 PER|12,13 PER|19,20 PER|21,22 PER
+0,1 ORG|0,5 PER|12,13 PER|19,20 PER|21,22 PER
+
+` ` I think that ' s nonsense , ' ' Donaldson said .
+2,3 PER|11,12 PER
+2,3 PER|11,12 PER
+
+The night was put in perspective .
+
+
+
+ABC anchorman Peter Jennings , who noted that ` ` bottom of the ticket ' ' doesn ' t necessarily have that much affect on voter decisions .
+0,1 ORG|0,2 PER|0,27 PER|5,6 PER|25,26 PER
+0,1 ORG|0,2 PER|0,27 PER|5,6 PER|25,26 PER
+
+NBC ' s Tim Russert of predicted the veep debate ' s ` ` effect on the election will practically be nonexistent . ' '
+0,1 ORG|0,5 PER|8,9 PER
+0,1 ORG|0,5 PER|8,9 PER
+
+A group of undecided voters recruited by NBC in Tampa , Fla . , were impressed with both candidates _ and , with a non - show of hands , all indicated they remained on the fence .
+9,12 GPE|11,12 GPE|7,8 ORG|0,12 PER|3,5 PER|17,19 PER|32,33 PER
+9,12 GPE|11,12 GPE|7,8 ORG|0,12 PER|3,5 PER|17,19 PER|32,33 PER
+
+On Tuesday , an estimated 46 . 5 million people watched the first presidential debate between Gore and Bush , which some commentators deemed rancorous .
+3,10 PER|16,17 PER|18,19 PER|21,23 PER
+3,10 PER|16,17 PER|18,19 PER|21,23 PER
+
+Lieberman and Cheney were probably on their best behavior because focus groups told the campaigns that conflict doesn ' t pay , commentators mused .
+13,15 ORG|0,1 PER|2,3 PER|6,7 PER|10,12 PER|22,23 PER
+13,15 ORG|0,1 PER|2,3 PER|6,7 PER|10,12 PER|22,23 PER
+
+That Gore - Bush audience was comparable to the 46 . 1 million people who watched the first duel between President Clinton and Bob Dole four years ago , but fell short of the all - time record : 80 million people watched President Carter and Ronald Reagan square off in 1980 .
+0,5 PER|1,2 PER|3,4 PER|8,28 PER|14,15 PER|20,21 PER|20,22 PER|23,25 PER|39,42 PER|43,44 PER|43,45 PER|46,48 PER
+0,5 PER|1,2 PER|3,4 PER|8,28 PER|14,15 PER|20,21 PER|20,22 PER|23,25 PER|39,42 PER|43,44 PER|43,45 PER|46,48 PER
+
+Cheney and Lieberman , with moderator Bernie Shaw , met at Centre College in Danville , Ky . , for their only debate .
+14,17 GPE|16,17 GPE|0,1 PER|2,3 PER|5,6 PER|5,8 PER|20,21 PER|11,17 FAC
+14,17 GPE|16,17 GPE|0,1 PER|2,3 PER|5,6 PER|5,8 PER|20,21 PER|11,17 FAC
+
+Bush and Gore have two more debates scheduled , on Oct . 11 and 17 .
+0,1 PER|2,3 PER
+0,1 PER|2,3 PER
+
+LONDON ( AP ) _ British Airways PLC plans to sell Go , its profitable cut - price subsidiary launched two years ago , the company said Monday .
+0,1 GPE|2,3 ORG|5,8 ORG|11,12 ORG|13,14 ORG|13,23 ORG|24,26 ORG
+0,1 GPE|2,3 ORG|5,8 ORG|11,12 ORG|13,14 ORG|13,23 ORG|24,26 ORG
+
+BA announced the sale as it reported 160 percent growth in its second - quarter pretax profit , an improvement that suggests Britain ' s unofficial flag carrier may finally be entering sunnier financial skies .
+22,23 GPE|0,1 ORG|5,6 ORG|11,12 ORG|22,28 ORG
+22,23 GPE|0,1 ORG|5,6 ORG|11,12 ORG|22,28 ORG
+
+` ` Thanks to everyone who works at Go , it is now a leading European brand , ' ' said Rod Eddington , British Airways ' recently appointed chief executive .
+15,16 GPE|8,9 ORG|10,11 ORG|13,17 ORG|24,26 ORG|4,9 PER|5,6 PER|21,23 PER|24,31 PER
+15,16 GPE|8,9 ORG|10,11 ORG|13,17 ORG|24,26 ORG|4,9 PER|5,6 PER|21,23 PER|24,31 PER
+
+` ` It has made a profit every month this year .
+2,3 ORG
+2,3 ORG
+
+However , given the strategic goals we have set for the group as a whole , now is the time for British Airways to gain the benefits of its investment and realize the considerable value created in Go . ' '
+10,15 ORG|13,15 ORG|21,23 ORG|28,29 ORG|37,38 ORG|6,7 PER
+10,15 ORG|13,15 ORG|21,23 ORG|28,29 ORG|37,38 ORG|6,7 PER
+
+Go is based at Stansted airport , northeast of London , a major base for low - fare carriers operating in Britain .
+9,10 GPE|21,22 GPE|0,1 ORG|15,22 ORG|4,10 FAC|11,22 FAC
+9,10 GPE|21,22 GPE|0,1 ORG|15,22 ORG|4,10 FAC|11,22 FAC
+
+BA set up Go when smaller rivals began nibbling away at its market share by offering cheaper flights across much of Europe .
+21,22 GPE|0,1 ORG|3,4 ORG|5,7 ORG|11,12 ORG|19,22 LOC
+21,22 GPE|0,1 ORG|3,4 ORG|5,7 ORG|11,12 ORG|19,22 LOC
+
+One such competitor , easyJet , has long accused BA of unfairly subsidizing Go .
+0,3 ORG|4,5 ORG|9,10 ORG|13,14 ORG
+0,3 ORG|4,5 ORG|9,10 ORG|13,14 ORG
+
+BA has denied the accusation but until now has not said whether Go was making money .
+0,1 ORG|12,13 ORG
+0,1 ORG|12,13 ORG
+
+British Airways reported a pretax profit of 200 million pounds ( $ 290 million ) in the second quarter ending Sept . 30 , compared to 40 million pounds a year ago .
+0,2 ORG
+0,2 ORG
+
+Its quarterly operating profit improved to 361 million pounds ( $ 523 million ) from 211 million pounds a year ago .
+0,1 ORG
+0,1 ORG
+
+This income growth indicated that BA ' s new strategy of trying to attract more business and first - class passengers has started to pay off .
+5,6 ORG|14,21 PER
+5,6 ORG|14,21 PER
+
+BA said its number of premium passengers increased by 7 . 7 percent during the quarter , while revenues for the first six months of the year rose 4 . 9 percent to 4 . 86 billion pounds ( $ 7 . 05 billion ) .
+0,1 ORG|2,3 ORG|5,7 PER
+0,1 ORG|2,3 ORG|5,7 PER
+
+` ` We are taking a ruthless approach towards poorly performing routes and assets , ' ' said Eddington .
+2,3 ORG|18,19 PER
+2,3 ORG|18,19 PER
+
+` ` Those not adding value are being removed .
+
+
+
+It is imperative that each of our aircraft generates shareholder value . ' '
+6,7 ORG|9,10 PER|4,8 VEH|6,8 VEH
+6,7 ORG|9,10 PER|4,8 VEH|6,8 VEH
+
+The airline said it plans to cut capacity worldwide by 10 percent in next summer ' s schedule .
+0,2 ORG|3,4 ORG
+0,2 ORG|3,4 ORG
+
+` ` We have a number of different businesses operating separately within Europe .
+12,13 GPE|2,3 ORG|4,13 ORG
+12,13 GPE|2,3 ORG|4,13 ORG
+
+We are currently examining how we can better rationalize and integrate their activities to deliver better value for the group overall , ' ' Eddington said .
+0,1 ORG|5,6 ORG|11,12 ORG|18,21 ORG|24,25 PER
+0,1 ORG|5,6 ORG|11,12 ORG|18,21 ORG|24,25 PER
+
+Company shares jumped 7 percent to 352 pence ( $ 5 . 10 ) each in midday trading on the London Stock Exchange .
+0,1 ORG|19,23 ORG
+0,1 ORG|19,23 ORG
+
+BA , the world ' s fourth - biggest airline in terms of passenger traffic , has struggled to find its way in recent years .
+0,1 ORG|2,15 ORG|20,21 ORG|13,14 PER|2,4 LOC
+0,1 ORG|2,15 ORG|20,21 ORG|13,14 PER|2,4 LOC
+
+It lost 50 million pounds ( $ 75 million ) in the first quarter , due to high fuel costs and competition , and last year was the airline ' s worst since the British government privatized it .
+33,36 GPE|34,35 GPE|0,1 ORG|27,29 ORG|37,38 ORG
+33,36 GPE|34,35 GPE|0,1 ORG|27,29 ORG|37,38 ORG
+
+Competition has become intense , particularly on its core trans - Atlantic flights , and former chief executive Bob Ayling resigned in March after a troubled four - year stint .
+7,8 ORG|15,18 PER|15,20 PER|11,12 LOC
+7,8 ORG|15,18 PER|15,20 PER|11,12 LOC
+
+Talks on a long - planned merger with KLM Royal Dutch Airlines collapsed in September .
+8,12 ORG
+8,12 ORG
+
+- - has in the world , one in the middle east is all too obvious , and as of is in broadcast tonight , the clinton administration is not making much progress getting palestinians and israelis to lay off each other and talk about it .
+34,35 GPE|36,37 GPE|40,42 GPE|25,28 ORG|26,27 PER|4,6 LOC|9,12 LOC
+34,35 GPE|36,37 GPE|40,42 GPE|25,28 ORG|26,27 PER|4,6 LOC|9,12 LOC
+
+the other is north korea .
+3,5 GPE
+3,5 GPE
+
+today , after a year working the problem , the clinton administration and the highest ranking official from there that ' s ever been here have had discussions , described to us as direct , and positive and warm .
+18,19 GPE|24,25 GPE|9,12 ORG|10,11 PER|13,25 PER|19,20 PER
+18,19 GPE|24,25 GPE|9,12 ORG|10,11 PER|13,25 PER|19,20 PER
+
+we ' ll get to korea in a minute .
+5,6 GPE|0,1 PER
+5,6 GPE|0,1 PER
+
+there is no substantial change for the better in the middle east tonight .
+9,12 LOC
+9,12 LOC
+
+israelis and palestinians still having the series of running battles to confirm each other ' s worst , even stereotype view of the other .
+0,1 GPE|2,3 GPE|12,14 GPE|22,24 GPE
+0,1 GPE|2,3 GPE|12,14 GPE|22,24 GPE
+
+abc ' s gillian finley begins in palestinian gaza .
+7,8 GPE|0,1 ORG|0,5 PER|7,9 LOC
+7,8 GPE|0,1 ORG|0,5 PER|7,9 LOC
+
+in gaza today , israeli soldiers opened fire on school boys , throwing stones .
+4,5 GPE|9,10 ORG|4,6 PER|9,14 PER|1,2 LOC
+4,5 GPE|9,10 ORG|4,6 PER|9,14 PER|1,2 LOC
+
+a 12 - year - old is in critical condition .
+0,6 PER
+0,6 PER
+
+in ramallah , troops battled older students in what has become a daily event here .
+1,2 GPE|14,15 GPE|3,4 PER|5,7 PER
+1,2 GPE|14,15 GPE|3,4 PER|5,7 PER
+
+but for the first time today , israel ' s military said the level of violence was significantly lower .
+7,8 GPE|7,11 ORG
+7,8 GPE|7,11 ORG
+
+and prime minister barak held open the possibility that the harsh action he has been threatening may not be needed .
+1,3 PER|1,4 PER|12,13 PER
+1,3 PER|1,4 PER|12,13 PER
+
+if there is a beginning of change , he said , we will take that into consideration .
+8,9 PER|11,12 PER
+8,9 PER|11,12 PER
+
+i think it helps .
+0,1 PER
+0,1 PER
+
+i think we need relative calm to work out these things .
+0,1 PER|2,3 PER
+0,1 PER|2,3 PER
+
+relative calm may have come to the palestinian territories , but in israel itself , tension is growing .
+7,8 GPE|12,14 GPE|13,14 GPE|6,9 LOC
+7,8 GPE|12,14 GPE|13,14 GPE|6,9 LOC
+
+particularly at night .
+
+
+
+in many cities , angry crowds roam the streets .
+1,3 GPE|4,6 PER|7,9 FAC
+1,3 GPE|4,6 PER|7,9 FAC
+
+jews and palestinians looking for confrontation .
+0,1 PER|2,3 PER
+0,1 PER|2,3 PER
+
+last night in tel aviv , jews attacked a restaurant and employs palestinians .
+3,5 GPE|8,13 ORG|6,7 PER|12,13 PER|8,13 FAC
+3,5 GPE|8,13 ORG|6,7 PER|12,13 PER|8,13 FAC
+
+" we want war , " the crowd chanted .
+1,2 PER|6,8 PER
+1,2 PER|6,8 PER
+
+today , one newspaper headline warned of civil war .
+
+
+
+israelis have so often felt insulated from this kind of violence .
+0,1 GPE
+0,1 GPE
+
+the last 13 days have changed all of that .
+
+
+
+gillian findlay , abc news , jerusalem .
+6,7 GPE|3,5 ORG|0,7 PER
+6,7 GPE|3,5 ORG|0,7 PER
+
+george w . bush is campaigning in the hotly contested sunshine state today .
+7,12 GPE|0,4 PER
+7,12 GPE|0,4 PER
+
+bush is stumping with his brother jeb , who is governor of the state .
+12,14 GPE|0,1 PER|4,5 PER|4,6 PER|4,14 PER|8,9 PER|10,14 PER
+12,14 GPE|0,1 PER|4,5 PER|4,6 PER|4,14 PER|8,9 PER|10,14 PER
+
+also on hand , arizona senator john m cain .
+4,5 GPE|4,6 PER|4,9 PER
+4,5 GPE|4,6 PER|4,9 PER
+
+meanwhile , gore is expected to deliver what aides are calling a major speech on education in tennessee this morning .
+17,18 GPE|2,3 PER|8,9 PER
+17,18 GPE|2,3 PER|8,9 PER
+
+the vice president is campaigning with running mate joe lieberman .
+0,3 PER|6,8 PER|6,10 PER
+0,3 PER|6,8 PER|6,10 PER
+
+polls in gore ' s home state show him nearly even with bush .
+2,7 GPE|2,3 PER|8,9 PER|12,13 PER
+2,7 GPE|2,3 PER|8,9 PER|12,13 PER
+
+nationwide , the race appears to be seesawing back and forth .
+
+
+
+we have not seen the lead change hands , after labor day , according to the gallup poll , in a presidential election since 1980 .
+16,17 ORG|0,1 PER
+16,17 ORG|0,1 PER
+
+this is the first time .
+
+
+
+in 1984 , 1988 , 1992 and 1996 , the candidate who was ahead on labor day never went behind .
+9,20 PER|11,12 PER
+9,20 PER|11,12 PER
+
+now , unless i ' ve lost track , because a ' s been a little hard to keep track , today is the fifth lead change in gallup polling after labor day between gore and bush .
+28,29 ORG|3,4 PER|34,35 PER|36,37 PER
+28,29 ORG|3,4 PER|34,35 PER|36,37 PER
+
+the lead did change hands .
+
+
+
+yesterday ' s cnn / " usa today " / gallup tracking poll shows gore with a slight edge for the first time in two weeks .
+3,4 ORG|6,8 ORG|10,11 ORG|14,15 PER
+3,4 ORG|6,8 ORG|10,11 ORG|14,15 PER
+
+the new numbers show that if the election were held today , 46 % of the likely voters questioned would choose gore .
+12,19 PER|15,19 PER|21,22 PER
+12,19 PER|15,19 PER|21,22 PER
+
+45 % would choose bush .
+0,2 PER|4,5 PER
+0,2 PER|4,5 PER
+
+but the pollsters say the change is statistically insignificant when the margin of error is considered .
+1,3 PER
+1,3 PER
+
+israeli helicopter gunships opened fire on a palestinian position in bethlehem overnight .
+0,1 GPE|7,8 GPE|10,11 GPE|0,3 VEH|6,11 LOC
+0,1 GPE|7,8 GPE|10,11 GPE|0,3 VEH|6,11 LOC
+
+the army says the choppers were firing on gunmen who were shooting at rachel ' s tomb for several hours .
+0,2 ORG|8,20 PER|9,10 PER|13,17 FAC|3,5 VEH
+0,2 ORG|8,20 PER|9,10 PER|13,17 FAC|3,5 VEH
+
+that holy shrine is the traditional burial place of the biblical matriarch .
+9,12 PER|0,3 FAC|4,12 FAC
+9,12 PER|0,3 FAC|4,12 FAC
+
+at least 25 palestinians were wounded in gun battles with israeli troops yesterday .
+10,11 GPE|0,4 PER|10,12 PER|7,8 WEA
+10,11 GPE|0,4 PER|10,12 PER|7,8 WEA
+
+earlier , two israeli soldiers were stabbed at a roadblock north of jerusalem .
+3,4 GPE|12,13 GPE|2,5 PER|8,13 FAC
+3,4 GPE|12,13 GPE|2,5 PER|8,13 FAC
+
+meantime , aides to israeli prime minister ehud barak say israel is willing to cooperate with a u . s . - led inquiry into the violence that has killed at least 319 people .
+4,5 GPE|10,11 GPE|17,20 GPE|2,9 PER|4,7 PER|4,9 PER|30,34 PER
+4,5 GPE|10,11 GPE|17,20 GPE|2,9 PER|4,7 PER|4,9 PER|30,34 PER
+
+investigators are expected to arrive in mid - december .
+0,1 PER
+0,1 PER
+
+the Legend of Bagger Vants directed by Robert Redford is the latest movie to bring the game of golf to the screen and is one of the most popular attractions of theaters in the United States .
+33,36 GPE|31,36 ORG|7,9 PER
+33,36 GPE|31,36 ORG|7,9 PER
+
+Entertainment reporter Chuck Rich discussed this and previous golf films with VOA ' s Dave Arlington .
+11,12 ORG|0,2 PER|0,4 PER|11,16 PER
+11,12 ORG|0,2 PER|0,4 PER|11,16 PER
+
+The movies ' The Natural ' and ' Feel The Dreams ' brought mystical and nostalgic qualities to baseball and The Legend of Bagger Vants , set during the economic depression over the 1920s and 1930s , does the same thing for golf .
+
+
+
+Will Smith plays a caddy who revives the confidence , as well as the skill of a golfer whose glory has faded .
+0,2 PER|3,22 PER|5,6 PER|16,22 PER|18,19 PER
+0,2 PER|3,22 PER|5,6 PER|16,22 PER|18,19 PER
+
+You know I understood everything Will Smith said in films like " Men in Black " and " Independence Day . "
+0,1 PER|2,3 PER|5,7 PER
+0,1 PER|2,3 PER|5,7 PER
+
+What was he talking about there ?
+2,3 PER
+2,3 PER
+
+Beats the heck out of me .
+5,6 PER
+5,6 PER
+
+Seriously , I think golf and many golf films can be whatever you interpret them to be , what the player or the moviegoer decides they ' ll be .
+2,3 PER|12,13 PER|19,21 PER|22,24 PER
+2,3 PER|12,13 PER|19,21 PER|22,24 PER
+
+Some people consider golf to be a silly and dull game , following a little ball around the course , others , including some filmmakers , view it as a symbol or as a gauge of a person ' s philosophy or psychology .
+0,2 PER|20,25 PER|23,25 PER|36,38 PER|17,19 FAC
+0,2 PER|20,25 PER|23,25 PER|36,38 PER|17,19 FAC
+
+For example in the 1996 movie " Tin Cup " with Kevin Costner and Cheech Merrin , what might be an embarrassing experience in one golfers past is for him a badge of honor .
+11,13 PER|14,16 PER|24,26 PER|29,30 PER
+11,13 PER|14,16 PER|24,26 PER|29,30 PER
+
+Do you have to like golf to like golf movies ?
+1,2 PER
+1,2 PER
+
+It helps , but it ' s not necessary .
+
+
+
+Some filmmakers and performers used golf as a setting for broad comedy with potential appeal both inside and outside of the sport .
+0,4 PER
+0,4 PER
+
+The 1996 golf movie " Happy Gilmore " starring and co - written by Adam Sandler , placed the temperamental ice hockey player in a professional sport that some people consider refine .
+14,16 PER|18,23 PER|28,30 PER
+14,16 PER|18,23 PER|28,30 PER
+
+Golf can be a very frustrating game .
+
+
+
+So , any golfer I guess would understand that gag in " Happy Gilmore . "
+2,4 PER|4,5 PER
+2,4 PER|4,5 PER
+
+And anyone who dislikes or is bored by golf , might appreciate seeing the game played for laughs there .
+1,9 PER|2,3 PER
+1,9 PER|2,3 PER
+
+What is your take on golf movies ?
+2,3 PER
+2,3 PER
+
+I only play miniature golf and I don ' t watch golf on television .
+0,1 PER|6,7 PER
+0,1 PER|6,7 PER
+
+I think I am one of the people filmmakers are thinking of , when they try to give a golf movie wide appeal , humor , or a love story for example .
+0,1 PER|2,3 PER|4,32 PER|6,32 PER|8,9 PER|14,15 PER
+0,1 PER|2,3 PER|4,32 PER|6,32 PER|8,9 PER|14,15 PER
+
+One film that ' s attracted a lot of golf loving fans over the years is 1980s " Caddy Shack " .
+6,12 PER
+6,12 PER
+
+Set at the exclusive Bush Wood country club , it ' s about class conflict or as movie advertising sometimes calls it , the snobs versus the flops .
+23,25 PER|26,28 PER|2,8 FAC
+23,25 PER|26,28 PER|2,8 FAC
+
+Here is one golfer in " Caddy Shack " played by Rodney Dangerfield , bothering another , a judge played by the late Ted Night .
+2,25 PER|11,13 PER|15,16 PER|17,25 PER|21,25 PER
+2,25 PER|11,13 PER|15,16 PER|17,25 PER|21,25 PER
+
+As a comedian , Rodney Dangerfield often says he gets no respect , but weren ' t the filmmakers is really showing their respect for him and his drawing power by casting him in this film ?
+1,3 PER|4,6 PER|8,9 PER|17,19 PER|22,23 PER|25,26 PER|27,28 PER|32,33 PER
+1,3 PER|4,6 PER|8,9 PER|17,19 PER|22,23 PER|25,26 PER|27,28 PER|32,33 PER
+
+I think Dangerfield was a big selling point who attracted a lot of his fans , who include me , to see " Caddy Shack . "
+0,1 PER|2,3 PER|4,27 PER|8,9 PER|10,19 PER|13,14 PER|13,19 PER|18,19 PER
+0,1 PER|2,3 PER|4,27 PER|8,9 PER|10,19 PER|13,14 PER|13,19 PER|18,19 PER
+
+I don ' t think it ' s a very good film , but it ' s a popular one and the music in " Caddy Shack " got some attention too .
+0,1 PER
+0,1 PER
+
+We ' re going to finish up our cinematic round of golf with some of that .
+0,1 PER|7,8 PER
+0,1 PER|7,8 PER
+
+Thank you , Chuck .
+1,2 PER|3,4 PER
+1,2 PER|3,4 PER
+
+You ' re welcome , Dave .
+0,1 PER|5,6 PER
+0,1 PER|5,6 PER
+
+like many heartland states , iowa has had trouble keeping young people down on the farm or anywhere within state lines .
+1,4 GPE|5,6 GPE|19,20 GPE|10,12 PER|14,16 FAC|2,3 LOC|17,21 LOC|19,21 LOC
+1,4 GPE|5,6 GPE|19,20 GPE|10,12 PER|14,16 FAC|2,3 LOC|17,21 LOC|19,21 LOC
+
+with population waning , the state is looking beyond its borders for newcomers .
+4,6 GPE|9,10 GPE|12,13 PER|9,11 LOC
+4,6 GPE|9,10 GPE|12,13 PER|9,11 LOC
+
+as abc ' s jim sciutto reports , one little town may provide a big lesson .
+8,11 GPE|1,2 ORG|1,6 PER
+8,11 GPE|1,2 ORG|1,6 PER
+
+on homecoming night postville feels like hometown , usa , but a look around this town of 2 , 000 shows it ' s become a miniature ellis island .
+3,4 GPE|6,9 GPE|8,9 GPE|14,20 GPE|21,22 GPE|25,29 GPE|17,20 PER
+3,4 GPE|6,9 GPE|8,9 GPE|14,20 GPE|21,22 GPE|25,29 GPE|17,20 PER
+
+this was an all - white , all - christian community that all the sudden was taken over - - not taken over , that ' s a very bad choice of words , but invaded by , perhaps different groups .
+0,1 GPE|2,41 GPE|11,12 GPE|3,6 PER|7,10 PER|39,41 PER
+0,1 GPE|2,41 GPE|11,12 GPE|3,6 PER|7,10 PER|39,41 PER
+
+it began when a hasidic jewish family bought one of the town ' s two meat - packing plants 13 years ago .
+10,12 GPE|3,7 PER|4,6 PER|8,19 FAC|10,19 FAC
+10,12 GPE|3,7 PER|4,6 PER|8,19 FAC|10,19 FAC
+
+first they brought in other hasidic jews , then mexicans , palestinians , ukrainians .
+1,2 PER|4,7 PER|9,10 PER|11,12 PER|13,14 PER
+1,2 PER|4,7 PER|9,10 PER|11,12 PER|13,14 PER
+
+the plant and another next store changed the face of postville .
+10,11 GPE|0,2 FAC|3,6 FAC
+10,11 GPE|0,2 FAC|3,6 FAC
+
+i think postville might be catching up with the rest of america .
+2,3 GPE|8,12 GPE|11,12 GPE|0,1 PER
+2,3 GPE|8,12 GPE|11,12 GPE|0,1 PER
+
+if you look all over america , if you did a study of any great city , you would see the same thing .
+5,6 GPE|13,16 GPE|1,2 PER|8,9 PER|17,18 PER
+5,6 GPE|13,16 GPE|1,2 PER|8,9 PER|17,18 PER
+
+the plants helped spur economic development in a town that had long been stagnant .
+7,14 GPE|9,10 GPE|0,2 FAC
+7,14 GPE|9,10 GPE|0,2 FAC
+
+stores are expanding .
+0,1 FAC
+0,1 FAC
+
+new apartments and houses are being built .
+0,4 FAC
+0,4 FAC
+
+and there are hundreds of new jobs , making unemployment almost nonexistent .
+
+
+
+what else would you like ?
+3,4 PER
+3,4 PER
+
+postville now has 22 different nationalities , but some resident haven ' t welcomed the newcomers .
+0,1 GPE|8,10 PER|14,16 PER
+0,1 GPE|8,10 PER|14,16 PER
+
+they have no insurance on their cars .
+0,1 PER|5,6 PER|5,7 VEH
+0,1 PER|5,6 PER|5,7 VEH
+
+they don ' t stop at stop signs .
+0,1 PER
+0,1 PER
+
+they do not put their children in a cash - - they ' re never heard of a car seat .
+0,1 PER|4,5 PER|4,6 PER|11,12 PER|18,19 VEH
+0,1 PER|4,5 PER|4,6 PER|11,12 PER|18,19 VEH
+
+you know we ' ve been here a long time and i think most people would meet them halfway , but that doesn ' t seem to be what they want .
+6,7 GPE|0,1 PER|2,3 PER|11,12 PER|13,15 PER|17,18 PER|29,30 PER
+6,7 GPE|0,1 PER|2,3 PER|11,12 PER|13,15 PER|17,18 PER|29,30 PER
+
+for those who prefer the old postville , mayor john hyman has a simple answer .
+4,7 GPE|1,7 PER|2,3 PER|8,9 PER|8,11 PER
+4,7 GPE|1,7 PER|2,3 PER|8,9 PER|8,11 PER
+
+i just tell them , you ' ve got to change .
+0,1 PER|3,4 PER|5,6 PER
+0,1 PER|3,4 PER|5,6 PER
+
+they ' re here to stay .
+3,4 GPE|0,1 PER
+3,4 GPE|0,1 PER
+
+they ' re not gonna leave .
+0,1 PER
+0,1 PER
+
+and you ' re going to have to adapt to these people .
+1,2 PER|10,12 PER
+1,2 PER|10,12 PER
+
+iowa ' s governor is now looking to follow postville ' s example , relaxing immigration quoteios .
+0,1 GPE|9,10 GPE|0,4 PER
+0,1 GPE|9,10 GPE|0,4 PER
+
+it ' s a goal that seems possible when on homecoming night the starting kicker is 14 - year - old nikita kargalskiy , who may be 5 , 000 miles from his hometown in russia .
+32,36 GPE|35,36 GPE|12,15 PER|16,36 PER|24,25 PER|32,33 PER
+32,36 GPE|35,36 GPE|12,15 PER|16,36 PER|24,25 PER|32,33 PER
+
+jim sciutto , abc news , postville iowa .
+6,8 GPE|7,8 GPE|3,5 ORG|0,2 PER
+6,8 GPE|7,8 GPE|3,5 ORG|0,2 PER
+
+the federal reserve considers interest rates .
+0,3 ORG
+0,3 ORG
+
+and some key economic reports come out this week .
+
+
+
+kitty pilgrim has more in today ' s edition of " ahead of the curve . "
+0,2 PER
+0,2 PER
+
+wall street will be on fed watch this week .
+0,2 ORG|5,6 ORG
+0,2 ORG|5,6 ORG
+
+on tuesday , the federal reserve open market committee meets for the final time this year to discuss interest rates .
+3,9 ORG|4,6 ORG
+3,9 ORG|4,6 ORG
+
+recent economic reports indicate the economy is slowing , leading analysts to believe that the fed will most likely ease the inflation - fighting policy and take a more neutral stance .
+14,16 ORG|9,11 PER
+14,16 ORG|9,11 PER
+
+now , the fed has held rates steady in its last four meetings .
+2,4 ORG
+2,4 ORG
+
+also tuesday , october international trade figures are out .
+
+
+
+the deficit is expected to drop from september ' s record high of $ 34 . 3 billion , to just over $ 33 billion .
+
+
+
+also this week , november housing starts , which are forecast to hold steady .
+
+
+
+and the revised third - quarter gross domestic product is expected to remain in line with previous figures , up to . 4 % .
+
+
+
+rounding out the week , november personal income and outlays figures and november durable goods .
+
+
+
+personal income and spending are both expected to rise .
+
+
+
+and sales of durable goods should climb slightly for the month , as well .
+
+
+
+to stay " ahead of the curve " all week long , watch " the moneyline news hour " with willow bay and stewart varney , week nights at on cnn .
+30,31 ORG|20,22 PER|23,25 PER
+30,31 ORG|20,22 PER|23,25 PER
+
+kitty pilgrim , " cnn financial news , " new york .
+9,11 GPE|4,7 ORG|0,2 PER
+9,11 GPE|4,7 ORG|0,2 PER
+
+former russian president boris yeltsin takes readers behind closed doors at the kremlin in his new book .
+1,2 GPE|0,3 PER|0,5 PER|6,7 PER|14,15 PER|11,13 FAC
+1,2 GPE|0,3 PER|0,5 PER|6,7 PER|14,15 PER|11,13 FAC
+
+yeltsin writes in " midnight diaries " that he received intelligence reports about the monica lewinsky scandal before it went public , but he chose not to warn president clinton .
+0,1 PER|8,9 PER|14,16 PER|23,24 PER|28,29 PER|28,30 PER
+0,1 PER|8,9 PER|14,16 PER|23,24 PER|28,29 PER|28,30 PER
+
+he says he " thought clinton could handle it himself . "
+0,1 PER|2,3 PER|5,6 PER|9,10 PER
+0,1 PER|2,3 PER|5,6 PER|9,10 PER
+
+yeltsin also admits he was drunk when he grabbed a baton and struck up a military orchestra in berlin six years ago .
+18,19 GPE|14,17 ORG|15,16 ORG|0,1 PER|3,4 PER|7,8 PER
+18,19 GPE|14,17 ORG|15,16 ORG|0,1 PER|3,4 PER|7,8 PER
+
+microsoft confirms hackers broke into the company ' s computer network and gained access to software code information .
+0,1 ORG|5,7 ORG|2,3 PER
+0,1 ORG|5,7 ORG|2,3 PER
+
+the fbi is investigating .
+0,2 ORG
+0,2 ORG
+
+a microsoft executive calls the break - in an " issue of great importance , " but says none of the codes were tampered with .
+1,2 ORG|0,3 PER
+1,2 ORG|0,3 PER
+
+the company says computers running microsoft software shouldn ' t be affected .
+0,2 ORG|5,6 ORG
+0,2 ORG|5,6 ORG
+
+" the wall street journal " reports the break - in was discovered wednesday .
+1,5 ORG
+1,5 ORG
+
+" the journal " says security employees found passwords used to transfer codes were being sent to an e - mail address in st . petersburg , russia .
+23,28 GPE|27,28 GPE|1,3 ORG|5,7 PER
+23,28 GPE|27,28 GPE|1,3 ORG|5,7 PER
+
+01 : 45 Universal Time .
+
+
+
+This is VOA News now .
+2,4 ORG
+2,4 ORG
+
+A new and simple blood test may soon be available to help doctors tell which of their diabetic patients is most likely to develop crippling and life - threatening complications .
+12,13 PER|16,17 PER|16,19 PER
+12,13 PER|16,17 PER|16,19 PER
+
+VOA ' s Jessica Berman explains .
+0,1 ORG|0,5 PER
+0,1 ORG|0,5 PER
+
+Researcher Andrew Levi says scientists have long being puzzled by the question of which diabetics develop complications and why .
+0,1 PER|0,3 PER|4,5 PER|13,15 PER
+0,1 PER|0,3 PER|4,5 PER|13,15 PER
+
+We know that the complications are directly related to a couple of things .
+0,1 PER
+0,1 PER
+
+One is how long you ' ve had the diabetes , how well you ' ve been controlled , but it ' s clear that people with the same level of control of their glucose , same duration of the diabetes differ dramatically in their susceptibility to these complications that are so devastating .
+4,5 PER|13,14 PER|25,41 PER|33,34 PER|44,45 PER
+4,5 PER|13,14 PER|25,41 PER|33,34 PER|44,45 PER
+
+Dr . Levi says one third of insulin taking patients ends up with kidney failure and 80 % develop blinding eye disease .
+0,1 PER|0,3 PER|4,10 PER|7,10 PER|16,18 PER
+0,1 PER|0,3 PER|4,10 PER|7,10 PER|16,18 PER
+
+Scientists have suspected there must be something different about the genetic make up of diabetics who develop complications ; and that difference may have to do with haptoglobin , a protein whose function is to mop up blood vessel destroying free radicals .
+0,1 PER|14,18 PER|15,16 PER
+0,1 PER|14,18 PER|15,16 PER
+
+The free radicals are released when oxygen carrying red blood cells called haemoglobin die .
+
+
+
+Andrew Levi says there are three different types of haptoglobin and he and his colleagues at Israel ' s Technion Institute have found that one type of haptoglobin called Type 1 - 1 appears protective against diabetic complications while the other two types do not .
+16,17 GPE|16,21 ORG|0,2 PER|11,12 PER|13,14 PER|13,21 PER
+16,17 GPE|16,21 ORG|0,2 PER|11,12 PER|13,14 PER|13,21 PER
+
+Researchers at Technion Institute led by Dr . Levi have developed a simple blood test to let doctors and patients know who is most likely to develop diabetic complications .
+2,4 ORG|0,9 PER|6,7 PER|6,9 PER|17,18 PER|19,20 PER|21,22 PER
+2,4 ORG|0,9 PER|6,7 PER|6,9 PER|17,18 PER|19,20 PER|21,22 PER
+
+In a person that ' s not at high risk , when I tell them to go out and start eating badly and not worrying about it , no , that would be not warranted because they are certainly are going to be other complications potentially in diabetes that are not going to be explained by this type .
+1,10 PER|3,4 PER|12,13 PER|14,15 PER
+1,10 PER|3,4 PER|12,13 PER|14,15 PER
+
+I ' ll tell you that what I ' m most excited about this test I think is simple to apply and I think we can appreciate its immediate use in trying to figure out who is at high risk .
+0,1 PER|4,5 PER|7,8 PER|15,16 PER|22,23 PER|24,25 PER|35,36 PER
+0,1 PER|4,5 PER|7,8 PER|15,16 PER|22,23 PER|24,25 PER|35,36 PER
+
+But because I really think it gives us a real insight into how to prevent these complications , what I ' m really excited about is we are really going to find out an oral simple medication here .
+2,3 PER|7,8 PER|19,20 PER|26,27 PER
+2,3 PER|7,8 PER|19,20 PER|26,27 PER
+
+It ' s going to basically reproduce what the haptoglobin 1 - 1 type is doing and I think that we are going to be able to basically make people equivalent to haptoglobin Type 1 - 1 .
+17,18 PER|29,30 PER
+17,18 PER|29,30 PER
+
+It ' s the type to prevent these complications from developing .
+
+
+
+Israeli researchers recently described in the New England Journal of Medicine , the results of a small trial with the blood test .
+0,1 GPE|0,2 PER
+0,1 GPE|0,2 PER
+
+Of 12 participants with the more protective haptoglobin only one had eye disease .
+1,8 PER|9,10 PER
+1,8 PER|9,10 PER
+
+Robert Sherwin is President of the American Diabetes Association .
+6,9 ORG|0,2 PER|3,9 PER
+6,9 ORG|0,2 PER|3,9 PER
+
+Dr . Sherwin says a haptoglobin test looks promising .
+0,1 PER|0,3 PER
+0,1 PER|0,3 PER
+
+Because right now we don ' t have any such test available .
+3,4 PER
+3,4 PER
+
+We treat all people the same way .
+0,1 PER|2,4 PER
+0,1 PER|2,4 PER
+
+There is no question that if one could identify prospectively people at risk the approach to therapy would be very different in different individuals and clearly those people who are at greatest risk we would be much quicker and intervening more aggressively in various aspects of care .
+6,7 PER|10,13 PER|22,24 PER|26,33 PER|28,29 PER|33,34 PER
+6,7 PER|10,13 PER|22,24 PER|26,33 PER|28,29 PER|33,34 PER
+
+The blood test is currently undergoing large - scale clinical trials in Israel , the first step toward getting it approved by government regulators around the world .
+12,13 GPE|22,27 PER|25,27 LOC
+12,13 GPE|22,27 PER|25,27 LOC
+
+Jessica Bermen , VOA News , Washington .
+6,7 GPE|3,5 ORG|0,2 PER
+6,7 GPE|3,5 ORG|0,2 PER
+
+if you ask the gore campaign , the fight is far from over .
+3,6 ORG|1,2 PER|4,5 PER
+3,6 ORG|1,2 PER|4,5 PER
+
+there position was to stand and fight today .
+0,1 ORG
+0,1 ORG
+
+our report tonight from claire shipman .
+0,1 ORG|4,6 PER
+0,1 ORG|4,6 PER
+
+a confident and seemingly relaxed al gore out for a run in nashville .
+12,13 GPE|0,13 PER
+12,13 GPE|0,13 PER
+
+mr . vice president , did you win the election , sir ?
+0,1 PER|0,4 PER|11,12 PER
+0,1 PER|0,4 PER|11,12 PER
+
+we ' re having here .
+0,1 PER
+0,1 PER
+
+he is he fethively starting a second campaign for the white house , this one in the court of public opinion .
+9,12 ORG|0,1 PER
+9,12 ORG|0,1 PER
+
+his campaign chairman in florida with a tough message .
+4,5 GPE|0,1 PER|0,5 PER
+4,5 GPE|0,1 PER|0,5 PER
+
+what beff learned has left us deeply trubblingd troubled .
+5,6 PER
+5,6 PER
+
+calling for a hand recount in some florida counties and announcing .
+6,9 GPE|7,8 GPE
+6,9 GPE|7,8 GPE
+
+campaign will support lawsuits over the issue of ball olt irregularities in palm beach .
+12,14 GPE
+12,14 GPE
+
+if the will of the people is to prevail , al gore should be our next president the
+4,6 GPE|14,15 GPE|10,12 PER|14,17 PER
+4,6 GPE|14,15 GPE|10,12 PER|14,17 PER
+
+former secretary of state warren christopher also pushes the issue hard .
+3,4 ORG|0,4 PER|0,6 PER
+3,4 ORG|0,4 PER|0,6 PER
+
+arising out of this the need for redress to make sure the will of the people can be properly honored in this situation .
+14,16 GPE
+14,16 GPE
+
+and daley , turning up the rhetoric substantially , criticizes the behavior of the bush campaign .
+13,16 ORG|1,2 PER|14,15 PER
+13,16 ORG|1,2 PER|14,15 PER
+
+i believe actions , to try and put in place a transition , run the risk of dividing the american people and creating a sense of confusion .
+18,21 GPE|19,20 GPE|0,1 PER
+18,21 GPE|19,20 GPE|0,1 PER
+
+gore officials , meanwhile , under siege by reporters in nashville .
+10,11 GPE|0,1 PER|0,2 PER|8,11 PER
+10,11 GPE|0,1 PER|0,2 PER|8,11 PER
+
+i think we our seat belts on .
+0,1 PER|2,3 PER|3,4 PER
+0,1 PER|2,3 PER|3,4 PER
+
+they gore is not simply trying to drag out the inevitable , that he does have a shot at winning with a careful shot of legal and public relations tactics .
+0,1 PER|1,2 PER|13,14 PER
+0,1 PER|1,2 PER|13,14 PER
+
+once again there ' ll be two presidential candidates missing form the debate .
+6,9 PER
+6,9 PER
+
+pat buchanan hardly registers on the political radar this year .
+0,2 PER
+0,2 PER
+
+and ralph nader , who may make the difference between a gore or bush win in several places .
+16,18 GPE|1,18 PER|4,5 PER|11,12 PER|13,14 PER
+16,18 GPE|1,18 PER|4,5 PER|11,12 PER|13,14 PER
+
+abc ' s linda douglas was with his campaign over the weekend .
+0,1 ORG|7,9 ORG|0,5 PER|7,8 PER
+0,1 ORG|7,9 ORG|0,5 PER|7,8 PER
+
+ralph nader says his campaign is starting to take off .
+0,2 PER|3,4 PER
+0,2 PER|3,4 PER
+
+do you feel momentum from last night ?
+1,2 PER
+1,2 PER
+
+yeah .
+
+
+
+well , it was pretty big .
+
+
+
+7777
+
+
+
+at a nader rally in madison square garden , 15 , 000 people joined actors tim robbins , susan sarandon and other stars to hear his message - - that average americans are powerless .
+2,3 PER|9,13 PER|14,15 PER|14,17 PER|18,20 PER|21,23 PER|25,26 PER|30,32 PER|5,8 FAC
+2,3 PER|9,13 PER|14,15 PER|14,17 PER|18,20 PER|21,23 PER|25,26 PER|30,32 PER|5,8 FAC
+
+they have lost control of their government .
+5,7 ORG|0,1 PER|5,6 PER
+5,7 ORG|0,1 PER|5,6 PER
+
+they have lost control of their workplace .
+0,1 PER|5,6 PER
+0,1 PER|5,6 PER
+
+nader condemns corporations , drug companies , pesticide manufacturers , banks , landlords , the media .
+2,3 ORG|4,6 ORG|7,9 ORG|10,11 ORG|14,16 ORG|0,1 PER|12,13 PER
+2,3 ORG|4,6 ORG|7,9 ORG|10,11 ORG|14,16 ORG|0,1 PER|12,13 PER
+
+his supporters say they don ' t care that he has no chance to become president .
+0,1 PER|0,2 PER|3,4 PER|9,10 PER|15,16 PER
+0,1 PER|0,2 PER|3,4 PER|9,10 PER|15,16 PER
+
+i want to see my vote as a statement that i will no longer compromise .
+0,1 PER|4,5 PER|10,11 PER
+0,1 PER|4,5 PER|10,11 PER
+
+nader says george bush and al gore are essentially corrupt .
+0,1 PER|2,4 PER|5,7 PER
+0,1 PER|2,4 PER|5,7 PER
+
+here ' s the difference between bush and gore when it comes to corporate power .
+6,7 PER|8,9 PER
+6,7 PER|8,9 PER
+
+it ' s velocity with which their knees hit the floor when corporations knock on their doors .
+12,13 ORG|6,7 PER
+12,13 ORG|6,7 PER
+
+applause
+
+
+
+in a year when most candidates are afraid of appearing negative , ralph nader attacks his rivals with gusto .
+4,6 PER|12,14 PER|15,16 PER
+4,6 PER|12,14 PER|15,16 PER
+
+george w . bush is really a big corporation running for president disguised as a human being .
+0,4 PER|6,17 PER|11,12 PER|14,17 PER
+0,4 PER|6,17 PER|11,12 PER|14,17 PER
+
+butader is most critical of al gore , often when speaking to democrats .
+0,1 PER|5,7 PER|12,13 PER
+0,1 PER|5,7 PER|12,13 PER
+
+he has betrayed , he has lied , he has deceived , he has dissembled .
+0,1 PER|4,5 PER|8,9 PER|12,13 PER
+0,1 PER|4,5 PER|8,9 PER|12,13 PER
+
+democrats fear nader may make a differee in some key states , like washington and wisconsin , luring voters away from gore and handing the election to bush .
+8,16 GPE|13,14 GPE|15,16 GPE|0,1 PER|2,3 PER|18,19 PER|21,22 PER|27,28 PER
+8,16 GPE|13,14 GPE|15,16 GPE|0,1 PER|2,3 PER|18,19 PER|21,22 PER|27,28 PER
+
+you know , some of the democrats are going to blame you if gore loses .
+0,1 PER|3,7 PER|5,7 PER|11,12 PER|13,14 PER
+0,1 PER|3,7 PER|5,7 PER|11,12 PER|13,14 PER
+
+they ought to blame themselves .
+0,1 PER|4,5 PER
+0,1 PER|4,5 PER
+
+who do you think is going to win this year ?
+0,1 PER|2,3 PER
+0,1 PER|2,3 PER
+
+i don ' t know .
+0,1 PER
+0,1 PER
+
+it ' s very close .
+
+
+
+do you care ?
+1,2 PER
+1,2 PER
+
+no .
+
+
+
+he says this year ' s campaign is really abt the next election , about building a serious third party and qualifying for federal campaign money .
+16,20 ORG|0,1 PER
+16,20 ORG|0,1 PER
+
+thanks for running .
+
+
+
+thanks for voting .
+
+
+
+nader is never happier than when he is taking on the system .
+0,1 PER|6,7 PER
+0,1 PER|6,7 PER
+
+linda douglass , abc news , piscataway , new jersey .
+6,10 GPE|8,10 GPE|3,5 ORG|0,2 PER
+6,10 GPE|8,10 GPE|3,5 ORG|0,2 PER
+
+More torrential rain in Southern Vietnam is hampering relief efforts for thousands of flood victims .
+11,15 PER|4,6 LOC
+11,15 PER|4,6 LOC
+
+Many of them are stranded amid scenes of desolation .
+0,3 PER|2,3 PER
+0,3 PER|2,3 PER
+
+More than 200 people have died , most of them children .
+0,4 PER|7,10 PER|9,10 PER|10,11 PER
+0,4 PER|7,10 PER|9,10 PER|10,11 PER
+
+Owen Benajones reports .
+0,2 PER
+0,2 PER
+
+A significant proportion of the Mekong delta is now under water .
+0,7 LOC|4,7 LOC
+0,7 LOC|4,7 LOC
+
+In upstream areas near the border with Cambodia , the water level is declining but it ' s doing so very slowly , partly because of the new torrential rains .
+7,8 GPE|1,8 LOC|4,8 LOC
+7,8 GPE|1,8 LOC|4,8 LOC
+
+And as the water moves downstream towards the sea , the flood is spreading ever wider , and in some places getting still deeper .
+7,9 LOC
+7,9 LOC
+
+The authorities have started building sandbag walls to protect the main road into Vietnam ' s commercial capital , Ho Chi Min city .
+13,14 GPE|13,18 GPE|19,23 GPE|0,2 PER|5,7 FAC|9,23 FAC
+13,14 GPE|13,18 GPE|19,23 GPE|0,2 PER|5,7 FAC|9,23 FAC
+
+The Red Cross estimates that as things stand , around 50 , 000 families are in need of assistance .
+0,3 ORG|9,14 PER
+0,3 ORG|9,14 PER
+
+Owen Benajones , BBC News , Hanoi .
+6,7 GPE|3,5 ORG|0,2 PER
+6,7 GPE|3,5 ORG|0,2 PER
+
+For today ' s musical closure , we meet a band that ' s just recorded it ' s own rendition of a pop hit made famous by Sarah McClauclin .
+9,30 ORG|11,12 ORG|16,17 ORG|7,8 PER|28,30 PER
+9,30 ORG|11,12 ORG|16,17 ORG|7,8 PER|28,30 PER
+
+It ' s only fair , the band called Solace helped McClauclin write the Grammy winner ' I will remember you ' .
+6,10 ORG|9,10 ORG|11,12 PER|17,18 PER|20,21 PER
+6,10 ORG|9,10 ORG|11,12 PER|17,18 PER|20,21 PER
+
+Solace , though , is not just another folk pop band , it ' s really known for it ' s traditional Irish music .
+22,23 GPE|0,1 ORG|7,11 ORG|12,13 ORG|18,19 ORG
+22,23 GPE|0,1 ORG|7,11 ORG|12,13 ORG|18,19 ORG
+
+The World ' s Stephen Snyder has our story .
+7,8 ORG|0,6 PER
+7,8 ORG|0,6 PER
+
+Like the famous Irish group the Chieftains and Alton , the group Solace frequently headlines in Celtic festivals .
+3,4 GPE|1,5 ORG|5,7 ORG|8,9 ORG|10,12 ORG|10,13 ORG|16,17 PER
+3,4 GPE|1,5 ORG|5,7 ORG|8,9 ORG|10,12 ORG|10,13 ORG|16,17 PER
+
+They bring audiences to their feet with virtual self playing of traditional fiddle tunes , jigs and reals .
+0,1 ORG|2,3 PER|4,5 PER
+0,1 ORG|2,3 PER|4,5 PER
+
+But unlike the other stars of the Irish circuit , Solace got their start in the United States .
+7,8 GPE|15,18 GPE|10,11 ORG|12,13 ORG|2,9 PER
+7,8 GPE|15,18 GPE|10,11 ORG|12,13 ORG|2,9 PER
+
+Three members of Solace , including superstar fiddler Winfred Horan are Irish Americans , the remaining two are Irish transplants living in New York city .
+11,12 GPE|18,19 GPE|22,25 GPE|3,4 ORG|0,10 PER|6,7 PER|6,8 PER|6,10 PER|11,13 PER|14,17 PER|18,25 PER
+11,12 GPE|18,19 GPE|22,25 GPE|3,4 ORG|0,10 PER|6,7 PER|6,8 PER|6,10 PER|11,13 PER|14,17 PER|18,25 PER
+
+Winfred Horan stepped into Irish music literally .
+4,5 GPE|0,2 PER
+4,5 GPE|0,2 PER
+
+From childhood she competed in Irish step dancing competitions winning nine North American titles .
+5,6 GPE|11,13 GPE|2,3 PER
+5,6 GPE|11,13 GPE|2,3 PER
+
+She also took up traditional fiddle at a young age , but soon turned to classical violin .
+0,1 PER
+0,1 PER
+
+She devoted fifteen years to classical training and performance including string quartets , orchestras and a stint with the Boston Pops before returning to Irish music in the early 90 ' s .
+24,25 GPE|10,12 ORG|13,14 ORG|18,21 ORG|0,1 PER
+24,25 GPE|10,12 ORG|13,14 ORG|18,21 ORG|0,1 PER
+
+Flute player Shamus Eagan comes from Pennsylvania .
+6,7 GPE|0,2 PER|0,4 PER
+6,7 GPE|0,2 PER|0,4 PER
+
+In Solace he serves as the utility player , handling not only flute but also the Irish hand drum , the Boran and the Indian pipes .
+16,17 GPE|24,25 GPE|1,2 ORG|2,3 PER|5,26 PER
+16,17 GPE|24,25 GPE|1,2 ORG|2,3 PER|5,26 PER
+
+And Eagan is the only American ever to have won four all Ireland championships , for banjo , tin whistle , flute and mandolin playing .
+12,13 GPE|1,2 PER|3,25 PER
+12,13 GPE|1,2 PER|3,25 PER
+
+Eagan ' s work on the film score for the Brothers McMollin , let him to co - author a song with folk pop diva Sarah McClauklin .
+0,1 PER|14,15 PER|22,25 PER|22,27 PER
+0,1 PER|14,15 PER|22,25 PER|22,27 PER
+
+On this new CD from Solace , ' The hour before dawn ' , Eagan and the group offer a traditional re - rendering of the song McClauklin made famous , ' I will remember you ' .
+5,6 ORG|16,18 ORG|14,15 PER|27,28 PER|32,33 PER|35,36 PER
+5,6 ORG|16,18 ORG|14,15 PER|27,28 PER|32,33 PER|35,36 PER
+
+That ' s Dierdre Scandlin , the newest member of Solace , who came to the group just last year .
+10,11 ORG|15,17 ORG|3,5 PER|6,20 PER|12,13 PER
+10,11 ORG|15,17 ORG|3,5 PER|6,20 PER|12,13 PER
+
+She says singing a song that Sarah McClauklin had already recorded twice was a little intimidating .
+0,1 PER|6,8 PER
+0,1 PER|6,8 PER
+
+But the group made a conscious attempt to come up with the version that would stand on its own , and it does .
+1,3 ORG
+1,3 ORG
+
+For The World , I am Stephen Snyder .
+4,5 PER|6,8 PER
+4,5 PER|6,8 PER
+
+the dixie chicks are the big winners at the country music awards in nashville .
+13,14 GPE|0,3 ORG|4,14 ORG
+13,14 GPE|0,3 ORG|4,14 ORG
+
+the group won four awards - - entertainer of the year , best vocal group , best album for " fly , " and music video of the year for " goodbye , earl . "
+0,2 ORG
+0,2 ORG
+
+faith hill received the female vocalist award .
+0,2 PER
+0,2 PER
+
+husband tim m graw got the male vocalist honor .
+0,1 PER|0,4 PER
+0,1 PER|0,4 PER
+
+they are the first married couple to win both honors in the same year .
+0,1 PER|2,14 PER
+0,1 PER|2,14 PER
+
+" i hope you dance , " by lee ann womack , was awarded single of the year and song of the year .
+8,11 PER
+8,11 PER
+
+This is The World , a co - production of the BBC World Service , PRI and WGBH in Boston .
+19,20 GPE|10,14 ORG|15,16 ORG|17,20 ORG
+19,20 GPE|10,14 ORG|15,16 ORG|17,20 ORG
+
+I am Tony Kahn .
+0,1 PER|2,4 PER
+0,1 PER|2,4 PER
+
+Al Gore has won a victory in the fight for the White House this evening .
+10,13 ORG|0,2 PER
+10,13 ORG|0,2 PER
+
+The Florida Supreme Court has ruled that certification of election results in the State cannot be made this weekend .
+1,2 GPE|12,14 GPE|0,4 ORG
+1,2 GPE|12,14 GPE|0,4 ORG
+
+The court will hear more arguments on that , Monday .
+0,2 ORG
+0,2 ORG
+
+The tally of the State ' s overseas absentee ballots is also underway this hour , with Gore so far trailing George W Bush , though still by a small margin .
+3,5 GPE|17,18 PER|21,24 PER
+3,5 GPE|17,18 PER|21,24 PER
+
+Afghanistan ' s Taliban faction and the opposition Northern Alliance have agreed to peace talks sponsored by the United Nations .
+0,1 GPE|0,5 ORG|3,4 ORG|6,10 ORG|17,20 ORG
+0,1 GPE|0,5 ORG|3,4 ORG|6,10 ORG|17,20 ORG
+
+The UN special envoy for Afghanistan Franchesco Bendrel says the world body has received separate letters from the two sides , pledging to participate in the negotiations with serious intent and to not abandon the process unilaterally .
+5,6 GPE|1,2 ORG|9,12 ORG|17,20 ORG|0,6 PER|6,8 PER|10,11 LOC
+5,6 GPE|1,2 ORG|9,12 ORG|17,20 ORG|0,6 PER|6,8 PER|10,11 LOC
+
+Mr . Bendrel says he hopes to begin the talks next week , probably by shuttling between the two delegations at first .
+0,1 PER|0,3 PER|4,5 PER|17,20 PER
+0,1 PER|0,3 PER|4,5 PER|17,20 PER
+
+If the talks go well , they would then move to indirect talks in the same city and finally face - to - face negotiations .
+14,17 GPE
+14,17 GPE
+
+The Palestinian faction headed by Yasser Arafat said today that , it will avenge the deaths of four of its members who were killed today by Israeli soldiers .
+1,2 GPE|26,27 GPE|0,7 ORG|11,12 ORG|19,20 ORG|5,7 PER|17,28 PER|19,21 PER|21,22 PER|26,28 PER
+1,2 GPE|26,27 GPE|0,7 ORG|11,12 ORG|19,20 ORG|5,7 PER|17,28 PER|19,21 PER|21,22 PER|26,28 PER
+
+Later in the day , a car bombing in the Northern Israeli town of Hadera , killed two people and injured at least 50 .
+9,15 GPE|14,15 GPE|17,19 PER|21,24 PER|6,7 VEH|10,12 LOC
+9,15 GPE|14,15 GPE|17,19 PER|21,24 PER|6,7 VEH|10,12 LOC
+
+Israeli Prime Minister Ehud Barak said he would retaliate .
+0,1 GPE|0,3 PER|0,5 PER|6,7 PER
+0,1 GPE|0,3 PER|0,5 PER|6,7 PER
+
+Corey Flintoff , NPR news , Washington .
+6,7 GPE|3,5 ORG|0,2 PER
+6,7 GPE|3,5 ORG|0,2 PER
+
+And so the Supreme Court is about to decide a case that will probably determine who becomes the next President .
+2,5 ORG|15,16 PER|17,20 PER
+2,5 ORG|15,16 PER|17,20 PER
+
+If this strikes you as an extraordinary turn of events , well it strikes many overseas as nearly unbelievable .
+3,4 PER|15,16 LOC
+3,4 PER|15,16 LOC
+
+In the democracies of Europe , legal experts are saying it can ' t happen here .
+1,5 GPE|4,5 GPE|15,16 GPE|6,8 PER
+1,5 GPE|4,5 GPE|15,16 GPE|6,8 PER
+
+Philippe Shatiney is an editor of the French news weekly , Mahiyan .
+7,8 GPE|6,12 ORG|11,12 ORG|0,2 PER|3,12 PER
+7,8 GPE|6,12 ORG|11,12 ORG|0,2 PER|3,12 PER
+
+Philippe , could it happen anywhere else .
+0,1 PER
+0,1 PER
+
+Oh , I really think not .
+2,3 PER
+2,3 PER
+
+First of all , because there are so few countries which are organized on the American model with it ' s , the powers of the state .
+7,27 GPE|10,11 GPE|15,16 GPE
+7,27 GPE|10,11 GPE|15,16 GPE
+
+So yes I think there is a lot of bemusement here in Europe about the difficulties that the Americans are having in choosing a president .
+10,13 GPE|17,19 GPE|2,3 PER|23,25 PER
+10,13 GPE|17,19 GPE|2,3 PER|23,25 PER
+
+I think there is also a lot of amusement though , there is a lot of finger pointing .
+0,1 PER
+0,1 PER
+
+It ' s always funny for the small guys to laugh when the giant trips over his feet .
+7,9 GPE|12,14 GPE
+7,9 GPE|12,14 GPE
+
+Well , lets look at the United States Supreme Court itself and our justice system , now is there an institution that is independent of politics that serves anything like the function that the US Supreme Court serves ?
+12,13 GPE|5,11 ORG|10,11 ORG|12,15 ORG|19,38 ORG|21,22 ORG|33,37 ORG|2,3 PER
+12,13 GPE|5,11 ORG|10,11 ORG|12,15 ORG|19,38 ORG|21,22 ORG|33,37 ORG|2,3 PER
+
+Well , yes mostly European judicial systems do have a form of the Supreme Court .
+4,5 GPE|4,7 ORG|12,15 ORG
+4,5 GPE|4,7 ORG|12,15 ORG
+
+However , for example , in France the strict machinery of justice is separated from the constitutional court , which is a separate body , but yes there also the members are appointed by the President and therefore there also , the members of the Coseque constitutionalle are somewhat open to criticism that the decisions are often more motivated by politics than they are by the law .
+6,7 GPE|7,12 ORG|15,24 ORG|19,20 ORG|21,24 ORG|27,28 ORG|38,39 ORG|44,47 ORG|29,31 PER|34,36 PER|41,47 PER
+6,7 GPE|7,12 ORG|15,24 ORG|19,20 ORG|21,24 ORG|27,28 ORG|38,39 ORG|44,47 ORG|29,31 PER|34,36 PER|41,47 PER
+
+However , I think that the image that we Europeans had , of the American system and especially of the US Supreme Court , was that those justices were above politics and , I think , that is also one of the bad surprises that this election is reserving to us Europeans is that finally your system is not as perfect as we were led to believe .
+8,9 GPE|8,10 GPE|14,15 GPE|50,51 GPE|50,52 GPE|55,56 GPE|62,63 GPE|13,16 ORG|19,23 ORG|55,57 ORG|2,3 PER|26,28 PER
+8,9 GPE|8,10 GPE|14,15 GPE|50,51 GPE|50,52 GPE|55,56 GPE|62,63 GPE|13,16 ORG|19,23 ORG|55,57 ORG|2,3 PER|26,28 PER
+
+I wonder in terms of this particular case , now this is certainly an extreme case in the United States with an unfathomably close election .
+17,20 GPE|0,1 PER
+17,20 GPE|0,1 PER
+
+How have other Democracies dealt with effective ties , I mean could there for instance be one of elections , you know where our type has gone to the courts .
+2,4 GPE|23,24 GPE|9,10 PER
+2,4 GPE|23,24 GPE|9,10 PER
+
+What happens to yours ?
+3,4 GPE
+3,4 GPE
+
+Well , there have been cases in most recent elections in France where the Coseque constitutionalle having been apprised of doubtful procedures or doubtful ways of counting the votes , have decided either to null the election and have it done over again or to in fact change the winner .
+11,12 GPE|13,16 ORG|48,50 PER
+11,12 GPE|13,16 ORG|48,50 PER
+
+However , our electoral system is so much more simple in the sense that we have seperate elections for the Presidency , for Parliament , for our Mayors and therefore usually most French voters are faced with the difficulty of choosing a little paper ballotenne with a name on it and putting that in an envelop and then put that in the urn , so there is a much less chance of error , at least , in our French system .
+26,27 GPE|32,33 GPE|79,80 GPE|19,21 ORG|23,24 ORG|26,28 PER|31,34 PER
+26,27 GPE|32,33 GPE|79,80 GPE|19,21 ORG|23,24 ORG|26,28 PER|31,34 PER
+
+Hey , it is interesting there also , when we look at the idea of checks and balances in a non - partisan judiciary , in terms of the checks and balances , that actually originated in France .
+37,38 GPE|19,24 ORG
+37,38 GPE|19,24 ORG
+
+Yes indeed , it was a political idea put forward in the writings of the and another very famous french political observer Alexis de Tocqueville who visited America and wrote an amazingly good book about American democracy , said exactly that , that America seemed to him to be the single country in the world who has managed to apply the separation of powers between the judiciary , the executive , and the legislative in a better way than any other country .
+19,20 GPE|27,28 GPE|35,36 GPE|43,44 GPE|49,82 GPE|55,56 GPE|79,82 GPE|16,22 PER|22,25 PER|25,26 PER|53,55 LOC
+19,20 GPE|27,28 GPE|35,36 GPE|43,44 GPE|49,82 GPE|55,56 GPE|79,82 GPE|16,22 PER|22,25 PER|25,26 PER|53,55 LOC
+
+So it ' s quite surprising for us Europeans to see that the Supreme Court would be involved , not really it seems to us in interpreting the law of the land or the constitution of the United States , but more in deciding the merits of a terribly political case .
+7,8 GPE|7,9 GPE|36,39 GPE|12,15 ORG
+7,8 GPE|7,9 GPE|36,39 GPE|12,15 ORG
+
+Philippe Shatiney , an editor of the French news weekly ' Mahiyan ' .
+7,8 GPE|6,12 ORG|11,12 ORG|0,2 PER|3,12 PER
+7,8 GPE|6,12 ORG|11,12 ORG|0,2 PER|3,12 PER
+
+Nice to speak with you Philippe .
+4,5 PER|5,6 PER
+4,5 PER|5,6 PER
+
+Thank you .
+1,2 PER
+1,2 PER
+
+gregg jarrett , they did get a unanimous court for this decision .
+6,9 ORG|0,2 PER|3,4 PER
+6,9 ORG|0,2 PER|3,4 PER
+
+absolutely .
+
+
+
+brian .
+0,1 PER
+0,1 PER
+
+it was a very stern , very direct and it left no question , i think , in the minds of anybody that this court unanimously believes that certification should include the man recount .
+23,25 ORG|14,15 PER|21,22 PER
+23,25 ORG|14,15 PER|21,22 PER
+
+and that is a clear victory for vice president al gore .
+7,9 PER|7,11 PER
+7,9 PER|7,11 PER
+
+the language here , really leaves no doubt .
+
+
+
+the right of the people to cast their vote .
+3,5 PER|7,8 PER
+3,5 PER|7,8 PER
+
+the court said , is paramount .
+0,2 ORG
+0,2 ORG
+
+the amended certifications must be accepted by november 26 .
+
+
+
+the reason they are picking that particular day is it allows , brian , enough time for the agrieved party , the losing party to file within 10 days a contest of the certification and that still allows enough time for the contest to be litigated through the courts primarily the circuit court and back to the supreme court if necessary and still meet the december 12 deadline for the electoral college vote here .
+2,3 ORG|47,49 ORG|50,53 ORG|56,59 ORG|12,13 PER|17,20 PER|21,24 PER
+2,3 ORG|47,49 ORG|50,53 ORG|56,59 ORG|12,13 PER|17,20 PER|21,24 PER
+
+now , greg , the only question that mean means anything at this hour , we know their view is the hand counts should now be included .
+17,18 ORG|2,3 PER|15,16 PER
+17,18 ORG|2,3 PER|15,16 PER
+
+will it put al gore over the top in the race to match and exceed the votes of george w . bush ?
+3,5 PER|18,22 PER
+3,5 PER|18,22 PER
+
+it very well could .
+
+
+
+although , i must say that the gore campaign has been somewhat disappointed by the number of votes they have not received thus far in the counties that are undertaking the manual recounts , brian .
+25,33 GPE|27,28 GPE|6,9 ORG|18,19 ORG|2,3 PER|7,8 PER|34,35 PER
+25,33 GPE|27,28 GPE|6,9 ORG|18,19 ORG|2,3 PER|7,8 PER|34,35 PER
+
+but a lot of hand counts still must be tallied .
+
+
+
+we are also including the undervotes of 10 , 000 in palm beach and junt votes of 10 , 000 in miami - dade as well .
+11,13 GPE|21,24 GPE|0,1 PER
+11,13 GPE|21,24 GPE|0,1 PER
+
+keep in mind , those were not registered by the computers because they either had a hanging chad or dimpled chad .
+
+
+
+those must be gone over by hand by each respective canvassing board .
+8,12 ORG
+8,12 ORG
+
+so there are a lot of votes remaining there .
+
+
+
+this is a gore campaign to the white house .
+2,5 ORG|6,9 ORG|3,4 PER
+2,5 ORG|6,9 ORG|3,4 PER
+
+greg , just a logistic question , how long is it going take you to get the opinion run to you from the building behind you ?
+0,1 PER|13,14 PER|20,21 PER|25,26 PER
+0,1 PER|13,14 PER|20,21 PER|25,26 PER
+
+i would say we should have it here in the next five minutes .
+3,4 ORG|0,1 PER|7,8 LOC
+3,4 ORG|0,1 PER|7,8 LOC
+
+it depends how quickly the line moves .
+
+
+
+we have two producers , i believe , near the front of the line .
+0,1 ORG|2,4 PER|5,6 PER
+0,1 ORG|2,4 PER|5,6 PER
+
+it how quickly they get handed .
+3,4 PER
+3,4 PER
+
+it reversed the two orders of the earlier trial court , circuit court judge terry lewis .
+6,10 ORG|11,13 ORG|11,14 PER|11,16 PER
+6,10 ORG|11,13 ORG|11,14 PER|11,16 PER
+
+the bottom line , this court rules unanimously the right of the people to have the votes counted is pair month , thus , the amended sertfi occasions to include the hand counts must be accepted by november 26 .
+4,6 ORG|11,13 PER
+4,6 ORG|11,13 PER
+
+in fact , it seemed to have some language here , in fact , brian i do have it handed to me now .
+14,15 PER|15,16 PER|21,22 PER
+14,15 PER|15,16 PER|21,22 PER
+
+let me take a the brian , if for some reason the secretary of state wouldn ' t accept by the 26th , the certification , it could be certified elsewhere .
+14,15 ORG|1,2 PER|5,6 PER|11,15 PER
+14,15 ORG|1,2 PER|5,6 PER|11,15 PER
+
+gregg jarrett , i should point out , he is a former lawyer himself and so can help put this into english .
+0,2 PER|3,4 PER|8,9 PER|10,14 PER|13,14 PER
+0,2 PER|3,4 PER|8,9 PER|10,14 PER|13,14 PER
+
+greg , go ahead .
+0,1 PER
+0,1 PER
+
+if you come to a passage we should hear .
+1,2 PER|6,7 PER
+1,2 PER|6,7 PER
+
+i ' m flipping through the summary of enacts because that is not important .
+0,1 PER
+0,1 PER
+
+the summary of facts .
+
+
+
+you flag us when you come to the first portion we should hear allowed .
+0,1 PER|2,3 PER|4,5 PER|10,11 PER
+0,1 PER|2,3 PER|4,5 PER|10,11 PER
+
+Ebola virus is one of the most feared in the world .
+9,11 LOC
+9,11 LOC
+
+The deadly disease periodically attacks African villages and kills up to 90 % of those infected .
+5,6 GPE|5,7 GPE|9,16 PER|14,16 PER
+5,6 GPE|5,7 GPE|9,16 PER|14,16 PER
+
+Now , a team of researchers led by scientists at the National Institutes of Health in Befesta , Maryland has developed a vaccine that prevents Ebola virus infections in monkeys .
+16,19 GPE|18,19 GPE|10,19 ORG|2,19 PER|8,19 PER
+16,19 GPE|18,19 GPE|10,19 ORG|2,19 PER|8,19 PER
+
+Dr . Garry Nabal of NIH says , the experiment with the new vaccine involved giving four monkeys the Ebola virus , then injecting them with a placebo immunization , which has no effect .
+5,6 ORG|0,2 PER|0,6 PER
+5,6 ORG|0,2 PER|0,6 PER
+
+Four other monkeys were infected with the Ebola virus DNA and then were injected with a vaccine called Ebola - Adnia virus booster .
+
+
+
+In the animals that received the control vaccine , i . e . the same vectors , but not expressing the virus proteins , all of the animals had died within six days after challenge .
+
+
+
+In contrast , the animals who received the DNA plus the Adnia viral vector that made the viral proteins , not only survived the challenge , but they continued to be symptom - free for over six months , the time point that they were followed .
+
+
+
+Scientists must do far more research on this vaccine before a version of it might be used to prevent the disease in humans .
+0,1 PER|22,23 PER
+0,1 PER|22,23 PER
+
+Albus ( Lebanon ) 11 - 15 ( AFP ) -
+0,4 GPE|2,3 GPE|8,9 ORG
+0,4 GPE|2,3 GPE|8,9 ORG
+
+Thousands of Palestinian refugees in Lebanon commemorated in their camps today Wednesday the twelfth anniversary of the symbolic announcement of independence by the Palestinian National Council in Algeria in 1988 .
+2,3 GPE|5,6 GPE|27,28 GPE|22,26 ORG|0,6 PER|8,9 PER|8,10 FAC
+2,3 GPE|5,6 GPE|27,28 GPE|22,26 ORG|0,6 PER|8,9 PER|8,10 FAC
+
+Around five thousand Palestinians form the Albus Camp near Souer ( 83 km south of Beirut ) gathered and followed a march by children dressed in military clothing who held stones and raised pictures of Mohamed al - Dura , the 12 - year - old Palestinian child killed by Israeli army bullets in the Palestinian Territories in early October .
+9,17 GPE|15,16 GPE|46,47 GPE|50,51 GPE|54,57 GPE|55,56 GPE|26,27 ORG|51,52 ORG|0,17 PER|23,60 PER|28,29 PER|35,39 PER|40,60 PER|5,17 FAC|50,53 WEA
+9,17 GPE|15,16 GPE|46,47 GPE|50,51 GPE|54,57 GPE|55,56 GPE|26,27 ORG|51,52 ORG|0,17 PER|23,60 PER|28,29 PER|35,39 PER|40,60 PER|5,17 FAC|50,53 WEA
+
+A France Presse correspondent reported that around 200 Palestinians marched along the streets of Ayn Alhilwa refugee camp near Saida , one of southern Lebanon ' s main cities , toward the headquarters of the Fatah movement led by Palestinian President Yasser Arafat carrying the Palestinian flag .
+19,20 GPE|21,29 GPE|23,29 GPE|39,40 GPE|45,46 GPE|1,3 ORG|34,37 ORG|35,36 ORG|0,4 PER|6,9 PER|16,17 PER|39,41 PER|39,43 PER|11,47 FAC|14,16 FAC|14,29 FAC|31,37 FAC|23,25 LOC
+19,20 GPE|21,29 GPE|23,29 GPE|39,40 GPE|45,46 GPE|1,3 ORG|34,37 ORG|35,36 ORG|0,4 PER|6,9 PER|16,17 PER|39,41 PER|39,43 PER|11,47 FAC|14,16 FAC|14,29 FAC|31,37 FAC|23,25 LOC
+
+A group of young people burned the Israeli and American flags outside the headquarters .
+7,8 GPE|9,10 GPE|0,5 PER|3,5 PER|12,14 FAC
+7,8 GPE|9,10 GPE|0,5 PER|3,5 PER|12,14 FAC
+
+Khalid Arif , am official with the Fatah movement in Saida , said the Intifada against Israel which started late last September and has resulted in over two hundred deaths would " continue until the Israeli occupiers and settlers were chased out of the Palestinian Territories . "
+10,11 GPE|16,17 GPE|35,36 GPE|43,46 GPE|44,45 GPE|6,9 ORG|7,8 ORG|0,2 PER|3,11 PER|34,39 PER
+10,11 GPE|16,17 GPE|35,36 GPE|43,46 GPE|44,45 GPE|6,9 ORG|7,8 ORG|0,2 PER|3,11 PER|34,39 PER
+
+He added , " The Intifada will continue until a Palestinian state with holy Jerusalem as its capital is created and the refugees return to their homes . "
+9,18 GPE|10,11 GPE|13,15 GPE|16,18 GPE|0,1 PER|21,23 PER|25,26 PER|25,27 FAC
+9,18 GPE|10,11 GPE|13,15 GPE|16,18 GPE|0,1 PER|21,23 PER|25,26 PER|25,27 FAC
+
+In the nearby Ayn Alhilwa refugee camp , students between ages fifteen and sixteen marched through the camp ' s alleyways , chanting " Jerusalem is ours " then the burned Israeli and American flags .
+24,25 GPE|31,32 GPE|33,34 GPE|8,14 PER|26,27 PER|1,7 FAC|3,5 FAC|16,18 FAC|16,21 FAC
+24,25 GPE|31,32 GPE|33,34 GPE|8,14 PER|26,27 PER|1,7 FAC|3,5 FAC|16,18 FAC|16,21 FAC
+
+Fatah movement called on Palestinians to declare today Wednesday as a day " to embody national independence " and to stop " Israeli occupying forces and settler bandits from entering occupied Palestinian territory , " as a commemoration of the twelfth anniversary of the symbolic announcement of Palestinian independence .
+4,5 GPE|22,23 GPE|31,32 GPE|47,48 GPE|0,1 ORG|0,2 ORG|30,33 LOC
+4,5 GPE|22,23 GPE|31,32 GPE|47,48 GPE|0,1 ORG|0,2 ORG|30,33 LOC
+
+Palestinian President Yasser Arafat had symbolically announced a Palestinian state on November 15 , 1988 in Algeria when the first Palestinian Intifada was at its height and which continued for seven years until the Oslo peace accords were signed in 1993 .
+0,1 GPE|7,10 GPE|8,9 GPE|16,17 GPE|20,21 GPE|34,35 GPE|0,2 PER|0,4 PER
+0,1 GPE|7,10 GPE|8,9 GPE|16,17 GPE|20,21 GPE|34,35 GPE|0,2 PER|0,4 PER
+
+Gaza 11 - 15 ( AFP ) -
+0,1 GPE|5,6 ORG
+0,1 GPE|5,6 ORG
+
+A Palestinian medical source reported today Wednesday that more than fifteen Palestinians were injured this morning in the town of Rafah in the southern Gaza Strip in clashes with the Israeli army .
+1,2 GPE|17,26 GPE|20,21 GPE|30,31 GPE|29,32 ORG|0,4 PER|8,12 PER|22,26 LOC
+1,2 GPE|17,26 GPE|20,21 GPE|30,31 GPE|29,32 ORG|0,4 PER|8,12 PER|22,26 LOC
+
+Medical sources said " at least 15 Palestinians were injured by live bullets fired by Israeli soldiers , including six children all shot in the head . "
+15,16 GPE|0,2 PER|4,8 PER|15,17 PER|19,26 PER|21,22 PER|11,17 WEA
+15,16 GPE|0,2 PER|4,8 PER|15,17 PER|19,26 PER|21,22 PER|11,17 WEA
+
+Eyewitnesses said the clashes broke out when the Israeli army began bulldozing Palestinian land near the border with Egypt and opened fire randomly on Palestinian citizens when they threw stones at the soldiers in protest .
+8,9 GPE|12,13 GPE|18,19 GPE|7,10 ORG|0,1 PER|24,26 PER|27,28 PER|31,33 PER|12,19 LOC|15,19 LOC|29,30 WEA
+8,9 GPE|12,13 GPE|18,19 GPE|7,10 ORG|0,1 PER|24,26 PER|27,28 PER|31,33 PER|12,19 LOC|15,19 LOC|29,30 WEA
+
+An Israeli tank also fired a rocket .
+1,2 GPE|0,3 VEH|5,7 WEA
+1,2 GPE|0,3 VEH|5,7 WEA
+
+Elsewhere , Israeli bulldozers dug up dozens of hectares of Palestinian farmland near the village of Alkarara ( near the Kosovim checkpoint ) last night for the second day in a row , destroying two houses and a well , where the army erected a new military camp instead .
+2,3 GPE|10,11 GPE|13,23 GPE|16,17 GPE|20,21 GPE|41,43 ORG|46,47 ORG|19,22 FAC|34,36 FAC|37,39 FAC|44,48 FAC|2,4 VEH|6,22 LOC|10,12 LOC|40,41 LOC
+2,3 GPE|10,11 GPE|13,23 GPE|16,17 GPE|20,21 GPE|41,43 ORG|46,47 ORG|19,22 FAC|34,36 FAC|37,39 FAC|44,48 FAC|2,4 VEH|6,22 LOC|10,12 LOC|40,41 LOC
+
+The town ' s authorities said last night the Israeli army dug up several hectares planted with orange trees in southern Gaza ( Nitsarim ) .
+0,2 GPE|9,10 GPE|23,24 GPE|8,11 ORG|0,5 PER|13,24 LOC|20,22 LOC
+0,2 GPE|9,10 GPE|23,24 GPE|8,11 ORG|0,5 PER|13,24 LOC|20,22 LOC
+
+The bulldozing of land began the night before last when an Israeli soldier was killed in a shooting incident in the area .
+11,12 GPE|10,13 PER|20,22 LOC
+11,12 GPE|10,13 PER|20,22 LOC
+
+Jerusalem 11 - 15 ( AFP ) -
+0,1 GPE|5,6 ORG
+0,1 GPE|5,6 ORG
+
+Official Israeli radio reported that the lesser security cabinet which met this evening Wednesday has made a series of practical decisions pointing to its desire to avoid confrontations with the Palestinians .
+1,2 GPE|29,31 GPE|0,3 ORG|5,13 ORG|9,10 ORG|23,24 ORG
+1,2 GPE|29,31 GPE|0,3 ORG|5,13 ORG|9,10 ORG|23,24 ORG
+
+The radio reported " senior political officials " as saying at the close of the security cabinet ' s meeting , chaired by Prime Minister Ehud Barak , that the army would continue with the procedure it has followed over the past days and that there would be no escalation .
+0,2 ORG|14,17 ORG|29,31 ORG|36,37 ORG|4,7 PER|23,25 PER|23,27 PER
+0,2 ORG|14,17 ORG|29,31 ORG|36,37 ORG|4,7 PER|23,25 PER|23,27 PER
+
+Military officials who also attended the meeting that Palestinian President Yasser Arafat " wants to drag Israel into an escalation which would lead to international intervention . "
+8,9 GPE|16,17 GPE|0,1 ORG|0,7 PER|2,3 PER|8,10 PER|8,12 PER
+8,9 GPE|16,17 GPE|0,1 ORG|0,7 PER|2,3 PER|8,10 PER|8,12 PER
+
+The head of the prime minister ' s office , Jalaad Shir , had previously said on official television that " a compromise must be found between a studied response not leading to escalation and the need to pave the way for political openness , on the condition that the Palestinians resolutely stop the violence and incitement to violence . "
+49,51 GPE|3,9 ORG|17,19 ORG|0,9 PER|3,6 PER|10,12 PER
+49,51 GPE|3,9 ORG|17,19 ORG|0,9 PER|3,6 PER|10,12 PER
+
+Shir added " only then will it be possible to think about resuming the political process and on what basis . "
+0,1 PER
+0,1 PER
+
+The security cabinet was convened to a session with the aim of examining new measures to deal with the escalation in attacks against Israelis in the West Bank and Gaza Strip .
+0,3 ORG|23,31 PER|25,31 LOC
+0,3 ORG|23,31 PER|25,31 LOC
+
+Last week , Barak gave his consent , for the first time since the Intifada began , to elimination of Hussein Abiyat the military leader of Fatah movement led by Arafat killed when a missile fired from a combat helicopter targeted his car .
+23,24 ORG|26,27 ORG|26,28 ORG|3,4 PER|5,6 PER|20,22 PER|22,43 PER|30,31 PER|41,42 PER|37,40 VEH|41,43 VEH|33,35 WEA
+23,24 ORG|26,27 ORG|26,28 ORG|3,4 PER|5,6 PER|20,22 PER|22,43 PER|30,31 PER|41,42 PER|37,40 VEH|41,43 VEH|33,35 WEA
+
+Israeli security forces arrested 15 Fatah officials in the West Bank on the night of Tuesday to Wednesday .
+0,1 GPE|0,3 ORG|5,6 ORG|4,7 PER|8,11 LOC
+0,1 GPE|0,3 ORG|5,6 ORG|4,7 PER|8,11 LOC
+
+In his statement , Barak praised this operation and the elimination of Abiyat , stressing that this policy would continue .
+1,2 PER|4,5 PER|12,13 PER
+1,2 PER|4,5 PER|12,13 PER
+
+He said " the long arm of our forces will reach those who attack our civilians and soldiers . "
+7,8 GPE|14,15 GPE|7,9 ORG|0,1 PER|11,18 PER|12,13 PER|14,18 PER
+7,8 GPE|14,15 GPE|7,9 ORG|0,1 PER|11,18 PER|12,13 PER|14,18 PER
+
+Jerusalem 7 - 15 ( AFP ) -
+0,1 GPE|5,6 ORG
+0,1 GPE|5,6 ORG
+
+A high level Israeli army official has said today Saturday that Israel believes Iran is set to begin acquiring nuclear capability for military purposes from 2005 and will be in a position to equip missiles with nuclear warheads , capable of reaching Israel , within ten years .
+3,4 GPE|11,12 GPE|13,14 GPE|42,43 GPE|3,5 ORG|22,23 ORG|0,6 PER|19,20 WEA|34,35 WEA|36,43 WEA
+3,4 GPE|11,12 GPE|13,14 GPE|42,43 GPE|3,5 ORG|22,23 ORG|0,6 PER|19,20 WEA|34,35 WEA|36,43 WEA
+
+The official , who wished to remain anonymous , told journalists : " Iran will start accumulating nuclear capability for military purposes from 2005 and will be in a position , within the space of 10 years , to produce nuclear warheads that can be fitted to missiles capable of striking Israel . "
+13,14 GPE|51,52 GPE|20,21 ORG|0,8 PER|3,4 PER|10,11 PER|17,18 WEA|40,52 WEA|42,43 WEA|47,52 WEA
+13,14 GPE|51,52 GPE|20,21 ORG|0,8 PER|3,4 PER|10,11 PER|17,18 WEA|40,52 WEA|42,43 WEA|47,52 WEA
+
+The official made these statements after Tehran announced today Saturday that it had " successfully " completed a new test on the Shahab 3 ground - ground missile with a range of 1300 kilometers .
+6,7 GPE|11,12 GPE|0,2 PER|21,28 WEA|22,24 WEA
+6,7 GPE|11,12 GPE|0,2 PER|21,28 WEA|22,24 WEA
+
+The official further said : " Iran is not capable of developing a nuclear program without Moscow ' s help . "
+6,7 GPE|16,17 GPE|0,2 PER|13,14 WEA
+6,7 GPE|16,17 GPE|0,2 PER|13,14 WEA
+
+He said that according to information obtained by Israel , tests on the Shahab 3 ground - ground missile were in fact " successful and reached their maximum range of 1300 kilometers which allows them to reach strategic centers in Israel . "
+8,9 GPE|40,41 GPE|0,1 PER|12,19 WEA|13,15 WEA|26,27 WEA|34,35 WEA
+8,9 GPE|40,41 GPE|0,1 PER|12,19 WEA|13,15 WEA|26,27 WEA|34,35 WEA
+
+The official said that the design of the Shahab missile is based on a North Korean missile called Nodong , itself developed from the Soviet Scud missile .
+14,16 GPE|24,25 GPE|0,2 PER|7,10 WEA|8,9 WEA|13,19 WEA|18,19 WEA|20,21 WEA|23,27 WEA|25,26 WEA
+14,16 GPE|24,25 GPE|0,2 PER|7,10 WEA|8,9 WEA|13,19 WEA|18,19 WEA|20,21 WEA|23,27 WEA|25,26 WEA
+
+The official also stressed that Iran regards the " destruction of Israel as legitimate , " saying that " Tehran is embroiled in strategic terrorist activities targeting Israel , especially alongside Palestinian and Lebanese organizations . "
+5,6 GPE|11,12 GPE|19,20 GPE|27,28 GPE|31,32 GPE|33,34 GPE|31,35 ORG|0,2 PER|24,25 PER
+5,6 GPE|11,12 GPE|19,20 GPE|27,28 GPE|31,32 GPE|33,34 GPE|31,35 ORG|0,2 PER|24,25 PER
+
+The official further considered that " the Shahab missile will not come into operation for two years and that an improved range of 2000 kilometers would only be achieved after this period . "
+0,2 PER|6,9 WEA|7,8 WEA
+0,2 PER|6,9 WEA|7,8 WEA
+
+Israel ' s Deputy Defense Minister , Ephraim Sneh , said today Saturday that Israel would " know how to find a suitable response " to the Iranian Shahab 3 ground - ground missile with a 1300 kilometer range .
+0,1 GPE|14,15 GPE|27,28 GPE|0,6 PER|7,9 PER|26,39 WEA|28,30 WEA
+0,1 GPE|14,15 GPE|27,28 GPE|0,6 PER|7,9 PER|26,39 WEA|28,30 WEA
+
+Sneh said on army radio that " Israel will prepare itself to find a suitable response to this threat , " without giving any further details .
+7,8 GPE|10,11 GPE|3,4 ORG|3,5 ORG|0,1 PER
+7,8 GPE|10,11 GPE|3,4 ORG|3,5 ORG|0,1 PER
+
+The Iranian army announced today Saturday that it had " successfully " completed a new test on Shahab 3 ground - ground missiles .
+1,2 GPE|0,3 ORG|7,8 ORG|17,19 WEA|17,23 WEA
+1,2 GPE|0,3 ORG|7,8 ORG|17,19 WEA|17,23 WEA
+
+An official at the Iranian Ministry of Defense told Tehran Radio that the " Shahab 3 defense missile was tested a second time to ensure it conforms to international standards . "
+4,5 GPE|3,8 ORG|9,11 ORG|0,8 PER|12,18 WEA|14,16 WEA|25,26 WEA
+4,5 GPE|3,8 ORG|9,11 ORG|0,8 PER|12,18 WEA|14,16 WEA|25,26 WEA
+
+In July 1998 , the first test on this missile was announced .
+8,10 WEA
+8,10 WEA
+
+It is capable of reaching the majority of countries in the region , including Israel .
+5,15 GPE|8,12 GPE|14,15 GPE|10,12 LOC|0,1 WEA
+5,15 GPE|8,12 GPE|14,15 GPE|10,12 LOC|0,1 WEA
+

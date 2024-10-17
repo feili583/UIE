@@ -136,6 +136,28 @@ class Processor(DataProcessor):
             self.labels = ['r_Giver', 'r_Artifact', 'Seller', 'Target', 'r_Beneficiary', 'Business.End-Org', 'Justice.Release-Parole', 'Personnel.Nominate', 'Justice.Sentence', 'Destination', 'Life.Marry', 'Victim', 'Life.Be-Born', 'Agent', 'Attacker', 'r_Buyer', 'r_Vehicle', 'Justice.Arrest-Jail', 'r_Place', 'Justice.Execute', 'r_Org', 'Org', 'r_Origin', 'Plaintiff', 'Origin', 'Transaction.Transfer-Money', 'Justice.Pardon', 'Beneficiary', 'r_Seller', 'r_Entity', 'r_Instrument', 'Life.Injure', 'Recipient', 'Business.Start-Org', 'FAC', 'Life.Divorce', 'Movement.Transport', 'r_Defendant', 'r_Plaintiff', 'Justice.Sue', 'Justice.Appeal', 'Justice.Fine', 'Conflict.Demonstrate', 'VEH', 'Giver', 'Instrument', 'Justice.Extradite', 'LOC', 'Entity', 'Personnel.Elect', 'r_Agent', 'Contact.Meet', 'Business.Declare-Bankruptcy', 'r_Victim', 'Personnel.End-Position', 'Prosecutor', 'r_Adjudicator', 'Justice.Charge-Indict', 'Adjudicator', 'r_Person', 'Transaction.Transfer-Ownership', 'Buyer', 'Place', 'GPE', 'r_Target', 'Personnel.Start-Position', 'Artifact', 'Justice.Trial-Hearing', 'r_Destination', 'Contact.Phone-Write', 'r_Attacker', 'Business.Merge-Org', 'Person', 'ORG', 'r_Recipient', 'Justice.Convict', 'WEA', 'Justice.Acquit', 'PER', 'Conflict.Attack', 'r_Prosecutor', 'Life.Die', 'Defendant', 'Vehicle']
         elif dataset == 'ACE_ENTITY':
             self.labels = ['FAC', 'GPE', 'VEH', 'ORG', 'WEA', 'PER', 'LOC']
+        elif dataset == 'conll04':
+            self.labels = ['people', 'location', 'organization', 'other', 'located-in', 'organization-in', 'live-in', 'work-for', 'kill', 'r_organization-in', 'r_located-in', 'r_work-for', 'r_kill', 'r_live-in']
+        elif dataset == 'nyt':
+            self.labels = ['location', 'person', 'organization', 'place-of-birth', 'country', 'major-shareholder-of', 'capital', 'ethnicity', 'teams', 'industry', 'people', 'major-shareholders', 'founders', 'profession', 'advisors', 'religion', 'contains', 'children', 'neighborhood-of', 'place-founded', 'nationality', 'place-of-death', 'company', 'location', 'geographic-distribution', 'place-lived', 'administrative-divisions', 'r_contains', 'r_country', 'r_children', 'r_administrative-divisions', 'r_capital', 'r_company', 'r_place-of-death', 'r_place-of-birth', 'r_nationality', 'r_founders', 'r_neighborhood-of', 'r_place-lived', 'r_advisors', 'r_location', 'r_place-founded', 'r_major-shareholders', 'r_major-shareholder-of', 'r_teams', 'r_religion', 'r_geographic-distribution', 'r_people', 'r_ethnicity']
+        elif dataset == 'scierc':
+            self.labels = ['method', 'task', 'other-scientific-term', 'metric', 'material', 'generic', 'evaluate-for', 'compare', 'used-for', 'feature-of', 'conjunction', 'part-of', 'hyponym-of', 'r_used-for', 'r_feature-of', 'r_evaluate-for', 'r_conjunction', 'r_hyponym-of', 'r_part-of', 'r_compare']
+        elif dataset == 'casie':
+            self.labels = ['geopolitical-entity', 'time', 'file', 'website', 'data', 'common-vulnerabilities-and-exposures', 'money', 'patch', 'malware', 'person', 'purpose', 'number', 'vulnerability', 'version', 'capabilities', 'payment-method', 'system', 'software', 'personally-identifiable-information', 'organization', 'device', 'patch-number', 'patch', 'number-of-data', 'discoverer', 'common-vulnerabilities-and-exposures', 'vulnerable-system', 'vulnerable-system-version', 'supported-platform', 'payment-method', 'issues-addressed', 'purpose', 'damage-amount', 'attacker', 'releaser', 'tool', 'number-of-victim', 'trusted-entity', 'capabilities', 'place', 'attack-pattern', 'compromised-data', 'price', 'victim', 'vulnerable-system-owner', 'vulnerability', 'time', 'r_tool', 'r_trusted-entity', 'r_attack-pattern', 'r_victim', 'r_attacker', 'r_time', 'r_place', 'r_vulnerable-system-owner', 'r_discoverer', 'r_releaser', 'r_vulnerability', 'r_vulnerable-system', 'r_vulnerable-system-version', 'r_patch', 'r_compromised-data', 'r_number-of-victim', 'r_purpose', 'r_common-vulnerabilities-and-exposures', 'r_number-of-data', 'r_price', 'r_payment-method', 'r_capabilities', 'r_patch-number', 'r_damage-amount', 'r_issues-addressed', 'r_supported-platform', 'phishing', 'databreach', 'ransom', 'discover-vulnerability', 'patch-vulnerability']
+        elif dataset == 'cadec':
+            self.labels = ['NA', 'adverse-drug-reaction', 'r_adverse-drug-reaction']
+        elif dataset == 'absa':
+            self.labels = ['opinion', 'aspect', 'negative', 'neutral', 'positive', 'r_positive', 'r_negative', 'r_neutral']
+        elif dataset == 'ace2004':
+            self.labels = ['GPE', 'ORG', 'PER', 'FAC', 'VEH', 'LOC', 'WEA']
+        elif dataset == '14lap':
+            self.labels = ["opinion", "aspect", "negative", "neutral", "positive", "r_positive", "r_negative", "r_neutral"]
+        elif datasets == '14res':
+            self.labels = ["opinion", "aspect", "negative", "neutral", "positive", "r_positive", "r_negative", "r_neutral"]
+        elif dataset == '15res':
+            self.labels = ["opinion", "aspect", "negative", "neutral", "positive", "r_positive", "r_negative", "r_neutral"]
+        elif dataset == '16res':
+            self.labels = ["opinion", "aspect", "negative", "neutral", "positive", "r_positive", "r_negative", "r_neutral"]
         else:
             raise NotImplementedError()
 

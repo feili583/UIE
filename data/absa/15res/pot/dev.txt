@@ -1,0 +1,592 @@
+The food is very average ... the Thai fusion stuff is a bit too sweet , every thing they serve is too sweet here .
+1,2 aspect|7,10 aspect|4,5 opinion|13,15 opinion|1,5 negative|7,14 negative|7,15 negative|8,14 negative|8,15 negative|9,14 negative|9,15 negative
+1,2 aspect|7,10 aspect|4,5 opinion|13,15 opinion|1,5 negative|7,15 negative
+
+The decor is night tho ... but they REALLY need to clean that vent in the ceiling ... its quite un-appetizing , and kills your effort to make this place look sleek and modern .
+29,30 aspect|1,2 aspect|13,14 aspect|31,32 opinion|33,34 opinion|3,4 opinion|20,21 opinion|29,32 negative|29,34 negative|1,4 positive|13,21 negative
+29,30 aspect|1,2 aspect|13,14 aspect|31,32 opinion|33,34 opinion|3,4 opinion|20,21 opinion|29,32 negative|29,34 negative|1,4 positive|13,21 negative
+
+The spicy tuna roll was unusually good and the rock shrimp tempura was awesome , great appetizer to share !
+1,4 aspect|9,12 aspect|6,7 opinion|13,14 opinion|1,7 positive|2,7 positive|3,7 positive|9,14 positive|10,14 positive|11,14 positive
+1,4 aspect|9,12 aspect|6,7 opinion|13,14 opinion|1,7 positive|9,14 positive
+
+we love th pink pony .
+3,5 aspect|1,2 opinion|1,4 r_positive|1,5 r_positive
+3,5 aspect|1,2 opinion|1,5 r_positive
+
+THe perfect spot .
+2,3 aspect|1,2 opinion|1,3 r_positive
+2,3 aspect|1,2 opinion|1,3 r_positive
+
+Ambiance relaxed and stylish .
+0,1 aspect|1,2 opinion|3,4 opinion|0,2 positive|0,4 positive
+0,1 aspect|1,2 opinion|3,4 opinion|0,2 positive|0,4 positive
+
+however , it 's the service that leaves a bad taste in my mouth .
+5,6 aspect|9,11 opinion|5,10 negative|5,11 negative
+5,6 aspect|9,11 opinion|5,11 negative
+
+i happen to have a policy that goes along with a little bit of self-respect , which includes not letting a waiter intimidate me , i.e . make me feel bad asking for trivialities like water , or the check .
+21,22 aspect|30,31 opinion|21,31 negative
+21,22 aspect|30,31 opinion|21,31 negative
+
+I tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose .
+9,11 aspect|14,15 opinion|9,15 positive|10,15 positive
+9,11 aspect|14,15 opinion|9,15 positive
+
+The sushi seemed pretty fresh and was adequately proportioned .
+1,2 aspect|4,5 opinion|8,9 opinion|1,5 positive|1,9 positive
+1,2 aspect|4,5 opinion|8,9 opinion|1,5 positive|1,9 positive
+
+The rice to fish ration was also good -- they did n't try to overpack the rice .
+1,5 aspect|7,8 opinion|1,8 positive|2,8 positive|3,8 positive|4,8 positive
+1,5 aspect|7,8 opinion|1,8 positive
+
+The food was well prepared and the service impecable .
+1,2 aspect|7,8 aspect|3,5 opinion|8,9 opinion|1,4 positive|1,5 positive|7,9 positive
+1,2 aspect|7,8 aspect|3,5 opinion|8,9 opinion|1,5 positive|7,9 positive
+
+The Prix Fixe menu is worth every penny and you get more than enough ( both in quantity AND quality ) .
+1,4 aspect|5,6 opinion|1,6 positive|2,6 positive|3,6 positive
+1,4 aspect|5,6 opinion|1,6 positive
+
+The kitchen however , is almost always slow .
+1,2 aspect|7,8 opinion|1,8 negative
+1,2 aspect|7,8 opinion|1,8 negative
+
+Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening .
+4,5 aspect|7,8 aspect|3,4 opinion|3,4 opinion|3,5 r_positive|3,8 r_positive
+4,5 aspect|7,8 aspect|3,4 opinion|3,4 opinion|3,5 r_positive|3,8 r_positive
+
+The food was average to above-average ; the French Onion soup filling yet not overly impressive , and the desserts not brilliant in any way .
+1,2 aspect|8,11 aspect|19,20 aspect|3,6 opinion|13,16 opinion|20,22 opinion|1,4 positive|1,5 positive|1,6 positive|8,14 positive|8,15 positive|8,16 positive|9,14 positive|9,15 positive|9,16 positive|10,14 positive|10,15 positive|10,16 positive|19,21 negative|19,22 negative
+1,2 aspect|8,11 aspect|19,20 aspect|3,6 opinion|13,16 opinion|20,22 opinion|1,6 positive|8,16 positive|19,22 negative
+
+This place is the most Japanese it can ever get .
+1,2 aspect|5,6 opinion|1,6 positive
+1,2 aspect|5,6 opinion|1,6 positive
+
+Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .
+0,1 aspect|20,21 aspect|26,27 aspect|15,18 aspect|7,8 opinion|9,10 opinion|19,20 opinion|23,24 opinion|25,26 opinion|12,14 opinion|0,8 positive|0,10 positive|19,21 r_positive|23,27 r_positive|25,27 r_positive|12,16 r_positive|12,17 r_positive|12,18 r_positive|13,16 r_positive|13,17 r_positive|13,18 r_positive
+0,1 aspect|20,21 aspect|26,27 aspect|15,18 aspect|7,8 opinion|9,10 opinion|19,20 opinion|23,24 opinion|25,26 opinion|12,14 opinion|0,8 positive|0,10 positive|19,21 r_positive|23,27 r_positive|25,27 r_positive|12,18 r_positive
+
+The food was bland oily .
+1,2 aspect|3,5 opinion|1,4 negative|1,5 negative
+1,2 aspect|3,5 opinion|1,5 negative
+
+I went there for lunch and it was not as good as I expected from the reviews I read .
+4,5 aspect|8,14 opinion|4,9 negative|4,10 negative|4,11 negative|4,12 negative|4,13 negative|4,14 negative
+4,5 aspect|8,14 opinion|4,14 negative
+
+The place is small and cramped but the food is fantastic .
+1,2 aspect|8,9 aspect|3,4 opinion|5,6 opinion|10,11 opinion|1,4 negative|1,6 negative|8,11 positive
+1,2 aspect|8,9 aspect|3,4 opinion|5,6 opinion|10,11 opinion|1,4 negative|1,6 negative|8,11 positive
+
+those rolls were big , but not good and sashimi was n't fresh .
+1,2 aspect|9,10 aspect|3,4 opinion|6,8 opinion|10,13 opinion|1,4 negative|1,7 negative|1,8 negative|9,11 negative|9,12 negative|9,13 negative
+1,2 aspect|9,10 aspect|3,4 opinion|6,8 opinion|10,13 opinion|1,4 negative|1,8 negative|9,13 negative
+
+Admittedly some nights inside the restaurant were rather warm , but the open kitchen is part of the charm .
+12,14 aspect|5,6 aspect|18,19 opinion|8,9 opinion|12,19 positive|13,19 positive|5,9 negative
+12,14 aspect|5,6 aspect|18,19 opinion|8,9 opinion|12,19 positive|5,9 negative
+
+Great wine selection , Gigondas is worth the price , and the house champagne is a great value .
+1,3 aspect|4,5 aspect|12,14 aspect|0,1 opinion|6,9 opinion|16,18 opinion|0,2 r_positive|0,3 r_positive|4,7 positive|4,8 positive|4,9 positive|12,17 positive|12,18 positive|13,17 positive|13,18 positive
+1,3 aspect|4,5 aspect|12,14 aspect|0,1 opinion|6,9 opinion|16,18 opinion|0,3 r_positive|4,9 positive|12,18 positive
+
+Have recommended the place to friends , always gets good response .
+3,4 aspect|1,2 opinion|1,4 r_positive
+3,4 aspect|1,2 opinion|1,4 r_positive
+
+Service is not exactly five star , but thats not really a big deal .
+0,1 aspect|2,6 opinion|0,3 neutral|0,4 neutral|0,5 neutral|0,6 neutral
+0,1 aspect|2,6 opinion|0,6 neutral
+
+The tuna and wasabe potatoes are excellent .
+1,2 aspect|3,5 aspect|6,7 opinion|1,7 positive|3,7 positive|4,7 positive
+1,2 aspect|3,5 aspect|6,7 opinion|1,7 positive|3,7 positive
+
+Service was prompt and courteous .
+0,1 aspect|2,3 opinion|4,5 opinion|0,3 positive|0,5 positive
+0,1 aspect|2,3 opinion|4,5 opinion|0,3 positive|0,5 positive
+
+The pizza is delicious - they use fresh mozzarella instead of the cheap , frozen , shredded cheese common to most pizzaria 's .
+1,2 aspect|3,4 opinion|1,4 positive
+1,2 aspect|3,4 opinion|1,4 positive
+
+Wine list selection is good and wine-by-the-glass was generously filled to the top .
+0,3 aspect|6,7 aspect|4,5 opinion|8,10 opinion|0,5 positive|1,5 positive|2,5 positive|6,9 positive|6,10 positive
+0,3 aspect|6,7 aspect|4,5 opinion|8,10 opinion|0,5 positive|6,10 positive
+
+I have NEVER been disappointed in the Red Eye .
+7,9 aspect|2,5 opinion|2,8 r_positive|2,9 r_positive|3,8 r_positive|3,9 r_positive|4,8 r_positive|4,9 r_positive
+7,9 aspect|2,5 opinion|2,9 r_positive
+
+The first time I went , and was completely taken by the live jazz band and atmosphere , I ordered the Lobster Cobb Salad .
+12,15 aspect|16,17 aspect|9,10 opinion|9,13 r_positive|9,14 r_positive|9,15 r_positive|9,17 r_positive
+12,15 aspect|16,17 aspect|9,10 opinion|9,15 r_positive|9,17 r_positive
+
+My husband and I thougt it would be great to go to the Jekyll and Hyde Pub for our anniversary , and to our surprise it was fantastic .
+13,17 aspect|8,9 opinion|27,28 opinion|8,14 r_positive|8,15 r_positive|8,16 r_positive|8,17 r_positive|13,28 positive|14,28 positive|15,28 positive|16,28 positive
+13,17 aspect|8,9 opinion|27,28 opinion|8,17 r_positive|13,28 positive
+
+The workers there also absolutely load the bagel with cream cheese ( gets a little messy ) .
+7,8 aspect|15,16 opinion|7,16 negative
+7,8 aspect|15,16 opinion|7,16 negative
+
+I have to highly recommend the lobster roll - not to much mayo ; you can tell it was a fresh lobster .
+6,8 aspect|6,7 aspect|4,5 opinion|20,21 opinion|4,7 r_positive|4,8 r_positive|6,21 positive
+6,8 aspect|6,7 aspect|4,5 opinion|20,21 opinion|4,8 r_positive|6,21 positive
+
+The scallion pancakes and fried dumplings were nothing out of the ordinary .
+1,3 aspect|4,6 aspect|11,12 opinion|1,12 neutral|2,12 neutral|4,12 neutral|5,12 neutral
+1,3 aspect|4,6 aspect|11,12 opinion|1,12 neutral|4,12 neutral
+
+Salads were fantastic .
+0,1 aspect|2,3 opinion|0,3 positive
+0,1 aspect|2,3 opinion|0,3 positive
+
+The takeout is great too since they give high quality tupperware as well .
+1,2 aspect|3,4 opinion|1,4 positive
+1,2 aspect|3,4 opinion|1,4 positive
+
+The staff was accomodating , the food was absolutely delicious and the place is lovely .
+1,2 aspect|6,7 aspect|12,13 aspect|3,4 opinion|9,10 opinion|14,15 opinion|1,4 positive|6,10 positive|12,15 positive
+1,2 aspect|6,7 aspect|12,13 aspect|3,4 opinion|9,10 opinion|14,15 opinion|1,4 positive|6,10 positive|12,15 positive
+
+The place is a BISTRO which means : simple dishes and wine served efficiently in a bustling atmosphere .
+9,10 aspect|11,12 aspect|17,18 aspect|8,9 opinion|12,14 opinion|16,17 opinion|8,10 r_positive|11,13 positive|11,14 positive|16,18 r_positive
+9,10 aspect|11,12 aspect|17,18 aspect|8,9 opinion|12,14 opinion|16,17 opinion|8,10 r_positive|11,14 positive|16,18 r_positive
+
+Right off the L in Brooklyn this is a nice cozy place with good pizza .
+14,15 aspect|11,12 aspect|13,14 opinion|9,11 opinion|13,15 r_positive|9,12 r_positive|10,12 r_positive
+14,15 aspect|11,12 aspect|13,14 opinion|9,11 opinion|13,15 r_positive|9,12 r_positive
+
+It 's a nice place to relax and have conversation .
+4,5 aspect|3,4 opinion|3,5 r_positive
+4,5 aspect|3,4 opinion|3,5 r_positive
+
+This is my first time writing a review for a restaurant because the food and service was excellent .
+13,14 aspect|15,16 aspect|17,18 opinion|13,18 positive|15,18 positive
+13,14 aspect|15,16 aspect|17,18 opinion|13,18 positive|15,18 positive
+
+The filet mignon dish was superb !
+1,4 aspect|5,6 opinion|1,6 positive|2,6 positive|3,6 positive
+1,4 aspect|5,6 opinion|1,6 positive
+
+I like the ambience , it 's very dark and original .
+3,4 aspect|1,2 opinion|8,9 opinion|10,11 opinion|1,4 r_positive|3,9 positive|3,11 positive
+3,4 aspect|1,2 opinion|8,9 opinion|10,11 opinion|1,4 r_positive|3,9 positive|3,11 positive
+
+The sushi is amazing ! ! !
+1,2 aspect|3,4 opinion|1,4 positive
+1,2 aspect|3,4 opinion|1,4 positive
+
+Very affordable and excellent ambient !
+4,5 aspect|1,2 opinion|3,4 opinion|1,5 r_positive|3,5 r_positive
+4,5 aspect|1,2 opinion|3,4 opinion|1,5 r_positive|3,5 r_positive
+
+My Girlfriend and I stumbled onto this hopping place the other night and had a great time !
+8,9 aspect|7,8 opinion|15,17 opinion|7,9 r_positive|8,16 positive|8,17 positive
+8,9 aspect|7,8 opinion|15,17 opinion|7,9 r_positive|8,17 positive
+
+To be completely fair , the only redeeming factor was the food , which was above average , but could n't make up for all the other deficiencies of Teodora .
+11,12 aspect|29,30 aspect|15,17 opinion|27,28 opinion|11,16 positive|11,17 positive|27,30 r_negative
+11,12 aspect|29,30 aspect|15,17 opinion|27,28 opinion|11,17 positive|27,30 r_negative
+
+One of us actually liked the expresso - that 's it .
+6,7 aspect|4,5 opinion|4,7 r_positive
+6,7 aspect|4,5 opinion|4,7 r_positive
+
+We did n't want a bottle of bubbly on a weekday so we each got little bottles of Korbett it was just enough .
+16,19 aspect|22,23 opinion|16,23 positive|17,23 positive|18,23 positive
+16,19 aspect|22,23 opinion|16,23 positive
+
+Problem is nothing at Prune is particularly memorable .
+4,5 aspect|7,8 opinion|4,8 negative
+4,5 aspect|7,8 opinion|4,8 negative
+
+Our food was great too !
+1,2 aspect|3,4 opinion|1,4 positive
+1,2 aspect|3,4 opinion|1,4 positive
+
+And really large portions .
+3,4 aspect|2,3 opinion|2,4 r_positive
+3,4 aspect|2,3 opinion|2,4 r_positive
+
+The food however , is what one might expect .
+1,2 aspect|8,9 opinion|1,9 negative
+1,2 aspect|8,9 opinion|1,9 negative
+
+Prices too high for this cramped and unappealing resturant .
+8,9 aspect|5,6 opinion|7,8 opinion|5,9 r_negative|7,9 r_negative
+8,9 aspect|5,6 opinion|7,8 opinion|5,9 r_negative|7,9 r_negative
+
+Thius is a must for anyone who loves Shabu-Shabu .
+8,9 aspect|7,8 opinion|7,9 r_positive
+8,9 aspect|7,8 opinion|7,9 r_positive
+
+Despite a slightly limited menu , everything prepared is done to perfection , ultra fresh and a work of food art .
+4,5 aspect|3,4 opinion|3,5 r_negative
+4,5 aspect|3,4 opinion|3,5 r_negative
+
+The location and ambience is Ok but the food is what makes up for it .
+1,2 aspect|3,4 aspect|5,6 opinion|1,6 neutral|3,6 neutral
+1,2 aspect|3,4 aspect|5,6 opinion|1,6 neutral|3,6 neutral
+
+I found the food , service and value exceptional everytime I have been there .
+3,4 aspect|5,6 aspect|8,9 opinion|3,9 positive|5,9 positive
+3,4 aspect|5,6 aspect|8,9 opinion|3,9 positive|5,9 positive
+
+The service was excellent - friendly and attentive .
+1,2 aspect|3,4 opinion|5,6 opinion|7,8 opinion|1,4 positive|1,6 positive|1,8 positive
+1,2 aspect|3,4 opinion|5,6 opinion|7,8 opinion|1,4 positive|1,6 positive|1,8 positive
+
+Very good wine choices .
+2,4 aspect|1,2 opinion|1,3 r_positive|1,4 r_positive
+2,4 aspect|1,2 opinion|1,4 r_positive
+
+Great staff .
+1,2 aspect|0,1 opinion|0,2 r_positive
+1,2 aspect|0,1 opinion|0,2 r_positive
+
+But the staff was so horrible to us .
+2,3 aspect|5,6 opinion|2,6 negative
+2,3 aspect|5,6 opinion|2,6 negative
+
+This place is pricey , and yes , the food is worth it ; but the service makes you feel like you should be paying a quater of the price .
+1,2 aspect|9,10 aspect|3,4 opinion|11,12 opinion|1,4 negative|9,12 positive
+1,2 aspect|9,10 aspect|3,4 opinion|11,12 opinion|1,4 negative|9,12 positive
+
+Do n't dine at Tamarind for the vegetarian dishes , they are simply not up to par with the non-veg selections .
+7,9 aspect|13,17 opinion|7,14 negative|7,15 negative|7,16 negative|7,17 negative|8,14 negative|8,15 negative|8,16 negative|8,17 negative
+7,9 aspect|13,17 opinion|7,17 negative
+
+Decor is nice though service can be spotty .
+0,1 aspect|4,5 aspect|2,3 opinion|7,8 opinion|0,3 positive|4,8 negative
+0,1 aspect|4,5 aspect|2,3 opinion|7,8 opinion|0,3 positive|4,8 negative
+
+I am happy i did the food was awsome .
+6,7 aspect|8,9 opinion|6,9 positive
+6,7 aspect|8,9 opinion|6,9 positive
+
+limited menu , no-so-fresh ingredients , thinly-sliced fish , fall-apart rice .
+1,2 aspect|4,5 aspect|7,8 aspect|10,11 aspect|0,1 opinion|3,4 opinion|6,7 opinion|9,10 opinion|0,2 r_negative|3,5 r_negative|6,8 r_negative|9,11 r_negative
+1,2 aspect|4,5 aspect|7,8 aspect|10,11 aspect|0,1 opinion|3,4 opinion|6,7 opinion|9,10 opinion|0,2 r_negative|3,5 r_negative|6,8 r_negative|9,11 r_negative
+
+With the theater 2 blocks away we had a delicious meal in a beautiful room .
+10,11 aspect|14,15 aspect|9,10 opinion|13,14 opinion|9,11 r_positive|13,15 r_positive
+10,11 aspect|14,15 aspect|9,10 opinion|13,14 opinion|9,11 r_positive|13,15 r_positive
+
+The seats are uncomfortable if you are sitting against the wall on wooden benches .
+1,2 aspect|3,4 opinion|1,4 negative
+1,2 aspect|3,4 opinion|1,4 negative
+
+Waitstaff are very friendly .
+0,1 aspect|3,4 opinion|0,4 positive
+0,1 aspect|3,4 opinion|0,4 positive
+
+The lobster sandwich is $ 24 and although it was good it was not nearly enough to warrant that price .
+1,3 aspect|10,11 opinion|13,20 opinion|1,11 negative|2,11 negative|1,14 negative|1,15 negative|1,16 negative|1,17 negative|1,18 negative|1,19 negative|1,20 negative|2,14 negative|2,15 negative|2,16 negative|2,17 negative|2,18 negative|2,19 negative|2,20 negative
+1,3 aspect|10,11 opinion|13,20 opinion|1,11 negative|1,20 negative
+
+The food was delicious ( I had a halibut special , my husband had steak ) , and the service was top-notch .
+1,2 aspect|19,20 aspect|3,4 opinion|21,22 opinion|1,4 positive|19,22 positive
+1,2 aspect|19,20 aspect|3,4 opinion|21,22 opinion|1,4 positive|19,22 positive
+
+I almost hesititate to write a review because the atmosphere was so great and I would hate for it too become to crowded .
+9,10 aspect|12,13 opinion|9,13 positive
+9,10 aspect|12,13 opinion|9,13 positive
+
+Service is average .
+0,1 aspect|2,3 opinion|0,3 neutral
+0,1 aspect|2,3 opinion|0,3 neutral
+
+The ambience was so fun , and the prices were great , on top of the fact that the food was really tasty .
+1,2 aspect|19,20 aspect|4,5 opinion|22,23 opinion|1,5 positive|19,23 positive
+1,2 aspect|19,20 aspect|4,5 opinion|22,23 opinion|1,5 positive|19,23 positive
+
+I would highly recommend this place !
+5,6 aspect|3,4 opinion|3,6 r_positive
+5,6 aspect|3,4 opinion|3,6 r_positive
+
+Nice Family owned traditional restaurant .
+4,5 aspect|3,4 opinion|3,5 r_positive
+4,5 aspect|3,4 opinion|3,5 r_positive
+
+Fresh ingredients and everything is made to order .
+1,2 aspect|0,1 opinion|0,2 r_positive
+1,2 aspect|0,1 opinion|0,2 r_positive
+
+My friends settled for rice dishes , but we came back the following day to try the dim sum , which was good ... not outstanding , but good .
+17,19 aspect|22,23 opinion|24,26 opinion|17,23 neutral|18,23 neutral|17,25 neutral|17,26 neutral|18,25 neutral|18,26 neutral
+17,19 aspect|22,23 opinion|24,26 opinion|17,23 neutral|17,26 neutral
+
+I would recommend Roxy 's for that , but not for their food .
+12,13 aspect|2,3 opinion|2,13 r_negative
+12,13 aspect|2,3 opinion|2,13 r_negative
+
+I had a huge pastrami sandwich on a roll .
+4,9 aspect|3,4 opinion|3,5 r_neutral|3,6 r_neutral|3,7 r_neutral|3,8 r_neutral|3,9 r_neutral
+4,9 aspect|3,4 opinion|3,9 r_neutral
+
+We went here for lunch a couple of weeks ago on a Saturday , and I was thoroughly impressed with the food .
+21,22 aspect|18,19 opinion|18,22 r_positive
+21,22 aspect|18,19 opinion|18,22 r_positive
+
+We had the scallops as an appetizer and they were delicious and the sauce was wonderful .
+3,4 aspect|13,14 aspect|10,11 opinion|15,16 opinion|3,11 positive|13,16 positive
+3,4 aspect|13,14 aspect|10,11 opinion|15,16 opinion|3,11 positive|13,16 positive
+
+The dishes offered were unique , very tasty and fresh from the lamb sausages , sardines with biscuits , large whole shrimp to the amazing pistachio ice cream ( the best and freshest I 've ever had ) .
+1,2 aspect|25,28 aspect|4,5 opinion|7,8 opinion|9,10 opinion|24,25 opinion|1,5 positive|1,8 positive|1,10 positive|24,26 r_positive|24,27 r_positive|24,28 r_positive
+1,2 aspect|25,28 aspect|4,5 opinion|7,8 opinion|9,10 opinion|24,25 opinion|1,5 positive|1,8 positive|1,10 positive|24,28 r_positive
+
+I 'm glad I was introduced to this place and this is a rare gem in NY .
+8,9 aspect|2,3 opinion|2,9 r_positive
+8,9 aspect|2,3 opinion|2,9 r_positive
+
+The service was excellent and the food was delicious .
+1,2 aspect|6,7 aspect|3,4 opinion|8,9 opinion|1,4 positive|6,9 positive
+1,2 aspect|6,7 aspect|3,4 opinion|8,9 opinion|1,4 positive|6,9 positive
+
+The food arrived 20 minutes after I called , cold and soggy .
+1,2 aspect|9,10 opinion|11,12 opinion|1,10 negative|1,12 negative
+1,2 aspect|9,10 opinion|11,12 opinion|1,10 negative|1,12 negative
+
+The food looked very appetizing and delicious since it came on a variety of fancy plates .
+1,2 aspect|4,5 opinion|6,7 opinion|1,5 positive|1,7 positive
+1,2 aspect|4,5 opinion|6,7 opinion|1,5 positive|1,7 positive
+
+By far , the best pizza in Manhattan .
+5,6 aspect|4,5 opinion|4,6 r_positive
+5,6 aspect|4,5 opinion|4,6 r_positive
+
+The food was mediocre at best but it was the horrible service that made me vow never to go back .
+1,2 aspect|11,12 aspect|3,4 opinion|10,11 opinion|1,4 negative|10,12 r_negative
+1,2 aspect|11,12 aspect|3,4 opinion|10,11 opinion|1,4 negative|10,12 r_negative
+
+While their kitchen food is delicious , their Sushi is out of this world .
+2,4 aspect|8,9 aspect|5,6 opinion|10,14 opinion|2,6 positive|3,6 positive|8,11 positive|8,12 positive|8,13 positive|8,14 positive
+2,4 aspect|8,9 aspect|5,6 opinion|10,14 opinion|2,6 positive|8,14 positive
+
+Mizu is home to creative and unique rolls not to found anywhere else .
+7,8 aspect|6,7 opinion|6,8 r_positive
+7,8 aspect|6,7 opinion|6,8 r_positive
+
+Not only is the cuisine the best around , the service has always been attentive and charming .
+4,5 aspect|10,11 aspect|6,7 opinion|14,15 opinion|16,17 opinion|4,7 positive|10,15 positive|10,17 positive
+4,5 aspect|10,11 aspect|6,7 opinion|14,15 opinion|16,17 opinion|4,7 positive|10,15 positive|10,17 positive
+
+The entree was bland and small , dessert was not inspired .
+1,2 aspect|7,8 aspect|3,4 opinion|5,6 opinion|9,11 opinion|1,4 negative|1,6 negative|7,10 negative|7,11 negative
+1,2 aspect|7,8 aspect|3,4 opinion|5,6 opinion|9,11 opinion|1,4 negative|1,6 negative|7,11 negative
+
+Wonderful strawberry daiquiries as well !
+1,3 aspect|0,1 opinion|0,2 r_positive|0,3 r_positive
+1,3 aspect|0,1 opinion|0,3 r_positive
+
+Authentic Taiwanese food that 's cheap ... what more could you ask for ?
+1,3 aspect|0,1 opinion|5,6 opinion|0,2 r_positive|0,3 r_positive|1,6 positive|2,6 positive
+1,3 aspect|0,1 opinion|5,6 opinion|0,3 r_positive|1,6 positive
+
+My friend devoured her chicken and mashed potatos .
+4,8 aspect|2,3 opinion|2,5 r_positive|2,6 r_positive|2,7 r_positive|2,8 r_positive
+4,8 aspect|2,3 opinion|2,8 r_positive
+
+Great neighborhood joint .
+2,3 aspect|0,1 opinion|0,3 r_positive
+2,3 aspect|0,1 opinion|0,3 r_positive
+
+This is a nice pizza place with good selection of thin crust pizza including the Basil slice .
+8,13 aspect|4,6 aspect|15,17 aspect|7,8 opinion|3,4 opinion|7,9 r_positive|7,10 r_positive|7,11 r_positive|7,12 r_positive|7,13 r_positive|3,5 r_positive|3,6 r_positive|7,16 r_positive|7,17 r_positive
+8,13 aspect|4,6 aspect|15,17 aspect|7,8 opinion|3,4 opinion|7,13 r_positive|3,6 r_positive|7,17 r_positive
+
+The dosas are skimpy , unattractive and drip with grease , and personally I 'd drink popcorn topping before I 'd eat another one of these .
+1,2 aspect|3,4 opinion|5,6 opinion|1,4 negative|1,6 negative
+1,2 aspect|3,4 opinion|5,6 opinion|1,4 negative|1,6 negative
+
+Best Italian food I ever had ( and being Italian , that means alot ) .
+1,3 aspect|0,1 opinion|0,2 r_positive|0,3 r_positive
+1,3 aspect|0,1 opinion|0,3 r_positive
+
+The restaurant looks out over beautiful green lawns to the Hudson River and the Statue of Liberty .
+1,2 aspect|5,6 opinion|1,6 positive
+1,2 aspect|5,6 opinion|1,6 positive
+
+The food is good , especially their more basic dishes , and the drinks are delicious .
+1,2 aspect|8,10 aspect|13,14 aspect|3,4 opinion|15,16 opinion|1,4 positive|3,9 r_positive|3,10 r_positive|13,16 positive
+1,2 aspect|8,10 aspect|13,14 aspect|3,4 opinion|15,16 opinion|1,4 positive|3,10 r_positive|13,16 positive
+
+Good spreads , great beverage selections and bagels really tasty .
+1,2 aspect|4,6 aspect|7,8 aspect|0,1 opinion|3,4 opinion|9,10 opinion|0,2 r_positive|3,5 r_positive|3,6 r_positive|7,10 positive
+1,2 aspect|4,6 aspect|7,8 aspect|0,1 opinion|3,4 opinion|9,10 opinion|0,2 r_positive|3,6 r_positive|7,10 positive
+
+The cream cheeses are out of this world and I love that coffee ! !
+1,3 aspect|12,13 aspect|4,8 opinion|10,11 opinion|1,5 positive|1,6 positive|1,7 positive|1,8 positive|2,5 positive|2,6 positive|2,7 positive|2,8 positive|10,13 r_positive
+1,3 aspect|12,13 aspect|4,8 opinion|10,11 opinion|1,8 positive|10,13 r_positive
+
+The fish was adequate , but inexpertly sliced .
+1,2 aspect|3,4 opinion|6,8 opinion|1,4 negative|1,7 negative|1,8 negative
+1,2 aspect|3,4 opinion|6,8 opinion|1,4 negative|1,8 negative
+
+Well , this place is so Ghetto its not even funny .
+3,4 aspect|6,7 opinion|8,11 opinion|3,7 negative|3,9 negative|3,10 negative|3,11 negative
+3,4 aspect|6,7 opinion|8,11 opinion|3,7 negative|3,11 negative
+
+Awsome Pizza especially the Margheritta slice .
+1,2 aspect|4,6 aspect|0,1 opinion|0,2 r_positive|0,5 r_positive|0,6 r_positive
+1,2 aspect|4,6 aspect|0,1 opinion|0,2 r_positive|0,6 r_positive
+
+Everything about this restaurant was special .
+3,4 aspect|5,6 opinion|3,6 positive
+3,4 aspect|5,6 opinion|3,6 positive
+
+You ca n't go wrong with this place .
+7,8 aspect|1,5 opinion|1,8 r_positive|2,8 r_positive|3,8 r_positive|4,8 r_positive
+7,8 aspect|1,5 opinion|1,8 r_positive
+
+The food is excellent !
+1,2 aspect|3,4 opinion|1,4 positive
+1,2 aspect|3,4 opinion|1,4 positive
+
+The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal
+22,23 aspect|1,2 aspect|19,20 opinion|21,22 opinion|5,6 opinion|19,23 r_positive|21,23 r_positive|1,6 negative
+22,23 aspect|1,2 aspect|19,20 opinion|21,22 opinion|5,6 opinion|19,23 r_positive|21,23 r_positive|1,6 negative
+
+this little place has a cute interior decor and affordable city prices .
+6,8 aspect|2,3 aspect|5,6 opinion|1,2 opinion|5,7 r_positive|5,8 r_positive|1,3 r_positive
+6,8 aspect|2,3 aspect|5,6 opinion|1,2 opinion|5,8 r_positive|1,3 r_positive
+
+delicious bagels , especially when right out of the oven .
+1,2 aspect|0,1 opinion|0,2 r_positive
+1,2 aspect|0,1 opinion|0,2 r_positive
+
+Service is fast and friendly .
+0,1 aspect|2,3 opinion|4,5 opinion|0,3 positive|0,5 positive
+0,1 aspect|2,3 opinion|4,5 opinion|0,3 positive|0,5 positive
+
+Rao is a good restaurant , but it 's nothing special .
+0,1 aspect|3,4 opinion|0,4 neutral
+0,1 aspect|3,4 opinion|0,4 neutral
+
+I really loved the different and inovated touch that 's the cheff gives to the food .
+11,12 aspect|2,3 opinion|6,7 opinion|2,12 r_positive|6,12 r_positive
+11,12 aspect|2,3 opinion|6,7 opinion|2,12 r_positive|6,12 r_positive
+
+Drawbacks : service is slow and they do n't toast !
+2,3 aspect|4,5 opinion|2,5 negative
+2,3 aspect|4,5 opinion|2,5 negative
+
+Volare virgins or weekly regulars , everyone gets treated the same and you ca n't ask for more than that when the service is this friendly .
+22,23 aspect|25,26 opinion|22,26 positive
+22,23 aspect|25,26 opinion|22,26 positive
+
+Lucky Strike is a great casual place to just grab a bite to eat .
+0,2 aspect|4,6 opinion|0,5 positive|0,6 positive|1,5 positive|1,6 positive
+0,2 aspect|4,6 opinion|0,6 positive
+
+What a great place !
+3,4 aspect|2,3 opinion|2,4 r_positive
+3,4 aspect|2,3 opinion|2,4 r_positive
+
+This place has the best Chinese style BBQ ribs in the city .
+7,9 aspect|4,5 opinion|4,8 r_positive|4,9 r_positive
+7,9 aspect|4,5 opinion|4,9 r_positive
+
+Quick and friendly service .
+3,4 aspect|0,1 opinion|2,3 opinion|0,4 r_positive|2,4 r_positive
+3,4 aspect|0,1 opinion|2,3 opinion|0,4 r_positive|2,4 r_positive
+
+This little place definitely exceeded my expectations and you sure get a lot of food for your money .
+14,15 aspect|2,3 aspect|12,13 opinion|4,7 opinion|12,15 r_positive|2,5 positive|2,6 positive|2,7 positive
+14,15 aspect|2,3 aspect|12,13 opinion|4,7 opinion|12,15 r_positive|2,7 positive
+
+Service , however , was excellent ... and I liked the setting/atmosphere a lot .
+0,1 aspect|11,12 aspect|5,6 opinion|9,10 opinion|0,6 positive|9,12 r_positive
+0,1 aspect|11,12 aspect|5,6 opinion|9,10 opinion|0,6 positive|9,12 r_positive
+
+People are always friendly .
+0,1 aspect|3,4 opinion|0,4 positive
+0,1 aspect|3,4 opinion|0,4 positive
+
+bottles of wine are cheap and good .
+0,3 aspect|4,5 opinion|6,7 opinion|0,5 positive|1,5 positive|2,5 positive|0,7 positive|1,7 positive|2,7 positive
+0,3 aspect|4,5 opinion|6,7 opinion|0,5 positive|0,7 positive
+
+The food was actually aweful .
+1,2 aspect|4,5 opinion|1,5 negative
+1,2 aspect|4,5 opinion|1,5 negative
+
+the drinks are amazing and half off till 8pm .
+1,2 aspect|3,4 opinion|1,4 positive
+1,2 aspect|3,4 opinion|1,4 positive
+
+This is an amazing place to try some roti rolls .
+8,10 aspect|6,7 opinion|6,9 r_positive|6,10 r_positive
+8,10 aspect|6,7 opinion|6,10 r_positive
+
+I really recommend the very simple Unda ( Egg ) rolls .
+6,11 aspect|2,3 opinion|5,6 opinion|2,7 r_positive|2,8 r_positive|2,9 r_positive|2,10 r_positive|2,11 r_positive|5,7 r_positive|5,8 r_positive|5,9 r_positive|5,10 r_positive|5,11 r_positive
+6,11 aspect|2,3 opinion|5,6 opinion|2,11 r_positive|5,11 r_positive
+
+Delicate spices , onions , eggs and a kick-ass roti .
+1,2 aspect|3,4 aspect|5,6 aspect|9,10 aspect|0,1 opinion|8,9 opinion|0,2 r_positive|0,4 r_positive|0,6 r_positive|8,10 r_positive
+1,2 aspect|3,4 aspect|5,6 aspect|9,10 aspect|0,1 opinion|8,9 opinion|0,2 r_positive|0,4 r_positive|0,6 r_positive|8,10 r_positive
+
+Best drumsticks over rice and sour spicy soup in town !
+1,4 aspect|5,8 aspect|0,1 opinion|0,2 r_positive|0,3 r_positive|0,4 r_positive|0,6 r_positive|0,7 r_positive|0,8 r_positive
+1,4 aspect|5,8 aspect|0,1 opinion|0,4 r_positive|0,8 r_positive
+
+Beef noodle soup is good as well .
+0,3 aspect|4,5 opinion|0,5 positive|1,5 positive|2,5 positive
+0,3 aspect|4,5 opinion|0,5 positive
+
+Best Taiwanese food in NY !
+1,3 aspect|0,1 opinion|0,2 r_positive|0,3 r_positive
+1,3 aspect|0,1 opinion|0,3 r_positive
+
+I have been to Rao 's probably 15 times the past 3 years and it keeps getting better .
+4,6 aspect|17,18 opinion|4,18 positive|5,18 positive
+4,6 aspect|17,18 opinion|4,18 positive
+
+Staff is very accomodating .
+0,1 aspect|3,4 opinion|0,4 positive
+0,1 aspect|3,4 opinion|0,4 positive
+
+The decor is very simple but comfortable .
+1,2 aspect|4,5 opinion|6,7 opinion|1,5 positive|1,7 positive
+1,2 aspect|4,5 opinion|6,7 opinion|1,5 positive|1,7 positive
+
+You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert .
+4,6 aspect|8,12 opinion|4,9 positive|4,10 positive|4,11 positive|4,12 positive|5,9 positive|5,10 positive|5,11 positive|5,12 positive
+4,6 aspect|8,12 opinion|4,12 positive
+
+whoever the jazz duo was , they were on POINT .
+2,4 aspect|8,10 opinion|2,9 positive|2,10 positive|3,9 positive|3,10 positive
+2,4 aspect|8,10 opinion|2,10 positive
+
+even the wine by the glass was good .
+2,6 aspect|7,8 opinion|2,8 positive|3,8 positive|4,8 positive|5,8 positive
+2,6 aspect|7,8 opinion|2,8 positive
+
+The food is okay and the prices here are mediocre .
+1,2 aspect|3,4 opinion|1,4 neutral
+1,2 aspect|3,4 opinion|1,4 neutral
+
+Baluchi 's has solid food and a nice decor at reasonable prices .
+4,5 aspect|8,9 aspect|0,2 aspect|3,4 opinion|7,8 opinion|3,5 r_positive|7,9 r_positive|0,4 positive|1,4 positive
+4,5 aspect|8,9 aspect|0,2 aspect|3,4 opinion|7,8 opinion|3,5 r_positive|7,9 r_positive|0,4 positive
+
+$ 20 for all you can eat sushi can not be beaten .
+3,8 aspect|11,12 opinion|3,12 positive|4,12 positive|5,12 positive|6,12 positive|7,12 positive
+3,8 aspect|11,12 opinion|3,12 positive
+
+The vibe is very relaxed and cozy , service was great and the food was excellent !
+1,2 aspect|8,9 aspect|13,14 aspect|4,5 opinion|6,7 opinion|10,11 opinion|15,16 opinion|1,5 positive|1,7 positive|8,11 positive|13,16 positive
+1,2 aspect|8,9 aspect|13,14 aspect|4,5 opinion|6,7 opinion|10,11 opinion|15,16 opinion|1,5 positive|1,7 positive|8,11 positive|13,16 positive
+
+Never have I had such dramatic delivery guys ( a lot of huffing and panting and muttering under breath b/c I live in a walkup ) who always seem disappointed with their tips .
+6,8 aspect|5,6 opinion|5,7 r_negative|5,8 r_negative
+6,8 aspect|5,6 opinion|5,8 r_negative
+

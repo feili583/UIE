@@ -1,0 +1,22 @@
+{
+    "ner": [
+        "people",
+        "location",
+        "organization",
+        "other"
+    ],
+    "relation": [
+        "located-in",
+        "organization-in",
+        "live-in",
+        "work-for",
+        "kill",
+        "r_organization-in",
+        "r_located-in",
+        "r_work-for",
+        "r_kill",
+        "r_live-in"
+    ],
+    "event": [],
+    "role": []
+}
