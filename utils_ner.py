@@ -143,7 +143,7 @@ class Processor(DataProcessor):
         elif dataset == 'scierc':
             self.labels = ['method', 'task', 'other-scientific-term', 'metric', 'material', 'generic', 'evaluate-for', 'compare', 'used-for', 'feature-of', 'conjunction', 'part-of', 'hyponym-of', 'r_used-for', 'r_feature-of', 'r_evaluate-for', 'r_conjunction', 'r_hyponym-of', 'r_part-of', 'r_compare']
         elif dataset == 'casie':
-            self.labels = ['geopolitical-entity', 'time', 'file', 'website', 'data', 'common-vulnerabilities-and-exposures', 'money', 'patch', 'malware', 'person', 'purpose', 'number', 'vulnerability', 'version', 'capabilities', 'payment-method', 'system', 'software', 'personally-identifiable-information', 'organization', 'device', 'patch-number', 'patch', 'number-of-data', 'discoverer', 'common-vulnerabilities-and-exposures', 'vulnerable-system', 'vulnerable-system-version', 'supported-platform', 'payment-method', 'issues-addressed', 'purpose', 'damage-amount', 'attacker', 'releaser', 'tool', 'number-of-victim', 'trusted-entity', 'capabilities', 'place', 'attack-pattern', 'compromised-data', 'price', 'victim', 'vulnerable-system-owner', 'vulnerability', 'time', 'r_tool', 'r_trusted-entity', 'r_attack-pattern', 'r_victim', 'r_attacker', 'r_time', 'r_place', 'r_vulnerable-system-owner', 'r_discoverer', 'r_releaser', 'r_vulnerability', 'r_vulnerable-system', 'r_vulnerable-system-version', 'r_patch', 'r_compromised-data', 'r_number-of-victim', 'r_purpose', 'r_common-vulnerabilities-and-exposures', 'r_number-of-data', 'r_price', 'r_payment-method', 'r_capabilities', 'r_patch-number', 'r_damage-amount', 'r_issues-addressed', 'r_supported-platform', 'phishing', 'databreach', 'ransom', 'discover-vulnerability', 'patch-vulnerability']
+            self.labels = ['geopolitical-entity', 'time', 'file', 'website', 'data', 'common-vulnerabilities-and-exposures', 'money', 'patch', 'malware', 'person', 'purpose', 'number', 'vulnerability', 'version', 'capabilities', 'payment-method', 'system', 'software', 'personally-identifiable-information', 'organization', 'device', 'victim', 'patch-number', 'tool', 'vulnerable-system', 'vulnerable-system-owner', 'releaser', 'discoverer', 'time', 'capabilities', 'purpose', 'supported-platform', 'issues-addressed', 'common-vulnerabilities-and-exposures', 'attacker', 'trusted-entity', 'vulnerability', 'vulnerable-system-version', 'number-of-victim', 'payment-method', 'compromised-data', 'price', 'place', 'attack-pattern', 'number-of-data', 'patch', 'damage-amount', 'r_tool', 'r_trusted-entity', 'r_attack-pattern', 'r_victim', 'r_attacker', 'r_time', 'r_place', 'r_vulnerable-system-owner', 'r_discoverer', 'r_releaser', 'r_vulnerability', 'r_vulnerable-system', 'r_vulnerable-system-version', 'r_patch', 'r_compromised-data', 'r_number-of-victim', 'r_purpose', 'r_common-vulnerabilities-and-exposures', 'r_number-of-data', 'r_price', 'r_payment-method', 'r_capabilities', 'r_patch-number', 'r_damage-amount', 'r_issues-addressed', 'r_supported-platform', 'phishing', 'databreach', 'ransom', 'discover-vulnerability', 'patch-vulnerability']
         elif dataset == 'cadec':
             self.labels = ['NA', 'adverse-drug-reaction', 'r_adverse-drug-reaction']
         elif dataset == 'absa':
@@ -1508,6 +1508,63 @@ def eval_v6(args, outputs, partial_masks, labels, gather_masks, valid_pattern):
         # gold_trigger_tuples = []触发器gold二元组列表
         # gold_trigger_str = []触发器gold二元组字符串
         # trigger_golds=list()触发器gold三元组
+def find_str(text, substring):
+    words = text.split(' ')
+
+    substring_words = substring.split(' ')
+
+    for i in range(len(words) - len(substring_words) + 1):
+        if words[i:i + len(substring_words)] == substring_words:
+            start_index = i
+            return start_index
+
+def get_groudtruth(args, path, labels, id):
+    import json
+    path = '/data/liuweichang/Partially_Observed_TreeCRFs_ee/Partially_Observed_TreeCRFs_ee/data/rel/conll04/test.jsonl'
+    golds = list()
+    entity_golds=list()
+    relation_golds=list()
+    argu_golds=list()
+    trigger_golds=list()
+
+    gold_argu_tuples = []
+    gold_argu_str = []
+    gold_entity_tuples = []
+    gold_trigger_tuples = []
+    gold_trigger_str = []
+    gold_relation_tuples = []
+    gold_label_dict = dict()
+
+    gold_label_dict['entity'] = dict()
+    gold_label_dict['relation'] = dict()
+    gold_label_dict['role'] = dict()
+    gold_label_dict['trigger'] = dict()
+
+    if 'conll04' in path or 'nyt' in path or 'scierc' in path:
+        with open(path, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
+            line = lines[id]
+            line = json.loads(line)
+            sentence = line['text']
+            for ner in line['ans']['ent']:
+                start = find_str(sentence, ner['text'])
+                end = start + len(ner['text'].split(' ')) - 1
+                entity_golds.append("{}_{}_{}".format(start, end, labels.index(ner['type'].replace(' ','-'))))
+            for rel in line['ans']['rel']:
+                ner1 = rel['head']['text']
+                start1 = find_str(sentence, ner1)
+                end1 = start1 + len(ner1.split(' ')) - 1
+                ner2 = rel['tail']['text']
+                start2 = find_str(sentence, ner2)
+                end2 = start2 + len(ner2.split(' ')) - 1
+                # relations.append([start1, end1, start2, end2, rel['relation'].replace(' ','-')])
+                if start1 <= start2:
+                    gold_relation_tuples.append("{}_{}_{}_{}_{}".format(start1, end1, start2, end2, labels.index(rel['relation'].replace(' ','-'))))
+                    relation_golds.append("{}_{}_{}_{}_{}".format(start1, end1, start2, end2, labels.index(rel['relation'].replace(' ','-'))))
+                else:
+                    gold_relation_tuples.append("{}_{}_{}_{}_{}".format(start1, end1, start2, end2, labels.index('r_' + rel['relation'].replace(' ','-'))))
+                    relation_golds.append("{}_{}_{}_{}_{}".format(start1, end1, start2, end2, labels.index('r_' + rel['relation'].replace(' ','-'))))
+    return entity_golds, gold_relation_tuples, relation_golds
 
 def eval(args, outputs, partial_masks, labels, gather_masks, valid_pattern):
     '''
@@ -1558,12 +1615,7 @@ def eval(args, outputs, partial_masks, labels, gather_masks, valid_pattern):
     # np.set_printoptions(threshold=np.inf)
     # print(partial_masks)
     # stop
-
     for output, partial_mask, l in zip(outputs, partial_masks, gather_masks):
-        # torch.set_printoptions(profile="full")
-        # import numpy as np
-        # import sys
-        # np.set_printoptions(threshold=sys.maxsize)
         golds = list()
         preds = list()
         entity_golds=list()
@@ -1684,18 +1736,37 @@ def eval(args, outputs, partial_masks, labels, gather_masks, valid_pattern):
                             for t in range(i,j+1):
                                 if [t,j] in gold_entity_tuples:
                                     entity_2.append([t,j])
-                            if len(entity_1)>1 or len(entity_2)>1:
-                                print(len(entity_1),len(entity_2),i,j,k,labels[k])
+                            if len(entity_1) > 1 or len(entity_2) > 1:
+                                print((entity_1),(entity_2),i,j,k,labels[k])
                                 print('关系对应的实体存在起始或终止位置相同的')
                                 print(entity_1,entity_2)
                             if len(entity_1)==0 or len(entity_2)==0:
                                 print('关系错误，存在非实体')
-                                print(len(entity_1),len(entity_2),i,j,k,labels[k])
+                                print((entity_1),(entity_2),i,j,k,labels[k])
                             else:
-                                gold_relation_tuples.append("{}_{}_{}_{}_{}".format(entity_1[0][0], entity_1[0][1], entity_2[0][0], entity_2[0][1], k))
-                                if labels[k] not in gold_label_dict['relation'].keys():
-                                    gold_label_dict['relation'][labels[k]] = []
-                                gold_label_dict['relation'][labels[k]].append("{}_{}_{}_{}_{}".format(entity_1[0][0], entity_1[0][1], entity_2[0][0], entity_2[0][1], k))
+                                for enti1 in entity_1:
+                                    for enti2 in entity_2:
+                                        if enti1[0] <= enti2[0]:
+                                            gold_relation_tuples.append("{}_{}_{}_{}_{}".format(enti1[0], enti1[1], enti2[0], enti2[1], k))
+                                            if labels[k] not in gold_label_dict['relation'].keys():
+                                                gold_label_dict['relation'][labels[k]] = []
+                                            gold_label_dict['relation'][labels[k]].append("{}_{}_{}_{}_{}".format(enti1[0], enti1[1], enti2[0], enti2[1], k))
+                                        else:
+                                            gold_relation_tuples.append("{}_{}_{}_{}_{}".format(enti2[0], enti2[1], enti1[0], enti1[1],  k))
+                                            if labels[k] not in gold_label_dict['relation'].keys():
+                                                gold_label_dict['relation'][labels[k]] = []
+                                            gold_label_dict['relation'][labels[k]].append("{}_{}_{}_{}_{}".format(enti2[0], enti2[1], enti1[0], enti1[1],  k))
+
+                                # if entity_1[0][0] <= entity_2[0][0]:
+                                #     gold_relation_tuples.append("{}_{}_{}_{}_{}".format(entity_1[0][0], entity_1[0][1], entity_2[0][0], entity_2[0][1], k))
+                                #     if labels[k] not in gold_label_dict['relation'].keys():
+                                #         gold_label_dict['relation'][labels[k]] = []
+                                #     gold_label_dict['relation'][labels[k]].append("{}_{}_{}_{}_{}".format(entity_1[0][0], entity_1[0][1], entity_2[0][0], entity_2[0][1], k))
+                                # else:
+                                #     gold_relation_tuples.append("{}_{}_{}_{}_{}".format(entity_2[0][0], entity_2[0][1], entity_1[0][0], entity_1[0][1],  k))
+                                #     if labels[k] not in gold_label_dict['relation'].keys():
+                                #         gold_label_dict['relation'][labels[k]] = []
+                                #     gold_label_dict['relation'][labels[k]].append("{}_{}_{}_{}_{}".format(entity_2[0][0], entity_2[0][1], entity_1[0][0], entity_1[0][1],  k))
 
                         if k in argu_ids:
                             argu_golds.append("{}_{}_{}".format(i, j, k))
@@ -1745,7 +1816,7 @@ def eval(args, outputs, partial_masks, labels, gather_masks, valid_pattern):
                                     gold_label_dict['role'][labels[k]] = []
                                 gold_label_dict['role'][labels[k]].append("{}_{}_{}_{}_{}".format(trigger_1[0][0],trigger_1[0][1],entity_2[0][0],entity_2[0][1],k))
 
-        for k, i, j in zip(*np.where(output > 0)):
+        for k, i, j in zip(*np.where(output >= 0)):
             # print(i,j,k, output[k][i][j],labels[40])
             if k in relation_ids:
                 preds_entity_1 = []
@@ -1756,12 +1827,12 @@ def eval(args, outputs, partial_masks, labels, gather_masks, valid_pattern):
                     if j >= m and j <= n and (i < m or i > n):
                         preds_entity_2.append([m,n])
                 if len(preds_entity_1) > 1 or len(preds_entity_2) > 1:
-                    # print('预测的关系对应多个实体')
+                    print('预测的关系对应多个实体')
                     pass
                 if len(preds_entity_1) >= 1 and len(preds_entity_2) >= 1:
                     for entity1_start, entity1_end in preds_entity_1:
                         for entity2_start, entity2_end in preds_entity_2:
-                            if entity1_start < entity2_start:
+                            if entity1_start <= entity2_start:
                                 pred_relation_tuples.append("{}_{}_{}_{}_{}".format(entity1_start, entity1_end, entity2_start, entity2_end, k))
                                 if labels[k] not in pred_label_dict['relation'].keys():
                                     pred_label_dict['relation'][labels[k]] = []
@@ -1786,6 +1857,13 @@ def eval(args, outputs, partial_masks, labels, gather_masks, valid_pattern):
                     for [m,n] in pred_entity_tuples:
                         if m<=i and i<=n:
                             preds_entity_2.append([m,n])
+                    if len(preds_trigger_1) == 0 and len(preds_entity_2) == 0:
+                        for [m,n] in pred_trigger_tuples:
+                            if m<=i and i<=n:
+                                preds_trigger_1.append([m,n])
+                        for [m,n] in pred_entity_tuples:
+                            if m<=j and j<=n:
+                                preds_entity_2.append([m,n])
                 else:
                     for [m,n] in pred_trigger_tuples:
                         if m<=i and i<=n:
@@ -1815,6 +1893,10 @@ def eval(args, outputs, partial_masks, labels, gather_masks, valid_pattern):
                             pred_label_dict['role'][labels[k]].append("{}_{}_{}_{}_{}".format(trigger_start, trigger_end, entity_start, entity_end, k))
                     # pred_argu_tuples.append("{}_{}_{}_{}_{}".format(preds_trigger_1[0][0], preds_trigger_1[0][1], preds_entity_2[0][0], preds_entity_2[0][1], k))
                     # pred_argu_str.append("{}_{}_{}_{}".format(preds_trigger_1[0][0], preds_trigger_1[0][1], preds_entity_2[0][0], preds_entity_2[0][1]))
+
+        # entity_golds, gold_relation_tuples, relation_golds = get_groudtruth(args, '', labels, id)
+        # print(id, entity_golds, gold_relation_tuples, relation_golds)
+        # # id += 1
 
         pred_count += len(preds)
         gold_count += len(golds)
@@ -1911,9 +1993,9 @@ def eval(args, outputs, partial_masks, labels, gather_masks, valid_pattern):
             else:
                 label_num_dict[key][lab]['f1'] = 2 * label_num_dict[key][lab]['precision'] * label_num_dict[key][lab]['recall'] / \
                                         (label_num_dict[key][lab]['precision'] + label_num_dict[key][lab]['recall'])
-            print(key, ' ', lab,' ', 'precision', label_num_dict[key][lab]['precision'])
-            print(key, ' ', lab, ' ', 'recall', label_num_dict[key][lab]['recall'])
-            print(key, ' ', lab, ' ', 'f1', label_num_dict[key][lab]['f1'])
+            # print(key, ' ', lab,' ', 'precision', label_num_dict[key][lab]['precision'])
+            # print(key, ' ', lab, ' ', 'recall', label_num_dict[key][lab]['recall'])
+            # print(key, ' ', lab, ' ', 'f1', label_num_dict[key][lab]['f1'])
 
     return correct, pred_count, gold_count, pred_ent_num, gold_ent_num, ent_match_num, pred_trigger_num, gold_trigger_num, trigger_idn_num, \
     pred_trigger_num, gold_trigger_num, trigger_class_num, \

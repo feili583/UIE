@@ -18,8 +18,7 @@ lwc修改了evaluate函数
 11.30将partial tree输出预测结果,在特征中加入句子
 2.25在parser上加入注释
 3.1在模型处加入注释
-10.16在模型配置文件中添加了max_seq_len
-10.17修改了数据集|train文件|utils.py文件"""
+10.16在模型配置文件中添加了max_seq_len"""
 from __future__ import absolute_import, division, print_function
 
 import argparse
@@ -50,7 +49,7 @@ from model import PartialPCFG
 import time
 import json
 
-os.environ['CUDA_VISIBLE_DEVICES'] = '0,1,2,3'
+os.environ['CUDA_VISIBLE_DEVICES'] = '6'
 
 torch.set_num_threads(4)
 

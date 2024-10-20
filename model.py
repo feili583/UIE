@@ -13,7 +13,7 @@ class Fusion(nn.Module):
     def __init__(self, n_conditions, seq_len, hidden_size):
         super().__init__()
         self.weight_classifier = nn.Sequential(
-            nn.Linear(seq_len, 64),
+            nn.Linear(hidden_size, 64),
             nn.ReLU(),
             nn.Linear(64, n_conditions),
             nn.Softmax(dim=-1)
@@ -22,10 +22,10 @@ class Fusion(nn.Module):
     
     def forward(self, x, c):
         weight = self.weight_classifier(c)
-        x = x.unsqueeze(1).expand(-1, 2, -1)
+        x = x.unsqueeze(2).expand(-1, -1, 5, -1)
         x = x * self.masks.weight.unsqueeze(0)
         x = x* weight.unsqueeze(-1)
-        return x.mean(dim=1) 
+        return x.mean(dim=2) 
 
 def partial_mask_to_targets(mask):
     device = mask.device
@@ -52,16 +52,16 @@ class PartialPCFG(RobertaPreTrainedModel):
         if (self.use_crf is False): assert (config.latent_label_size == 1)
 
         self.bert = BertModel(config)
-        self.tokenizer=BertTokenizer.from_pretrained('./bert-base-cased')
-        self.mlm = BertForMaskedLM.from_pretrained('./bert-base-cased')
+        self.tokenizer=BertTokenizer.from_pretrained('./bert-large-cased')
+        self.mlm = BertForMaskedLM.from_pretrained('./bert-large-cased')
         # self.bert = RobertaModel(config)
         # self.bert = RobertaModel.from_pretrained('./roberta-large')
         # self.tokenizer = RobertaTokenizer.from_pretrained('./roberta-large')
         # self.mlm = RobertaForMaskedLM.from_pretrained('./roberta-large')
         self.dropout = nn.Dropout(config.hidden_dropout_prob)
         self.fusion_module = Fusion(
-            2,
-            config.max_seq_length * 2,
+            5,
+            config.max_seq_length,
             config.hidden_size
         )
 
@@ -373,7 +373,7 @@ class PartialPCFG(RobertaPreTrainedModel):
         outputs = [loss_2, inspect]
         # print(loss_2)
         return outputs
-    def forward(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks, partial_masks, eval_masks):
+    def forward_best(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks, partial_masks, eval_masks):
         """
         添加掩码语言损失+掩码插值表达的损失
         将self.bert换成self.mlm
@@ -734,7 +734,7 @@ class PartialPCFG(RobertaPreTrainedModel):
         # print(loss_2)
         return outputs
 
-    def forward_4(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks, partial_masks, eval_masks):
+    def forward(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks, partial_masks, eval_masks):
         """
         掩码语言损失+插值表达损失+基于类别子空间
         Args:
@@ -809,11 +809,12 @@ class PartialPCFG(RobertaPreTrainedModel):
         # # Get word embeddings and form new sentence representations
         # word_embeddings = self.mlm.bert.embeddings.word_embeddings.weight
         # sequence_output_mlm = torch.matmul(mlm_probs.to(input_ids.device), word_embeddings)
-
-        sequence_output = sequence_output_bert * 1 + sequence_output_mlm * 0.5
-        batch_size, sequence_length, hidden_size = sequence_output.shape
-        matrix = torch.ones(2, hidden_size)
-        sequence_output = self.fusion_module(sequence_output, matrix.to(sequence_output.device))
+        
+        batch_size, sequence_length, hidden_size = sequence_output_bert.shape
+        matrix = torch.ones(batch_size, sequence_length, hidden_size)
+        sequence_output_bert_new = self.fusion_module(sequence_output_bert, matrix.to(sequence_output_bert.device))
+        
+        sequence_output = sequence_output_bert * 1 + sequence_output_mlm * 0.5 + sequence_output_bert_new * 0.5
         sequence_output = self.dropout(sequence_output)
 
         gather_ids = gather_ids.reshape(batch_size * sequence_length, -1).repeat(1, hidden_size).reshape(
@@ -1023,7 +1024,7 @@ class PartialPCFG(RobertaPreTrainedModel):
         
         return outputs
     
-    def infer(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks):
+    def infer_best(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks):
         """
         掩码语言模型 + 掩码插值表达
         Args:
@@ -1144,7 +1145,7 @@ class PartialPCFG(RobertaPreTrainedModel):
         
         return outputs
 
-    def infer_(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks):
+    def infer(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks):
         """
         掩码语言模型 + 掩码插值表达 + 类别子空间
         Args:
@@ -1201,7 +1202,12 @@ class PartialPCFG(RobertaPreTrainedModel):
         # Get word embeddings and form new sentence representations
         # word_embeddings = self.mlm.bert.embeddings.word_embeddings.weight
         word_embeddings = self.mlm.get_input_embeddings().weight
-        sequence_output = torch.matmul(masked_probs.to(input_ids.device), word_embeddings) * 0.5+ sequence_output_bert
+
+        batch_size, sequence_length, hidden_size = sequence_output_bert.shape
+        matrix = torch.ones(batch_size, sequence_length, hidden_size)
+        sequence_output_bert_new = self.fusion_module(sequence_output_bert, matrix.to(sequence_output_bert.device))
+
+        sequence_output = torch.matmul(masked_probs.to(input_ids.device), word_embeddings) * 0.5 + sequence_output_bert + sequence_output_bert_new * 0.5
 
         # outputs = self.mlm(input_ids, attention_mask=attention_mask, token_type_ids=token_type_ids)
         # mlm_logits = outputs.logits
@@ -1213,9 +1219,7 @@ class PartialPCFG(RobertaPreTrainedModel):
         # word_embeddings = self.mlm.bert.embeddings.word_embeddings.weight
         # sequence_output = torch.matmul(mlm_probs.to(input_ids.device), word_embeddings) * 0.5 + sequence_output_bert
 
-        batch_size, sequence_length, hidden_size = sequence_output.shape
-        matrix = torch.ones(2, hidden_size)
-        sequence_output = self.fusion_module(sequence_output, matrix.to(sequence_output.device))
+        
         sequence_output = self.dropout(sequence_output)
 
         gather_ids = gather_ids.reshape(batch_size * sequence_length, -1).repeat(1, hidden_size).reshape(
