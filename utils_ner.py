@@ -1744,29 +1744,29 @@ def eval(args, outputs, partial_masks, labels, gather_masks, valid_pattern):
                                 print('关系错误，存在非实体')
                                 print((entity_1),(entity_2),i,j,k,labels[k])
                             else:
-                                for enti1 in entity_1:
-                                    for enti2 in entity_2:
-                                        if enti1[0] <= enti2[0]:
-                                            gold_relation_tuples.append("{}_{}_{}_{}_{}".format(enti1[0], enti1[1], enti2[0], enti2[1], k))
-                                            if labels[k] not in gold_label_dict['relation'].keys():
-                                                gold_label_dict['relation'][labels[k]] = []
-                                            gold_label_dict['relation'][labels[k]].append("{}_{}_{}_{}_{}".format(enti1[0], enti1[1], enti2[0], enti2[1], k))
-                                        else:
-                                            gold_relation_tuples.append("{}_{}_{}_{}_{}".format(enti2[0], enti2[1], enti1[0], enti1[1],  k))
-                                            if labels[k] not in gold_label_dict['relation'].keys():
-                                                gold_label_dict['relation'][labels[k]] = []
-                                            gold_label_dict['relation'][labels[k]].append("{}_{}_{}_{}_{}".format(enti2[0], enti2[1], enti1[0], enti1[1],  k))
+                                # for enti1 in entity_1:
+                                #     for enti2 in entity_2:
+                                #         if enti1[0] <= enti2[0]:
+                                #             gold_relation_tuples.append("{}_{}_{}_{}_{}".format(enti1[0], enti1[1], enti2[0], enti2[1], k))
+                                #             if labels[k] not in gold_label_dict['relation'].keys():
+                                #                 gold_label_dict['relation'][labels[k]] = []
+                                #             gold_label_dict['relation'][labels[k]].append("{}_{}_{}_{}_{}".format(enti1[0], enti1[1], enti2[0], enti2[1], k))
+                                #         else:
+                                #             gold_relation_tuples.append("{}_{}_{}_{}_{}".format(enti2[0], enti2[1], enti1[0], enti1[1],  k))
+                                #             if labels[k] not in gold_label_dict['relation'].keys():
+                                #                 gold_label_dict['relation'][labels[k]] = []
+                                #             gold_label_dict['relation'][labels[k]].append("{}_{}_{}_{}_{}".format(enti2[0], enti2[1], enti1[0], enti1[1],  k))
 
-                                # if entity_1[0][0] <= entity_2[0][0]:
-                                #     gold_relation_tuples.append("{}_{}_{}_{}_{}".format(entity_1[0][0], entity_1[0][1], entity_2[0][0], entity_2[0][1], k))
-                                #     if labels[k] not in gold_label_dict['relation'].keys():
-                                #         gold_label_dict['relation'][labels[k]] = []
-                                #     gold_label_dict['relation'][labels[k]].append("{}_{}_{}_{}_{}".format(entity_1[0][0], entity_1[0][1], entity_2[0][0], entity_2[0][1], k))
-                                # else:
-                                #     gold_relation_tuples.append("{}_{}_{}_{}_{}".format(entity_2[0][0], entity_2[0][1], entity_1[0][0], entity_1[0][1],  k))
-                                #     if labels[k] not in gold_label_dict['relation'].keys():
-                                #         gold_label_dict['relation'][labels[k]] = []
-                                #     gold_label_dict['relation'][labels[k]].append("{}_{}_{}_{}_{}".format(entity_2[0][0], entity_2[0][1], entity_1[0][0], entity_1[0][1],  k))
+                                if entity_1[0][0] <= entity_2[0][0]:
+                                    gold_relation_tuples.append("{}_{}_{}_{}_{}".format(entity_1[0][0], entity_1[0][1], entity_2[0][0], entity_2[0][1], k))
+                                    if labels[k] not in gold_label_dict['relation'].keys():
+                                        gold_label_dict['relation'][labels[k]] = []
+                                    gold_label_dict['relation'][labels[k]].append("{}_{}_{}_{}_{}".format(entity_1[0][0], entity_1[0][1], entity_2[0][0], entity_2[0][1], k))
+                                else:
+                                    gold_relation_tuples.append("{}_{}_{}_{}_{}".format(entity_2[0][0], entity_2[0][1], entity_1[0][0], entity_1[0][1],  k))
+                                    if labels[k] not in gold_label_dict['relation'].keys():
+                                        gold_label_dict['relation'][labels[k]] = []
+                                    gold_label_dict['relation'][labels[k]].append("{}_{}_{}_{}_{}".format(entity_2[0][0], entity_2[0][1], entity_1[0][0], entity_1[0][1],  k))
 
                         if k in argu_ids:
                             argu_golds.append("{}_{}_{}".format(i, j, k))
@@ -1827,7 +1827,7 @@ def eval(args, outputs, partial_masks, labels, gather_masks, valid_pattern):
                     if j >= m and j <= n and (i < m or i > n):
                         preds_entity_2.append([m,n])
                 if len(preds_entity_1) > 1 or len(preds_entity_2) > 1:
-                    print('预测的关系对应多个实体')
+                    # print('预测的关系对应多个实体')
                     pass
                 if len(preds_entity_1) >= 1 and len(preds_entity_2) >= 1:
                     for entity1_start, entity1_end in preds_entity_1:

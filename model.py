@@ -52,8 +52,8 @@ class PartialPCFG(RobertaPreTrainedModel):
         if (self.use_crf is False): assert (config.latent_label_size == 1)
 
         self.bert = BertModel(config)
-        self.tokenizer=BertTokenizer.from_pretrained('./bert-large-cased')
-        self.mlm = BertForMaskedLM.from_pretrained('./bert-large-cased')
+        self.tokenizer=BertTokenizer.from_pretrained('./bert-base-cased')
+        self.mlm = BertForMaskedLM.from_pretrained('./bert-base-cased')
         # self.bert = RobertaModel(config)
         # self.bert = RobertaModel.from_pretrained('./roberta-large')
         # self.tokenizer = RobertaTokenizer.from_pretrained('./roberta-large')
@@ -373,7 +373,16 @@ class PartialPCFG(RobertaPreTrainedModel):
         outputs = [loss_2, inspect]
         # print(loss_2)
         return outputs
-    def forward_best(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks, partial_masks, eval_masks):
+
+    def kl_div_loss(self, x1, x2):
+
+        batch_dist = F.softmax(x1, dim=-1)
+        temp_dist = F.log_softmax(x2, dim=-1)
+        loss = F.kl_div(temp_dist, batch_dist, reduction="batchmean")
+        loss /= 12
+        return loss
+
+    def forward(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks, partial_masks, eval_masks):
         """
         添加掩码语言损失+掩码插值表达的损失
         将self.bert换成self.mlm
@@ -402,6 +411,7 @@ class PartialPCFG(RobertaPreTrainedModel):
 
         outputs_bert = self.bert(input_ids, position_ids=None, token_type_ids=token_type_ids,
                             attention_mask=attention_mask)
+        outputs_bert_embedding = self.bert.get_input_embeddings()(input_ids)
 
         sequence_output_bert = outputs_bert[0]
         # outputs_bert = self.mlm(input_ids, position_ids=None, token_type_ids=token_type_ids,
@@ -416,17 +426,17 @@ class PartialPCFG(RobertaPreTrainedModel):
         masked_input_ids = masked_input_ids.masked_fill(mask == 1, mask_token_id).to(input_ids.device)
 
         # Expand token_type_ids and attention_mask to match masked_input_ids
-        token_type_ids = token_type_ids.unsqueeze(1).repeat(1, seq_len, 1).view(batch_size * seq_len, -1).to(input_ids.device)
-        attention_mask = attention_mask.unsqueeze(1).repeat(1, seq_len, 1).view(batch_size * seq_len, -1).to(input_ids.device)
+        token_type_ids_ = token_type_ids.unsqueeze(1).repeat(1, seq_len, 1).view(batch_size * seq_len, -1).to(input_ids.device)
+        attention_mask_ = attention_mask.unsqueeze(1).repeat(1, seq_len, 1).view(batch_size * seq_len, -1).to(input_ids.device)
         masked_input_ids = masked_input_ids.view(batch_size * seq_len, -1)
 
         # Get BERT outputs
         # with autocast():
-        outputs = self.mlm(masked_input_ids, attention_mask=attention_mask, token_type_ids=token_type_ids)
+        outputs = self.mlm(masked_input_ids, attention_mask=attention_mask_, token_type_ids=token_type_ids_)
         mlm_logits = outputs.logits
 
         # Get probabilities through softmax
-        mlm_probs = torch.softmax(torch.relu(mlm_logits)+1, dim=-1)
+        mlm_probs = torch.softmax(torch.relu(mlm_logits) + 1, dim=-1)
         
         # Extract masked token probabilities
         mlm_probs = mlm_probs.view(batch_size, seq_len, seq_len, -1)
@@ -438,6 +448,10 @@ class PartialPCFG(RobertaPreTrainedModel):
         word_embeddings = self.mlm.get_input_embeddings().weight
         sequence_output_mlm = torch.matmul(masked_probs.to(input_ids.device), word_embeddings)
 
+        loss_4 = self.kl_div_loss(outputs_bert_embedding, sequence_output_mlm)
+
+        # print(sequence_output_mlm.shape)
+        sequence_output_mlm = self.mlm.bert(inputs_embeds=sequence_output_mlm,attention_mask=attention_mask, token_type_ids=token_type_ids)[0]
         # outputs = self.mlm(input_ids, attention_mask=attention_mask, token_type_ids=token_type_ids)
         # mlm_logits = outputs.logits
 
@@ -453,7 +467,7 @@ class PartialPCFG(RobertaPreTrainedModel):
         # # Get word embeddings and form new sentence representations
         # word_embeddings = self.mlm.bert.embeddings.word_embeddings.weight
         # sequence_output_mlm = torch.matmul(mlm_probs.to(input_ids.device), word_embeddings)
-
+        # print(sequence_output_mlm.shape)
         sequence_output = sequence_output_bert * 1 + sequence_output_mlm * 0.5
 
         sequence_output = self.dropout(sequence_output)
@@ -552,7 +566,7 @@ class PartialPCFG(RobertaPreTrainedModel):
         # mask = torch.triu(mask.float()).view(-1)
         # loss_2 = (loss_2 * mask).sum() / mask.sum()
         
-        outputs = [loss_2 + loss_3 * 0.5, inspect]
+        outputs = [loss_2 + loss_3 * 0.5 - 0.1 * loss_4, inspect]
         # print(loss_2)
         return outputs
 
@@ -734,7 +748,7 @@ class PartialPCFG(RobertaPreTrainedModel):
         # print(loss_2)
         return outputs
 
-    def forward(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks, partial_masks, eval_masks):
+    def forward_4(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks, partial_masks, eval_masks):
         """
         掩码语言损失+插值表达损失+基于类别子空间
         Args:
@@ -1024,7 +1038,7 @@ class PartialPCFG(RobertaPreTrainedModel):
         
         return outputs
     
-    def infer_best(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks):
+    def infer(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks):
         """
         掩码语言模型 + 掩码插值表达
         Args:
@@ -1040,6 +1054,7 @@ class PartialPCFG(RobertaPreTrainedModel):
 
         outputs_bert = self.bert(input_ids, position_ids=None, token_type_ids=token_type_ids,
                             attention_mask=attention_mask)
+        outputs_bert_embedding = self.bert.get_input_embeddings()(input_ids)
 
         sequence_output_bert = outputs_bert[0]
         # outputs_bert = self.mlm(input_ids, position_ids=None, token_type_ids=token_type_ids,
@@ -1055,8 +1070,8 @@ class PartialPCFG(RobertaPreTrainedModel):
         masked_input_ids = masked_input_ids.masked_fill(mask == 1, mask_token_id).to(input_ids.device)
 
         # Expand token_type_ids and attention_mask to match masked_input_ids
-        token_type_ids = token_type_ids.unsqueeze(1).repeat(1, seq_len, 1).view(batch_size * seq_len, -1).to(input_ids.device)
-        attention_mask = attention_mask.unsqueeze(1).repeat(1, seq_len, 1).view(batch_size * seq_len, -1).to(input_ids.device)
+        token_type_ids_ = token_type_ids.unsqueeze(1).repeat(1, seq_len, 1).view(batch_size * seq_len, -1).to(input_ids.device)
+        attention_mask_ = attention_mask.unsqueeze(1).repeat(1, seq_len, 1).view(batch_size * seq_len, -1).to(input_ids.device)
         masked_input_ids = masked_input_ids.view(batch_size * seq_len, -1)
 
         # Get BERT outputs
@@ -1067,7 +1082,7 @@ class PartialPCFG(RobertaPreTrainedModel):
 
         # mlm_logits = torch.stack(mlm_logits, dim=0).to(input_ids.device)  # 转换回GPU
 
-        outputs = self.mlm(masked_input_ids, attention_mask=attention_mask, token_type_ids=token_type_ids)
+        outputs = self.mlm(masked_input_ids, attention_mask=attention_mask_, token_type_ids=token_type_ids_)
         mlm_logits = outputs.logits
 
         # Get probabilities through softmax
@@ -1081,7 +1096,8 @@ class PartialPCFG(RobertaPreTrainedModel):
         # Get word embeddings and form new sentence representations
         # word_embeddings = self.mlm.bert.embeddings.word_embeddings.weight
         word_embeddings = self.mlm.get_input_embeddings().weight
-        sequence_output = torch.matmul(masked_probs.to(input_ids.device), word_embeddings) * 0.5+ sequence_output_bert
+        sequence_output_mlm = torch.matmul(masked_probs.to(input_ids.device), word_embeddings)
+        sequence_output = self.mlm.bert(inputs_embeds=sequence_output_mlm,attention_mask=attention_mask, token_type_ids=token_type_ids)[0]  * 0.5 + sequence_output_bert
 
         # outputs = self.mlm(input_ids, attention_mask=attention_mask, token_type_ids=token_type_ids)
         # mlm_logits = outputs.logits
@@ -1145,7 +1161,7 @@ class PartialPCFG(RobertaPreTrainedModel):
         
         return outputs
 
-    def infer(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks):
+    def infer_4(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks):
         """
         掩码语言模型 + 掩码插值表达 + 类别子空间
         Args:
