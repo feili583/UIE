@@ -8,6 +8,7 @@ from torch import nn
 from tree_crf_layer import TreeCRFLayer
 from parser import Bilinear, BiAffine, DeepBiaffine
 from torch.cuda.amp import autocast, GradScaler
+import json
 
 class Fusion(nn.Module):
     def __init__(self, n_conditions, seq_len, hidden_size):
@@ -64,6 +65,12 @@ class PartialPCFG(RobertaPreTrainedModel):
             config.max_seq_length,
             config.hidden_size
         )
+        self.types = []
+        with open(config.valid_pattern_path, 'r', encoding='utf-8') as f:
+            valid_pattern = json.load(f)
+            self.types = ["opinion", "aspect", "negative", "neutral", "positive", "r_positive", "r_negative", "r_neutral"]
+            self.types_tokens = [["[CLS]"] + self.tokenizer.tokenize(type_token) + ["[SEP]"] for type_token in self.types]
+            self.types_inputs = [torch.tensor([self.tokenizer.convert_tokens_to_ids(type_token)])  for type_token in self.types_tokens]
 
         if (config.parser_type == 'bilinear'):
             self.parser = Bilinear(config)
@@ -384,7 +391,7 @@ class PartialPCFG(RobertaPreTrainedModel):
 
     def forward(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks, partial_masks, eval_masks):
         """
-        添加掩码语言损失+掩码插值表达的损失
+        添加掩码语言损失+掩码插值表达的损失+KL损失
         将self.bert换成self.mlm
         Args:
             input_ids: torch.LongTensor, size=[batch, max_len]
@@ -566,7 +573,7 @@ class PartialPCFG(RobertaPreTrainedModel):
         # mask = torch.triu(mask.float()).view(-1)
         # loss_2 = (loss_2 * mask).sum() / mask.sum()
         
-        outputs = [loss_2 + loss_3 * 0.5 - 0.1 * loss_4, inspect]
+        outputs = [loss_2 + loss_3 * 0.5 - 0.5 * loss_4, inspect]
         # print(loss_2)
         return outputs
 
@@ -748,9 +755,10 @@ class PartialPCFG(RobertaPreTrainedModel):
         # print(loss_2)
         return outputs
 
-    def forward_4(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks, partial_masks, eval_masks):
+    def forward_5(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks, partial_masks, eval_masks):
         """
-        掩码语言损失+插值表达损失+基于类别子空间
+        添加掩码语言损失+掩码插值表达的损失+KL损失+角色子空间
+        将self.bert换成self.mlm
         Args:
             input_ids: torch.LongTensor, size=[batch, max_len]
             token_type_ids:
@@ -776,8 +784,12 @@ class PartialPCFG(RobertaPreTrainedModel):
 
         outputs_bert = self.bert(input_ids, position_ids=None, token_type_ids=token_type_ids,
                             attention_mask=attention_mask)
+        outputs_bert_embedding = self.bert.get_input_embeddings()(input_ids)
 
         sequence_output_bert = outputs_bert[0]
+        # outputs_bert = self.mlm(input_ids, position_ids=None, token_type_ids=token_type_ids,
+        #                     attention_mask=attention_mask, output_hidden_states=True)
+        # sequence_output_bert = outputs_bert.hidden_states[-1]
         batch_size, seq_len = input_ids.size()
         mask_token_id = self.tokenizer.mask_token_id
 
@@ -787,17 +799,17 @@ class PartialPCFG(RobertaPreTrainedModel):
         masked_input_ids = masked_input_ids.masked_fill(mask == 1, mask_token_id).to(input_ids.device)
 
         # Expand token_type_ids and attention_mask to match masked_input_ids
-        token_type_ids = token_type_ids.unsqueeze(1).repeat(1, seq_len, 1).view(batch_size * seq_len, -1).to(input_ids.device)
-        attention_mask = attention_mask.unsqueeze(1).repeat(1, seq_len, 1).view(batch_size * seq_len, -1).to(input_ids.device)
+        token_type_ids_ = token_type_ids.unsqueeze(1).repeat(1, seq_len, 1).view(batch_size * seq_len, -1).to(input_ids.device)
+        attention_mask_ = attention_mask.unsqueeze(1).repeat(1, seq_len, 1).view(batch_size * seq_len, -1).to(input_ids.device)
         masked_input_ids = masked_input_ids.view(batch_size * seq_len, -1)
 
         # Get BERT outputs
         # with autocast():
-        outputs = self.mlm(masked_input_ids, attention_mask=attention_mask, token_type_ids=token_type_ids)
+        outputs = self.mlm(masked_input_ids, attention_mask=attention_mask_, token_type_ids=token_type_ids_)
         mlm_logits = outputs.logits
 
         # Get probabilities through softmax
-        mlm_probs = torch.softmax(torch.relu(mlm_logits)+1, dim=-1)
+        mlm_probs = torch.softmax(torch.relu(mlm_logits) + 1, dim=-1)
         
         # Extract masked token probabilities
         mlm_probs = mlm_probs.view(batch_size, seq_len, seq_len, -1)
@@ -805,9 +817,14 @@ class PartialPCFG(RobertaPreTrainedModel):
         masked_probs = mlm_probs[mask_positions].view(batch_size, seq_len, -1)
 
         # Get word embeddings and form new sentence representations
-        word_embeddings = self.mlm.bert.embeddings.word_embeddings.weight
+        # word_embeddings = self.mlm.bert.embeddings.word_embeddings.weight
+        word_embeddings = self.mlm.get_input_embeddings().weight
         sequence_output_mlm = torch.matmul(masked_probs.to(input_ids.device), word_embeddings)
 
+        loss_4 = self.kl_div_loss(outputs_bert_embedding, sequence_output_mlm)
+
+        # print(sequence_output_mlm.shape)
+        sequence_output_mlm = self.mlm.bert(inputs_embeds=sequence_output_mlm,attention_mask=attention_mask, token_type_ids=token_type_ids)[0]
         # outputs = self.mlm(input_ids, attention_mask=attention_mask, token_type_ids=token_type_ids)
         # mlm_logits = outputs.logits
 
@@ -823,17 +840,26 @@ class PartialPCFG(RobertaPreTrainedModel):
         # # Get word embeddings and form new sentence representations
         # word_embeddings = self.mlm.bert.embeddings.word_embeddings.weight
         # sequence_output_mlm = torch.matmul(mlm_probs.to(input_ids.device), word_embeddings)
-        
+        # print(sequence_output_mlm.shape)
         batch_size, sequence_length, hidden_size = sequence_output_bert.shape
-        matrix = torch.ones(batch_size, sequence_length, hidden_size)
+        # matrix = torch.ones(batch_size, sequence_length, hidden_size)
+        
+        types_embeddings = [self.bert(type_input.to(sequence_output_bert.device))[0] for type_input in self.types_inputs]
+        selected_embeddings = [embedding[:,1,:] for embedding in types_embeddings]
+        types_embeddings = torch.cat(selected_embeddings, dim=0)
+        matrix = torch.matmul(torch.softmax(torch.matmul(sequence_output_bert, types_embeddings.view(hidden_size, -1)), -1), types_embeddings)
         sequence_output_bert_new = self.fusion_module(sequence_output_bert, matrix.to(sequence_output_bert.device))
         
         sequence_output = sequence_output_bert * 1 + sequence_output_mlm * 0.5 + sequence_output_bert_new * 0.5
+
         sequence_output = self.dropout(sequence_output)
+
+        batch_size, sequence_length, hidden_size = sequence_output.shape
 
         gather_ids = gather_ids.reshape(batch_size * sequence_length, -1).repeat(1, hidden_size).reshape(
             sequence_output.shape)
         gather_output = sequence_output.gather(1, gather_ids)  # [batch, max_len, hidden_size]
+
 
         # prepare for tree CRF
 
@@ -842,31 +868,31 @@ class PartialPCFG(RobertaPreTrainedModel):
         lengths = gather_masks.sum(1)
         max_len = log_potentials.size(1)
         # TODO: use vanilla span classification 
-        if (self.use_crf is False):
-            # [batch * max_len * max_len]
-            targets = partial_mask_to_targets(partial_masks).view(-1)
-            # [batch * max_len * max_len, label_size]
-            prob = log_potentials.reshape(-1, label_size)
-            loss = F.cross_entropy(prob, targets, reduction='none')
+        # if (self.use_crf is False):
+        #     # [batch * max_len * max_len]
+        #     targets = partial_mask_to_targets(partial_masks).view(-1)
+        #     # [batch * max_len * max_len, label_size]
+        #     prob = log_potentials.reshape(-1, label_size)
+        #     loss = F.cross_entropy(prob, targets, reduction='none')
 
-            # [batch, max_len, max_len]
-            mask = tmu.lengths_to_squared_mask(lengths, max_len)
-            # [batch, max_len, max_len] -> [batch * max_len * max_len]
-            mask = torch.triu(mask.float()).view(-1)
-            loss = (loss * mask).sum() / mask.sum()
+        #     # [batch, max_len, max_len]
+        #     mask = tmu.lengths_to_squared_mask(lengths, max_len)
+        #     # [batch, max_len, max_len] -> [batch * max_len * max_len]
+        #     mask = torch.triu(mask.float()).view(-1)
+        #     loss = (loss * mask).sum() / mask.sum()
 
-        else:
-            # log_prob_sum_partial.size = [batch]
-            # TODO: check partial_masks boundary, Done
+        # else:
+        #     # log_prob_sum_partial.size = [batch]
+        #     # TODO: check partial_masks boundary, Done
 
-            log_prob_sum_partial, log_prob_smooth, entropy, inspect_ = \
-                self.tree_crf(log_potentials, partial_masks, lengths, eval_masks)
+        #     log_prob_sum_partial, log_prob_smooth, entropy, inspect_ = \
+        #         self.tree_crf(log_potentials, partial_masks, lengths, eval_masks)
 
-            if (self.structure_smoothing):
-                loss_4 = -log_prob_smooth.mean()
-            else:
-                loss_4 = -log_prob_sum_partial.mean()
-            loss_4 -= self.lambda_ent * entropy.mean()
+        #     if (self.structure_smoothing):
+        #         loss = -log_prob_smooth.mean()
+        #     else:
+        #         loss = -log_prob_sum_partial.mean()
+        #     loss -= self.lambda_ent * entropy.mean()
 
         # tensor_a = eval_masks.clone()
         # indices = (tensor_a == 1).nonzero(as_tuple=True)
@@ -891,7 +917,7 @@ class PartialPCFG(RobertaPreTrainedModel):
         
         # [24, 121, 64, 64]
         logits = log_potentials[:,:-1,:,:]
-        tensor_a = partial_masks[:,:,:,:-1].permute(0, 3, 1, 2)
+        tensor_a = eval_masks[:,:,:,:-1].permute(0, 3, 1, 2)
         prob = logits.reshape(batch_size * (label_size - 1), -1)
         targets = tensor_a.reshape(batch_size * (label_size - 1), -1)
         loss_2 = self.multilabel_categorical_crossentropy(prob, targets).mean()
@@ -922,9 +948,192 @@ class PartialPCFG(RobertaPreTrainedModel):
         # mask = torch.triu(mask.float()).view(-1)
         # loss_2 = (loss_2 * mask).sum() / mask.sum()
         
-        outputs = [loss_2 + loss_3 * 0.5 + loss_4 * 0.5, inspect]
+        outputs = [loss_2 + loss_3 * 0.5 - 0.5 * loss_4, inspect]
         # print(loss_2)
         return outputs
+
+    # def forward_4(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks, partial_masks, eval_masks):
+    #     """
+    #     掩码语言损失+插值表达损失+基于类别子空间
+    #     Args:
+    #         input_ids: torch.LongTensor, size=[batch, max_len]
+    #         token_type_ids:
+    #         attention_mask:
+    #         gather_ids:
+    #         gather_masks: torch.FloatTensor, size=[batch, max_len]
+    #         partial_masks: torch.FloatTensor, size=[batch, max_len, max_len, label_size]
+    #             label_size = observed_label_size + latent_label_size
+
+    #         input_ids=input_ids,
+    #                           input_mask=input_mask,
+    #                           segment_ids=segment_ids,
+    #                           partial_masks=partial_masks,
+    #                           gather_ids=gather_ids,
+    #                           gather_masks=gather_masks,
+    #                           eval_masks=eval_masks
+                              
+    #     Returns:
+    #         outputs: list 
+    #     """
+    #     inspect = {}
+    #     label_size = self.label_size
+
+    #     outputs_bert = self.bert(input_ids, position_ids=None, token_type_ids=token_type_ids,
+    #                         attention_mask=attention_mask)
+
+    #     sequence_output_bert = outputs_bert[0]
+    #     batch_size, seq_len = input_ids.size()
+    #     mask_token_id = self.tokenizer.mask_token_id
+
+    #     # Create masked input_ids
+    #     masked_input_ids = input_ids.unsqueeze(1).repeat(1, seq_len, 1)
+    #     mask = torch.eye(seq_len, dtype=torch.long).unsqueeze(0).repeat(batch_size, 1, 1).to(input_ids.device)
+    #     masked_input_ids = masked_input_ids.masked_fill(mask == 1, mask_token_id).to(input_ids.device)
+
+    #     # Expand token_type_ids and attention_mask to match masked_input_ids
+    #     token_type_ids = token_type_ids.unsqueeze(1).repeat(1, seq_len, 1).view(batch_size * seq_len, -1).to(input_ids.device)
+    #     attention_mask = attention_mask.unsqueeze(1).repeat(1, seq_len, 1).view(batch_size * seq_len, -1).to(input_ids.device)
+    #     masked_input_ids = masked_input_ids.view(batch_size * seq_len, -1)
+
+    #     # Get BERT outputs
+    #     # with autocast():
+    #     outputs = self.mlm(masked_input_ids, attention_mask=attention_mask, token_type_ids=token_type_ids)
+    #     mlm_logits = outputs.logits
+
+    #     # Get probabilities through softmax
+    #     mlm_probs = torch.softmax(torch.relu(mlm_logits)+1, dim=-1)
+        
+    #     # Extract masked token probabilities
+    #     mlm_probs = mlm_probs.view(batch_size, seq_len, seq_len, -1)
+    #     mask_positions = mask.nonzero(as_tuple=True)
+    #     masked_probs = mlm_probs[mask_positions].view(batch_size, seq_len, -1)
+
+    #     # Get word embeddings and form new sentence representations
+    #     word_embeddings = self.mlm.bert.embeddings.word_embeddings.weight
+    #     sequence_output_mlm = torch.matmul(masked_probs.to(input_ids.device), word_embeddings)
+
+    #     # outputs = self.mlm(input_ids, attention_mask=attention_mask, token_type_ids=token_type_ids)
+    #     # mlm_logits = outputs.logits
+
+    #     # # for name, param in self.bert.named_parameters():
+    #     # #     if not param.requires_grad:
+    #     # #         print(f"Parameter {name} is frozen and will not be updated during training.")
+    #     # #     else:
+    #     # #         print(f"Parameter {name} is trainable and will be updated during training.")
+
+    #     # # Get probabilities through softmax
+    #     # mlm_probs = torch.softmax(mlm_logits, dim=-1)
+
+    #     # # Get word embeddings and form new sentence representations
+    #     # word_embeddings = self.mlm.bert.embeddings.word_embeddings.weight
+    #     # sequence_output_mlm = torch.matmul(mlm_probs.to(input_ids.device), word_embeddings)
+      
+    #     batch_size, sequence_length, hidden_size = sequence_output_bert.shape
+    #     # matrix = torch.ones(batch_size, sequence_length, hidden_size)
+    #     types_tokens = self.tokenizer(self.types)
+    #     types_tokens = ["[CLS]"] + types_tokens + ["[SEP]"]
+    #     types_inputs = tokenizer.convert_tokens_to_ids(types_tokens)
+    #     types_embeddings = self.bert(types_inputs)[1]
+    #     matrix = torch.softmax(sequence_output_bert * types_embeddings.view(hidden_size, -1), -1) * types_embeddings
+    #     sequence_output_bert_new = self.fusion_module(sequence_output_bert, matrix.to(sequence_output_bert.device))
+        
+    #     sequence_output = sequence_output_bert * 1 + sequence_output_mlm * 0.5 + sequence_output_bert_new * 0.5
+    #     sequence_output = self.dropout(sequence_output)
+
+    #     gather_ids = gather_ids.reshape(batch_size * sequence_length, -1).repeat(1, hidden_size).reshape(
+    #         sequence_output.shape)
+    #     gather_output = sequence_output.gather(1, gather_ids)  # [batch, max_len, hidden_size]
+
+    #     # prepare for tree CRF
+
+    #     log_potentials = self.parser(gather_output)
+
+    #     lengths = gather_masks.sum(1)
+    #     max_len = log_potentials.size(1)
+    #     # TODO: use vanilla span classification 
+    #     if (self.use_crf is False):
+    #         # [batch * max_len * max_len]
+    #         targets = partial_mask_to_targets(partial_masks).view(-1)
+    #         # [batch * max_len * max_len, label_size]
+    #         prob = log_potentials.reshape(-1, label_size)
+    #         loss = F.cross_entropy(prob, targets, reduction='none')
+
+    #         # [batch, max_len, max_len]
+    #         mask = tmu.lengths_to_squared_mask(lengths, max_len)
+    #         # [batch, max_len, max_len] -> [batch * max_len * max_len]
+    #         mask = torch.triu(mask.float()).view(-1)
+    #         loss = (loss * mask).sum() / mask.sum()
+
+    #     else:
+    #         # log_prob_sum_partial.size = [batch]
+    #         # TODO: check partial_masks boundary, Done
+
+    #         log_prob_sum_partial, log_prob_smooth, entropy, inspect_ = \
+    #             self.tree_crf(log_potentials, partial_masks, lengths, eval_masks)
+
+    #         if (self.structure_smoothing):
+    #             loss_4 = -log_prob_smooth.mean()
+    #         else:
+    #             loss_4 = -log_prob_sum_partial.mean()
+    #         loss_4 -= self.lambda_ent * entropy.mean()
+
+    #     # tensor_a = eval_masks.clone()
+    #     # indices = (tensor_a == 1).nonzero(as_tuple=True)
+    #     # last_index = indices[3].max().item()
+    #     # last_indices_mask = indices[3] == last_index
+    #     # tensor_a[indices[0][last_indices_mask], indices[1][last_indices_mask], indices[2][last_indices_mask], last_index] = 0
+    #     # torch.set_printoptions(profile="full")
+    #     # print(log_potentials)
+    #     # stop
+    #     # padding mask
+    #     batch_size, max_len, _, label_size = log_potentials.shape
+    #     pad_mask = gather_masks.unsqueeze(1).unsqueeze(1).expand(batch_size, label_size, max_len, max_len)
+    #     # pad_mask_h = attention_mask.unsqueeze(1).unsqueeze(-1).expand(batch_size, self.ent_type_size, seq_len, seq_len)
+    #     # pad_mask = pad_mask_v&pad_mask_h
+    #     log_potentials = log_potentials.permute(0, 3, 1, 2)
+    #     log_potentials = log_potentials * pad_mask - (1 - pad_mask) * 1e6
+
+    #     # 排除下三角
+    #     mask = torch.tril(torch.ones_like(log_potentials), -1)
+    #     log_potentials = log_potentials - mask * 1e6
+    #     log_potentials = log_potentials / 64 ** 0.5
+        
+    #     # [24, 121, 64, 64]
+    #     logits = log_potentials[:,:-1,:,:]
+    #     tensor_a = partial_masks[:,:,:,:-1].permute(0, 3, 1, 2)
+    #     prob = logits.reshape(batch_size * (label_size - 1), -1)
+    #     targets = tensor_a.reshape(batch_size * (label_size - 1), -1)
+    #     loss_2 = self.multilabel_categorical_crossentropy(prob, targets).mean()
+
+    #     criterion = nn.CrossEntropyLoss(ignore_index=0)
+    #     # print(masked_probs.shape, input_ids.shape)
+    #     loss_3 = criterion(masked_probs.view(-1, masked_probs.shape[-1]), input_ids.view(-1))
+
+    #     # torch.set_printoptions(profile="full")
+    #     # print(logits)
+    #     # print(eval_masks)
+    #     # print(tensor_a)
+    #     # print(loss_2)
+    #     # stop
+
+    #     # criterion = ATLoss()
+    #     # loss_2 = criterion(prob[:,40:], targets[:,40:])
+    #     # loss_2 = (loss_2.view(input_ids.size(0), -1)).sum(dim=-1).mean()
+
+    #     # # [batch * max_len * max_len]
+    #     # targets = partial_mask_to_targets(eval_masks).view(-1)
+    #     # # [batch * max_len * max_len, label_size]
+    #     # prob = log_potentials.reshape(-1, label_size)
+    #     # loss_2 = F.cross_entropy(prob, targets, reduction='none')
+    #     # # [batch, max_len, max_len]
+    #     # mask = tmu.lengths_to_squared_mask(lengths, max_len)
+    #     # # [batch, max_len, max_len] -> [batch * max_len * max_len]
+    #     # mask = torch.triu(mask.float()).view(-1)
+    #     # loss_2 = (loss_2 * mask).sum() / mask.sum()
+        
+    #     outputs = [loss_2 + loss_3 * 0.5 + loss_4 * 0.5, inspect]
+    #     # print(loss_2)
+    #     return outputs
 
     def infer_0(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks):
         """
@@ -1040,7 +1249,7 @@ class PartialPCFG(RobertaPreTrainedModel):
     
     def infer(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks):
         """
-        掩码语言模型 + 掩码插值表达
+        掩码语言模型 + 掩码插值表达 + KL损失
         Args:
             input_ids: torch.LongTensor, size=[batch, max_len]
             token_type_ids:
@@ -1161,9 +1370,9 @@ class PartialPCFG(RobertaPreTrainedModel):
         
         return outputs
 
-    def infer_4(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks):
+    def infer_5(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks):
         """
-        掩码语言模型 + 掩码插值表达 + 类别子空间
+        掩码语言模型 + 掩码插值表达 + KL损失 + 角色子空间
         Args:
             input_ids: torch.LongTensor, size=[batch, max_len]
             token_type_ids:
@@ -1177,6 +1386,7 @@ class PartialPCFG(RobertaPreTrainedModel):
 
         outputs_bert = self.bert(input_ids, position_ids=None, token_type_ids=token_type_ids,
                             attention_mask=attention_mask)
+        outputs_bert_embedding = self.bert.get_input_embeddings()(input_ids)
 
         sequence_output_bert = outputs_bert[0]
         # outputs_bert = self.mlm(input_ids, position_ids=None, token_type_ids=token_type_ids,
@@ -1192,8 +1402,8 @@ class PartialPCFG(RobertaPreTrainedModel):
         masked_input_ids = masked_input_ids.masked_fill(mask == 1, mask_token_id).to(input_ids.device)
 
         # Expand token_type_ids and attention_mask to match masked_input_ids
-        token_type_ids = token_type_ids.unsqueeze(1).repeat(1, seq_len, 1).view(batch_size * seq_len, -1).to(input_ids.device)
-        attention_mask = attention_mask.unsqueeze(1).repeat(1, seq_len, 1).view(batch_size * seq_len, -1).to(input_ids.device)
+        token_type_ids_ = token_type_ids.unsqueeze(1).repeat(1, seq_len, 1).view(batch_size * seq_len, -1).to(input_ids.device)
+        attention_mask_ = attention_mask.unsqueeze(1).repeat(1, seq_len, 1).view(batch_size * seq_len, -1).to(input_ids.device)
         masked_input_ids = masked_input_ids.view(batch_size * seq_len, -1)
 
         # Get BERT outputs
@@ -1204,7 +1414,7 @@ class PartialPCFG(RobertaPreTrainedModel):
 
         # mlm_logits = torch.stack(mlm_logits, dim=0).to(input_ids.device)  # 转换回GPU
 
-        outputs = self.mlm(masked_input_ids, attention_mask=attention_mask, token_type_ids=token_type_ids)
+        outputs = self.mlm(masked_input_ids, attention_mask=attention_mask_, token_type_ids=token_type_ids_)
         mlm_logits = outputs.logits
 
         # Get probabilities through softmax
@@ -1218,12 +1428,8 @@ class PartialPCFG(RobertaPreTrainedModel):
         # Get word embeddings and form new sentence representations
         # word_embeddings = self.mlm.bert.embeddings.word_embeddings.weight
         word_embeddings = self.mlm.get_input_embeddings().weight
-
-        batch_size, sequence_length, hidden_size = sequence_output_bert.shape
-        matrix = torch.ones(batch_size, sequence_length, hidden_size)
-        sequence_output_bert_new = self.fusion_module(sequence_output_bert, matrix.to(sequence_output_bert.device))
-
-        sequence_output = torch.matmul(masked_probs.to(input_ids.device), word_embeddings) * 0.5 + sequence_output_bert + sequence_output_bert_new * 0.5
+        sequence_output_mlm = torch.matmul(masked_probs.to(input_ids.device), word_embeddings)
+        sequence_output = self.mlm.bert(inputs_embeds=sequence_output_mlm,attention_mask=attention_mask, token_type_ids=token_type_ids)[0]
 
         # outputs = self.mlm(input_ids, attention_mask=attention_mask, token_type_ids=token_type_ids)
         # mlm_logits = outputs.logits
@@ -1235,9 +1441,20 @@ class PartialPCFG(RobertaPreTrainedModel):
         # word_embeddings = self.mlm.bert.embeddings.word_embeddings.weight
         # sequence_output = torch.matmul(mlm_probs.to(input_ids.device), word_embeddings) * 0.5 + sequence_output_bert
 
-        
-        sequence_output = self.dropout(sequence_output)
+        batch_size, sequence_length, hidden_size = sequence_output_bert.shape
+        # matrix = torch.ones(batch_size, sequence_length, hidden_size)
+        types_embeddings = [self.bert(type_input.to(sequence_output_bert.device))[0] for type_input in self.types_inputs]
+        selected_embeddings = [embedding[:,1,:] for embedding in types_embeddings]
+        types_embeddings = torch.cat(selected_embeddings, dim=0)
+        matrix = torch.matmul(torch.softmax(torch.matmul(sequence_output_bert, types_embeddings.view(hidden_size, -1)), -1), types_embeddings)
+        sequence_output_bert_new = self.fusion_module(sequence_output_bert, matrix.to(sequence_output_bert.device))
 
+        sequence_output = sequence_output * 0.5 + sequence_output_bert + sequence_output_bert_new * 0.5
+
+        sequence_output = self.dropout(sequence_output)
+        # print(sequence_output.shape)
+
+        batch_size, sequence_length, hidden_size = sequence_output.shape
         gather_ids = gather_ids.reshape(batch_size * sequence_length, -1).repeat(1, hidden_size).reshape(
             sequence_output.shape)
         gather_output = sequence_output.gather(1, gather_ids)  # [batch, max_len, hidden_size]
@@ -1285,6 +1502,131 @@ class PartialPCFG(RobertaPreTrainedModel):
         # print(positive_elements)
         
         return outputs
+
+    # def infer_4(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks):
+    #     """
+    #     掩码语言模型 + 掩码插值表达 + 类别子空间
+    #     Args:
+    #         input_ids: torch.LongTensor, size=[batch, max_len]
+    #         token_type_ids:
+    #         attention_mask:
+    #         gather_ids:
+    #         gather_masks: torch.FloatTensor, size=[batch, max_len]
+    #     Returns:
+    #         outputs: list 
+    #     """
+    #     label_size = self.label_size
+
+    #     outputs_bert = self.bert(input_ids, position_ids=None, token_type_ids=token_type_ids,
+    #                         attention_mask=attention_mask)
+
+    #     sequence_output_bert = outputs_bert[0]
+    #     # outputs_bert = self.mlm(input_ids, position_ids=None, token_type_ids=token_type_ids,
+    #     #                     attention_mask=attention_mask, output_hidden_states=True)
+    #     # sequence_output_bert = outputs_bert.hidden_states[-1]
+
+    #     batch_size, seq_len = input_ids.size()
+    #     mask_token_id = self.tokenizer.mask_token_id
+
+    #     # Create masked input_ids
+    #     masked_input_ids = input_ids.unsqueeze(1).repeat(1, seq_len, 1)
+    #     mask = torch.eye(seq_len, dtype=torch.long).unsqueeze(0).repeat(batch_size, 1, 1).to(input_ids.device)
+    #     masked_input_ids = masked_input_ids.masked_fill(mask == 1, mask_token_id).to(input_ids.device)
+
+    #     # Expand token_type_ids and attention_mask to match masked_input_ids
+    #     token_type_ids = token_type_ids.unsqueeze(1).repeat(1, seq_len, 1).view(batch_size * seq_len, -1).to(input_ids.device)
+    #     attention_mask = attention_mask.unsqueeze(1).repeat(1, seq_len, 1).view(batch_size * seq_len, -1).to(input_ids.device)
+    #     masked_input_ids = masked_input_ids.view(batch_size * seq_len, -1)
+
+    #     # Get BERT outputs
+    #     # mlm_logits = []
+    #     # for i in range(masked_input_ids.shape[0]):
+    #     #     outputs = self.bert(masked_input_ids[i].unsqueeze(0), attention_mask=attention_mask[i].unsqueeze(0), token_type_ids=token_type_ids[i].unsqueeze(0))
+    #     #     mlm_logits.append(outputs.logits)
+
+    #     # mlm_logits = torch.stack(mlm_logits, dim=0).to(input_ids.device)  # 转换回GPU
+
+    #     outputs = self.mlm(masked_input_ids, attention_mask=attention_mask, token_type_ids=token_type_ids)
+    #     mlm_logits = outputs.logits
+
+    #     # Get probabilities through softmax
+    #     mlm_probs = torch.softmax(mlm_logits, dim=-1)
+        
+    #     # Extract masked token probabilities
+    #     mlm_probs = mlm_probs.view(batch_size, seq_len, seq_len, -1)
+    #     mask_positions = mask.nonzero(as_tuple=True)
+    #     masked_probs = mlm_probs[mask_positions].view(batch_size, seq_len, -1)
+
+    #     # Get word embeddings and form new sentence representations
+    #     # word_embeddings = self.mlm.bert.embeddings.word_embeddings.weight
+    #     word_embeddings = self.mlm.get_input_embeddings().weight
+
+    #     batch_size, sequence_length, hidden_size = sequence_output_bert.shape
+    #     matrix = torch.ones(batch_size, sequence_length, hidden_size)
+    #     sequence_output_bert_new = self.fusion_module(sequence_output_bert, matrix.to(sequence_output_bert.device))
+
+    #     sequence_output = torch.matmul(masked_probs.to(input_ids.device), word_embeddings) * 0.5 + sequence_output_bert + sequence_output_bert_new * 0.5
+
+    #     # outputs = self.mlm(input_ids, attention_mask=attention_mask, token_type_ids=token_type_ids)
+    #     # mlm_logits = outputs.logits
+
+    #     # # Get probabilities through softmax
+    #     # mlm_probs = torch.softmax(mlm_logits, dim=-1)
+
+    #     # # Get word embeddings and form new sentence representations
+    #     # word_embeddings = self.mlm.bert.embeddings.word_embeddings.weight
+    #     # sequence_output = torch.matmul(mlm_probs.to(input_ids.device), word_embeddings) * 0.5 + sequence_output_bert
+
+        
+    #     sequence_output = self.dropout(sequence_output)
+
+    #     gather_ids = gather_ids.reshape(batch_size * sequence_length, -1).repeat(1, hidden_size).reshape(
+    #         sequence_output.shape)
+    #     gather_output = sequence_output.gather(1, gather_ids)  # [batch, max_len, hidden_size]
+
+    #     log_potentials = self.parser(gather_output)
+    #     lengths = gather_masks.sum(1)
+
+    #     # if (self.use_crf is False):
+    #     #     # [batch, max_len, max_len]
+    #     #     trees = log_potentials.argmax(-1)
+    #     #     max_len = log_potentials.size(1)
+    #     #     # [batch, max_len, max_len]
+    #     #     mask = tmu.lengths_to_squared_mask(lengths, max_len)
+    #     #     mask = torch.triu(mask.float())
+    #     #     trees = trees * mask - (1. - mask)
+    #     # else:
+    #     #     trees = self.tree_crf.decode(log_potentials, lengths)
+
+    #     # padding mask
+    #     batch_size, max_len, _, label_size = log_potentials.shape
+    #     pad_mask = gather_masks.unsqueeze(1).unsqueeze(1).expand(batch_size, label_size, max_len, max_len)
+    #     # pad_mask_h = attention_mask.unsqueeze(1).unsqueeze(-1).expand(batch_size, self.ent_type_size, seq_len, seq_len)
+    #     # pad_mask = pad_mask_v&pad_mask_h
+    #     log_potentials = log_potentials.permute(0, 3, 1, 2)
+    #     # torch.set_printoptions(profile="full")
+    #     # print(log_potentials)
+    #     log_potentials = log_potentials * pad_mask - (1 - pad_mask) * 1e6
+
+    #     # 排除下三角
+    #     mask = torch.tril(torch.ones_like(log_potentials), -1)
+    #     log_potentials = log_potentials - mask * 1e6
+    #     log_potentials = log_potentials / 64 ** 0.5
+
+    #     # outputs = [min(trees, preds)]
+    #     outputs = [log_potentials]
+    #     # positive_mask = log_potentials > 0
+
+    #     # # 使用布尔掩码提取正的元素
+    #     # positive_elements = log_potentials[positive_mask]
+
+        
+    #     # print(log_potentials)
+    #     # print(pad_mask)
+    #     # print(mask)
+    #     # print(positive_elements)
+        
+    #     return outputs
 
     def infer_3(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks):
         """

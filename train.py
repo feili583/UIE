@@ -49,7 +49,7 @@ from model import PartialPCFG
 import time
 import json
 
-os.environ['CUDA_VISIBLE_DEVICES'] = '6'
+os.environ['CUDA_VISIBLE_DEVICES'] = '0,1,3,6'
 
 torch.set_num_threads(4)
 
@@ -875,6 +875,7 @@ def main():
     config.full_print = args.full_print
     config.no_batchify = args.no_batchify
     config.max_seq_length = args.max_seq_length
+    config.valid_pattern_path = args.valid_pattern_path
 
     model = PartialPCFG.from_pretrained(args.model_name_or_path,
                                         from_tf=bool('.ckpt' in args.model_name_or_path),
