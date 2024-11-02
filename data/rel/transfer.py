@@ -17,6 +17,8 @@ def coll2pot(path):
     valid_pattern = dict()
     valid_pattern['ner'] = []
     valid_pattern['relation'] = []
+    valid_pattern['event'] = []
+    valid_pattern['role'] = []
     with open(path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
         for line in lines:
@@ -55,14 +57,14 @@ def pot2file(path, file, sentences, tags, valid_pattern, valid_pattern_path):
                 if len(span) == 3:
                     tmp.append(str(span[0]) + ',' + str(span[1] + 1) + ' ' + span[2])
                 if len(span) == 5:
-                    if span[0] < span[2]:
+                    if span[0] < span[2] or (span[0] == span[2] and span[1] < span[3]):
                         for start in range(span[0], span[1] + 1):
                             for end in range(span[2], span[3] + 1):
-                                tmp.append(str(start) + ',' + str(end + 1) + ' ' + span[-1])
+                                tmp.append(str(min(start, end)) + ',' + str(max(start, end) + 1) + ' ' + span[-1])
                     else:
                         for start in range(span[2], span[3] + 1):
                             for end in range(span[0], span[1] + 1):
-                                tmp.append(str(start) + ',' + str(end + 1) + ' r_' + span[-1])
+                                tmp.append(str(min(start, end)) + ',' + str(max(start, end) + 1) + ' r_' + span[-1])
                                 if 'r_' + span[-1] not in valid_pattern['relation']:
                                     valid_pattern['relation'].append('r_' + span[-1])
             f.write('|'.join(tmp))
@@ -72,10 +74,10 @@ def pot2file(path, file, sentences, tags, valid_pattern, valid_pattern_path):
                 if len(span) == 3:
                     tmp.append(str(span[0]) + ',' + str(span[1] + 1) + ' ' + span[2])
                 if len(span) == 5:
-                    if span[0] < span[2]:
-                        tmp.append(str(span[0]) + ',' + str(span[-2] + 1) + ' ' + span[-1])
+                    if span[0] < span[2] or (span[0] == span[2] and span[1] < span[3]):
+                        tmp.append(str(min(span[0], span[2])) + ',' + str(max(span[-2], span[1]) + 1) + ' ' + span[-1])
                     else:
-                        tmp.append(str(span[2]) + ',' + str(span[1] + 1) + ' r_' + span[-1])
+                        tmp.append(str(min(span[0], span[2])) + ',' + str(max(span[-2], span[1]) + 1) + ' r_' + span[-1])
             f.write('|'.join(tmp))
             f.write('\n\n')
     if 'train' in file:
@@ -86,8 +88,8 @@ def pot2file(path, file, sentences, tags, valid_pattern, valid_pattern_path):
 
 if __name__ == '__main__':
     print('conll04')
-    path = '/data/liuweichang/workspace/Partially_Observed_TreeCRFs_ee/data/rel/conll04/train.jsonl'
-    save_path = '/data/liuweichang/workspace/Partially_Observed_TreeCRFs_ee/data/rel/conll04/pot'
+    path = '/data/liuweichang/Partially_Observed_TreeCRFs_ee/data/rel/conll04/train.jsonl'
+    save_path = '/data/liuweichang/Partially_Observed_TreeCRFs_ee/data/rel/conll04/pot'
     valid_path = 'valid_pattern.json'
     sentences, tags, valid_pattern  = coll2pot(path)
     # print(len(valid_pattern['ner']), len(valid_pattern['relation']))
@@ -95,21 +97,21 @@ if __name__ == '__main__':
     pot2file(save_path, 'train.txt', sentences, tags, valid_pattern, save_path + '/' + valid_path)
     print('train sentences', len(sentences))
 
-    path = '/data/liuweichang/workspace/Partially_Observed_TreeCRFs_ee/data/rel/conll04/test.jsonl'
-    save_path = '/data/liuweichang/workspace/Partially_Observed_TreeCRFs_ee/data/rel/conll04/pot'
+    path = '/data/liuweichang/Partially_Observed_TreeCRFs_ee/data/rel/conll04/test.jsonl'
+    save_path = '/data/liuweichang/Partially_Observed_TreeCRFs_ee/data/rel/conll04/pot'
     sentences, tags, valid_pattern  = coll2pot(path)
     pot2file(save_path, 'test.txt', sentences, tags, valid_pattern, save_path + '/' + valid_path)
     print('test sentences', len(sentences))
 
-    path = '/data/liuweichang/workspace/Partially_Observed_TreeCRFs_ee/data/rel/conll04/dev.jsonl'
-    save_path = '/data/liuweichang/workspace/Partially_Observed_TreeCRFs_ee/data/rel/conll04/pot'
+    path = '/data/liuweichang/Partially_Observed_TreeCRFs_ee/data/rel/conll04/dev.jsonl'
+    save_path = '/data/liuweichang/Partially_Observed_TreeCRFs_ee/data/rel/conll04/pot'
     sentences, tags, valid_pattern  = coll2pot(path)
     pot2file(save_path, 'dev.txt', sentences, tags, valid_pattern, save_path + '/' + valid_path)
     print('dev sentences', len(sentences))
 
     print('nyt')
-    path = '/data/liuweichang/workspace/Partially_Observed_TreeCRFs_ee/data/rel/nyt/train.jsonl'
-    save_path = '/data/liuweichang/workspace/Partially_Observed_TreeCRFs_ee/data/rel/nyt/pot'
+    path = '/data/liuweichang/Partially_Observed_TreeCRFs_ee/data/rel/nyt/train.jsonl'
+    save_path = '/data/liuweichang/Partially_Observed_TreeCRFs_ee/data/rel/nyt/pot'
     valid_path = 'valid_pattern.json'
     sentences, tags, valid_pattern  = coll2pot(path)
     # print(len(valid_pattern['ner']), len(valid_pattern['relation']))
@@ -117,21 +119,21 @@ if __name__ == '__main__':
     pot2file(save_path, 'train.txt', sentences, tags, valid_pattern, save_path + '/' + valid_path)
     print('train sentences', len(sentences))
 
-    path = '/data/liuweichang/workspace/Partially_Observed_TreeCRFs_ee/data/rel/nyt/test.jsonl'
-    save_path = '/data/liuweichang/workspace/Partially_Observed_TreeCRFs_ee/data/rel/nyt/pot'
+    path = '/data/liuweichang/Partially_Observed_TreeCRFs_ee/data/rel/nyt/test.jsonl'
+    save_path = '/data/liuweichang/Partially_Observed_TreeCRFs_ee/data/rel/nyt/pot'
     sentences, tags, valid_pattern  = coll2pot(path)
     pot2file(save_path, 'test.txt', sentences, tags, valid_pattern, save_path + '/' + valid_path)
     print('test sentences', len(sentences))
 
-    path = '/data/liuweichang/workspace/Partially_Observed_TreeCRFs_ee/data/rel/nyt/dev.jsonl'
-    save_path = '/data/liuweichang/workspace/Partially_Observed_TreeCRFs_ee/data/rel/nyt/pot'
+    path = '/data/liuweichang/Partially_Observed_TreeCRFs_ee/data/rel/nyt/dev.jsonl'
+    save_path = '/data/liuweichang/Partially_Observed_TreeCRFs_ee/data/rel/nyt/pot'
     sentences, tags, valid_pattern  = coll2pot(path)
     pot2file(save_path, 'dev.txt', sentences, tags, valid_pattern, save_path + '/' + valid_path)
     print('dev sentences', len(sentences))
 
     print('scierc')
-    path = '/data/liuweichang/workspace/Partially_Observed_TreeCRFs_ee/data/rel/scierc/train.jsonl'
-    save_path = '/data/liuweichang/workspace/Partially_Observed_TreeCRFs_ee/data/rel/scierc/pot'
+    path = '/data/liuweichang/Partially_Observed_TreeCRFs_ee/data/rel/scierc/train.jsonl'
+    save_path = '/data/liuweichang/Partially_Observed_TreeCRFs_ee/data/rel/scierc/pot'
     valid_path = 'valid_pattern.json'
     sentences, tags, valid_pattern  = coll2pot(path)
     # print(len(valid_pattern['ner']), len(valid_pattern['relation']))
@@ -139,14 +141,14 @@ if __name__ == '__main__':
     pot2file(save_path, 'train.txt', sentences, tags, valid_pattern, save_path + '/' + valid_path)
     print('train sentences', len(sentences))
 
-    path = '/data/liuweichang/workspace/Partially_Observed_TreeCRFs_ee/data/rel/scierc/test.jsonl'
-    save_path = '/data/liuweichang/workspace/Partially_Observed_TreeCRFs_ee/data/rel/scierc/pot'
+    path = '/data/liuweichang/Partially_Observed_TreeCRFs_ee/data/rel/scierc/test.jsonl'
+    save_path = '/data/liuweichang/Partially_Observed_TreeCRFs_ee/data/rel/scierc/pot'
     sentences, tags, valid_pattern  = coll2pot(path)
     pot2file(save_path, 'test.txt', sentences, tags, valid_pattern, save_path + '/' + valid_path)
     print('test sentences', len(sentences))
 
-    path = '/data/liuweichang/workspace/Partially_Observed_TreeCRFs_ee/data/rel/scierc/dev.jsonl'
-    save_path = '/data/liuweichang/workspace/Partially_Observed_TreeCRFs_ee/data/rel/scierc/pot'
+    path = '/data/liuweichang/Partially_Observed_TreeCRFs_ee/data/rel/scierc/dev.jsonl'
+    save_path = '/data/liuweichang/Partially_Observed_TreeCRFs_ee/data/rel/scierc/pot'
     sentences, tags, valid_pattern  = coll2pot(path)
     pot2file(save_path, 'dev.txt', sentences, tags, valid_pattern, save_path + '/' + valid_path)
     print('dev sentences', len(sentences))

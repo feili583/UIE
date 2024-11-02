@@ -65,12 +65,54 @@ class PartialPCFG(RobertaPreTrainedModel):
             config.max_seq_length,
             config.hidden_size
         )
-        self.types = []
-        with open(config.valid_pattern_path, 'r', encoding='utf-8') as f:
-            valid_pattern = json.load(f)
+        # self.types = []
+        if 'genia' == config.valid_pattern_path.split('/')[-2]:
+            self.types = ['None', 'G#RNA', 'G#protein', 'G#DNA', 'G#cell_type', 'G#cell_line']
+        elif 'conll2003' == config.valid_pattern_path.split('/')[-2]:
+            self.types = ['LOC', 'PER', 'ORG', 'MISC']
+        elif 'ACE' == config.valid_pattern_path.split('/')[-2]:
+            self.types = ['Personnel.End-Position', 'PER-SOC', 'r_Prosecutor', 'r_Adjudicator', 'Business.Merge-Org', 'Org', 'r_PART-WHOLE', 'ART', 'Conflict.Demonstrate', 'Attacker', 'r_Vehicle', 'Justice.Arrest-Jail', 'PART-WHOLE', 'Conflict.Attack', 'Person', 'r_Giver', 'Business.Declare-Bankruptcy', 'r_Plaintiff', 'r_Target', 'Justice.Charge-Indict', 'r_Buyer', 'Defendant', 'r_Defendant', 'Justice.Trial-Hearing', 'Personnel.Nominate', 'r_Entity', 'Justice.Appeal', 'Justice.Extradite', 'Transaction.Transfer-Ownership', 'Justice.Sue', 'ORG-AFF', 'r_Person', 'r_GEN-AFF', 'Contact.Meet', 'Entity', 'WEA', 'r_Place', 'r_Attacker', 'Plaintiff', 'r_Beneficiary', 'Justice.Sentence', 'Life.Divorce', 'r_ART', 'Contact.Phone-Write', 'Movement.Transport', 'Business.Start-Org', 'VEH', 'r_Org', 'Beneficiary', 'Personnel.Elect', 'Justice.Execute', 'LOC', 'Justice.Release-Parole', 'Buyer', 'PHYS', 'Justice.Fine', 'Personnel.Start-Position', 'Giver', 'Life.Marry', 'r_PER-SOC', 'r_Origin', 'r_Instrument', 'Agent', 'Target', 'Justice.Acquit', 'Justice.Convict', 'r_Victim', 'r_Artifact', 'Origin', 'Vehicle', 'Justice.Pardon', 'r_Seller', 'ORG', 'Business.End-Org', 'r_ORG-AFF', 'Destination', 'Prosecutor', 'Seller', 'Life.Be-Born', 'GEN-AFF', 'r_Recipient', 'Adjudicator', 'Recipient', 'Life.Injure', 'r_Agent', 'PER', 'Transaction.Transfer-Money', 'Artifact', 'FAC', 'r_Destination', 'Life.Die', 'r_PHYS', 'Instrument', 'GPE', 'Place', 'Victim']
+        elif 'ACE_add' == config.valid_pattern_path.split('/')[-2]:
+            self.types = ['GPE', 'Plaintiff', 'Life:Die', 'r_Beneficiary', 'Conflict:Demonstrate', 'r_Place', 'Attacker', 'Justice:Sue', 'LOC', 'Business:Merge-Org', 'r_Destination', 'Justice:Release-Parole', 'Buyer', 'Life:Divorce', 'Life:Injure', 'r_Instrument', 'VEH', 'Business:Start-Org', 'Giver', 'PART-WHOLE', 'Transaction:Transfer-Ownership', 'PHYS', 'Prosecutor', 'r_Recipient', 'r_PHYS', 'Justice:Appeal', 'PER-SOC', 'Justice:Acquit', 'r_Seller', 'ART', 'Justice:Fine', 'r_Defendant', 'Place', 'Justice:Pardon', 'Contact:Meet', 'Origin', 'Movement:Transport', 'r_Agent', 'Justice:Trial-Hearing', 'Personnel:End-Position', 'Recipient', 'r_PER-SOC', 'Justice:Arrest-Jail', 'WEA', 'Justice:Convict', 'PER', 'r_Buyer', 'Person', 'ORG-AFF', 'r_ORG-AFF', 'Instrument', 'r_Prosecutor', 'Transaction:Transfer-Money', 'r_Entity', 'Adjudicator', 'r_Artifact', 'r_Giver', 'Business:End-Org', 'r_Target', 'Personnel:Nominate', 'ORG', 'r_Victim', 'Vehicle', 'Defendant', 'r_Origin', 'Victim', 'r_Org', 'Personnel:Start-Position', 'Seller', 'Personnel:Elect', 'Conflict:Attack', 'GEN-AFF', 'r_ART', 'r_Attacker', 'r_Vehicle', 'Target', 'Agent', 'r_Adjudicator', 'r_PART-WHOLE', 'Entity', 'r_Plaintiff', 'Beneficiary', 'FAC', 'Justice:Charge-Indict', 'Justice:Sentence', 'Artifact', 'Justice:Extradite', 'Contact:Phone-Write', 'r_Person', 'Org', 'Life:Be-Born', 'r_GEN-AFF', 'Life:Marry', 'Destination', 'Business:Declare-Bankruptcy', 'Justice:Execute']
+        elif 'ACE_add_event' == config.valid_pattern_path.split('/')[-2]:
+            self.types = ['r_Defendant', 'Victim', 'Buyer', 'Justice:Fine', 'Target', 'Justice:Charge-Indict', 'r_Entity', 'r_Attacker', 'Conflict:Attack', 'Business:End-Org', 'Instrument', 'r_Buyer', 'Business:Start-Org', 'Defendant', 'r_Beneficiary', 'Justice:Sue', 'Recipient', 'PER', 'Artifact', 'Place', 'Justice:Execute', 'Plaintiff', 'Personnel:Nominate', 'Contact:Meet', 'Life:Divorce', 'Destination', 'Transaction:Transfer-Money', 'Life:Be-Born', 'r_Seller', 'r_Origin', 'Life:Injure', 'Justice:Acquit', 'Entity', 'Personnel:End-Position', 'Attacker', 'r_Agent', 'WEA', 'r_Place', 'Life:Marry', 'Personnel:Elect', 'Transaction:Transfer-Ownership', 'Contact:Phone-Write', 'Origin', 'ORG', 'r_Vehicle', 'Beneficiary', 'r_Giver', 'r_Instrument', 'r_Victim', 'r_Recipient', 'Justice:Release-Parole', 'Business:Declare-Bankruptcy', 'Person', 'r_Plaintiff', 'Adjudicator', 'Justice:Pardon', 'Org', 'Personnel:Start-Position', 'Business:Merge-Org', 'Justice:Appeal', 'Agent', 'r_Artifact', 'Giver', 'Vehicle', 'Conflict:Demonstrate', 'Prosecutor', 'r_Person', 'VEH', 'GPE', 'r_Prosecutor', 'Justice:Arrest-Jail', 'Movement:Transport', 'r_Target', 'r_Org', 'r_Adjudicator', 'Justice:Trial-Hearing', 'Life:Die', 'Justice:Convict', 'FAC', 'LOC', 'Seller', 'Justice:Sentence', 'Justice:Extradite', 'r_Destination']
+        elif 'ACE_add_relation' == config.valid_pattern_path.split('/')[-2]:
+            self.types = ['ORG-AFF', 'WEA', 'r_PHYS', 'r_PART-WHOLE', 'r_ART', 'ORG', 'PHYS', 'VEH', 'ART', 'GPE', 'GEN-AFF', 'r_ORG-AFF', 'PER-SOC', 'PER', 'PART-WHOLE', 'r_GEN-AFF', 'LOC', 'r_PER-SOC', 'FAC']
+        elif 'ACE_add_entity' ==config.valid_pattern_path.split('/')[-2]:
+            self.types = ['ORG', 'LOC', 'WEA', 'GPE', 'PER', 'FAC', 'VEH']
+        elif 'ACE_relation' == config.valid_pattern_path.split('/')[-2]:
+            self.types = ['r_PART-WHOLE', 'GPE', 'WEA', 'r_GEN-AFF', 'r_ORG-AFF', 'FAC', 'ART', 'r_PHYS', 'r_PER-SOC', 'PER-SOC', 'PART-WHOLE', 'r_ART', 'VEH', 'ORG', 'ORG-AFF', 'PHYS', 'PER', 'LOC', 'GEN-AFF']
+        elif 'ACE_event' == config.valid_pattern_path.split('/')[-2]:
+            self.types = ['r_Giver', 'r_Artifact', 'Seller', 'Target', 'r_Beneficiary', 'Business.End-Org', 'Justice.Release-Parole', 'Personnel.Nominate', 'Justice.Sentence', 'Destination', 'Life.Marry', 'Victim', 'Life.Be-Born', 'Agent', 'Attacker', 'r_Buyer', 'r_Vehicle', 'Justice.Arrest-Jail', 'r_Place', 'Justice.Execute', 'r_Org', 'Org', 'r_Origin', 'Plaintiff', 'Origin', 'Transaction.Transfer-Money', 'Justice.Pardon', 'Beneficiary', 'r_Seller', 'r_Entity', 'r_Instrument', 'Life.Injure', 'Recipient', 'Business.Start-Org', 'FAC', 'Life.Divorce', 'Movement.Transport', 'r_Defendant', 'r_Plaintiff', 'Justice.Sue', 'Justice.Appeal', 'Justice.Fine', 'Conflict.Demonstrate', 'VEH', 'Giver', 'Instrument', 'Justice.Extradite', 'LOC', 'Entity', 'Personnel.Elect', 'r_Agent', 'Contact.Meet', 'Business.Declare-Bankruptcy', 'r_Victim', 'Personnel.End-Position', 'Prosecutor', 'r_Adjudicator', 'Justice.Charge-Indict', 'Adjudicator', 'r_Person', 'Transaction.Transfer-Ownership', 'Buyer', 'Place', 'GPE', 'r_Target', 'Personnel.Start-Position', 'Artifact', 'Justice.Trial-Hearing', 'r_Destination', 'Contact.Phone-Write', 'r_Attacker', 'Business.Merge-Org', 'Person', 'ORG', 'r_Recipient', 'Justice.Convict', 'WEA', 'Justice.Acquit', 'PER', 'Conflict.Attack', 'r_Prosecutor', 'Life.Die', 'Defendant', 'Vehicle']
+        elif 'ACE_entity' == config.valid_pattern_path.split('/')[-2]:
+            self.types = ['FAC', 'GPE', 'VEH', 'ORG', 'WEA', 'PER', 'LOC']
+        elif 'conll04' == config.valid_pattern_path.split('/')[-3]:
+            self.types = ['people', 'location', 'organization', 'other', 'located-in', 'organization-in', 'live-in', 'work-for', 'kill', 'r_organization-in', 'r_located-in', 'r_work-for', 'r_kill', 'r_live-in']
+        elif 'nyt' == config.valid_pattern_path.split('/')[-3]:
+            self.types = ['location', 'person', 'organization', 'place-of-birth', 'country', 'major-shareholder-of', 'capital', 'ethnicity', 'teams', 'industry', 'people', 'major-shareholders', 'founders', 'profession', 'advisors', 'religion', 'contains', 'children', 'neighborhood-of', 'place-founded', 'nationality', 'place-of-death', 'company', 'location', 'geographic-distribution', 'place-lived', 'administrative-divisions', 'r_contains', 'r_country', 'r_children', 'r_administrative-divisions', 'r_capital', 'r_company', 'r_place-of-death', 'r_place-of-birth', 'r_nationality', 'r_founders', 'r_neighborhood-of', 'r_place-lived', 'r_advisors', 'r_location', 'r_place-founded', 'r_major-shareholders', 'r_major-shareholder-of', 'r_teams', 'r_religion', 'r_geographic-distribution', 'r_people', 'r_ethnicity']
+        elif 'scierc' == config.valid_pattern_path.split('/')[-3]:
+            self.types = ['method', 'task', 'other-scientific-term', 'metric', 'material', 'generic', 'evaluate-for', 'compare', 'used-for', 'feature-of', 'conjunction', 'part-of', 'hyponym-of', 'r_used-for', 'r_feature-of', 'r_evaluate-for', 'r_conjunction', 'r_hyponym-of', 'r_part-of', 'r_compare']
+        elif 'casie' == config.valid_pattern_path.split('/')[-3]:
+            self.types = ['geopolitical-entity', 'time', 'file', 'website', 'data', 'common-vulnerabilities-and-exposures', 'money', 'patch', 'malware', 'person', 'purpose', 'number', 'vulnerability', 'version', 'capabilities', 'payment-method', 'system', 'software', 'personally-identifiable-information', 'organization', 'device', 'victim', 'patch-number', 'tool', 'vulnerable-system', 'vulnerable-system-owner', 'releaser', 'discoverer', 'time', 'capabilities', 'purpose', 'supported-platform', 'issues-addressed', 'common-vulnerabilities-and-exposures', 'attacker', 'trusted-entity', 'vulnerability', 'vulnerable-system-version', 'number-of-victim', 'payment-method', 'compromised-data', 'price', 'place', 'attack-pattern', 'number-of-data', 'patch', 'damage-amount', 'r_tool', 'r_trusted-entity', 'r_attack-pattern', 'r_victim', 'r_attacker', 'r_time', 'r_place', 'r_vulnerable-system-owner', 'r_discoverer', 'r_releaser', 'r_vulnerability', 'r_vulnerable-system', 'r_vulnerable-system-version', 'r_patch', 'r_compromised-data', 'r_number-of-victim', 'r_purpose', 'r_common-vulnerabilities-and-exposures', 'r_number-of-data', 'r_price', 'r_payment-method', 'r_capabilities', 'r_patch-number', 'r_damage-amount', 'r_issues-addressed', 'r_supported-platform', 'phishing', 'databreach', 'ransom', 'discover-vulnerability', 'patch-vulnerability']
+        elif 'cadec' ==config.valid_pattern_path.split('/')[-3]:
+            self.types = ['NA', 'adverse-drug-reaction', 'r_adverse-drug-reaction']
+        elif 'absa' == config.valid_pattern_path.split('/')[-4]:
+            self.types = ['opinion', 'aspect', 'negative', 'neutral', 'positive', 'r_positive', 'r_negative', 'r_neutral']
+        elif 'ace2004' == config.valid_pattern_path.split('/')[-3]:
+            self.types = ['GPE', 'ORG', 'PER', 'FAC', 'VEH', 'LOC', 'WEA']
+        elif '14lap' == config.valid_pattern_path.split('/')[-3]:
             self.types = ["opinion", "aspect", "negative", "neutral", "positive", "r_positive", "r_negative", "r_neutral"]
-            self.types_tokens = [["[CLS]"] + self.tokenizer.tokenize(type_token) + ["[SEP]"] for type_token in self.types]
-            self.types_inputs = [torch.tensor([self.tokenizer.convert_tokens_to_ids(type_token)])  for type_token in self.types_tokens]
+        elif '14res' == config.valid_pattern_path.split('/')[-3]:
+            self.types = ["opinion", "aspect", "negative", "neutral", "positive", "r_positive", "r_negative", "r_neutral"]
+        elif '15res' == config.valid_pattern_path.split('/')[-3]:
+            self.types = ["opinion", "aspect", "negative", "neutral", "positive", "r_positive", "r_negative", "r_neutral"]
+        elif '16res' == config.valid_pattern_path.split('/')[-3]:
+            self.types = ["opinion", "aspect", "negative", "neutral", "positive", "r_positive", "r_negative", "r_neutral"]
+        elif 'all' == config.valid_pattern_path.split('/')[-2]:
+            self.types =['method', 'geopolitical-entity', 'website', 'aspect', 'MISC', 'patch', 'other-scientific-term', 'G#cell_line', 'generic', 'device', 'other', 'file', 'task', 'money', 'data', 'G#cell_type', 'metric', 'VEH', 'time', 'GPE', 'PER', 'G#protein', 'people', 'location', 'capabilities', 'purpose', 'None', 'opinion', 'personally-identifiable-information', 'malware', 'FAC', 'system', 'number', 'G#RNA', 'WEA', 'LOC', 'ORG', 'G#DNA', 'version', 'NA', 'common-vulnerabilities-and-exposures', 'vulnerability', 'material', 'payment-method', 'software', 'person', 'organization', 'r_ORG-AFF', 'major-shareholder-of', 'r_positive', 'country', 'religion', 'positive', 'r_contains', 'r_people', 'r_place-lived', 'ethnicity', 'r_location', 'r_place-founded', 'place-of-death', 'r_place-of-birth', 'founders', 'r_part-of', 'r_PART-WHOLE', 'r_capital', 'r_neutral', 'PER-SOC', 'r_major-shareholder-of', 'negative', 'r_feature-of', 'teams', 'compare', 'part-of', 'people', 'r_founders', 'r_advisors', 'location', 'r_hyponym-of', 'r_religion', 'r_negative', 'ORG-AFF', 'used-for', 'place-founded', 'r_place-of-death', 'feature-of', 'r_neighborhood-of', 'r_evaluate-for', 'children', 'place-of-birth', 'organization-in', 'capital', 'PHYS', 'work-for', 'r_company', 'hyponym-of', 'advisors', 'r_administrative-divisions', 'evaluate-for', 'r_adverse-drug-reaction', 'administrative-divisions', 'r_PER-SOC', 'r_compare', 'r_PHYS', 'r_live-in', 'r_major-shareholders', 'profession', 'place-lived', 'r_nationality', 'contains', 'neighborhood-of', 'r_country', 'r_work-for', 'major-shareholders', 'geographic-distribution', 'GEN-AFF', 'located-in', 'r_organization-in', 'conjunction', 'company', 'r_geographic-distribution', 'adverse-drug-reaction', 'ART', 'industry', 'nationality', 'r_used-for', 'live-in', 'PART-WHOLE', 'r_conjunction', 'r_teams', 'neutral', 'r_kill', 'r_ART', 'kill', 'r_GEN-AFF', 'r_located-in', 'r_children', 'r_ethnicity', 'Life.Marry', 'Business:End-Org', 'Justice:Pardon', 'Transaction:Transfer-Ownership', 'Business:Start-Org', 'Justice:Arrest-Jail', 'Movement:Transport', 'Business.End-Org', 'Justice:Fine', 'Justice:Extradite', 'databreach', 'Conflict:Attack', 'Justice:Appeal', 'Justice:Sue', 'Life.Divorce', 'Justice.Acquit', 'Justice:Trial-Hearing', 'Life.Be-Born', 'Justice.Trial-Hearing', 'Conflict.Attack', 'Life:Marry', 'Contact:Meet', 'Personnel:Start-Position', 'Business:Declare-Bankruptcy', 'Justice.Fine', 'Personnel:End-Position', 'Personnel.End-Position', 'Transaction.Transfer-Money', 'Justice.Extradite', 'Business:Merge-Org', 'phishing', 'Justice:Charge-Indict', 'Personnel:Elect', 'Personnel.Nominate', 'Justice.Appeal', 'Life:Injure', 'patch-vulnerability', 'Contact.Meet', 'Justice.Convict', 'Conflict.Demonstrate', 'Contact.Phone-Write', 'Justice.Pardon', 'Justice.Charge-Indict', 'Personnel.Start-Position', 'Life:Die', 'Transaction:Transfer-Money', 'Justice:Release-Parole', 'Justice.Sentence', 'Justice.Sue', 'Movement.Transport', 'Personnel:Nominate', 'Life:Be-Born', 'Justice:Convict', 'Justice:Acquit', 'Transaction.Transfer-Ownership', 'discover-vulnerability', 'Business.Start-Org', 'Justice.Arrest-Jail', 'ransom', 'Business.Declare-Bankruptcy', 'Conflict:Demonstrate', 'Business.Merge-Org', 'Justice:Execute', 'Life:Divorce', 'Justice.Release-Parole', 'Personnel.Elect', 'Life.Die', 'Justice:Sentence', 'Justice.Execute', 'Life.Injure', 'Contact:Phone-Write', 'r_number-of-data', 'r_patch-number', 'Recipient', 'r_Target', 'Beneficiary', 'Agent', 'r_number-of-victim', 'Entity', 'r_Beneficiary', 'r_Adjudicator', 'supported-platform', 'trusted-entity', 'Attacker', 'r_time', 'r_attacker', 'Person', 'r_Entity', 'common-vulnerabilities-and-exposures', 'r_Giver', 'victim', 'r_Org', 'payment-method', 'vulnerable-system-version', 'r_compromised-data', 'r_vulnerable-system-owner', 'damage-amount', 'Vehicle', 'r_trusted-entity', 'r_Buyer', 'Artifact', 'Plaintiff', 'Origin', 'compromised-data', 'number-of-victim', 'discoverer', 'releaser', 'r_tool', 'Prosecutor', 'Place', 'r_Instrument', 'r_purpose', 'vulnerable-system-owner', 'r_Destination', 'r_Recipient', 'r_payment-method', 'r_Attacker', 'r_attack-pattern', 'tool', 'r_victim', 'issues-addressed', 'r_Defendant', 'capabilities', 'purpose', 'Adjudicator', 'Buyer', 'place', 'r_place', 'r_price', 'number-of-data', 'patch-number', 'attacker', 'r_discoverer', 'r_releaser', 'r_vulnerability', 'r_supported-platform', 'Org', 'r_Plaintiff', 'r_Seller', 'r_Origin', 'Instrument', 'Seller', 'r_Prosecutor', 'r_Place', 'patch', 'Target', 'r_patch', 'r_Victim', 'Defendant', 'r_Artifact', 'r_vulnerable-system', 'r_Vehicle', 'time', 'r_damage-amount', 'vulnerable-system', 'attack-pattern', 'r_Person', 'Giver', 'r_common-vulnerabilities-and-exposures', 'r_vulnerable-system-version', 'r_Agent', 'r_issues-addressed', 'Destination', 'r_capabilities', 'Victim', 'vulnerability', 'price']
+        
+        self.types_tokens = [["[CLS]"] + self.tokenizer.tokenize(type_token) + ["[SEP]"] for type_token in self.types]
+        self.types_inputs = [torch.tensor([self.tokenizer.convert_tokens_to_ids(type_token)])  for type_token in self.types_tokens]
 
         if (config.parser_type == 'bilinear'):
             self.parser = Bilinear(config)
@@ -389,7 +431,7 @@ class PartialPCFG(RobertaPreTrainedModel):
         loss /= 12
         return loss
 
-    def forward(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks, partial_masks, eval_masks):
+    def forward_now(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks, partial_masks, eval_masks):
         """
         添加掩码语言损失+掩码插值表达的损失+KL损失
         将self.bert换成self.mlm
@@ -458,7 +500,7 @@ class PartialPCFG(RobertaPreTrainedModel):
         loss_4 = self.kl_div_loss(outputs_bert_embedding, sequence_output_mlm)
 
         # print(sequence_output_mlm.shape)
-        sequence_output_mlm = self.mlm.bert(inputs_embeds=sequence_output_mlm,attention_mask=attention_mask, token_type_ids=token_type_ids)[0]
+        sequence_output_mlm = self.mlm.roberta(inputs_embeds=sequence_output_mlm,attention_mask=attention_mask, token_type_ids=token_type_ids)[0]
         # outputs = self.mlm(input_ids, attention_mask=attention_mask, token_type_ids=token_type_ids)
         # mlm_logits = outputs.logits
 
@@ -755,7 +797,7 @@ class PartialPCFG(RobertaPreTrainedModel):
         # print(loss_2)
         return outputs
 
-    def forward_5(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks, partial_masks, eval_masks):
+    def forward(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks, partial_masks, eval_masks):
         """
         添加掩码语言损失+掩码插值表达的损失+KL损失+角色子空间
         将self.bert换成self.mlm
@@ -1247,7 +1289,7 @@ class PartialPCFG(RobertaPreTrainedModel):
         
         return outputs
     
-    def infer(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks):
+    def infer_now(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks):
         """
         掩码语言模型 + 掩码插值表达 + KL损失
         Args:
@@ -1306,7 +1348,7 @@ class PartialPCFG(RobertaPreTrainedModel):
         # word_embeddings = self.mlm.bert.embeddings.word_embeddings.weight
         word_embeddings = self.mlm.get_input_embeddings().weight
         sequence_output_mlm = torch.matmul(masked_probs.to(input_ids.device), word_embeddings)
-        sequence_output = self.mlm.bert(inputs_embeds=sequence_output_mlm,attention_mask=attention_mask, token_type_ids=token_type_ids)[0]  * 0.5 + sequence_output_bert
+        sequence_output = self.mlm.roberta(inputs_embeds=sequence_output_mlm,attention_mask=attention_mask, token_type_ids=token_type_ids)[0]  * 0.5 + sequence_output_bert
 
         # outputs = self.mlm(input_ids, attention_mask=attention_mask, token_type_ids=token_type_ids)
         # mlm_logits = outputs.logits
@@ -1370,7 +1412,7 @@ class PartialPCFG(RobertaPreTrainedModel):
         
         return outputs
 
-    def infer_5(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks):
+    def infer(self, input_ids, token_type_ids, attention_mask, gather_ids, gather_masks):
         """
         掩码语言模型 + 掩码插值表达 + KL损失 + 角色子空间
         Args:

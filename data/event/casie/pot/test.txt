@@ -5331,7 +5331,7 @@ In a post-breach letter to parents , WAHS principal , Darah Bonham , explained t
 
 
 Bonham continued by revealing that a change to the survey exposed presumed confidential names of students listed on the survey : The survey is administered electronically and this morning , a change was made to add questions having to do with student needs around technology .
-12,14 personally-identifiable-information|15,16 person|8,10 data|8,11 databreach|8,13 compromised-data|8,14 compromised-data|9,13 compromised-data|9,14 compromised-data|10,13 compromised-data|10,14 compromised-data|8,16 victim|9,16 victim|10,16 victim|8,9 r_compromised-data|8,10 r_compromised-data|8,11 r_compromised-data|9,9 r_compromised-data|9,10 r_compromised-data|9,11 r_compromised-data
+12,14 personally-identifiable-information|15,16 person|8,10 data|8,11 databreach|8,13 compromised-data|8,14 compromised-data|9,13 compromised-data|9,14 compromised-data|10,13 compromised-data|10,14 compromised-data|8,16 victim|9,16 victim|10,16 victim|8,9 r_compromised-data|8,10 r_compromised-data|8,11 r_compromised-data|8,10 r_compromised-data|9,10 r_compromised-data|9,11 r_compromised-data
 12,14 personally-identifiable-information|15,16 person|8,10 data|8,11 databreach|8,14 compromised-data|8,16 victim|8,11 r_compromised-data
 
 Regrettably , this change inadvertently altered the security settings , making publically accessible , some survey information reported by students .

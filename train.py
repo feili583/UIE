@@ -49,7 +49,7 @@ from model import PartialPCFG
 import time
 import json
 
-os.environ['CUDA_VISIBLE_DEVICES'] = '0,1,3,6'
+os.environ['CUDA_VISIBLE_DEVICES'] = '6,7'
 
 torch.set_num_threads(4)
 

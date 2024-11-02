@@ -303,8 +303,8 @@ She is a second-year resident in psychiatry at Mount Sinai Hospital in New York 
 12,14 location|8,11 location|8,14 r_contains
 
 Rose Valentin , a community associate of the New York City clerk 's office , officiated at Boylan Studios , an event space in New York , in a ceremony led by Anthony V. DeMayo , a judge trial referee of the Connecticut Superior Court in New Haven , Conn. .
-8,10 location|8,11 location|8,9 r_contains|8,10 r_contains|9,9 r_contains|9,10 r_contains|10,9 r_contains|10,10 r_contains
-8,10 location|8,11 location|8,10 r_contains
+8,10 location|8,11 location|8,9 contains|8,10 contains|8,11 contains|8,10 contains|9,10 contains|9,11 contains
+8,10 location|8,11 location|8,11 contains
 
 Margaret Somerville , professor of law and medicine at McGill University , said the ruling " is extremely important " in large part because " the provinces that want to run some form of a complementary private system would probably be able to do so now . "
 0,2 person|9,11 organization|0,10 company|0,11 company|1,10 company|1,11 company
@@ -1507,8 +1507,8 @@ His father was a urological surgeon at the Urology Group in New Haven and an ass
 11,13 location|21,25 organization|11,25 contains
 
 Since part of the marketing campaign celebrates the idea of Smart cars in New York City -- they already putter through Paris and Rome -- it seems only fair to present a New York first impression , which is : Throw a Smart car in the trunk of an old Cadillac , pump it full of lead and park it in the Meadowlands .
-13,15 location|13,16 location|13,14 r_contains|13,15 r_contains|14,14 r_contains|14,15 r_contains|15,14 r_contains|15,15 r_contains
-13,15 location|13,16 location|13,15 r_contains
+13,15 location|13,16 location|13,14 contains|13,15 contains|13,16 contains|13,15 contains|14,15 contains|14,16 contains
+13,15 location|13,16 location|13,16 contains
 
 One example is Chile , the most prosperous country in Latin America .
 10,12 location|3,4 location|3,11 r_contains|3,12 r_contains
@@ -1575,8 +1575,8 @@ Eliminating or reducing military assistance to countries like Chile and Bolivia 
 48,50 person|8,9 location|8,50 r_nationality|8,50 r_nationality
 
 Jaune Quick-to-See Smith : Made in America , " Montclair Art Museum , 3 South Mountain Avenue , Montclair , through Jan. 14 .
-9,10 location|9,12 organization|9,10 r_contains|10,10 r_contains|11,10 r_contains
-9,10 location|9,12 organization|9,10 r_contains
+9,10 location|9,12 organization|9,10 contains|9,11 contains|9,12 contains
+9,10 location|9,12 organization|9,12 contains
 
 In the absence of employer-sponsorship requirements , high-tech immigrants to Canada go primarily to Toronto , Montreal and Vancouver , even though Canada 's high-tech industry is concentrated in Ottawa and Calgary .
 10,11 location|29,30 location|16,17 location|14,15 location|31,32 location|10,30 capital|10,17 contains|10,30 administrative-divisions|10,30 r_country|10,17 administrative-divisions|10,30 administrative-divisions|10,17 administrative-divisions|10,15 contains|10,30 r_country|10,30 capital|10,15 r_country|10,32 contains|10,15 r_country|10,32 contains|10,30 contains|10,15 administrative-divisions|10,17 contains|10,30 contains|10,17 r_country|10,15 administrative-divisions|10,15 contains|10,17 r_country
@@ -2039,8 +2039,8 @@ The parents said they had come to the cemetery , in Cambria Heights , Queens , t
 11,13 location|14,15 location|11,15 neighborhood-of|11,15 r_contains
 
 The show is divided between the Dahesh Museum of Art , 580 Madison Avenue , at 56th Street , (212) 759-0606 , through Jan. 22 , and the Princeton University Art Museum , Princeton , N.J. , (609) 258-3788 , through Jan. 15 .
-28,29 organization|28,32 organization|28,29 r_contains|29,29 r_contains|30,29 r_contains|31,29 r_contains
-28,29 organization|28,32 organization|28,29 r_contains
+28,29 organization|28,32 organization|28,29 contains|28,30 contains|28,31 contains|28,32 contains
+28,29 organization|28,32 organization|28,32 contains
 
 Bruce Wasserstein , the head of Lazard , is a distant cousin of Mr. Moonves .
 0,2 person|6,7 organization|0,7 company|1,7 company
@@ -2087,16 +2087,16 @@ Annexed by India 30 years ago , Sikkim had been represented as an independent co
 2,3 location|7,8 location|2,8 contains|2,8 r_country|2,8 administrative-divisions
 
 Cleveland Browns ( 3-12 ) at Houston Texans \* ( 7-8 ) 1 p.m. Cleveland has lost nine in a row and can not wait for this season to be over .
-0,2 organization|0,1 location|0,1 r_location|0,2 r_location|0,1 r_teams|1,1 r_teams
-0,2 organization|0,1 location|0,2 r_location|0,1 r_teams
+0,2 organization|0,1 location|0,1 r_location|0,2 r_location|0,1 teams|0,2 teams
+0,2 organization|0,1 location|0,2 r_location|0,2 teams
 
 New Orleans has won its last three games but has yet to beat the Panthers since the former Saints back-up and Louisiana native Jake Delhomme took over at quarterback for Carolina .
 23,25 person|21,22 location|0,2 location|21,24 r_place-lived|21,25 r_place-lived|0,22 r_contains|1,22 r_contains
 23,25 person|21,22 location|0,2 location|21,25 r_place-lived|0,22 r_contains
 
 Atlanta Falcons \* ( 11-4 ) at Seattle Seahawks ( 8-7 ) 4:05 p.m. Seattle can win the N.F.C. West with a victory or a Rams loss .
-7,8 location|7,9 organization|7,8 r_teams|8,8 r_teams|7,8 r_location|7,9 r_location
-7,8 location|7,9 organization|7,8 r_teams|7,9 r_location
+7,8 location|7,9 organization|7,8 teams|7,9 teams|7,8 r_location|7,9 r_location
+7,8 location|7,9 organization|7,9 teams|7,9 r_location
 
 After lifting weights and running on a treadmill in the morning , Myles would go to class and play basketball at noon with former Louisville stars like DeJuan Wheat and Darrell Griffith .
 30,32 person|24,25 location|27,29 person|24,31 r_place-of-birth|24,32 r_place-of-birth|24,31 r_place-lived|24,32 r_place-lived|24,28 r_place-lived|24,29 r_place-lived
@@ -2311,8 +2311,8 @@ Kaleil Isaza Tuzman was reminded of this last month when someone stole his watch
 30,31 location|28,29 location|28,31 r_capital|28,31 r_contains
 
 Mr. Weisbrod said , " It provides me with the opportunity to help create a fabulous New York City neighborhood around Hudson Square for a distinguished New York institution that is really interested in making a positive contribution to the city generally , and to my continuing work in Lower Manhattan . "
-49,51 location|16,19 location|16,18 location|16,50 r_neighborhood-of|16,51 r_neighborhood-of|17,50 r_neighborhood-of|17,51 r_neighborhood-of|18,50 r_neighborhood-of|18,51 r_neighborhood-of|16,50 contains|16,51 contains|17,50 contains|17,51 contains|18,50 contains|18,51 contains|16,17 r_contains|16,18 r_contains|17,17 r_contains|17,18 r_contains|18,17 r_contains|18,18 r_contains
-49,51 location|16,19 location|16,18 location|16,51 r_neighborhood-of|16,51 contains|16,18 r_contains
+49,51 location|16,19 location|16,18 location|16,50 r_neighborhood-of|16,51 r_neighborhood-of|17,50 r_neighborhood-of|17,51 r_neighborhood-of|18,50 r_neighborhood-of|18,51 r_neighborhood-of|16,50 contains|16,51 contains|17,50 contains|17,51 contains|18,50 contains|18,51 contains|16,17 contains|16,18 contains|16,19 contains|16,18 contains|17,18 contains|17,19 contains
+49,51 location|16,19 location|16,18 location|16,51 r_neighborhood-of|16,51 contains|16,19 contains
 
 Donations may be made to the World ORT Union , 126 Elbert St. , London NW1 7NE England .
 17,18 location|14,15 location|14,18 r_capital
@@ -2455,8 +2455,8 @@ Soon , she competed in leagues , then for her Union High School team , then for 
 21,22 location|17,20 organization|17,22 r_contains
 
 When she visited New York , she stayed with friends in different neighborhoods -- Midtown and Inwood ; Brooklyn Heights and Fort Greene , Brooklyn ; and Rego Park , Queens -- so she knew she would be happy living anywhere , as long as she had a decent subway commute to Manhattan .
-18,19 location|18,20 location|30,31 location|27,29 location|16,17 location|52,53 location|21,23 location|3,5 location|18,19 r_contains|19,19 r_contains|27,31 r_contains|28,31 r_contains|16,53 neighborhood-of|16,53 r_contains|18,22 contains|18,23 contains|3,53 contains|4,53 contains|27,31 neighborhood-of|28,31 neighborhood-of|18,19 r_neighborhood-of|18,20 r_neighborhood-of|3,31 contains|4,31 contains|18,22 r_neighborhood-of|18,23 r_neighborhood-of
-18,19 location|18,20 location|30,31 location|27,29 location|16,17 location|52,53 location|21,23 location|3,5 location|18,19 r_contains|27,31 r_contains|16,53 neighborhood-of|16,53 r_contains|18,23 contains|3,53 contains|27,31 neighborhood-of|18,20 r_neighborhood-of|3,31 contains|18,23 r_neighborhood-of
+18,19 location|18,20 location|30,31 location|27,29 location|16,17 location|52,53 location|21,23 location|3,5 location|18,19 contains|18,20 contains|27,31 r_contains|28,31 r_contains|16,53 neighborhood-of|16,53 r_contains|18,22 contains|18,23 contains|3,53 contains|4,53 contains|27,31 neighborhood-of|28,31 neighborhood-of|18,19 r_neighborhood-of|18,20 r_neighborhood-of|3,31 contains|4,31 contains|18,22 r_neighborhood-of|18,23 r_neighborhood-of
+18,19 location|18,20 location|30,31 location|27,29 location|16,17 location|52,53 location|21,23 location|3,5 location|18,20 contains|27,31 r_contains|16,53 neighborhood-of|16,53 r_contains|18,23 contains|3,53 contains|27,31 neighborhood-of|18,20 r_neighborhood-of|3,31 contains|18,23 r_neighborhood-of
 
 South Korea urged the international community " to take the lead in establishing a rehabilitation program for North Korea , " a senior Korean official told The Korea Times in Seoul .
 0,2 location|30,31 location|0,31 contains|1,31 contains|0,31 capital|1,31 capital|0,31 administrative-divisions|1,31 administrative-divisions|0,31 r_country|1,31 r_country
@@ -3067,8 +3067,8 @@ MUSEUM OF THE MOVING IMAGE , 36-01 35th Avenue , at 36th Street , Astoria , Quee
 14,15 location|16,17 location|14,17 neighborhood-of|14,17 r_contains
 
 Walking Tours New York City STREET SMARTS N.Y. Tomorrow at 2 p.m. , " From Union Square to Madison Square : In Teddy 's Footsteps " follows New York sites connected with President Theodore Roosevelt .
-2,4 location|2,5 location|33,35 person|2,3 r_contains|2,4 r_contains|3,3 r_contains|3,4 r_contains|4,3 r_contains|4,4 r_contains|2,34 r_place-of-birth|2,35 r_place-of-birth|3,34 r_place-of-birth|3,35 r_place-of-birth|4,34 r_place-of-birth|4,35 r_place-of-birth|2,34 r_place-lived|2,35 r_place-lived|3,34 r_place-lived|3,35 r_place-lived|4,34 r_place-lived|4,35 r_place-lived
-2,4 location|2,5 location|33,35 person|2,4 r_contains|2,35 r_place-of-birth|2,35 r_place-lived
+2,4 location|2,5 location|33,35 person|2,3 contains|2,4 contains|2,5 contains|2,4 contains|3,4 contains|3,5 contains|2,34 r_place-of-birth|2,35 r_place-of-birth|3,34 r_place-of-birth|3,35 r_place-of-birth|4,34 r_place-of-birth|4,35 r_place-of-birth|2,34 r_place-lived|2,35 r_place-lived|3,34 r_place-lived|3,35 r_place-lived|4,34 r_place-lived|4,35 r_place-lived
+2,4 location|2,5 location|33,35 person|2,5 contains|2,35 r_place-of-birth|2,35 r_place-lived
 
 Advance registration in Manhattan at Bike New York office , Hosteling International-New York Building , 891 Amsterdam Avenue , at 103rd Street .
 6,8 location|3,4 location|3,7 r_contains|3,8 r_contains
@@ -3199,8 +3199,8 @@ Ms. Landrieu , a Democrat who grew up in New Orleans , whose father , Moon Landr
 29,30 location|9,11 location|43,45 location|9,30 r_contains|29,45 contains
 
 STORM AND CRISIS : A LOOK BACK Correction : September 29 , 2005 , Thursday An article on Sept. 15 about the National Football League 's effort to create a home-field atmosphere for the New Orleans Saints misstated the name of the New Orleans police superintendent , who was to take part in the coin toss at a game with the New York Giants .
-34,36 location|34,37 organization|34,35 r_teams|34,36 r_teams|35,35 r_teams|35,36 r_teams|36,35 r_teams|36,36 r_teams|34,35 r_location|34,36 r_location|34,37 r_location|35,35 r_location|35,36 r_location|35,37 r_location
-34,36 location|34,37 organization|34,36 r_teams|34,37 r_location
+34,36 location|34,37 organization|34,35 teams|34,36 teams|34,37 teams|34,36 teams|35,36 teams|35,37 teams|34,35 r_location|34,36 r_location|34,37 r_location|34,36 r_location|35,36 r_location|35,37 r_location
+34,36 location|34,37 organization|34,37 teams|34,37 r_location
 
 It 's hard to imagine a ` one size fits all ' approach , " said Robert R. Glauber , chief executive of NASD .
 16,19 person|23,24 organization|16,24 company|17,24 company|18,24 company
@@ -3679,8 +3679,8 @@ Curried skate wing , fried rice noodles with squid and pork , and the indispensa
 57,59 person|34,35 location|34,59 r_place-of-birth
 
 Was an Assistant Dean at Fordham University and taught art at Fordham , Holy Cross and the Loyola School .
-5,6 location|5,7 organization|5,6 r_contains|6,6 r_contains
-5,6 location|5,7 organization|5,6 r_contains
+5,6 location|5,7 organization|5,6 contains|5,7 contains
+5,6 location|5,7 organization|5,7 contains
 
 Michael Fazende was named executive creative director , a new post at Fahlgren Advertising , Columbus , Ohio .
 17,18 location|15,16 location|15,18 r_contains
@@ -3895,8 +3895,8 @@ And if Bernard Arnault , the chairman of LVMH Moet Hennessy Louis Vuitton , were
 2,4 person|49,50 location|2,50 place-lived
 
 Mr. Potter 's " Cheat , " about a game played by his grandparents , won the inaugural CellFlix Festival prize of $ 5,000 put up by the Roy H. Park School of Communications at Ithaca College in Ithaca , N.Y. , and open to high school and college students .
-35,36 location|35,37 organization|35,36 r_contains|36,36 r_contains
-35,36 location|35,37 organization|35,36 r_contains
+35,36 location|35,37 organization|35,36 contains|35,37 contains
+35,36 location|35,37 organization|35,37 contains
 
 ( George Balanchine , as always , had prefigured the trend by asking Martha Graham to make a work with him for the New York City Ballet in 1959 . )
 1,3 person|23,27 location|1,24 company|1,25 company|1,26 company|1,27 company|2,24 company|2,25 company|2,26 company|2,27 company
@@ -5819,8 +5819,8 @@ Suzy Taylor , 29 , of London 's South Kensington neighborhood , said the treatme
 6,7 location|8,10 location|6,10 contains
 
 METRO TOUR SERVICE visits Brooklyn Heights , Fort Greene and Clinton Hill , today through Sunday at 2 p.m. , and downtown Brooklyn , with a stop for gospel music , on Sunday at 10 a.m. All tours meeting in front of the Marriott , Adams and Tillary Streets , downtown Brooklyn .
-4,5 location|4,6 location|10,12 person|7,9 location|4,5 r_contains|5,5 r_contains|4,11 contains|4,12 contains|4,8 contains|4,9 contains|4,11 r_neighborhood-of|4,12 r_neighborhood-of|4,5 r_neighborhood-of|4,6 r_neighborhood-of|4,5 r_neighborhood-of|4,6 r_neighborhood-of|4,11 contains|4,12 contains|4,8 contains|4,9 contains|4,5 r_contains|5,5 r_contains|4,11 r_neighborhood-of|4,12 r_neighborhood-of|4,8 r_neighborhood-of|4,9 r_neighborhood-of|4,8 r_neighborhood-of|4,9 r_neighborhood-of
-4,5 location|4,6 location|10,12 person|7,9 location|4,5 r_contains|4,12 contains|4,9 contains|4,12 r_neighborhood-of|4,6 r_neighborhood-of|4,6 r_neighborhood-of|4,12 contains|4,9 contains|4,5 r_contains|4,12 r_neighborhood-of|4,9 r_neighborhood-of|4,9 r_neighborhood-of
+4,5 location|4,6 location|10,12 person|7,9 location|4,5 contains|4,6 contains|4,11 contains|4,12 contains|4,8 contains|4,9 contains|4,11 r_neighborhood-of|4,12 r_neighborhood-of|4,5 r_neighborhood-of|4,6 r_neighborhood-of|4,5 r_neighborhood-of|4,6 r_neighborhood-of|4,11 contains|4,12 contains|4,8 contains|4,9 contains|4,5 contains|4,6 contains|4,11 r_neighborhood-of|4,12 r_neighborhood-of|4,8 r_neighborhood-of|4,9 r_neighborhood-of|4,8 r_neighborhood-of|4,9 r_neighborhood-of
+4,5 location|4,6 location|10,12 person|7,9 location|4,6 contains|4,12 contains|4,9 contains|4,12 r_neighborhood-of|4,6 r_neighborhood-of|4,6 r_neighborhood-of|4,12 contains|4,9 contains|4,6 contains|4,12 r_neighborhood-of|4,9 r_neighborhood-of|4,9 r_neighborhood-of
 
 Walking Tours New York City DR. PHIL 's NEW YORK WALKS AND TALKS Tomorrow at 1:30 p.m. , " In Search of Ghosts : Washington Square Park " ; meets in front of 18 West 10th Street , at Fifth Avenue , Greenwich Village .
 42,44 location|2,5 location|2,43 r_neighborhood-of|2,44 r_neighborhood-of|3,43 r_neighborhood-of|3,44 r_neighborhood-of|4,43 r_neighborhood-of|4,44 r_neighborhood-of|2,43 contains|2,44 contains|3,43 contains|3,44 contains|4,43 contains|4,44 contains
@@ -6351,8 +6351,8 @@ In Manhattan at Landmark 's Sunshine Cinema , 139-143 East Houston Street , East
 1,2 location|13,15 location|1,15 contains|1,15 r_neighborhood-of
 
 Montclair State University , Normal Avenue and Valley Road , Montclair .
-0,1 location|0,3 organization|0,1 r_contains|1,1 r_contains|2,1 r_contains
-0,1 location|0,3 organization|0,1 r_contains
+0,1 location|0,3 organization|0,1 contains|0,2 contains|0,3 contains
+0,1 location|0,3 organization|0,3 contains
 
 In northern Iraq , a major oil pipeline was ablaze for much of Saturday after saboteurs detonated a bomb on Friday night on a line connecting the Dibis oil fields with the city of Kirkuk , about 20 miles to the east .
 2,3 location|34,35 location|2,35 contains
@@ -7935,8 +7935,8 @@ The caption reads , " Iraq ( including Baghdad ) is much more calm and stable th
 5,6 location|8,9 location|5,9 capital|5,9 contains
 
 Four centuries later , Virginia Beach is n't snubbed anymore : it 's the largest city in Virginia , home to more than 440,000 people and part of a metropolitan area of 1.6 million that includes Norfolk and Newport News .
-4,5 location|36,37 location|4,6 location|38,40 organization|4,37 contains|4,5 r_contains|5,5 r_contains|4,39 contains|4,40 contains
-4,5 location|36,37 location|4,6 location|38,40 organization|4,37 contains|4,5 r_contains|4,40 contains
+4,5 location|36,37 location|4,6 location|38,40 organization|4,37 contains|4,5 contains|4,6 contains|4,39 contains|4,40 contains
+4,5 location|36,37 location|4,6 location|38,40 organization|4,37 contains|4,6 contains|4,40 contains
 
 Today , it 's the most visited park in Virginia , a cyclists ' , hikers ' and nature lovers ' paradise of almost 3,000 acres where the Atlantic Ocean meets the Chesapeake Bay ( parking is $ 2 or $ 3 ) .
 9,10 location|32,34 location|9,33 contains|9,34 contains
@@ -7967,12 +7967,12 @@ As a winner of the prize , Cavelier was entitled to spend a salaried three-to-fi
 21,22 location|18,20 organization|18,22 r_contains
 
 Diomedes " is among 130 works on view in " The Legacy of Homer : Four Centuries of Art From the Ecole Nationale Superieure des Beaux-Arts , Paris , " divided between two American institutions , the Dahesh Museum of Art in New York and the Princeton University Art Museum in Princeton , N.J . The show , with works by Poussin , Ingres , David and other stars , among many lesser-knowns , was organized by Emmanuel Schwartz , curator in chief of the patrimony at the Ecole .
-46,47 location|46,50 organization|46,47 r_contains|47,47 r_contains|48,47 r_contains|49,47 r_contains
-46,47 location|46,50 organization|46,47 r_contains
+46,47 location|46,50 organization|46,47 contains|46,48 contains|46,49 contains|46,50 contains
+46,47 location|46,50 organization|46,50 contains
 
 The Legacy of Homer : Four Centuries of Art From the Ecole Nationale Superieure des Beaux-Arts , Paris " continues at the Dahesh Museum of Art , 580 Madison Avenue , at 56th Street , Manhattan , (212) 759-0606 , through Jan. 22 , and at the Princeton University Art Museum , Princeton , N.J. , (609) 258-3788 , through Jan. 15 .
-47,48 organization|47,51 organization|47,48 r_contains|48,48 r_contains|49,48 r_contains|50,48 r_contains
-47,48 organization|47,51 organization|47,48 r_contains
+47,48 organization|47,51 organization|47,48 contains|47,49 contains|47,50 contains|47,51 contains
+47,48 organization|47,51 organization|47,51 contains
 
 But the real gems in this former Colorado mining town lie beneath the surface , and when you 're this far away from the polish of the city ( Denver is a six-hour drive in good weather ) it 's perfectly O.K. to get your hands a little dirty .
 7,8 location|29,30 location|7,30 contains
@@ -8323,8 +8323,8 @@ In Virginia , a state that few expected to be seriously competitive , Senator Ge
 14,16 person|1,2 location|1,16 r_place-lived
 
 An article on Sept. 15 about the National Football League 's effort to create a home-field atmosphere for the New Orleans Saints misstated the name of the New Orleans police superintendent , who was to take part in the coin toss at a game with the New York Giants .
-19,22 organization|19,21 location|19,20 r_location|19,21 r_location|19,22 r_location|20,20 r_location|20,21 r_location|20,22 r_location|19,20 r_teams|19,21 r_teams|20,20 r_teams|20,21 r_teams|21,20 r_teams|21,21 r_teams
-19,22 organization|19,21 location|19,22 r_location|19,21 r_teams
+19,22 organization|19,21 location|19,20 r_location|19,21 r_location|19,22 r_location|19,21 r_location|20,21 r_location|20,22 r_location|19,20 teams|19,21 teams|19,22 teams|19,21 teams|20,21 teams|20,22 teams
+19,22 organization|19,21 location|19,22 r_location|19,22 teams
 
 I still remember when Philip was at North Carolina State and the school retired his jersey before he had even played his last game , " said Shawne Merriman , a Chargers linebacker who played at Maryland . "
 27,29 person|36,37 location|27,37 place-lived|28,37 place-lived
@@ -9087,8 +9087,8 @@ Donald Kennedy , the editor of Science magazine and a former head of the Food an
 0,2 person|14,18 organization|0,18 company
 
 Earlier this week , Daniel Donohue , now 42 , married with four children and living in Portland , Ore. , flew to New York City and turned the letter , which was addressed to his parents , over to officials at the Archdiocese of New York .
-23,25 location|23,26 location|23,24 r_contains|23,25 r_contains|24,24 r_contains|24,25 r_contains|25,24 r_contains|25,25 r_contains
-23,25 location|23,26 location|23,25 r_contains
+23,25 location|23,26 location|23,24 contains|23,25 contains|23,26 contains|23,25 contains|24,25 contains|24,26 contains
+23,25 location|23,26 location|23,26 contains
 
 Later , when Mr. Donohue moved on to the college seminary in Douglaston , Queens , in 1982 , every time the parents went to visit him , they would invariably find Monsignor Kavanagh there as well . "
 12,13 location|14,15 location|12,15 neighborhood-of|12,15 r_contains
@@ -9371,8 +9371,8 @@ Frequently mentioned names in New York City include Cabrini Medical Center in th
 17,18 location|23,24 location|4,7 location|31,33 location|34,35 location|17,24 contains|4,24 r_neighborhood-of|4,33 contains|31,35 neighborhood-of|31,35 r_contains|4,18 contains|17,24 r_neighborhood-of|4,35 contains|4,33 r_neighborhood-of|4,24 contains
 
 As a result , while Los Angeles County , with more people than New York City , has four county hospitals and no city hospitals , there are 11 city hospitals in New York .
-13,15 location|13,16 location|13,14 r_contains|13,15 r_contains|14,14 r_contains|14,15 r_contains|15,14 r_contains|15,15 r_contains
-13,15 location|13,16 location|13,15 r_contains
+13,15 location|13,16 location|13,14 contains|13,15 contains|13,16 contains|13,15 contains|14,15 contains|14,16 contains
+13,15 location|13,16 location|13,16 contains
 
 Even some of New York 's biggest , most sophisticated teaching hospitals , like Mount Sinai and St. Vincent 's in Manhattan , have been hemorrhaging money .
 3,5 location|21,22 location|3,22 contains|4,22 contains
@@ -9967,8 +9967,8 @@ A17 NEW YORK\/REGION B1-6 Senator Clinton Joins New York 's Olympic Push Greeted
 7,9 location|30,33 location|7,33 contains
 
 B1 More Gifts From Bloomberg Mayor Michael R. Bloomberg has showered another $ 20 million on 400 New York City arts and social services groups through a gift to the Carnegie Corporation of New York .
-17,19 location|17,20 location|17,18 r_contains|17,19 r_contains|18,18 r_contains|18,19 r_contains|19,18 r_contains|19,19 r_contains
-17,19 location|17,20 location|17,19 r_contains
+17,19 location|17,20 location|17,18 contains|17,19 contains|17,20 contains|17,19 contains|18,19 contains|18,20 contains
+17,19 location|17,20 location|17,20 contains
 
 C15 BUSINESS DAY C1-14 New Chief 's Pay Revealed John J. Mack , who was named Morgan Stanley 's chairman and chief executive , agreed to a contract that will pay him as much as $ 25 million a year for the next year and a half , with compensation after that to be based primarily on performance .
 9,12 person|16,18 person|9,17 company|9,18 company|10,17 company|10,18 company|11,17 company|11,18 company
@@ -10363,8 +10363,8 @@ There was one minor league team -- the Red Sox in New Britain , Conn. -- in an a
 28,30 location|32,34 location|20,21 location|11,13 location|28,34 contains|11,21 r_contains
 
 Today there are eight minor league teams in New Jersey , four in Connecticut , two in New York City and one each on Long Island and in Dutchess County in New York , representing five different leagues .
-17,19 location|24,26 location|28,30 location|17,20 location|17,25 contains|17,26 contains|18,25 contains|18,26 contains|17,29 contains|17,30 contains|18,29 contains|18,30 contains|17,18 r_contains|17,19 r_contains|18,18 r_contains|18,19 r_contains|19,18 r_contains|19,19 r_contains
-17,19 location|24,26 location|28,30 location|17,20 location|17,26 contains|17,30 contains|17,19 r_contains
+17,19 location|24,26 location|28,30 location|17,20 location|17,25 contains|17,26 contains|18,25 contains|18,26 contains|17,29 contains|17,30 contains|18,29 contains|18,30 contains|17,18 contains|17,19 contains|17,20 contains|17,19 contains|18,19 contains|18,20 contains
+17,19 location|24,26 location|28,30 location|17,20 location|17,26 contains|17,30 contains|17,20 contains
 
 The Cutters ' management spruced up Yale Field , a charming ballpark in West Haven , Conn. .
 13,15 location|6,8 organization|6,14 r_contains|6,15 r_contains|7,14 r_contains|7,15 r_contains
@@ -10459,8 +10459,8 @@ PetroKazakhstan , based in Calgary , Alberta , but managed from London , is also
 6,7 location|4,5 location|4,7 r_contains
 
 WHY GO NOW -- Equally cosmopolitan , but far more tranquil than Mexico City , Oaxaca is fast becoming the artistic capital of Mexico , drawing artists from around the country while shepherding its own to acclaim .
-12,13 location|12,14 location|15,16 location|12,13 r_contains|13,13 r_contains|12,13 r_country|12,14 r_country|12,13 r_administrative-divisions|13,13 r_administrative-divisions|12,16 contains|12,16 administrative-divisions|12,13 r_capital|13,13 r_capital|12,16 r_country
-12,13 location|12,14 location|15,16 location|12,13 r_contains|12,14 r_country|12,13 r_administrative-divisions|12,16 contains|12,16 administrative-divisions|12,13 r_capital|12,16 r_country
+12,13 location|12,14 location|15,16 location|12,13 contains|12,14 contains|12,13 r_country|12,14 r_country|12,13 administrative-divisions|12,14 administrative-divisions|12,16 contains|12,16 administrative-divisions|12,13 capital|12,14 capital|12,16 r_country
+12,13 location|12,14 location|15,16 location|12,14 contains|12,14 r_country|12,14 administrative-divisions|12,16 contains|12,16 administrative-divisions|12,14 capital|12,16 r_country
 
 In Gulu in northern Uganda , at least 60 percent of the women in a displaced persons camp were found to be victims of sexual violence , he reported .
 4,5 location|1,2 location|1,5 r_contains
@@ -10503,8 +10503,8 @@ Bunce Hall , Rowan University campus , Glassboro .
 7,8 location|3,5 organization|3,8 r_contains
 
 Montclair State University , Normal Avenue and Valley Road , Montclair .
-0,1 location|0,3 organization|0,1 r_contains|1,1 r_contains|2,1 r_contains
-0,1 location|0,3 organization|0,1 r_contains
+0,1 location|0,3 organization|0,1 contains|0,2 contains|0,3 contains
+0,1 location|0,3 organization|0,3 contains
 
 By 1984 , Mr. Lamont had moved to Connecticut , married , and started Lamont Digital Systems in Greenwich , which supplies cable and sometimes data services to 135 college campuses , usually for a monthly fee .
 8,9 location|18,19 location|8,19 contains
@@ -10887,8 +10887,8 @@ Born in Budapest , Zeisel was already an established designer when she moved to 
 36,38 person|2,3 location|2,38 r_place-of-birth
 
 The rediscovery of the molds a few years ago led to an exhibition at Alfred University in Alfred , N.Y. -- and the starting point for revisiting the relationship between modernist design and the marketplace .
-14,15 location|14,16 organization|14,15 r_contains|15,15 r_contains
-14,15 location|14,16 organization|14,15 r_contains
+14,15 location|14,16 organization|14,15 contains|14,16 contains
+14,15 location|14,16 organization|14,16 contains
 
 Mr. Hockney talks tenderly about his genial father , who took him to see acrobats at the Alhambra theater in Bradford , England , and the cameras follow him back there .
 22,23 location|20,21 location|20,23 r_contains
@@ -11071,12 +11071,12 @@ The sledders were on a five-day trek in early February among three rustic Maine 
 13,14 location|33,35 location|13,35 contains
 
 For those who live around the nexus where I-71 and I-75 meet the Ohio River , otherwise known as Cincinnati , Ohio , the name Stillpass is a familiar one .
-13,14 location|13,15 location|19,20 location|13,14 r_contains|14,14 r_contains|13,20 contains
-13,14 location|13,15 location|19,20 location|13,14 r_contains|13,20 contains
+13,14 location|13,15 location|19,20 location|13,14 contains|13,15 contains|13,20 contains
+13,14 location|13,15 location|19,20 location|13,15 contains|13,20 contains
 
 Janet Freeman Iowa City , Iowa I was shocked to read , " And then the pie went into a 28-year hibernation " !
-2,3 location|2,4 location|2,3 r_contains|3,3 r_contains
-2,3 location|2,4 location|2,3 r_contains
+2,3 location|2,4 location|2,3 contains|2,4 contains
+2,3 location|2,4 location|2,4 contains
 
 In a sweet and seemingly innocent voice , Ms. Baran describes growing up in a small , upstate New York town , moving to New York City to go to art school at 18 , breaking up with her boyfriend , making a cross-country trip with her best friend and recently finding an apartment of her own at 30 .
 18,20 location|24,27 location|18,25 contains|18,26 contains|18,27 contains|19,25 contains|19,26 contains|19,27 contains
@@ -11291,8 +11291,8 @@ The funeral service was held November 29th , at the Weinstein Funeral Home , Wil
 16,17 location|14,15 location|14,17 r_contains
 
 In lieu of flowers send donations to New York City Rescue Mission , 90 Lafayette St. , New York , NY , 10013 .
-7,9 location|7,10 location|7,8 r_contains|7,9 r_contains|8,8 r_contains|8,9 r_contains|9,8 r_contains|9,9 r_contains
-7,9 location|7,10 location|7,9 r_contains
+7,9 location|7,10 location|7,8 contains|7,9 contains|7,10 contains|7,9 contains|8,9 contains|8,10 contains
+7,9 location|7,10 location|7,10 contains
 
 Outrage Over ` Da Vinci ' Ad Italy 's Interior Ministry , responding to complaints from clergymen , said yesterday that it would remove a poster advertising the film " The Da Vinci Code " from a Rome church undergoing renovation .
 7,8 location|37,38 location|7,38 contains|7,38 capital
@@ -12415,8 +12415,8 @@ Nokia , the world 's largest mobile phone company , put an end to succession que
 36,38 person|0,1 organization|27,29 person|0,38 r_company|0,29 r_company
 
 Elvis Meets the Beatles On the Las Vegas Strip A month after Cirque du Soleil opened " Love , " its elaborate Beatles tribute at the Mirage Hotel in Las Vegas , the company has announced a second Las Vegas show based on another rock star : Elvis Presley , left .
-6,8 organization|6,9 location|6,7 r_contains|6,8 r_contains|7,7 r_contains|7,8 r_contains|8,7 r_contains|8,8 r_contains
-6,8 organization|6,9 location|6,8 r_contains
+6,8 organization|6,9 location|6,7 contains|6,8 contains|6,9 contains|6,8 contains|7,8 contains|7,9 contains
+6,8 organization|6,9 location|6,9 contains
 
 A Spanish Senate committee wants the Anthropology Museum in Madrid to return the remains of a member of the Canaries ' aboriginal Guanche people , who arrived in mainland Spain in the 1700 's , said Rafael Gonzalez , the head of archaeology for the Museum of Nature and Man on Tenerife , the largest of the islands .
 29,30 location|9,10 location|9,30 r_contains|9,30 r_capital
@@ -12899,8 +12899,8 @@ He does not speak for all of Lebanon , nor even necessarily for a majority of th
 7,8 location|27,28 location|7,28 capital|7,28 contains
 
 The others are Mark Green , the former New York City public advocate ; Assemblyman Richard L. Brodsky ; Charlie King , a two-time candidate for lieutenant governor who heads a group that helps the homeless ; Denise O'Donnell , a former United States attorney for western New York ; and Sean P. Maloney , a former aide to Bill Clinton .
-8,10 location|8,11 location|8,9 r_contains|8,10 r_contains|9,9 r_contains|9,10 r_contains|10,9 r_contains|10,10 r_contains
-8,10 location|8,11 location|8,10 r_contains
+8,10 location|8,11 location|8,9 contains|8,10 contains|8,11 contains|8,10 contains|9,10 contains|9,11 contains
+8,10 location|8,11 location|8,11 contains
 
 I think that was partly something he created for himself , but the press in England loved to pick up on it , " said Robert Fox , a producer of " Pillowman , " who met Mr. McDonagh about the time of " Beauty Queen . "
 25,27 person|15,16 location|15,26 r_place-of-birth|15,27 r_place-of-birth
@@ -13019,8 +13019,8 @@ Somalia may be the place that best illustrates a trend sweeping across the Afric
 39,40 location|0,1 location|0,40 r_contains
 
 She graduated cum laude from Claremont McKenna College in Claremont , Calif. , and received an M.B.A. from Columbia .
-5,6 location|5,8 organization|5,6 r_contains|6,6 r_contains|7,6 r_contains
-5,6 location|5,8 organization|5,6 r_contains
+5,6 location|5,8 organization|5,6 contains|5,7 contains|5,8 contains
+5,6 location|5,8 organization|5,8 contains
 
 But Lt. Gov. Mary Fallin of New Mexico , in a visit to the incident command center in Shawnee that is serving as firefighting headquarters , said Oklahoma was still waiting for the White House response to the state 's request for a federal declaration of emergency to cover some of the state 's expenses . "
 3,5 person|27,28 location|18,19 location|3,28 place-lived|4,28 place-lived|18,28 r_contains
@@ -13127,8 +13127,8 @@ School-based marketing has been banned in Belgium , France , Luxembourg , Portug
 10,11 location|6,7 location|6,11 r_country|6,11 administrative-divisions
 
 To the Editor : Jill Lepore is right to let readers know that New York City not only tolerated slavery until 1827 , but also burned some blacks at the stake and hanged others for various acts of rebellion ( " New York 's Buried History , " Op-Ed , Oct. 9 ) .
-13,15 location|13,16 location|13,14 r_contains|13,15 r_contains|14,14 r_contains|14,15 r_contains|15,14 r_contains|15,15 r_contains
-13,15 location|13,16 location|13,15 r_contains
+13,15 location|13,16 location|13,14 contains|13,15 contains|13,16 contains|13,15 contains|14,15 contains|14,16 contains
+13,15 location|13,16 location|13,16 contains
 
 The cameras did not capture Mr. Bush anywhere near a dictator or former dictator , like Gen. Wojciech Jaruzelski of Poland , who tried and failed to repress the Solidarity movement .
 17,19 person|20,21 location|17,21 nationality|18,21 nationality
@@ -13235,8 +13235,8 @@ Tenant : Horizon Asset Management Tenant Broker : Bruce Beegel , CB Richard Elli
 37,39 location|40,41 location|37,41 neighborhood-of|37,41 r_contains
 
 But she and her husband , a freelance photographer , moved to Panama City , Panama , last year , selling their home in Connecticut .
-12,13 location|12,14 location|12,13 r_capital|13,13 r_capital|12,13 r_contains|13,13 r_contains
-12,13 location|12,14 location|12,13 r_capital|12,13 r_contains
+12,13 location|12,14 location|12,13 capital|12,14 capital|12,13 contains|12,14 contains
+12,13 location|12,14 location|12,14 capital|12,14 contains
 
 Ed Martin , a flight attendant for American who is based in Dallas , said of commuting from his home in Vancouver , British Columbia : " I 'm not competing with anyone . "
 23,25 location|21,22 location|21,24 r_contains|21,25 r_contains
@@ -13995,8 +13995,8 @@ Overnight fighting between American forces and members of the Mahdi Army militia
 18,19 location|14,16 location|14,19 r_contains
 
 But our cities have grown more self-conscious about their relationship to the past , and the field of urban studies has matured considerably ; witness the appearance of such monumental efforts as Kenneth Jackson 's " Encyclopedia of New York City , " Edwin Burroughs and Mike Wallace 's " Gotham " and Ric Burns 's television series " New York . "
-38,40 location|38,41 location|38,39 r_contains|38,40 r_contains|39,39 r_contains|39,40 r_contains|40,39 r_contains|40,40 r_contains
-38,40 location|38,41 location|38,40 r_contains
+38,40 location|38,41 location|38,39 contains|38,40 contains|38,41 contains|38,40 contains|39,40 contains|39,41 contains
+38,40 location|38,41 location|38,41 contains
 
 While other fund managers are spreading money around the New York gubernatorial race , their donations tend to center on either the front-runner , Eliot Spitzer ; his potential Democratic challenger , Thomas R. Suozzi ; or the Republican William H. Weld .
 24,26 person|9,11 location|9,25 r_company|9,26 r_company|10,25 r_company|10,26 r_company
@@ -14223,8 +14223,8 @@ While Mr. Spencer has focused mostly on direct-mail solicitations to fellow cons
 42,43 location|21,24 location|21,43 r_contains|21,43 neighborhood-of
 
 Jessica Anna Monroe , the daughter of Deborah L. Monroe of Rye , N.Y. , and Douglas K. Monroe of Houston , was married yesterday to William John Vaughan , the son of Diane Vaughan and Robert C. Vaughan of Little Silver , N.J . The Rev. Kenneth Sawyer , a Unitarian Universalist minister , performed the ceremony at the Mead Memorial Chapel at Middlebury College in Middlebury , Vt. .
-64,65 location|64,66 organization|64,65 r_contains|65,65 r_contains
-64,65 location|64,66 organization|64,65 r_contains
+64,65 location|64,66 organization|64,65 contains|64,66 contains
+64,65 location|64,66 organization|64,66 contains
 
 The 527 groups drew intense scrutiny after Swift Boat Veterans for Truth ran its campaign attacking the war record of the Democratic presidential nominee , Senator John Kerry of Massachusetts .
 26,28 person|29,30 location|26,30 place-lived|27,30 place-lived
@@ -14423,8 +14423,8 @@ Sunday at 2 p.m. , " Crimes of Old New York " provides the location of the first
 46,48 location|20,23 location|20,48 r_neighborhood-of|20,48 contains
 
 METRO TOUR SERVICE Visits Brooklyn Heights , Fort Greene and Clinton Hill , Brooklyn , today through Sunday at 2 p.m. , meeting in front of the Marriott , Adams and Tillary Streets , downtown Brooklyn .
-4,5 location|7,9 person|10,12 person|4,6 location|4,8 contains|4,9 contains|4,11 r_neighborhood-of|4,12 r_neighborhood-of|4,5 r_contains|5,5 r_contains|4,8 r_neighborhood-of|4,9 r_neighborhood-of|4,11 contains|4,12 contains|4,5 r_neighborhood-of|4,6 r_neighborhood-of|4,5 r_contains|5,5 r_contains|4,11 r_neighborhood-of|4,12 r_neighborhood-of|4,8 contains|4,9 contains|4,8 r_neighborhood-of|4,9 r_neighborhood-of|4,5 r_neighborhood-of|4,6 r_neighborhood-of|4,11 contains|4,12 contains
-4,5 location|7,9 person|10,12 person|4,6 location|4,9 contains|4,12 r_neighborhood-of|4,5 r_contains|4,9 r_neighborhood-of|4,12 contains|4,6 r_neighborhood-of|4,5 r_contains|4,12 r_neighborhood-of|4,9 contains|4,9 r_neighborhood-of|4,6 r_neighborhood-of|4,12 contains
+4,5 location|7,9 person|10,12 person|4,6 location|4,8 contains|4,9 contains|4,11 r_neighborhood-of|4,12 r_neighborhood-of|4,5 contains|4,6 contains|4,8 r_neighborhood-of|4,9 r_neighborhood-of|4,11 contains|4,12 contains|4,5 r_neighborhood-of|4,6 r_neighborhood-of|4,5 contains|4,6 contains|4,11 r_neighborhood-of|4,12 r_neighborhood-of|4,8 contains|4,9 contains|4,8 r_neighborhood-of|4,9 r_neighborhood-of|4,5 r_neighborhood-of|4,6 r_neighborhood-of|4,11 contains|4,12 contains
+4,5 location|7,9 person|10,12 person|4,6 location|4,9 contains|4,12 r_neighborhood-of|4,6 contains|4,9 r_neighborhood-of|4,12 contains|4,6 r_neighborhood-of|4,6 contains|4,12 r_neighborhood-of|4,9 contains|4,9 r_neighborhood-of|4,6 r_neighborhood-of|4,12 contains
 
 ` ARMSTONG AND AFRICA , ' Louis Armstrong House , 34-56 107th Street , Corona , Queens .
 16,17 location|6,9 organization|6,17 r_contains|7,17 r_contains|8,17 r_contains
@@ -14467,8 +14467,8 @@ Ayaan Hirsi Ali is among the most famous and successful immigrants in the Nether
 0,3 person|13,14 location|0,14 nationality
 
 This is going to be brutal for New York City , because these grants are the seed corn for urban development and job growth , " said Senator Charles E. Schumer , Democrat of New York . "
-7,9 location|7,10 location|7,8 r_contains|7,9 r_contains|8,8 r_contains|8,9 r_contains|9,8 r_contains|9,9 r_contains
-7,9 location|7,10 location|7,9 r_contains
+7,9 location|7,10 location|7,8 contains|7,9 contains|7,10 contains|7,9 contains|8,9 contains|8,10 contains
+7,9 location|7,10 location|7,10 contains
 
 Sayed Asadullah Hashimi , an assistant professor at Kabul University 's School of Islamic Law , said , " Outside Kabul , two-thirds of the people think that the Americans came only to invade and occupy Afghanistan , and that is why day by day the tension is growing .
 36,37 location|8,9 location|8,37 r_capital|8,37 r_contains
@@ -14595,8 +14595,8 @@ They need to step their game up and put their ear to the streets , " said the be
 23,25 location|49,52 organization|23,52 teams|23,52 r_location
 
 Known as Dotty , on October 11 , 2005 , of New York City , Scarsdale and Brant Lake , New York .
-11,13 location|11,14 location|15,16 location|17,19 location|11,12 r_contains|11,13 r_contains|12,12 r_contains|12,13 r_contains|13,12 r_contains|13,13 r_contains|11,16 contains|12,16 contains|11,18 contains|11,19 contains|12,18 contains|12,19 contains
-11,13 location|11,14 location|15,16 location|17,19 location|11,13 r_contains|11,16 contains|11,19 contains
+11,13 location|11,14 location|15,16 location|17,19 location|11,12 contains|11,13 contains|11,14 contains|11,13 contains|12,13 contains|12,14 contains|11,16 contains|12,16 contains|11,18 contains|11,19 contains|12,18 contains|12,19 contains
+11,13 location|11,14 location|15,16 location|17,19 location|11,14 contains|11,16 contains|11,19 contains
 
 In October 2003 , I gave an evening talk at the Fermi National Accelerator Laboratory in Batavia , Illinois .
 18,19 location|16,17 location|16,19 r_contains
@@ -15591,7 +15591,7 @@ INterpret , " tomorrow from 2 to 6 p.m. at the Noguchi Museum , 9-01 33rd Road ,
 26,27 location|22,25 location|22,27 r_contains|22,27 neighborhood-of
 
 To the south , New London County , once home to whaling ships , has small industrial cities like Norwich , New London and Groton .
-4,7 location|24,25 location|4,6 location|4,25 contains|5,25 contains|6,25 contains|4,5 r_contains|4,6 r_contains|4,7 r_contains|5,5 r_contains|5,6 r_contains|5,7 r_contains
+4,7 location|24,25 location|4,6 location|4,25 contains|5,25 contains|6,25 contains|4,5 r_contains|4,6 r_contains|4,7 r_contains|4,6 r_contains|5,6 r_contains|5,7 r_contains
 4,7 location|24,25 location|4,6 location|4,25 contains|4,7 r_contains
 
 Thousands of mourners packed Riverside Church in Morningside Heights , Manhattan , to pay respects to Mr. Davis , who died on Feb. 4 at the age of 87 .
@@ -15667,8 +15667,8 @@ In a series of news media interviews , Prime Minister Ehud Olmert of Israel defe
 10,12 person|13,14 location|10,14 nationality
 
 The charter defines the Jordan River as the eastern border of Israel and does not call for an Israel on both banks of the Jordan , though some early participants and leaders in the party took that position .
-11,12 location|4,6 location|4,5 location|4,12 r_contains|5,12 r_contains|4,12 r_contains|5,12 r_contains|4,5 r_contains|5,5 r_contains
-11,12 location|4,6 location|4,5 location|4,12 r_contains|4,12 r_contains|4,5 r_contains
+11,12 location|4,6 location|4,5 location|4,12 r_contains|5,12 r_contains|4,12 r_contains|5,12 r_contains|4,5 contains|4,6 contains
+11,12 location|4,6 location|4,5 location|4,12 r_contains|4,12 r_contains|4,6 contains
 
 The latest push began in 1993 , when the International Task Force for Disease Eradication , a panel of experts , was convened in Atlanta by the Centers for Disease Control and Prevention , Emory University and the Carter Center .
 24,25 location|34,36 organization|24,35 contains|24,36 contains
@@ -18323,8 +18323,8 @@ A. I 've got to believe that having Minoru Makihara , the former chairman of Mit
 27,28 location|25,26 location|25,28 r_contains
 
 Hundreds of thousands of people were gathered in Mexico City 's central square throughout the day to protest the action , a rare proceeding known in Mexico as a " desafuero , " in which Mayor Andres Manuel Lopez Obrador was stripped of his official immunity so he could stand trial in a minor land dispute .
-8,10 location|8,9 location|8,9 r_country|8,10 r_country|8,9 r_contains|9,9 r_contains|8,9 r_administrative-divisions|9,9 r_administrative-divisions|8,9 r_capital|9,9 r_capital
-8,10 location|8,9 location|8,10 r_country|8,9 r_contains|8,9 r_administrative-divisions|8,9 r_capital
+8,10 location|8,9 location|8,9 r_country|8,10 r_country|8,9 contains|8,10 contains|8,9 administrative-divisions|8,10 administrative-divisions|8,9 capital|8,10 capital
+8,10 location|8,9 location|8,10 r_country|8,10 contains|8,10 administrative-divisions|8,10 capital
 
 In Pennsylvania , a barn that General Custer used to shelter his troops during the Battle of Gettysburg was torn down in June to make way for a 2,000-home development called Gettysburg Commons .
 1,2 location|17,18 location|1,18 contains
@@ -18471,8 +18471,8 @@ Wolfgang Puck 's catering company prepares food at the Natural History Museum in
 11,12 location|33,34 location|11,34 capital|11,34 contains
 
 President Bush , in remarks in Panama City after meeting with President Martin Torrijos of Panama , sought to deflect recent reports of detainee mistreatment and secret interrogation sites around the world . "
-6,7 location|6,8 location|6,7 r_capital|7,7 r_capital|6,7 r_contains|7,7 r_contains
-6,7 location|6,8 location|6,7 r_capital|6,7 r_contains
+6,7 location|6,8 location|6,7 capital|6,8 capital|6,7 contains|6,8 contains
+6,7 location|6,8 location|6,8 capital|6,8 contains
 
 Such changes have been under consideration since the abuses at Abu Ghraib prison were disclosed in April 2004 , and reflect continuing problems with abuses by troops in Afghanistan and Iraq since then .
 30,31 location|10,12 location|10,31 r_contains|11,31 r_contains
@@ -18755,12 +18755,12 @@ The fact that Microsoft 's chief executive , Steven A. Ballmer , and its chairma
 20,22 person|3,4 organization|3,22 r_company|3,22 founders
 
 OMAHA AK-SAR-BEN KNIGHTS -- Announced D Brad Ference and RW Carsen Germyn were reassigned from the Calgary Flames and D Richie Regehr and RW Dave Moss reassigned to Calgary .
-16,18 organization|16,17 location|6,8 person|16,17 r_location|16,18 r_location|6,17 place-of-birth|7,17 place-of-birth|16,17 r_teams|17,17 r_teams
-16,18 organization|16,17 location|6,8 person|16,18 r_location|6,17 place-of-birth|16,17 r_teams
+16,18 organization|16,17 location|6,8 person|16,17 r_location|16,18 r_location|6,17 place-of-birth|7,17 place-of-birth|16,17 teams|16,18 teams
+16,18 organization|16,17 location|6,8 person|16,18 r_location|6,17 place-of-birth|16,18 teams
 
 HAMILTON BULLDOGS -- Announced D Mathieu Roy was reassigned from the Edmonton Oilers and D Jan Hejda reassigned to Edmonton .
-11,12 location|11,13 organization|11,12 r_teams|12,12 r_teams|11,12 r_location|11,13 r_location
-11,12 location|11,13 organization|11,12 r_teams|11,13 r_location
+11,12 location|11,13 organization|11,12 teams|11,13 teams|11,12 r_location|11,13 r_location
+11,12 location|11,13 organization|11,13 teams|11,13 r_location
 
 The first hint that it would be a styling standout came at the Tokyo motor show two years ago , when Nissan unveiled a design study hinting at the future Fuga , which is what the car is called in Japan .
 13,14 location|40,41 location|13,41 country|13,41 r_capital|13,41 r_contains|13,41 r_administrative-divisions
@@ -19311,8 +19311,8 @@ The last thing anybody in this group wants is to even have to decide whether to 
 39,41 person|44,45 location|39,45 place-lived
 
 So " The Gates , Central Park , New York City , 1979-2005 , " by the husband and wife team of Christo and Jeanne-Claude , has prompted one of the largest efforts by the New York Police Department to protect a single installation of art -- proportional to the attention-grabbing nature of the exhibit , which is expected to draw at least 200,000 tourists to New York when it opens tomorrow for a 16-day run .
-8,10 location|8,11 location|8,9 r_contains|8,10 r_contains|9,9 r_contains|9,10 r_contains|10,9 r_contains|10,10 r_contains
-8,10 location|8,11 location|8,10 r_contains
+8,10 location|8,11 location|8,9 contains|8,10 contains|8,11 contains|8,10 contains|9,10 contains|9,11 contains
+8,10 location|8,11 location|8,11 contains
 
 While heading up the Wal-Mart account for Edelman , Mr. Dach has become a close adviser to Wal-Mart 's chief executive , H. Lee Scott Jr. , often tweaking his speeches and accompanying him to major company events .
 22,26 person|4,5 organization|4,23 r_company|4,24 r_company|4,25 r_company|4,26 r_company|4,23 r_company|4,24 r_company|4,25 r_company|4,26 r_company
@@ -19459,8 +19459,8 @@ In December , the City Council censured Mr. Gonzales for spearheading a rate inc
 50,52 location|38,40 location|38,52 r_contains
 
 In 1939 , Fortune magazine called it " probably New York City 's most beautiful residential block , " and Paul Goldberger , in his 1979 book , " New York : The City Observed " ( Random House ) , described it as having " a perfect balance between individuality and an overall order . "
-9,11 location|9,12 location|9,10 r_contains|9,11 r_contains|10,10 r_contains|10,11 r_contains|11,10 r_contains|11,11 r_contains
-9,11 location|9,12 location|9,11 r_contains
+9,11 location|9,12 location|9,10 contains|9,11 contains|9,12 contains|9,11 contains|10,11 contains|10,12 contains
+9,11 location|9,12 location|9,12 contains
 
 Ilyssa Goldfarb , a daughter of Ellen and Morton Goldfarb of Whitestone , Queens , was married last evening to Stephen Karasik , the son of Irene and Robert Karasik of Manhattan .
 13,14 location|11,12 person|11,14 r_contains|11,14 neighborhood-of

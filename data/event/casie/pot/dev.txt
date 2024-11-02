@@ -5975,8 +5975,8 @@ The CTU researchers refer to the group behind the attack as " Nickel Academy , "
 
 
 The group has been tied to numerous attacks , including the attempted theft of nearly $ 1 billion from the central bank of Bangladesh 's New York Federal Reserve account , leading to $ 81 million being stolen ; the WannaCry ransomware outbreak in May ; as well as the use of cryptocurrency mining malware named Adylkuzz to attack the same flaw in Windows server block messaging that WannaCry also targeted ( see Cybercriminals Go Cryptocurrency Crazy : 9 Factors ) .
-44,45 time|33,36 money|40,41 malware|63,64 system|39,43 ransom|39,45 time|40,45 time|41,45 time|42,45 time|33,40 r_price|33,41 r_price|33,42 r_price|33,43 r_price|34,40 r_price|34,41 r_price|34,42 r_price|34,43 r_price|35,40 r_price|35,41 r_price|35,42 r_price|35,43 r_price|39,41 tool|40,41 tool|41,41 tool|42,41 tool|39,64 victim|40,64 victim|41,64 victim|42,64 victim
-44,45 time|33,36 money|40,41 malware|63,64 system|39,43 ransom|39,45 time|33,43 r_price|39,41 tool|39,64 victim
+44,45 time|33,36 money|40,41 malware|63,64 system|39,43 ransom|39,45 time|40,45 time|41,45 time|42,45 time|33,40 r_price|33,41 r_price|33,42 r_price|33,43 r_price|34,40 r_price|34,41 r_price|34,42 r_price|34,43 r_price|35,40 r_price|35,41 r_price|35,42 r_price|35,43 r_price|39,41 tool|40,41 tool|40,42 tool|40,43 tool|39,64 victim|40,64 victim|41,64 victim|42,64 victim
+44,45 time|33,36 money|40,41 malware|63,64 system|39,43 ransom|39,45 time|33,43 r_price|39,43 tool|39,64 victim
 
 Security researchers say Lazarus has also been running a series of job lure phishing attacks since at least 2016 , with the latest round being delivered around Oct. 25 of this year .
 3,4 organization|15,19 time|12,15 phishing|3,13 r_attacker|3,14 r_attacker|3,15 r_attacker|12,16 time|12,17 time|12,18 time|12,19 time|13,16 time|13,17 time|13,18 time|13,19 time|14,16 time|14,17 time|14,18 time|14,19 time

@@ -1535,8 +1535,8 @@ In 1830 , poet Emily Dickinson was born in Amherst , Mass .
 4,6 people|9,12 location|4,12 live-in
 
 The twin-engine plane took off from Dayton International Airport and crashed at 4 : 45 a.m. in a heavily wooded area about a half-mile away , said James Francis , acting aviation director for Dayton .
-6,9 location|12,16 other|27,29 people|6,7 location|6,7 r_located-in|6,8 r_located-in|6,9 r_located-in|6,7 r_located-in|7,7 r_located-in|8,7 r_located-in
-6,9 location|12,16 other|27,29 people|6,7 location|6,9 r_located-in|6,7 r_located-in
+6,9 location|12,16 other|27,29 people|6,7 location|6,7 r_located-in|6,8 r_located-in|6,9 r_located-in|6,7 located-in|6,8 located-in|6,9 located-in
+6,9 location|12,16 other|27,29 people|6,7 location|6,9 r_located-in|6,9 located-in
 
 ` ` We were there six days unsupported , ' ' said society co-leader Richard Taylor , an Atlanta architect.
 14,16 people|18,19 location|14,19 live-in|15,19 live-in

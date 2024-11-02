@@ -9,7 +9,7 @@
         "PER"
     ],
     "event": [
-        
+
     ],
     "relation": [
         "r_ORG-AFF",
@@ -26,7 +26,7 @@
         "ORG-AFF"
     ],
     "role": [
-        
+
     ],
     "role_entity": {
         "Attacker": [

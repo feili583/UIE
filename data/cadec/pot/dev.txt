@@ -47,8 +47,8 @@ I have tried all the statin drugs , you know the very expensive drug of choice f
 
 
 For all of you who now have extremely low LDL and a bad case of joint pain to the extent that it is very arthritic or having bad muscle cramps that you never got prior to the drug , it is from the statins .
-15,17 NA|23,25 NA|28,30 NA|15,24 adverse drug reaction|15,25 adverse drug reaction|16,24 adverse drug reaction|16,25 adverse drug reaction
-15,17 NA|23,25 NA|28,30 NA|15,25 adverse drug reaction
+15,17 NA|23,25 NA|28,30 NA|15,24 adverse-drug-reaction|15,25 adverse-drug-reaction|16,24 adverse-drug-reaction|16,25 adverse-drug-reaction
+15,17 NA|23,25 NA|28,30 NA|15,25 adverse-drug-reaction
 
 The drug is able to decrease LDL through a mechanism which also destroys and depletes your bodies ability to make CoQ 10 .
 
@@ -75,8 +75,8 @@ And just because your test come back and show your liver functions are fine and 
 42,45 NA
 
 Mine always showed fine and I had severe arthritis symptoms in knees and hip joints ( never had this in my life before statins ) and bad muscle cramps ( also never got those until statins ) .
-7,12 NA|7,11 NA|13,15 NA|27,29 NA|7,14 adverse drug reaction|7,15 adverse drug reaction|8,14 adverse drug reaction|8,15 adverse drug reaction|9,14 adverse drug reaction|9,15 adverse drug reaction|10,14 adverse drug reaction|10,15 adverse drug reaction
-7,12 NA|7,11 NA|13,15 NA|27,29 NA|7,15 adverse drug reaction
+7,12 NA|7,11 NA|13,15 NA|27,29 NA|7,14 adverse-drug-reaction|7,15 adverse-drug-reaction|8,14 adverse-drug-reaction|8,15 adverse-drug-reaction|9,14 adverse-drug-reaction|9,15 adverse-drug-reaction|10,14 adverse-drug-reaction|10,15 adverse-drug-reaction
+7,12 NA|7,11 NA|13,15 NA|27,29 NA|7,15 adverse-drug-reaction
 
 Granted is you have high blood pressure , high LDL , over weight and maybe smoke , then you probably need something to lower the LDL , if you only have high LDL , you don ' t .
 
@@ -171,8 +171,8 @@ Unable to straighten it and doctors unable to find a reason for it .
 
 
 Walked like that for about six months with increasing pain , especially in right thigh which felt .
-9,10 NA|12,15 NA|9,13 adverse drug reaction|9,14 adverse drug reaction|9,15 adverse drug reaction
-9,10 NA|12,15 NA|9,15 adverse drug reaction
+9,10 NA|12,15 NA|9,13 adverse-drug-reaction|9,14 adverse-drug-reaction|9,15 adverse-drug-reaction
+9,10 NA|12,15 NA|9,15 adverse-drug-reaction
 
 I ' m so disillusioned with the drug companies and the FDA that I won ' t take anything my doctor recommends again .
 
@@ -203,8 +203,8 @@ Side effects were minimal , affected areas dryed up and fell off .
 
 
 muscle wasting in the shoulders and arms , nerve problems in shoulder , fatigue and very sensative to the cold .
-0,5 NA|0,4 NA|6,7 NA|8,12 NA|13,14 NA|15,20 NA|0,7 adverse drug reaction|1,7 adverse drug reaction|2,7 adverse drug reaction|3,7 adverse drug reaction
-0,5 NA|0,4 NA|6,7 NA|8,12 NA|13,14 NA|15,20 NA|0,7 adverse drug reaction
+0,5 NA|0,4 NA|6,7 NA|8,12 NA|13,14 NA|15,20 NA|0,7 adverse-drug-reaction|1,7 adverse-drug-reaction|2,7 adverse-drug-reaction|3,7 adverse-drug-reaction
+0,5 NA|0,4 NA|6,7 NA|8,12 NA|13,14 NA|15,20 NA|0,7 adverse-drug-reaction
 
 started on 10 mg raised to 20 .
 
@@ -355,8 +355,8 @@ Lipitor works fine for lowering cholesterol , but the side effects are killers ,
 
 
 I have been experiencing extreme leg weakness and pain , to the point where I cannot take steps without holding on or going up on my knees - - which is agony .
-4,6 NA|8,9 NA|4,7 NA|4,9 adverse drug reaction|5,9 adverse drug reaction
-4,6 NA|8,9 NA|4,7 NA|4,9 adverse drug reaction
+4,6 NA|8,9 NA|4,7 NA|4,9 adverse-drug-reaction|5,9 adverse-drug-reaction
+4,6 NA|8,9 NA|4,7 NA|4,9 adverse-drug-reaction
 
 After reading the comments on this page , I am shocked that so many people have experienced the same symptoms ( weakness , etc ) after taking Lipitor .
 21,22 NA
@@ -427,8 +427,8 @@ On the first night my heart was thumping pretty hard all night and weird chest p
 5,8 NA|14,16 NA
 
 On second night same thing plus pain in my kidney area as well as stomach .
-6,11 NA|6,8 NA|14,15 NA|6,15 adverse drug reaction|7,15 adverse drug reaction
-6,11 NA|6,8 NA|14,15 NA|6,15 adverse drug reaction
+6,11 NA|6,8 NA|14,15 NA|6,15 adverse-drug-reaction|7,15 adverse-drug-reaction
+6,11 NA|6,8 NA|14,15 NA|6,15 adverse-drug-reaction
 
 The third night was all of the night before plus nausea and skin irritation .
 10,11 NA|12,14 NA
@@ -611,8 +611,8 @@ DON ' T TAKE THIS ! ! ! ! ! ! ! .
 
 
 Pain in joints and muscles , including knees , ankles feet wrist shoulders and elbows .
-0,2 NA|4,5 NA|0,2 NA|9,10 NA|0,2 NA|12,13 NA|0,2 NA|7,8 NA|0,3 NA|0,2 NA|10,11 NA|0,2 NA|14,15 NA|0,2 NA|11,12 NA|0,5 adverse drug reaction|1,5 adverse drug reaction|0,10 adverse drug reaction|1,10 adverse drug reaction|0,13 adverse drug reaction|1,13 adverse drug reaction|0,8 adverse drug reaction|1,8 adverse drug reaction|0,11 adverse drug reaction|1,11 adverse drug reaction|0,15 adverse drug reaction|1,15 adverse drug reaction|0,12 adverse drug reaction|1,12 adverse drug reaction
-0,2 NA|4,5 NA|0,2 NA|9,10 NA|0,2 NA|12,13 NA|0,2 NA|7,8 NA|0,3 NA|0,2 NA|10,11 NA|0,2 NA|14,15 NA|0,2 NA|11,12 NA|0,5 adverse drug reaction|0,10 adverse drug reaction|0,13 adverse drug reaction|0,8 adverse drug reaction|0,11 adverse drug reaction|0,15 adverse drug reaction|0,12 adverse drug reaction
+0,2 NA|4,5 NA|0,2 NA|9,10 NA|0,2 NA|12,13 NA|0,2 NA|7,8 NA|0,3 NA|0,2 NA|10,11 NA|0,2 NA|14,15 NA|0,2 NA|11,12 NA|0,5 adverse-drug-reaction|1,5 adverse-drug-reaction|0,10 adverse-drug-reaction|1,10 adverse-drug-reaction|0,13 adverse-drug-reaction|1,13 adverse-drug-reaction|0,8 adverse-drug-reaction|1,8 adverse-drug-reaction|0,11 adverse-drug-reaction|1,11 adverse-drug-reaction|0,15 adverse-drug-reaction|1,15 adverse-drug-reaction|0,12 adverse-drug-reaction|1,12 adverse-drug-reaction
+0,2 NA|4,5 NA|0,2 NA|9,10 NA|0,2 NA|12,13 NA|0,2 NA|7,8 NA|0,3 NA|0,2 NA|10,11 NA|0,2 NA|14,15 NA|0,2 NA|11,12 NA|0,5 adverse-drug-reaction|0,10 adverse-drug-reaction|0,13 adverse-drug-reaction|0,8 adverse-drug-reaction|0,11 adverse-drug-reaction|0,15 adverse-drug-reaction|0,12 adverse-drug-reaction
 
 Unable to even climb 1 flight of stairs .
 0,8 NA
@@ -659,8 +659,8 @@ Don ' t take it .
 
 
 I started experiencing severe leg cramping at night with the pain traveling to my buddocks and stomach as well .
-4,6 NA|10,14 NA|16,17 NA|10,15 NA|10,17 adverse drug reaction|11,17 adverse drug reaction|12,17 adverse drug reaction|13,17 adverse drug reaction
-4,6 NA|10,14 NA|16,17 NA|10,15 NA|10,17 adverse drug reaction
+4,6 NA|10,14 NA|16,17 NA|10,15 NA|10,17 adverse-drug-reaction|11,17 adverse-drug-reaction|12,17 adverse-drug-reaction|13,17 adverse-drug-reaction
+4,6 NA|10,14 NA|16,17 NA|10,15 NA|10,17 adverse-drug-reaction
 
 The pain was so bad I could not get out of the bed and had to crawl to get to the bathroom to take Advil .
 1,2 NA
@@ -711,12 +711,12 @@ I don ' t want to be a case - study when they finally take this drug off the mar
 
 
 I had an extreme reaction - tunnel vision , vertigo , tingling and numbness ( hands , legs , face ) , complete weakness in the right side of my body including loss of strength , and what I term as complete body flushes ( like a hot flash without the hot ) .
-6,8 NA|9,10 NA|11,12 NA|15,16 NA|11,12 NA|19,20 NA|11,12 NA|17,18 NA|13,14 NA|19,20 NA|13,14 NA|15,16 NA|13,14 NA|17,18 NA|22,31 NA|32,35 NA|41,53 NA|11,16 adverse drug reaction|11,20 adverse drug reaction|11,18 adverse drug reaction|13,20 adverse drug reaction|13,16 adverse drug reaction|13,18 adverse drug reaction
-6,8 NA|9,10 NA|11,12 NA|15,16 NA|11,12 NA|19,20 NA|11,12 NA|17,18 NA|13,14 NA|19,20 NA|13,14 NA|15,16 NA|13,14 NA|17,18 NA|22,31 NA|32,35 NA|41,53 NA|11,16 adverse drug reaction|11,20 adverse drug reaction|11,18 adverse drug reaction|13,20 adverse drug reaction|13,16 adverse drug reaction|13,18 adverse drug reaction
+6,8 NA|9,10 NA|11,12 NA|15,16 NA|11,12 NA|19,20 NA|11,12 NA|17,18 NA|13,14 NA|19,20 NA|13,14 NA|15,16 NA|13,14 NA|17,18 NA|22,31 NA|32,35 NA|41,53 NA|11,16 adverse-drug-reaction|11,20 adverse-drug-reaction|11,18 adverse-drug-reaction|13,20 adverse-drug-reaction|13,16 adverse-drug-reaction|13,18 adverse-drug-reaction
+6,8 NA|9,10 NA|11,12 NA|15,16 NA|11,12 NA|19,20 NA|11,12 NA|17,18 NA|13,14 NA|19,20 NA|13,14 NA|15,16 NA|13,14 NA|17,18 NA|22,31 NA|32,35 NA|41,53 NA|11,16 adverse-drug-reaction|11,20 adverse-drug-reaction|11,18 adverse-drug-reaction|13,20 adverse-drug-reaction|13,16 adverse-drug-reaction|13,18 adverse-drug-reaction
 
 I thought for sure that I was having a stroke .
-1,2 NA|4,10 NA|1,5 adverse drug reaction|1,6 adverse drug reaction|1,7 adverse drug reaction|1,8 adverse drug reaction|1,9 adverse drug reaction|1,10 adverse drug reaction
-1,2 NA|4,10 NA|1,10 adverse drug reaction
+1,2 NA|4,10 NA|1,5 adverse-drug-reaction|1,6 adverse-drug-reaction|1,7 adverse-drug-reaction|1,8 adverse-drug-reaction|1,9 adverse-drug-reaction|1,10 adverse-drug-reaction
+1,2 NA|4,10 NA|1,10 adverse-drug-reaction
 
 The hospital did a CT scan , MRI , MRA , Echocardiogram , Doppler of the Carotids , X - rays , and first termed it a TIA .
 
@@ -839,16 +839,16 @@ The only problem is I feel I have suffered memory loss and the ability to concen
 9,11 NA|13,16 NA
 
 Muscle Pain in left arm and upper back .
-0,3 NA|6,8 NA|0,5 NA|0,7 adverse drug reaction|0,8 adverse drug reaction|1,7 adverse drug reaction|1,8 adverse drug reaction|2,7 adverse drug reaction|2,8 adverse drug reaction
-0,3 NA|6,8 NA|0,5 NA|0,8 adverse drug reaction
+0,3 NA|6,8 NA|0,5 NA|0,7 adverse-drug-reaction|0,8 adverse-drug-reaction|1,7 adverse-drug-reaction|1,8 adverse-drug-reaction|2,7 adverse-drug-reaction|2,8 adverse-drug-reaction
+0,3 NA|6,8 NA|0,5 NA|0,8 adverse-drug-reaction
 
 Hair dryness , breakage and loss .
-0,1 NA|5,6 NA|0,1 NA|3,4 NA|0,6 adverse drug reaction|0,4 adverse drug reaction
-0,1 NA|5,6 NA|0,1 NA|3,4 NA|0,6 adverse drug reaction|0,4 adverse drug reaction
+0,1 NA|5,6 NA|0,1 NA|3,4 NA|0,6 adverse-drug-reaction|0,4 adverse-drug-reaction
+0,1 NA|5,6 NA|0,1 NA|3,4 NA|0,6 adverse-drug-reaction|0,4 adverse-drug-reaction
 
 I was able to stop the muscle pain in its tracks by taking CoQ 10 supplements but the hair dryness , breakage and loss is not good .
-6,8 NA|18,19 NA|23,24 NA|18,19 NA|21,22 NA|18,20 NA|18,24 adverse drug reaction|18,22 adverse drug reaction
-6,8 NA|18,19 NA|23,24 NA|18,19 NA|21,22 NA|18,20 NA|18,24 adverse drug reaction|18,22 adverse drug reaction
+6,8 NA|18,19 NA|23,24 NA|18,19 NA|21,22 NA|18,20 NA|18,24 adverse-drug-reaction|18,22 adverse-drug-reaction
+6,8 NA|18,19 NA|23,24 NA|18,19 NA|21,22 NA|18,20 NA|18,24 adverse-drug-reaction|18,22 adverse-drug-reaction
 
 Currently trying to find a supplement to counter hair loss .
 8,10 NA
@@ -1019,8 +1019,8 @@ false full feeling , very poor appetite .
 0,3 NA|4,7 NA
 
 increased menstruation , 2 - 3 periods a month instead of once a month , menstrual cramps present with or without vaginal bleeding .
-0,2 NA|3,14 NA|15,17 NA|20,23 NA|15,21 adverse drug reaction|15,22 adverse drug reaction|15,23 adverse drug reaction|16,21 adverse drug reaction|16,22 adverse drug reaction|16,23 adverse drug reaction
-0,2 NA|3,14 NA|15,17 NA|20,23 NA|15,23 adverse drug reaction
+0,2 NA|3,14 NA|15,17 NA|20,23 NA|15,21 adverse-drug-reaction|15,22 adverse-drug-reaction|15,23 adverse-drug-reaction|16,21 adverse-drug-reaction|16,22 adverse-drug-reaction|16,23 adverse-drug-reaction
+0,2 NA|3,14 NA|15,17 NA|20,23 NA|15,23 adverse-drug-reaction
 
 i would not recommend this medication for any female who has not already completed their menopausal phase .
 
@@ -1155,8 +1155,8 @@ Loss of energy .
 0,3 NA
 
 Difficulty thinking and speaking in a glib fashion .
-0,1 NA|3,4 NA|0,2 NA|0,4 adverse drug reaction
-0,1 NA|3,4 NA|0,2 NA|0,4 adverse drug reaction
+0,1 NA|3,4 NA|0,2 NA|0,4 adverse-drug-reaction
+0,1 NA|3,4 NA|0,2 NA|0,4 adverse-drug-reaction
 
 Disturbed sleep patterns .
 0,3 NA
@@ -1235,8 +1235,8 @@ I will try to control with diet and exercise , and omega 3 fish oil , will never
 
 
 inflamatory muscle pain and soreness in upper back , head pain and pressure and the feeling of being in a fog .
-0,3 NA|4,8 NA|9,10 NA|12,13 NA|9,11 NA|15,21 NA|9,13 adverse drug reaction
-0,3 NA|4,8 NA|9,10 NA|12,13 NA|9,11 NA|15,21 NA|9,13 adverse drug reaction
+0,3 NA|4,8 NA|9,10 NA|12,13 NA|9,11 NA|15,21 NA|9,13 adverse-drug-reaction
+0,3 NA|4,8 NA|9,10 NA|12,13 NA|9,11 NA|15,21 NA|9,13 adverse-drug-reaction
 
 EXTREMELY DANGEROUS DRUG !
 
@@ -1499,8 +1499,8 @@ It shouldread medication taken for 6 years rather than 6 day ' s .
 
 
 No side effect for first 4 weeks , cholesterol down to 150 from 210 , then unusual pain and weakness began in both legs , worse on left .
-17,18 NA|21,24 NA|19,20 NA|21,24 NA|17,22 adverse drug reaction|17,23 adverse drug reaction|17,24 adverse drug reaction|19,22 adverse drug reaction|19,23 adverse drug reaction|19,24 adverse drug reaction
-17,18 NA|21,24 NA|19,20 NA|21,24 NA|17,24 adverse drug reaction|19,24 adverse drug reaction
+17,18 NA|21,24 NA|19,20 NA|21,24 NA|17,22 adverse-drug-reaction|17,23 adverse-drug-reaction|17,24 adverse-drug-reaction|19,22 adverse-drug-reaction|19,23 adverse-drug-reaction|19,24 adverse-drug-reaction
+17,18 NA|21,24 NA|19,20 NA|21,24 NA|17,24 adverse-drug-reaction|19,24 adverse-drug-reaction
 
 Worse with exercise .
 
@@ -1535,12 +1535,12 @@ uncontrollable Diarrhea , kidney function .
 1,2 NA
 
 This product is the best medicine for arthritis pain I have ever taken , however after taking it for approx . 10 years it started affecting my kidneys , my stomach ( acid reflux ) and the diarrhea got worse , short term , I had no problems , this would be a great product if the manufacturer could get rid of the side effects .
-25,26 NA|29,35 NA|25,28 NA|37,38 NA|25,30 adverse drug reaction|25,31 adverse drug reaction|25,32 adverse drug reaction|25,33 adverse drug reaction|25,34 adverse drug reaction|25,35 adverse drug reaction
-25,26 NA|29,35 NA|25,28 NA|37,38 NA|25,35 adverse drug reaction
+25,26 NA|29,35 NA|25,28 NA|37,38 NA|25,30 adverse-drug-reaction|25,31 adverse-drug-reaction|25,32 adverse-drug-reaction|25,33 adverse-drug-reaction|25,34 adverse-drug-reaction|25,35 adverse-drug-reaction
+25,26 NA|29,35 NA|25,28 NA|37,38 NA|25,35 adverse-drug-reaction
 
 Severe shoulder and upper body pain including tendonitis .
-0,1 NA|3,6 NA|0,2 NA|5,6 NA|7,8 NA|0,4 adverse drug reaction|0,5 adverse drug reaction|0,6 adverse drug reaction|0,6 adverse drug reaction|1,6 adverse drug reaction
-0,1 NA|3,6 NA|0,2 NA|5,6 NA|7,8 NA|0,6 adverse drug reaction|0,6 adverse drug reaction
+0,1 NA|3,6 NA|0,2 NA|5,6 NA|7,8 NA|0,4 adverse-drug-reaction|0,5 adverse-drug-reaction|0,6 adverse-drug-reaction|0,6 adverse-drug-reaction|1,6 adverse-drug-reaction
+0,1 NA|3,6 NA|0,2 NA|5,6 NA|7,8 NA|0,6 adverse-drug-reaction|0,6 adverse-drug-reaction
 
 Was in PT for 7 months .
 
@@ -1707,8 +1707,8 @@ DEPRESSION ! !
 0,1 NA
 
 muscle twitching and pain , tired , loss of drive , irritable with my loved ones , insomnia , anxiety , loss of desire to do or accomplish anything which is the total opposite of my character and personality , huge drawback in quality of life .
-0,2 NA|0,1 NA|3,4 NA|5,6 NA|7,10 NA|11,12 NA|17,18 NA|19,20 NA|21,29 NA|0,4 adverse drug reaction
-0,2 NA|0,1 NA|3,4 NA|5,6 NA|7,10 NA|11,12 NA|17,18 NA|19,20 NA|21,29 NA|0,4 adverse drug reaction
+0,2 NA|0,1 NA|3,4 NA|5,6 NA|7,10 NA|11,12 NA|17,18 NA|19,20 NA|21,29 NA|0,4 adverse-drug-reaction
+0,2 NA|0,1 NA|3,4 NA|5,6 NA|7,10 NA|11,12 NA|17,18 NA|19,20 NA|21,29 NA|0,4 adverse-drug-reaction
 
 READ - - - - - > .
 
@@ -1791,12 +1791,12 @@ Please , be carefull .
 
 
 shrinking muscels , leg arms , neck vertgo from convusing neck muscels .
-0,2 NA|4,5 NA|0,2 NA|3,4 NA|0,2 NA|6,7 NA|7,8 NA|9,12 NA|0,5 adverse drug reaction|1,5 adverse drug reaction|0,4 adverse drug reaction|1,4 adverse drug reaction|0,7 adverse drug reaction|1,7 adverse drug reaction
-0,2 NA|4,5 NA|0,2 NA|3,4 NA|0,2 NA|6,7 NA|7,8 NA|9,12 NA|0,5 adverse drug reaction|0,4 adverse drug reaction|0,7 adverse drug reaction
+0,2 NA|4,5 NA|0,2 NA|3,4 NA|0,2 NA|6,7 NA|7,8 NA|9,12 NA|0,5 adverse-drug-reaction|1,5 adverse-drug-reaction|0,4 adverse-drug-reaction|1,4 adverse-drug-reaction|0,7 adverse-drug-reaction|1,7 adverse-drug-reaction
+0,2 NA|4,5 NA|0,2 NA|3,4 NA|0,2 NA|6,7 NA|7,8 NA|9,12 NA|0,5 adverse-drug-reaction|0,4 adverse-drug-reaction|0,7 adverse-drug-reaction
 
 unable to get out of bed , loss of strength , memory , halucinations been of it for 2 years , not quite cured kill .
-0,6 NA|7,10 NA|7,9 NA|11,12 NA|13,14 NA|7,12 adverse drug reaction|8,12 adverse drug reaction
-0,6 NA|7,10 NA|7,9 NA|11,12 NA|13,14 NA|7,12 adverse drug reaction
+0,6 NA|7,10 NA|7,9 NA|11,12 NA|13,14 NA|7,12 adverse-drug-reaction|8,12 adverse-drug-reaction
+0,6 NA|7,10 NA|7,9 NA|11,12 NA|13,14 NA|7,12 adverse-drug-reaction
 
 The only side effect that I experienced was the hungry feeling in my stomach ; however I have no complaints , just praise !
 9,11 NA
@@ -1871,8 +1871,8 @@ Get the word out ! .
 
 
 Severe headache , joint and muscle pain , anorexia , extreme gas , memory loss , mood swings .
-0,2 NA|3,4 NA|6,7 NA|5,7 NA|8,9 NA|10,12 NA|13,15 NA|16,18 NA|3,7 adverse drug reaction
-0,2 NA|3,4 NA|6,7 NA|5,7 NA|8,9 NA|10,12 NA|13,15 NA|16,18 NA|3,7 adverse drug reaction
+0,2 NA|3,4 NA|6,7 NA|5,7 NA|8,9 NA|10,12 NA|13,15 NA|16,18 NA|3,7 adverse-drug-reaction
+0,2 NA|3,4 NA|6,7 NA|5,7 NA|8,9 NA|10,12 NA|13,15 NA|16,18 NA|3,7 adverse-drug-reaction
 
 I had a LAD artery 100 % blocked a couple years ago and suffered a miocardial infarction .
 
@@ -1891,16 +1891,16 @@ NEVER again ! .
 
 
 Stated with joint and pain and muscle weakness , depression , fatigue and cramps .
-2,3 NA|4,5 NA|6,8 NA|9,10 NA|11,12 NA|13,14 NA|2,5 adverse drug reaction
-2,3 NA|4,5 NA|6,8 NA|9,10 NA|11,12 NA|13,14 NA|2,5 adverse drug reaction
+2,3 NA|4,5 NA|6,8 NA|9,10 NA|11,12 NA|13,14 NA|2,5 adverse-drug-reaction
+2,3 NA|4,5 NA|6,8 NA|9,10 NA|11,12 NA|13,14 NA|2,5 adverse-drug-reaction
 
 At each annual visit to the Dr I would tell him my symptoms and mention I thought it was the Lipitor , He waould always say no way and I need to continue the statin drug .
 
 
 
 My symptoms gradualy got worse over the next 5 - 6 years , currently I have muscle twitching in both arms , loss of muscle mass in arms , hands and face with slurred speech .
-16,21 NA|22,28 NA|22,27 NA|31,32 NA|22,27 NA|29,30 NA|33,35 NA|22,32 adverse drug reaction|23,32 adverse drug reaction|24,32 adverse drug reaction|25,32 adverse drug reaction|26,32 adverse drug reaction|22,30 adverse drug reaction|23,30 adverse drug reaction|24,30 adverse drug reaction|25,30 adverse drug reaction|26,30 adverse drug reaction
-16,21 NA|22,28 NA|22,27 NA|31,32 NA|22,27 NA|29,30 NA|33,35 NA|22,32 adverse drug reaction|22,30 adverse drug reaction
+16,21 NA|22,28 NA|22,27 NA|31,32 NA|22,27 NA|29,30 NA|33,35 NA|22,32 adverse-drug-reaction|23,32 adverse-drug-reaction|24,32 adverse-drug-reaction|25,32 adverse-drug-reaction|26,32 adverse-drug-reaction|22,30 adverse-drug-reaction|23,30 adverse-drug-reaction|24,30 adverse-drug-reaction|25,30 adverse-drug-reaction|26,30 adverse-drug-reaction
+16,21 NA|22,28 NA|22,27 NA|31,32 NA|22,27 NA|29,30 NA|33,35 NA|22,32 adverse-drug-reaction|22,30 adverse-drug-reaction
 
 Took myself off the lipitor a year ago .
 
@@ -1947,8 +1947,8 @@ Anyone with simular symptoms or coments please e - mail .
 
 
 Most of the side effects everyone else has : weak legs , muscle and back soreness , ears ringing , feel bad , all usually in the mornings .
-9,11 NA|12,13 NA|15,16 NA|14,16 NA|17,19 NA|20,22 NA|12,16 adverse drug reaction
-9,11 NA|12,13 NA|15,16 NA|14,16 NA|17,19 NA|20,22 NA|12,16 adverse drug reaction
+9,11 NA|12,13 NA|15,16 NA|14,16 NA|17,19 NA|20,22 NA|12,16 adverse-drug-reaction
+9,11 NA|12,13 NA|15,16 NA|14,16 NA|17,19 NA|20,22 NA|12,16 adverse-drug-reaction
 
 However , it lowered my cholesterol , tryglycerides , and blood pressure , along with a lot of exercising .
 
@@ -2099,8 +2099,8 @@ not for all .
 
 
 Very severe pain in arms , knees , hands .
-0,4 NA|6,7 NA|0,4 NA|8,9 NA|0,5 NA|0,7 adverse drug reaction|1,7 adverse drug reaction|2,7 adverse drug reaction|3,7 adverse drug reaction|0,9 adverse drug reaction|1,9 adverse drug reaction|2,9 adverse drug reaction|3,9 adverse drug reaction
-0,4 NA|6,7 NA|0,4 NA|8,9 NA|0,5 NA|0,7 adverse drug reaction|0,9 adverse drug reaction
+0,4 NA|6,7 NA|0,4 NA|8,9 NA|0,5 NA|0,7 adverse-drug-reaction|1,7 adverse-drug-reaction|2,7 adverse-drug-reaction|3,7 adverse-drug-reaction|0,9 adverse-drug-reaction|1,9 adverse-drug-reaction|2,9 adverse-drug-reaction|3,9 adverse-drug-reaction
+0,4 NA|6,7 NA|0,4 NA|8,9 NA|0,5 NA|0,7 adverse-drug-reaction|0,9 adverse-drug-reaction
 
 Muscle weakness and overall weakness .
 0,2 NA|3,5 NA
@@ -2279,12 +2279,12 @@ It mellows me out a little but not too much .
 
 
 terrible muscle pain terrible mood changes could hardly walk or lift my arms .
-1,3 NA|4,6 NA|7,9 NA|7,8 NA|10,13 NA|7,11 adverse drug reaction|7,12 adverse drug reaction|7,13 adverse drug reaction
-1,3 NA|4,6 NA|7,9 NA|7,8 NA|10,13 NA|7,13 adverse drug reaction
+1,3 NA|4,6 NA|7,9 NA|7,8 NA|10,13 NA|7,11 adverse-drug-reaction|7,12 adverse-drug-reaction|7,13 adverse-drug-reaction
+1,3 NA|4,6 NA|7,9 NA|7,8 NA|10,13 NA|7,13 adverse-drug-reaction
 
 stopped taking them 4 years ago and still suffer terrible muscle pain and wasting .
-10,11 NA|13,14 NA|10,12 NA|10,14 adverse drug reaction
-10,11 NA|13,14 NA|10,12 NA|10,14 adverse drug reaction
+10,11 NA|13,14 NA|10,12 NA|10,14 adverse-drug-reaction
+10,11 NA|13,14 NA|10,12 NA|10,14 adverse-drug-reaction
 
 i have set up a website for australians to connect who have been afflicted by this medication please come and join and unite in effort to educate the medical fraterity of their ignorance or denial http : / / australianstatinvictims . com / .
 
@@ -2339,8 +2339,8 @@ Having been on Lipitor for over one year , with a modest reduction in cholestero
 
 
 Approximately 4 months following my surgery , I developed an abrupt and chronic pain in my arms , hands and the back of my upper legs ( from buttocks to knees ) .
-13,15 NA|21,22 NA|13,17 NA|13,15 NA|24,26 NA|13,15 NA|18,19 NA|13,22 adverse drug reaction|14,22 adverse drug reaction|13,25 adverse drug reaction|13,26 adverse drug reaction|14,25 adverse drug reaction|14,26 adverse drug reaction|13,19 adverse drug reaction|14,19 adverse drug reaction
-13,15 NA|21,22 NA|13,17 NA|13,15 NA|24,26 NA|13,15 NA|18,19 NA|13,22 adverse drug reaction|13,26 adverse drug reaction|13,19 adverse drug reaction
+13,15 NA|21,22 NA|13,17 NA|13,15 NA|24,26 NA|13,15 NA|18,19 NA|13,22 adverse-drug-reaction|14,22 adverse-drug-reaction|13,25 adverse-drug-reaction|13,26 adverse-drug-reaction|14,25 adverse-drug-reaction|14,26 adverse-drug-reaction|13,19 adverse-drug-reaction|14,19 adverse-drug-reaction
+13,15 NA|21,22 NA|13,17 NA|13,15 NA|24,26 NA|13,15 NA|18,19 NA|13,22 adverse-drug-reaction|13,26 adverse-drug-reaction|13,19 adverse-drug-reaction
 
 After two MRI ' s and EMG and blood and urine analyisis reviewed by a Neurologist with negative and / or normal results , I self - diagnosed having read numerous patient complaints mirroring my symptoms and reading a cautionary warning to physicians to consider taking their patients off Lipitor when the patient was scheduled for major surgery ( www . drug . com ) .
 
@@ -2383,8 +2383,8 @@ dizzines dioreah stomach cramps disorientation .
 0,1 NA|1,2 NA|2,4 NA|4,5 NA
 
 followed by ulceration of the osophragus , and stomach , and possibly the gut .
-2,6 NA|2,4 NA|8,9 NA|2,9 adverse drug reaction|3,9 adverse drug reaction
-2,6 NA|2,4 NA|8,9 NA|2,9 adverse drug reaction
+2,6 NA|2,4 NA|8,9 NA|2,9 adverse-drug-reaction|3,9 adverse-drug-reaction
+2,6 NA|2,4 NA|8,9 NA|2,9 adverse-drug-reaction
 
 Prone to infections especially of the blader .
 
@@ -2399,8 +2399,8 @@ Talked myself out of the side effects , until they frightened me .
 
 
 Now I dont know how I am going to get back to work , it has left me feeling exausted , and depressed .
-18,19 NA|22,23 NA|18,20 NA|18,23 adverse drug reaction
-18,19 NA|22,23 NA|18,20 NA|18,23 adverse drug reaction
+18,19 NA|22,23 NA|18,20 NA|18,23 adverse-drug-reaction
+18,19 NA|22,23 NA|18,20 NA|18,23 adverse-drug-reaction
 
 Weak muscles .
 0,2 NA
@@ -2467,8 +2467,8 @@ There is not a day that goes by where I am not in pain .
 13,14 NA
 
 My muscles in my arms and legs are very weak .
-1,2 NA|9,10 NA|1,10 adverse drug reaction
-1,2 NA|9,10 NA|1,10 adverse drug reaction
+1,2 NA|9,10 NA|1,10 adverse-drug-reaction
+1,2 NA|9,10 NA|1,10 adverse-drug-reaction
 
 I am 31 years old with 3 kids ages 5 , 8 and 11 .
 
@@ -2487,8 +2487,8 @@ Please please think twice about using this and other statin drugs .
 
 
 Terrible first of all I had diarrhoea my doseage was increased to 75 and a few days ago my feet and ankles started swelling up .
-6,7 NA|19,20 NA|23,24 NA|21,22 NA|23,24 NA|19,24 adverse drug reaction|21,24 adverse drug reaction
-6,7 NA|19,20 NA|23,24 NA|21,22 NA|23,24 NA|19,24 adverse drug reaction|21,24 adverse drug reaction
+6,7 NA|19,20 NA|23,24 NA|21,22 NA|23,24 NA|19,24 adverse-drug-reaction|21,24 adverse-drug-reaction
+6,7 NA|19,20 NA|23,24 NA|21,22 NA|23,24 NA|19,24 adverse-drug-reaction|21,24 adverse-drug-reaction
 
 I went to my GP and the results of my blood test showed there was something wrong with my liver and I am a non - drinker .
 16,20 NA
@@ -2787,8 +2787,8 @@ Experiencing fatigue , lightheaded and weakness .
 1,2 NA|3,4 NA|5,6 NA
 
 Hip , back and leg pain .
-0,1 NA|5,6 NA|2,3 NA|5,6 NA|4,6 NA|0,6 adverse drug reaction|2,6 adverse drug reaction
-0,1 NA|5,6 NA|2,3 NA|5,6 NA|4,6 NA|0,6 adverse drug reaction|2,6 adverse drug reaction
+0,1 NA|5,6 NA|2,3 NA|5,6 NA|4,6 NA|0,6 adverse-drug-reaction|2,6 adverse-drug-reaction
+0,1 NA|5,6 NA|2,3 NA|5,6 NA|4,6 NA|0,6 adverse-drug-reaction|2,6 adverse-drug-reaction
 
 Along with a tennis elbow type pain that runs down into my hand .
 3,7 NA
@@ -2819,8 +2819,8 @@ I do not advise anyone to take it as there are many adverse side effects .
 
 
 blurred vision , muscle pain and weakness , fatigue , loss of stamina .
-0,2 NA|3,4 NA|6,7 NA|3,5 NA|8,9 NA|10,13 NA|3,7 adverse drug reaction
-0,2 NA|3,4 NA|6,7 NA|3,5 NA|8,9 NA|10,13 NA|3,7 adverse drug reaction
+0,2 NA|3,4 NA|6,7 NA|3,5 NA|8,9 NA|10,13 NA|3,7 adverse-drug-reaction
+0,2 NA|3,4 NA|6,7 NA|3,5 NA|8,9 NA|10,13 NA|3,7 adverse-drug-reaction
 
 Within 2 days of stopping Lipitor I feel unbelievably better ! ! ! !
 
@@ -2835,8 +2835,8 @@ They snuck up on me insideously over a few months , so I mistakenly believed .
 
 
 muscle and joint pains - - particularly severe at night - - lasting even after stopping medication , although decreasing in severity .
-0,1 NA|3,4 NA|2,4 NA|0,4 adverse drug reaction
-0,1 NA|3,4 NA|2,4 NA|0,4 adverse drug reaction
+0,1 NA|3,4 NA|2,4 NA|0,4 adverse-drug-reaction
+0,1 NA|3,4 NA|2,4 NA|0,4 adverse-drug-reaction
 
 I ' m distressed that pain continues even after stopping the medication .
 5,6 NA
@@ -3135,8 +3135,8 @@ Reduced coccyx pain but the cramps and bloating were very uncomfortable .
 5,6 NA|7,8 NA
 
 Muscle & joint pain ; severe vision problems ; fibromyalgia numbness in limbs ; lupus .
-0,1 NA|3,4 NA|2,4 NA|5,8 NA|9,10 NA|10,13 NA|14,15 NA|0,4 adverse drug reaction
-0,1 NA|3,4 NA|2,4 NA|5,8 NA|9,10 NA|10,13 NA|14,15 NA|0,4 adverse drug reaction
+0,1 NA|3,4 NA|2,4 NA|5,8 NA|9,10 NA|10,13 NA|14,15 NA|0,4 adverse-drug-reaction
+0,1 NA|3,4 NA|2,4 NA|5,8 NA|9,10 NA|10,13 NA|14,15 NA|0,4 adverse-drug-reaction
 
 IF - 0 were a choice , that would have been my rating .
 
@@ -3295,8 +3295,8 @@ Muscle weakness , lack of concentration , joint pain , abnormal liver function ,
 0,2 NA|3,6 NA|7,9 NA|10,13 NA|18,20 NA
 
 I was living with the initial , common side effects , but after 2 years my fingertips got puffy and / or scaly .
-16,19 NA|16,17 NA|22,23 NA|16,23 adverse drug reaction
-16,19 NA|16,17 NA|22,23 NA|16,23 adverse drug reaction
+16,19 NA|16,17 NA|22,23 NA|16,23 adverse-drug-reaction
+16,19 NA|16,17 NA|22,23 NA|16,23 adverse-drug-reaction
 
 In a couple weeks the skin began to come off and the condition spread to the sides of my fingers and my palms .
 5,10 NA
@@ -3331,8 +3331,8 @@ I thought it was just the over 40 factor .
 
 
 But , I too have joint pain in my knees , hips , lower back , and shoulders .
-5,10 NA|5,9 NA|11,12 NA|5,9 NA|17,18 NA|5,9 NA|13,15 NA|5,12 adverse drug reaction|6,12 adverse drug reaction|7,12 adverse drug reaction|8,12 adverse drug reaction|5,18 adverse drug reaction|6,18 adverse drug reaction|7,18 adverse drug reaction|8,18 adverse drug reaction|5,14 adverse drug reaction|5,15 adverse drug reaction|6,14 adverse drug reaction|6,15 adverse drug reaction|7,14 adverse drug reaction|7,15 adverse drug reaction|8,14 adverse drug reaction|8,15 adverse drug reaction
-5,10 NA|5,9 NA|11,12 NA|5,9 NA|17,18 NA|5,9 NA|13,15 NA|5,12 adverse drug reaction|5,18 adverse drug reaction|5,15 adverse drug reaction
+5,10 NA|5,9 NA|11,12 NA|5,9 NA|17,18 NA|5,9 NA|13,15 NA|5,12 adverse-drug-reaction|6,12 adverse-drug-reaction|7,12 adverse-drug-reaction|8,12 adverse-drug-reaction|5,18 adverse-drug-reaction|6,18 adverse-drug-reaction|7,18 adverse-drug-reaction|8,18 adverse-drug-reaction|5,14 adverse-drug-reaction|5,15 adverse-drug-reaction|6,14 adverse-drug-reaction|6,15 adverse-drug-reaction|7,14 adverse-drug-reaction|7,15 adverse-drug-reaction|8,14 adverse-drug-reaction|8,15 adverse-drug-reaction
+5,10 NA|5,9 NA|11,12 NA|5,9 NA|17,18 NA|5,9 NA|13,15 NA|5,12 adverse-drug-reaction|5,18 adverse-drug-reaction|5,15 adverse-drug-reaction
 
 I have been having pain in my left thigh .
 4,9 NA
@@ -3399,8 +3399,8 @@ Don ' t recommend at all .
 
 
 Cramping and weariness of the leg muscles .
-0,1 NA|3,7 NA|2,7 NA|0,4 adverse drug reaction|0,5 adverse drug reaction|0,6 adverse drug reaction|0,7 adverse drug reaction
-0,1 NA|3,7 NA|2,7 NA|0,7 adverse drug reaction
+0,1 NA|3,7 NA|2,7 NA|0,4 adverse-drug-reaction|0,5 adverse-drug-reaction|0,6 adverse-drug-reaction|0,7 adverse-drug-reaction
+0,1 NA|3,7 NA|2,7 NA|0,7 adverse-drug-reaction
 
 Always tired .
 0,2 NA
@@ -3471,8 +3471,8 @@ i want to know does it helps for reducing Tryglycerides as well other then the c
 
 
 nausea , no sleep , bad dreams , muscle and joint pain , tiredness .
-0,1 NA|2,4 NA|5,7 NA|8,9 NA|11,12 NA|10,12 NA|13,14 NA|8,12 adverse drug reaction
-0,1 NA|2,4 NA|5,7 NA|8,9 NA|11,12 NA|10,12 NA|13,14 NA|8,12 adverse drug reaction
+0,1 NA|2,4 NA|5,7 NA|8,9 NA|11,12 NA|10,12 NA|13,14 NA|8,12 adverse-drug-reaction
+0,1 NA|2,4 NA|5,7 NA|8,9 NA|11,12 NA|10,12 NA|13,14 NA|8,12 adverse-drug-reaction
 
 There must be something better than this .
 
@@ -3483,8 +3483,8 @@ I am going to try POLICOSANOL .
 
 
 Constant stomach discomfort and pain , distension , gas , muscle aches , leg cramps .
-1,3 NA|1,2 NA|4,5 NA|6,7 NA|8,9 NA|10,12 NA|13,15 NA|1,5 adverse drug reaction
-1,3 NA|1,2 NA|4,5 NA|6,7 NA|8,9 NA|10,12 NA|13,15 NA|1,5 adverse drug reaction
+1,3 NA|1,2 NA|4,5 NA|6,7 NA|8,9 NA|10,12 NA|13,15 NA|1,5 adverse-drug-reaction
+1,3 NA|1,2 NA|4,5 NA|6,7 NA|8,9 NA|10,12 NA|13,15 NA|1,5 adverse-drug-reaction
 
 Experimentation with stopping the treatment for a few weeks brought relief .
 
@@ -3531,8 +3531,8 @@ I will say that there was no way any doctor could have known this would happen (
 
 
 My father could not speak for himself as his form of brain cancer was so aggressive that he went from a totally normal guy walking with a cane from initial neurological damage at inital dx for brain cancer to bedridden , unable to speak , feed himself , do anything for himself in 10 days .
-11,13 NA|30,32 NA|11,13 NA|39,40 NA|41,43 NA|45,47 NA|41,44 NA|41,46 adverse drug reaction|41,47 adverse drug reaction|42,46 adverse drug reaction|42,47 adverse drug reaction
-11,13 NA|30,32 NA|11,13 NA|39,40 NA|41,43 NA|45,47 NA|41,44 NA|41,47 adverse drug reaction
+11,13 NA|30,32 NA|11,13 NA|39,40 NA|41,43 NA|45,47 NA|41,44 NA|41,46 adverse-drug-reaction|41,47 adverse-drug-reaction|42,46 adverse-drug-reaction|42,47 adverse-drug-reaction
+11,13 NA|30,32 NA|11,13 NA|39,40 NA|41,43 NA|45,47 NA|41,44 NA|41,47 adverse-drug-reaction
 
 Don ' t know if this will really help anybody - - but just please be cautious with Rx medicines and advocate for yourself ; you may not know everthing , but you do know best about what you are experiencing with these Rxs .
 
@@ -3571,8 +3571,8 @@ Since taking Lipitor my hair has started falling out at an alarming rate .
 4,9 NA
 
 The thinning is most pronounced at the back and sides of my head so it ' s not conventional male pattern baldness .
-1,2 NA|5,13 NA|1,6 adverse drug reaction|1,7 adverse drug reaction|1,8 adverse drug reaction|1,9 adverse drug reaction|1,10 adverse drug reaction|1,11 adverse drug reaction|1,12 adverse drug reaction|1,13 adverse drug reaction
-1,2 NA|5,13 NA|1,13 adverse drug reaction
+1,2 NA|5,13 NA|1,6 adverse-drug-reaction|1,7 adverse-drug-reaction|1,8 adverse-drug-reaction|1,9 adverse-drug-reaction|1,10 adverse-drug-reaction|1,11 adverse-drug-reaction|1,12 adverse-drug-reaction|1,13 adverse-drug-reaction
+1,2 NA|5,13 NA|1,13 adverse-drug-reaction
 
 Lipitor has certainly lowered by cholesterol but I ' ve stopped taking it after 9 months .
 
@@ -3583,8 +3583,8 @@ The stress caused by losing my hair in this way will probably do me more harm th
 4,7 NA
 
 Aching weakness in legs back and shoulders .
-0,1 NA|2,4 NA|1,3 NA|6,7 NA|1,3 NA|4,5 NA|1,4 NA|0,3 adverse drug reaction|0,4 adverse drug reaction|1,7 adverse drug reaction|2,7 adverse drug reaction|1,5 adverse drug reaction|2,5 adverse drug reaction
-0,1 NA|2,4 NA|1,3 NA|6,7 NA|1,3 NA|4,5 NA|1,4 NA|0,4 adverse drug reaction|1,7 adverse drug reaction|1,5 adverse drug reaction
+0,1 NA|2,4 NA|1,3 NA|6,7 NA|1,3 NA|4,5 NA|1,4 NA|0,3 adverse-drug-reaction|0,4 adverse-drug-reaction|1,7 adverse-drug-reaction|2,7 adverse-drug-reaction|1,5 adverse-drug-reaction|2,5 adverse-drug-reaction
+0,1 NA|2,4 NA|1,3 NA|6,7 NA|1,3 NA|4,5 NA|1,4 NA|0,4 adverse-drug-reaction|1,7 adverse-drug-reaction|1,5 adverse-drug-reaction
 
 Side effects subsided after lipitor stopped .
 
@@ -3599,8 +3599,8 @@ First I was having cramps in my fingers , which is now not apparent .
 4,8 NA
 
 Recently my eyesight is not good , very blurry and my back pain has increased .
-2,3 NA|7,9 NA|11,13 NA|2,8 adverse drug reaction|2,9 adverse drug reaction
-2,3 NA|7,9 NA|11,13 NA|2,9 adverse drug reaction
+2,3 NA|7,9 NA|11,13 NA|2,8 adverse-drug-reaction|2,9 adverse-drug-reaction
+2,3 NA|7,9 NA|11,13 NA|2,9 adverse-drug-reaction
 
 My shoulders are inflammed and I am now going to the physiotherapist .
 1,4 NA
@@ -3679,8 +3679,8 @@ lowered .
 
 
 Muscle aches in arms and chest .
-0,3 NA|5,6 NA|0,4 NA|0,6 adverse drug reaction|1,6 adverse drug reaction|2,6 adverse drug reaction
-0,3 NA|5,6 NA|0,4 NA|0,6 adverse drug reaction
+0,3 NA|5,6 NA|0,4 NA|0,6 adverse-drug-reaction|1,6 adverse-drug-reaction|2,6 adverse-drug-reaction
+0,3 NA|5,6 NA|0,4 NA|0,6 adverse-drug-reaction
 
 It worked and got my cholestrol down to normal , a drop of 60 points in three months .
 
@@ -3703,12 +3703,12 @@ The product should be removed from the market for further evaluation .
 
 
 muscle spasms and pain , joint pain , headaches , memory loss , skin rash , depression , insomnia .
-0,2 NA|0,1 NA|3,4 NA|5,7 NA|8,9 NA|10,12 NA|13,15 NA|16,17 NA|18,19 NA|0,4 adverse drug reaction
-0,2 NA|0,1 NA|3,4 NA|5,7 NA|8,9 NA|10,12 NA|13,15 NA|16,17 NA|18,19 NA|0,4 adverse drug reaction
+0,2 NA|0,1 NA|3,4 NA|5,7 NA|8,9 NA|10,12 NA|13,15 NA|16,17 NA|18,19 NA|0,4 adverse-drug-reaction
+0,2 NA|0,1 NA|3,4 NA|5,7 NA|8,9 NA|10,12 NA|13,15 NA|16,17 NA|18,19 NA|0,4 adverse-drug-reaction
 
 Although I complained to my doctor about the muscle and joint pain she insisted that I needed to take it so the fat would get out of my liver since my liver enzymes were elevated .
-8,9 NA|11,12 NA|10,12 NA|8,12 adverse drug reaction
-8,9 NA|11,12 NA|10,12 NA|8,12 adverse drug reaction
+8,9 NA|11,12 NA|10,12 NA|8,12 adverse-drug-reaction
+8,9 NA|11,12 NA|10,12 NA|8,12 adverse-drug-reaction
 
 neck pain / back spasms / foggy thinking / insomnia .
 0,2 NA|3,5 NA|6,8 NA|9,10 NA
@@ -3867,8 +3867,8 @@ I was on Lipitor for 3 years with no problems .
 
 
 Then I sated having hip / leg / foot pain and numbness .
-4,5 NA|9,10 NA|6,7 NA|9,10 NA|8,10 NA|11,12 NA|4,10 adverse drug reaction|6,10 adverse drug reaction
-4,5 NA|9,10 NA|6,7 NA|9,10 NA|8,10 NA|11,12 NA|4,10 adverse drug reaction|6,10 adverse drug reaction
+4,5 NA|9,10 NA|6,7 NA|9,10 NA|8,10 NA|11,12 NA|4,10 adverse-drug-reaction|6,10 adverse-drug-reaction
+4,5 NA|9,10 NA|6,7 NA|9,10 NA|8,10 NA|11,12 NA|4,10 adverse-drug-reaction|6,10 adverse-drug-reaction
 
 It finally go so bad that I could not sleep lying down .
 
@@ -3987,8 +3987,8 @@ Man I get up and I can hardly walk .
 6,9 NA
 
 Stiffness in my feet , and Leg Joint .
-0,4 NA|0,2 NA|6,8 NA|0,7 adverse drug reaction|0,8 adverse drug reaction|1,7 adverse drug reaction|1,8 adverse drug reaction
-0,4 NA|0,2 NA|6,8 NA|0,8 adverse drug reaction
+0,4 NA|0,2 NA|6,8 NA|0,7 adverse-drug-reaction|0,8 adverse-drug-reaction|1,7 adverse-drug-reaction|1,8 adverse-drug-reaction
+0,4 NA|0,2 NA|6,8 NA|0,8 adverse-drug-reaction
 
 Dr has done X - Ray and everything .
 
@@ -4011,8 +4011,8 @@ Im going to show this website to my GP ! .
 
 
 I experienced severe pain in my left shoulder and neck .
-3,5 NA|9,10 NA|3,5 NA|7,8 NA|3,10 adverse drug reaction|4,10 adverse drug reaction|3,8 adverse drug reaction|4,8 adverse drug reaction
-3,5 NA|9,10 NA|3,5 NA|7,8 NA|3,10 adverse drug reaction|3,8 adverse drug reaction
+3,5 NA|9,10 NA|3,5 NA|7,8 NA|3,10 adverse-drug-reaction|4,10 adverse-drug-reaction|3,8 adverse-drug-reaction|4,8 adverse-drug-reaction
+3,5 NA|9,10 NA|3,5 NA|7,8 NA|3,10 adverse-drug-reaction|3,8 adverse-drug-reaction
 
 Unable to raise my left arm .
 0,6 NA
@@ -4075,8 +4075,8 @@ Stopped taking & contacted doctor .
 
 
 EXTREME AND EXCRUCIATING MUSCLE PAIN IN SHOULDERS , NECK AND HIP .
-3,6 NA|10,11 NA|3,7 NA|3,6 NA|8,9 NA|3,11 adverse drug reaction|4,11 adverse drug reaction|5,11 adverse drug reaction|3,9 adverse drug reaction|4,9 adverse drug reaction|5,9 adverse drug reaction
-3,6 NA|10,11 NA|3,7 NA|3,6 NA|8,9 NA|3,11 adverse drug reaction|3,9 adverse drug reaction
+3,6 NA|10,11 NA|3,7 NA|3,6 NA|8,9 NA|3,11 adverse-drug-reaction|4,11 adverse-drug-reaction|5,11 adverse-drug-reaction|3,9 adverse-drug-reaction|4,9 adverse-drug-reaction|5,9 adverse-drug-reaction
+3,6 NA|10,11 NA|3,7 NA|3,6 NA|8,9 NA|3,11 adverse-drug-reaction|3,9 adverse-drug-reaction
 
 HAS TAKEN 5 MONTHS OFF THIS HORRIBLE DRUG TO BE ABLE TO EVEN LIFT MY ARMS .
 
@@ -4275,8 +4275,8 @@ I cut dose again in half and am taking only 5 mg .
 
 
 Now after one week I notice that hip does not hurt any more .
-7,8 NA|10,11 NA|7,11 adverse drug reaction
-7,8 NA|10,11 NA|7,11 adverse drug reaction
+7,8 NA|10,11 NA|7,11 adverse-drug-reaction
+7,8 NA|10,11 NA|7,11 adverse-drug-reaction
 
 the first pill i took it caused severe abdominal pain but after taking the first one it never did that again , but recently i ' ve been feeling like my stomach is full and empty at the same time hard to explain but thats what it felt like , and also have been getting bruises allover my body due to this drug , other than that my back is back to normal now and i am back at work .
 7,10 NA|28,40 NA|55,56 NA
@@ -4291,8 +4291,8 @@ Been taking Lipitor for two years .
 
 
 The last few days I have experienced swollen legs and ankles and a pain in my lower leg making it hard to get around .
-7,9 NA|7,8 NA|10,11 NA|13,18 NA|7,11 adverse drug reaction
-7,9 NA|7,8 NA|10,11 NA|13,18 NA|7,11 adverse drug reaction
+7,9 NA|7,8 NA|10,11 NA|13,18 NA|7,11 adverse-drug-reaction
+7,9 NA|7,8 NA|10,11 NA|13,18 NA|7,11 adverse-drug-reaction
 
 Thought it might be the Lipitor so I am going to the doctor in a few days .
 
@@ -4307,8 +4307,8 @@ After taking Crestor and having muscle pain and lack of control when standing in
 5,7 NA|8,11 NA
 
 I have had increasing non stop Pain in neck and back and now severe tingling and burning in hands and feet with itchy crawly feeling all over .
-6,9 NA|6,8 NA|10,11 NA|13,15 NA|16,17 NA|22,25 NA|6,11 adverse drug reaction|7,11 adverse drug reaction
-6,9 NA|6,8 NA|10,11 NA|13,15 NA|16,17 NA|22,25 NA|6,11 adverse drug reaction
+6,9 NA|6,8 NA|10,11 NA|13,15 NA|16,17 NA|22,25 NA|6,11 adverse-drug-reaction|7,11 adverse-drug-reaction
+6,9 NA|6,8 NA|10,11 NA|13,15 NA|16,17 NA|22,25 NA|6,11 adverse-drug-reaction
 
 My bad levels have decreased but now I am afraid I may have nerve damage or liver problems and after reading this sites comments will stop taking Lipitor .
 
@@ -4319,12 +4319,12 @@ Stopped because of HIGH CPK .
 3,5 NA
 
 My Liver blood test are also mildly elevated .
-1,4 NA|6,8 NA|1,7 adverse drug reaction|1,8 adverse drug reaction|2,7 adverse drug reaction|2,8 adverse drug reaction|3,7 adverse drug reaction|3,8 adverse drug reaction
-1,4 NA|6,8 NA|1,8 adverse drug reaction
+1,4 NA|6,8 NA|1,7 adverse-drug-reaction|1,8 adverse-drug-reaction|2,7 adverse-drug-reaction|2,8 adverse-drug-reaction|3,7 adverse-drug-reaction|3,8 adverse-drug-reaction
+1,4 NA|6,8 NA|1,8 adverse-drug-reaction
 
 I was in deniel that the statins would cause ME side effects - I have Terrible muscle and joint pain , Burning sensations in neck shoulders and upper chest .
-16,17 NA|19,20 NA|18,20 NA|21,24 NA|27,29 NA|21,24 NA|25,26 NA|21,25 NA|16,20 adverse drug reaction|21,28 adverse drug reaction|21,29 adverse drug reaction|22,28 adverse drug reaction|22,29 adverse drug reaction|23,28 adverse drug reaction|23,29 adverse drug reaction|21,26 adverse drug reaction|22,26 adverse drug reaction|23,26 adverse drug reaction
-16,17 NA|19,20 NA|18,20 NA|21,24 NA|27,29 NA|21,24 NA|25,26 NA|21,25 NA|16,20 adverse drug reaction|21,29 adverse drug reaction|21,26 adverse drug reaction
+16,17 NA|19,20 NA|18,20 NA|21,24 NA|27,29 NA|21,24 NA|25,26 NA|21,25 NA|16,20 adverse-drug-reaction|21,28 adverse-drug-reaction|21,29 adverse-drug-reaction|22,28 adverse-drug-reaction|22,29 adverse-drug-reaction|23,28 adverse-drug-reaction|23,29 adverse-drug-reaction|21,26 adverse-drug-reaction|22,26 adverse-drug-reaction|23,26 adverse-drug-reaction
+16,17 NA|19,20 NA|18,20 NA|21,24 NA|27,29 NA|21,24 NA|25,26 NA|21,25 NA|16,20 adverse-drug-reaction|21,29 adverse-drug-reaction|21,26 adverse-drug-reaction
 
 Palpatations .
 0,1 NA

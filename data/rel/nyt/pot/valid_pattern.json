@@ -46,9 +46,9 @@
         "r_place-founded",
         "r_major-shareholders",
         "r_major-shareholder-of",
-        "r_teams",
         "r_religion",
         "r_geographic-distribution",
+        "r_teams",
         "r_people",
         "r_ethnicity"
     ],
